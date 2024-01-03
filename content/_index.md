@@ -44,7 +44,7 @@ In winter, enjoy 180-degree south-facing panoramic views for miles across undeve
 
 #### Femme Osage Creek Bridge: The region's largest yard art
 
-From many areas of the yard and home, enjoy a commanding and intimate view of the [120+ year-old iron railroad bridge](https://bridgehunter.com/bridge/mo-st-charles-katy-trail-femme-osage-creek-bridge) over the Femme Osage Creek that is just ~250 feet away and ~60 feet below the main level of the home. You'll feel like you're on vacation whenever you see the bridge!
+From many areas of the yard and home, enjoy a commanding and intimate view of the 120+ year-old iron railroad bridge spanning the Femme Osage Creek that is just ~250 feet away and ~60 feet below the main level of the home. You'll feel like you're on vacation whenever you see the bridge!
 
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/bridge-spring-2.jpeg" caption="Bluff top view of 120-year-old iron railroad bridge on Katy trail" >}}
