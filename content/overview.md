@@ -11,7 +11,7 @@ type: docs
 |Exterior walls|Upgraded 2" x 6"|
 |Ceilings|9' throughout|
 |Lower level|Walkout with expansive south facing windows|
-|Roof overhangs|2' to reduce sun in Summer|
+|Roof overhangs|24" to reduce sun impact in Summer and enhance aesthetics|
 {.table}
 
 Take advantage of already approved county variance to build your own detached accessory structure/garage on the property.
@@ -21,8 +21,8 @@ Take advantage of already approved county variance to build your own detached ac
 | | |
 |-|-|
 |Siding|Hardie fiber cement siding, gable shingles, and trim|
-|Exterior color|... Exterior painted in 2022|
-|Roof|... Replaced in 2021|
+|Exterior paint|Newly painted in Q3 2022|
+|Roof|Replaced in 2021|
 |Gutters|Oversized 6" aluminum|
 |Gutter guards|Stainless steel mesh throughout|
 |Drainage|Underground gutter drains|
