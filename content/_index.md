@@ -23,7 +23,7 @@ modules: ["leaflet"]
 
 ## Desirable Defiance area of St Louis
 
-Don't miss this opportunity to own a unique 5.25-acre parcel and custom home in the desirable Defiance area of the St Louis, Missouri region. 
+Don't miss this opportunity to own a unique 5.25-acre property and custom home in the desirable Defiance area of the St Louis, Missouri region. 
 
 {{< map lat=38.651210994217436 long=-90.76545807927727 zoom=11 popup="2232 S Hwy 94 Defiance 63341" popup-lat=38.651210994217436 popup-long=-90.76545807927727 >}}
 {{< button tooltip="View in Google Maps" href="https://maps.app.goo.gl/r2iyJDiHmSy9haov9" >}}
