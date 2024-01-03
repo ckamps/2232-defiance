@@ -1,0 +1,45 @@
+main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+
+  - identifier: overview
+    name: Overview
+    url: /overview/
+    weight: 20
+
+  - identifier: main-level
+    name: Main Level
+    url: /main-level/
+    weight: 30
+
+  - identifier: lower-level
+    name: Lower Level
+    url: /lower-level/
+    weight: 40
+
+  - identifier: garage
+    name: Garage
+    url: /garage/
+    weight: 50
+
+  - identifier: property
+    name: Property
+    url: /property-info/
+    weight: 60
+        
+  - identifier: recreation
+    name: Recreation
+    url: /recreation/
+    weight: 70
+
+  - identifier: area
+    name: Defiance Area
+    url: /area/
+    weight: 80
+
+  - identifier: contact
+    name: Contact
+    url: /contact/
+    weight: 90

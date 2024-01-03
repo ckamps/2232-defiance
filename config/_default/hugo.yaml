@@ -1,0 +1,22 @@
+title: Defiance Home
+description: 'Home for sale in Defiance Missouri'
+
+baseurl: 'https://defiancehome.com'
+
+copyright: Copyright © 2024 Kampfire Technologies
+
+enablerobotstxt: true
+languagecode: en-us
+canonifyurls: false
+enableinlineshortcodes: true
+timezone: America/Chicago
+
+module:
+  imports:
+    - path: github.com/gethinode/hinode
+    - path: github.com/gethinode/mod-bootstrap
+    - path: github.com/gethinode/mod-fontawesome
+    - path: github.com/gethinode/mod-leaflet
+  mounts:
+    - source: static/images
+      target: assets/img
