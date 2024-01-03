@@ -60,11 +60,11 @@ Custom built in 2006 with a classic arts and crafts exterior and seven gables, t
 
 With over 400 feet of frontage on the [Katy Trail State Park](https://mostateparks.com/park/katy-trail-state-park), the longest developed rail-trail in the country, you'll have private access to over 240 miles of trail. Great for walking, running, and biking, the trail provides ready access to nearby wineries, restaurants, and other parks in the Defiance and Augusta. Venture further afield, and you can use the Katy trail to ride to old town St Charles, Chesterfield Valley, Washington, Missouri, and beyond.
 
-From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to [Defiance Ridge Vineyards](https://www.defianceridgevineyards.com/) and [Good News Brewery](https://www.goodnewsbrewing.com/) in Defiance. The jewel of [Klondike Park](https://www.sccmo.org/690/Klondike-Park) is just a 20-minute bike ride away while the wineries and restaurants of [Augusta](https://www.townofaugustamo.org/) are only 40 minutes by trail.
+From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to [Defiance Ridge Vineyards](https://www.defianceridgevineyards.com/) and [Good News Brewery](https://www.goodnewsbrewing.com/) in Defiance. The jewel of [Klondike Park](https://www.sccmo.org/690/Klondike-Park) is just a 20-minute bike ride away while the wineries and restaurants of [Augusta](https://www.townofaugustamo.org/) are only 40 minutes by trail. 
 
 ## Private Femme Osage Creek frontage and access to the Missouri River
 
-Use your private dock on over 260 feet of the [Femme Osage Creek](https://www.anyplaceamerica.com/directory/mo/st-charles-county-29183/streams/femme-osage-creek-756042/) to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling down the Femme Osage prior to the confluence with the Missouri River.
+Use your private dock on over 260 feet of [Femme Osage Creek](https://www.anyplaceamerica.com/directory/mo/st-charles-county-29183/streams/femme-osage-creek-756042/) to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling down the Femme Osage prior to the confluence with the Missouri River.
 
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/femme-osage-paddle-boarding-evening.jpeg" caption="Paddling on Femme Osage Creek">}}

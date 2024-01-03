@@ -20,3 +20,9 @@ module:
   mounts:
     - source: static/images
       target: assets/img
+
+deployment:
+  targets:
+    - name: production
+      URL: s3://defiancehome-com?region=us-east-1
+      cloudFrontDistributionID:	E27WOJ1ENY5GKJ

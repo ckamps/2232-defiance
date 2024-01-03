@@ -27,7 +27,11 @@ jobs:
           role-to-assume: arn:aws:iam::052490168305:role/kampmeier-2232-defiance-web-site-publishing
           role-session-name: GitHub_to_AWS_via_FederatedOIDC
           aws-region: ${{ env.AWS_REGION }}
-      # Hello from AWS: WhoAmI
-      - name: Sts GetCallerIdentity
-        run: |
-          aws sts get-caller-identity
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.63.2'
+      - name: Build
+        run: hugo --minify
+      - name: Deploy to S3
+        run: hugo deploy --force --maxDeletes -1 --invalidateCDN
