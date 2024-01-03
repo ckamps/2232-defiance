@@ -30,9 +30,9 @@ Don't miss this opportunity to own a unique 5.25-acre property and custom home i
     View in Google Maps
 {{< /button >}}
 
-## Isolated From Neighboring Properties Yet Within Easy Access to Area Services
+## Buffered From Neighbors Yet Within Easy Access to Area Services
 
-Bordered on three sides by dense woods and river bluff buffs and two sides by the Katy Trail State Park and the Femme Osage Creek, the property provides highly sought after desirable isolation. At the same time, you're only a 20-minute drive from a wide variety of services in Chesterfield Valley, O'Fallon, and Lake St Louis.
+Bordered on three sides by dense woods and river bluff buffs and two sides by the Katy Trail State Park and the Femme Osage Creek, the property provides highly sought after isolation. At the same time, you're only a 20-minute drive from a wide variety of services in Chesterfield Valley, O'Fallon, and Lake St Louis.
 
 ## Gateway to Missouri wine country
 
