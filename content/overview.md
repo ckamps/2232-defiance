@@ -33,12 +33,12 @@ Take advantage of already approved county variance to build your own detached ac
 
 | | |
 |-|-|
-|HVAC|Tri-zone geothermal HVAC: Main living, main bedrooms, and lower level|
+|HVAC|Three-zone single geothermal HVAC unit with vertical wells. Zones: Main living, main bedrooms, and lower level. No noisy outside air conditioning unit. |
 |Water heater|LP gas nn gallon|
-|ERV|Whole-house Energy Recovery Ventilator (ERV) - exchanges outside and inside air - used through the year|
-|Dehumidifier|Whole-house dehumidifier for summer|
-|Humidifier|Whole-house steam humidifier for winter|
-|Ceiling fans|Casablanca Panama converted to smart switches|
+|ERV|Whole-house Energy Recovery Ventilator (ERV). Exchanges inside air with fresh outside air. Used throughout the year.|
+|Dehumidifier|Whole-house dehumidifier for summer months.|
+|Humidifier|Whole-house steam humidifier for winter months.|
+|Ceiling fans|Casablanca Panama fans with modern smart switches|
 |Lighting|LED throughout|
 {.table}
 
