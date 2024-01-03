@@ -20,6 +20,11 @@ nn’ x nn’ home theater room
 
 ## Full Bath
 
+* Extra height glass shower door
+* Dual sinks with marble counter
+* Closet for towels
+* Private water closet/toilet room
+
 ## Bedroom
 
 ## Storage
