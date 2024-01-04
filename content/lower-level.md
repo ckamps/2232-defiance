@@ -86,4 +86,6 @@ Part of the main room.
 
 ## Bedroom
 
-## Storage
+## Partially Finished Utility Rooms
+
+## Storage and Mechanical Rooms
