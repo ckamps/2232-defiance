@@ -11,7 +11,7 @@ type: docs
 |Ceiling height|11 foot 6 inch celing|
 |Walls and ceiling|Fully finished walls and ceiling|
 |Attic storage|nn foot wide x 6 foot tall attic storage accessible via heavy duty expansion ladder|
-|Lighting|LED flat panel, dimmable ceiling lights controlled by smart switch|
+|Ceiling lights|LED flat panel ceiling lights dimmanble with 3 levels of temperature settings. Smart switch controlled to enable automation and voice control.|
 |Floor|Epoxy coated|
 |Future car lift|Largest stall has extra depth concrete floor to help support future car lift|
 {.table}
@@ -23,7 +23,7 @@ type: docs
 |Garage doors 1 and 2|Over size 10 foot wide x 9 foot tall|
 |Garage door 3|Over size 12 foot wide x 9 foot tall (sufficient framing height exists to enable future height extension)|
 |Style|Color coordinated, multi-panel [Clopay Coachman](https://www.clopaydoor.com/coachman) steel insulated doors with exterior wood grain texture and top windows| 
-|Automation|Smart home connected for control and monitoring via Apple Home, Alexa, etc|
+|Automation|In addition to traditional door controls (wall, in car), the garage door openers are smart home connected for remnote control and monitoring via Apple Home, Siri, Alexa, etc|
 {.table}
 
 ## Built-in Cabinets and Shelving
