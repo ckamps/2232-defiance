@@ -56,11 +56,11 @@ Part of the main room.
 |Carpeting|Aids in sound absorption|
 |Acoustic wall panels|13 sound absorbing acoustic panels color matched with walls|
 |Ceiling|Black grid ceiling for easy access to mechanicals and wiring|
-|Projector|Ceiling mounted Sony HD / 3D projector|
-|Subwoofer|...|
-|Center channel speaker|...|
-|Front speakers|...|
-|Side and rear speakers|...|
+|Projector|Ceiling mounted Sony HW55ES HD / 3D projector|
+|Subwoofer|SVS SB-2000|
+|Center channel speaker|Klipsch RC-52|
+|Front speakers|Klipsch RF-62 floor standing speakers (2 quantity)|
+|Side and rear speakers|Klipsch RS-42 surround speakers (4 quantity)|
 |A/V rack|In wall A/V rack with easy rear access from unfinished area|
 |A/V receiver|...|
 |Apple TV|...|
