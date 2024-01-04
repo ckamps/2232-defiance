@@ -56,6 +56,17 @@ Take advantage of already approved county variance to build your own detached ac
 |Water heater|Bradford White Hydrojet LP gas 75 gallon water heater installed in late 2018|
 |Water heater pre-heat tank|Geothermal HVAC unit is connected to Rheem 50 gallon water heater to use excess HVAC heat to pre-heat domestic water upostream of LP gas water heater|
 
+## Electrical
+
+| | |
+|-|-|
+|Garage panel|...|
+|Lower level panel|...|
+|Spa hookup|...|
+|Service to lower land|...|
+|Switches|...|
+|Wall plates|...|
+
 ## Doors and Windows
 
 ### Interior Doors
