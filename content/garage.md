@@ -7,7 +7,7 @@ type: docs
 
 | | |
 |-|-|
-|Size|Oversize 48 foot wide x 30 foot deep 3-car garage with 3 separate garage doors|
+|Footprint|Oversize 48 foot wide x 30 foot deep 3-car garage with 3 separate garage doors|
 |Ceiling height|11 foot|
 |Walls and ceiling|Fully finished walls and ceiling|
 |Attic storage|nn foot wide x 6 foot tall attic storage accessible via heavy duty expansion ladder|
@@ -20,8 +20,8 @@ type: docs
 
 | | |
 |-|-|
-|Garage Doors 1 and 2|10 foot wide x 9 foot tall|
-|Garage Door 3|12 foot wide x 9 foot tall (sufficient framing height exists to enable future height extension)|
+|Garage doors 1 and 2|10 foot wide x 9 foot tall|
+|Garage door 3|12 foot wide x 9 foot tall (sufficient framing height exists to enable future height extension)|
 |Insulation|Insulated garage doors|
 |Automation|Garage doors are connected to smart home and can be controlled via Apple Home, Alexa, etc|
 {.table}
@@ -35,15 +35,15 @@ type: docs
 |Paddle board rack|Accomodates up to 4 paddle boards|
 {.table}
 
-## Air Compressor
+## Air Compressor and Electric
 
 Take advantage of the hidden large volume air compressor to easily and quikly inflate tires and other inflatables.
 
 | | |
 |-|-|
-|Air Compressor|nn gallon electric air compressor mounted out of the way in the attic storage area|
-|Air Hose|Ceiling mounted retractable air supply hose|
-|Electric Extension Cord|12AWG 65 foot retractable electric extension cord|
+|Air compressor|nn gallon electric air compressor mounted out of the way in the attic storage area|
+|Air hose|Ceiling mounted retractable air supply hose|
+|Electric extension cord|Wall mounted 12AWG 65 foot retractable electric extension cord|
 {.table}
 
 ## Water and Sink
@@ -58,10 +58,10 @@ Take advantage of the hidden large volume air compressor to easily and quikly in
 
 | | |
 |-|-|
-|Network Rack|Wall mounted enclosed networking rack houses home internet modem, network switch for PoE cameras, and garage A/V components|
-|Wireless Network|PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point|
+|Network rack|Wall mounted enclosed networking rack houses home internet modem, network switch for PoE cameras, and garage A/V components|
+|Wireless network|PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point|
 |Speakers|Wall mounted Klipsch AW-650 Indoor/Outdoor 8 inch speakers|
 |Apple TV|...|
-|A/V Receiver|Yamaha RX-... A/V receiver powers speakers and connects to Apple TV and wall mounted TV|
+|A/V receiver amplifier|Yamaha RX-... A/V receiver powers speakers and connects to Apple TV and wall mounted TV|
 |Wall mount TV|nn inch ... TV|
 {.table}
