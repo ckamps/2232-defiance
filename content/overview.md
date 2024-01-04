@@ -47,6 +47,14 @@ Take advantage of already approved county variance to build your own detached ac
 |Lighting|LED throughout|
 {.table}
 
+## Water Service
+
+| | |
+|-|-|
+|Water|Municipal water supply service|
+|Water pressure regulator|Helps reduce the substantial pressure of the main service line|
+|Water softener|Whole house water softener delivers conditioned water to select faucets and laundry|
+
 ## Doors and Windows
 
 ### Interior Doors
