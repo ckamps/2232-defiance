@@ -9,7 +9,7 @@ type: docs
 |-|-|
 |Build year|2006|
 |Exterior walls|Upgraded 2"x6" (typical is 2"x4")|
-|Ceilings|9 foot ceilings on main floor. 11 foot 6 inch celing in garage.|
+|Ceilings|9 foot+ ceilings on main floor. 11 foot 6 inch celing in garage.|
 |Foundation|Generous 10 foot foundation wall height|
 |Lower level|Walkout with expansive south-facing windows|
 |Roof overhangs|24" to reduce sun impact in Summer and enhance aesthetics|
