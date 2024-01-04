@@ -61,7 +61,7 @@ Part of the main room.
 |Front speakers|...|
 |Side and rear speakers|...|
 |A/V rack|In wall A/V rack with easy rear access from unfinished area|
-|A/V reciver|...|
+|A/V receiver|...|
 |Apple TV|...|
 |Wall lighting|Craftsman style dimmable sconce lights (4 quantity) on smart switch|
 |Step lighting|Integrated LED step lighting to second tier of seating|
