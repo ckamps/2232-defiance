@@ -64,7 +64,7 @@ Part of the main room.
 |A/V rack|In wall A/V rack with easy rear access from unfinished area|
 |A/V receiver|...|
 |Apple TV|...|
-|Networking|Hardwired ethernet cable between main house netork switch and switch in A/V rack|
+|Networking|Hardwired ethernet cable between main house network switch and switch in A/V rack|
 |Wall lighting|Craftsman style dimmable sconce lights (4 quantity) on smart switch|
 |Step lighting|Integrated LED step lighting to second tier of seating|
 |Doors|Double solid wood Cherry doors|
