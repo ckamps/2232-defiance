@@ -35,7 +35,7 @@ Take advantage of already approved county variance to build your own detached ac
 
 | | |
 |-|-|
-|HVAC unit|Multi-zone single geothermal HVAC unit with 6 vertical 150 foot deep wells. Combines heating and cooling into one internally located unit. No noisy outside air conditioning unit.|
+|HVAC unit|Multi-zone single geothermal HVAC unit with 6 vertical 150 foot deep wells. Combines heating and cooling into single HVAC unit housed in the lower unfinished area. No noisy outside air conditioning unit.|
 |HVAC zones|Main living, main bedrooms, and lower level|
 |Exterior walls|Upgraded 2"x6" (typical is 2"x4"). Enabled thicker wall insulation.|
 |Roof overhangs|24" reduces sun impact in Summer|
