@@ -20,8 +20,8 @@ type: docs
 
 | | |
 |-|-|
-|Garage doors 1 and 2|10 foot wide x 9 foot tall|
-|Garage door 3|12 foot wide x 9 foot tall (sufficient framing height exists to enable future height extension)|
+|Garage doors 1 and 2|Over size 10 foot wide x 9 foot tall|
+|Garage door 3|Over size 12 foot wide x 9 foot tall (sufficient framing height exists to enable future height extension)|
 |Insulation|Insulated garage doors|
 |Automation|Garage doors are connected to smart home and can be controlled via Apple Home, Alexa, etc|
 {.table}
