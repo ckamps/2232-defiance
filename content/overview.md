@@ -39,7 +39,6 @@ Take advantage of already approved county variance to build your own detached ac
 |HVAC zones|Main living, main bedrooms, and lower level|
 |Exterior walls|Upgraded 2"x6" (typical is 2"x4"). Enabled thicker wall insulation.|
 |Roof overhangs|24" reduces sun impact in Summer|
-|Water heater|LP gas nn gallon|
 |ERV|Whole-house Energy Recovery Ventilator (ERV). Exchanges inside air with fresh outside air. Used throughout the year.|
 |Dehumidifier|Whole-house dehumidifier for summer months.|
 |Humidifier|Whole-house steam humidifier for winter months.|
@@ -54,6 +53,8 @@ Take advantage of already approved county variance to build your own detached ac
 |Water|Municipal water supply service|
 |Water pressure regulator|Helps reduce the substantial pressure of the main service line|
 |Water softener|Whole house water softener delivers conditioned water to select faucets and laundry|
+|Water heater|Bradford White Hydrojet LP gas 75 gallon water heater installed in late 2018|
+|Water heater pre-heat tank|Geothermal HVAC unit is connected to Rheem 50 gallon water heater to use excess HVAC heat to pre-heat domestic water upostream of LP gas water heater|
 
 ## Doors and Windows
 
