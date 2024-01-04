@@ -13,7 +13,7 @@ type: docs
 |Attic storage|nn foot wide x 6 foot tall attic storage accessible via heavy duty expansion ladder|
 |Lighting|LED flat panel, dimmable ceiling lights controlled by smart switch|
 |Floor|Epoxy coated|
-|Future car lift|3rd bay has extra depth concrete to help support future car lift|
+|Future car lift|Largest stall has extra depth concrete floor to help support future car lift|
 {.table}
 
 ## Garage Doors
