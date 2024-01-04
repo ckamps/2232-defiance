@@ -8,7 +8,7 @@ type: docs
 | | |
 |-|-|
 |Build year|2006|
-|Exterior walls|Upgraded 2"x6" (typical is 2"x4")|
+|Exterior walls|Upgraded 2 inch x 6 inch framing (typical is 2 inch x 4 inch)|
 |Ceilings|9 foot+ ceilings on main floor. 11 foot 6 inch celing in garage.|
 |Foundation|Generous 10 foot foundation wall height|
 |Lower level|Walkout with expansive south-facing windows|
