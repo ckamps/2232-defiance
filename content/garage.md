@@ -53,6 +53,7 @@ Take advantage of the hidden large volume air compressor to easily and quikly in
 |Utility sink|2 bowl large utility sink with wall mounted Gojo soap dispenser|
 |Hose bibs|3 internal hose bibs for: cold unsoftened, cold softened, and hot water|
 |Hose reel|Internal wall mounted metal hose reel|
+{.table}
 
 ## Irrigation
 
@@ -60,6 +61,7 @@ Take advantage of the hidden large volume air compressor to easily and quikly in
 |-|-|
 |Sprinkler controller|[Rachio 16ZULW-C](https://rachio.com/products/rachio-3/) 16 zone, 3rd generation smart sprinkler controller|
 |Zones|...|
+{.table}
 
 ## Networking and A/V
 
