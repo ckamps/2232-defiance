@@ -15,6 +15,8 @@ type: docs
 |Roof overhangs|24" to reduce sun impact in Summer and enhance aesthetics|
 {.table}
 
+## Option to Build Accessory Structure
+
 Take advantage of already approved county variance to build your own detached accessory structure/garage on the property.
 
 ## Exterior
