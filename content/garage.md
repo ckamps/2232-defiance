@@ -8,7 +8,7 @@ type: docs
 | | |
 |-|-|
 |Footprint|Oversize 48 foot wide x 30 foot deep 3-car garage with 3 separate garage doors|
-|Ceiling height|11 foot 6 inch celing|
+|Ceiling height|11 foot 6 inch ceiling|
 |Walls and ceiling|Fully finished walls and ceiling|
 |Attic storage|nn foot wide x 6 foot tall attic storage accessible via heavy duty expansion ladder|
 |Ceiling lights|LED flat panel ceiling lights dimmanble with 3 levels of temperature settings. Smart switch controlled to enable automation and voice control.|
