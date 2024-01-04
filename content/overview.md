@@ -26,7 +26,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Exterior paint|Newly painted in Q3 2022|
 |Roof|Replaced in 2021|
 |Gutters|Oversized 6" aluminum|
-|Gutter guards|Stainless steel mesh throughout|
+|Gutter guards|Stainless steel mesh gutter guards installed throughout|
 |Drainage|Underground gutter drains|
 |Hose bibs|Freeze proof|
 {.table}
