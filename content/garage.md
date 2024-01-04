@@ -13,8 +13,6 @@ type: docs
 |Attic storage|nn foot wide x 6 foot tall attic storage accessible via heavy duty expansion ladder|
 |Lighting|LED flat panel, dimmable ceiling lights controlled by smart switch|
 |Floor|Epoxy coated|
-|Utility sink|2 bowl large utility sink with wall mounted Gojo soap dispenser|
-|Hose bibs|3 internal hose bibs for: cold unsoftened, cold softened, and hot water|
 |Future car lift|3rd bay has extra depth concrete to help support future car lift|
 {.table}
 
@@ -23,9 +21,9 @@ type: docs
 | | |
 |-|-|
 |Garage Doors 1 and 2|10 foot wide x 9 foot tall|
-|Garage Door 3|12 foot wide x 9 foot tall (height could be extended)|
+|Garage Door 3|12 foot wide x 9 foot tall (sufficient framing height exists to enable future height extension)|
 |Insulation|Insulated garage doors|
-|Automation|Garage doors are connected to smasrt home and can be controlled via Apple Home, Alexa, etc|
+|Automation|Garage doors are connected to smart home and can be controlled via Apple Home, Alexa, etc|
 {.table}
 
 ## Built-in Cabinets and Shelving
@@ -37,11 +35,31 @@ type: docs
 |Paddle board rack|Accomodates up to 4 paddle boards|
 {.table}
 
+## Air Compressor
+
+Take advantage of the hidden large volume air compressor to easily and quikly inflate tires and other inflatables.
+
+| | |
+|-|-|
+|Air Compressor|nn gallon electric air compressor mounted out of the way in the attic storage area|
+|Air Hose|Ceiling mounted retractable air supply hose|
+|Electric Extension Cord|12AWG 65 foot retractable electric extension cord|
+{.table}
+
+## Water and Sink
+
+| | |
+|-|-|
+|Utility sink|2 bowl large utility sink with wall mounted Gojo soap dispenser|
+|Hose bibs|3 internal hose bibs for: cold unsoftened, cold softened, and hot water|
+|Hose reel|Internal wall mounted metal hose reel|
+
 ## Networking and A/V
 
 | | |
 |-|-|
 |Network Rack|Wall mounted enclosed networking rack houses home internet modem, network switch for PoE cameras, and garage A/V components|
+|Wireless network|PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point|
 |Speakers|Wall mounted Klipsch AW-650 Indoor/Outdoor 8 inch speakers|
 |Apple TV|...|
 |A/V Receiver|Yamaha RX-... A/V receiver powers speakers and connects to Apple TV and wall mounted TV|
