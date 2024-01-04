@@ -22,8 +22,8 @@ type: docs
 |-|-|
 |Garage doors 1 and 2|Over size 10 foot wide x 9 foot tall|
 |Garage door 3|Over size 12 foot wide x 9 foot tall (sufficient framing height exists to enable future height extension)|
-|Insulation|Insulated garage doors|
-|Automation|Garage doors are connected to smart home and can be controlled via Apple Home, Alexa, etc|
+|Style|Color coordinated, multi-panel [Clopay Coachman](https://www.clopaydoor.com/coachman) steel insulated doors with exterior wood grain texture and top windows| 
+|Automation|Smart home connected for control and monitoring via Apple Home, Alexa, etc|
 {.table}
 
 ## Built-in Cabinets and Shelving
