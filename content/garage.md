@@ -54,6 +54,13 @@ Take advantage of the hidden large volume air compressor to easily and quikly in
 |Hose bibs|3 internal hose bibs for: cold unsoftened, cold softened, and hot water|
 |Hose reel|Internal wall mounted metal hose reel|
 
+## Irrigation
+
+| | |
+|-|-|
+|Sprinkler controller|[Rachio 16ZULW-C](https://rachio.com/products/rachio-3/) 16 zone, 3rd generation smart sprinkler controller|
+|Zones|...|
+
 ## Networking and A/V
 
 | | |
