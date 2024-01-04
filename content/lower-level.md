@@ -40,6 +40,7 @@ Part of the main room.
 
 | | |
 |-|-|
+|Dimensions|9 feet x 11 foot 3 inches with 9 foot 4 inch ceiling|
 |Windows|Large windows and view of Femme Osage Creek bridge, bottom area, and beyond|
 |Flooring|Durable plank artifical wood with foam backing|
 |Networking|Multiple wall mount ethernet ports for access to home network and gigabit Internet|
@@ -72,10 +73,16 @@ Part of the main room.
 
 ## Full Bath
 
-* Extra height glass shower door
-* Dual sinks with marble counter
-* Closet for towels
-* Private water closet/toilet room
+| | |
+|-|-|
+|Dimensions|n feet x n foot|
+|Cabinets|...|
+|Counter|...|
+|Shower|Large windows and view of Femme Osage Creek bridge, bottom area, and beyond|
+|Water closet / toilet|Dedicated room with solid wood Cherry pocket door|
+|Closet|...|
+|Exhaust fans|1 for shower area and 1 for water closet/toilet room|
+{.table}
 
 ## Bedroom
 
