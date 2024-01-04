@@ -49,6 +49,7 @@ Part of the main room.
 
 | | |
 |-|-|
+|Dimensions|15+ feet x 19+ foot|
 |Screen|120 inch diagonal screen|
 |Stadium seating|6 electric reclining home theater chairs. 3 on each of two levels|
 |Carpeting|Aids in sound absorption|
