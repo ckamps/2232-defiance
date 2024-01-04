@@ -22,6 +22,7 @@ Take advantage of already approved county variance to build your own detached ac
 | | |
 |-|-|
 |Siding|Hardie fiber cement siding, gable shingles, and trim|
+|Tapered columns|Low maintenance Craftsman style tapered columns line the front porch and underpin the rear deck|
 |Exterior paint|Newly painted in Q3 2022|
 |Roof|Replaced in 2021|
 |Gutters|Oversized 6" aluminum|
