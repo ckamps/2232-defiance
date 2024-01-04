@@ -91,9 +91,14 @@ Take advantage of already approved county variance to build your own detached ac
 |Occupancy sensor lighting|Closets, water closets, and storage areas|
 {.table}
 
-## Home Amenities and Features
+## Central Vacuum
 
-Whole home central vacuum with garage mounted vacuum unit
+| | |
+|-|-|
+|Central vacuum|Garage wall mounted Beem central vacuum unit|
+|Vacuum outlets|6 fully covered and powered vacuum outlets + 2 outlets in garage|
+|Vaccum hoses|2 nn foot powered hoses for inside + 1 nn foot hose for garage|
+{.table}
 
 ## Home Systems
 
