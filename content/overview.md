@@ -15,9 +15,9 @@ type: docs
 |Roof eaves|Longer than standard 24" eaves to reduce sun impact in Summer and enhance aesthetics|
 {.table}
 
-## Option to Build Accessory Structure
+### Optional Accessory Structure
 
-Take advantage of already approved county variance to build your own detached accessory structure/garage on the property.
+Take advantage of already approved county variance to build your own detached accessory structure/garage on the property. For example, if you'd like to build a dettached garage or pole barn to augment the existing garage.
 
 ## Siding and Trim
 
