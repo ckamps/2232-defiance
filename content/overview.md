@@ -8,7 +8,7 @@ type: docs
 | | |
 |-|-|
 |Build year|2006|
-|Exterior walls|Upgraded 2"x6" framing (typical is 2"x4")|
+|Exterior walls|Upgraded 2"x6" exterior wall framing (typical is 2"x4")|
 |Subfloors|[AdvanTech](https://www.huberwood.com/advantech/subflooring) engineered tounge and groove subflooring|
 |Floor joists|Structurally engineered silent floor joists|
 |Ceilings|9'+ ceilings on main floor. 11'6" ceiling in garage.|
