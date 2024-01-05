@@ -16,7 +16,7 @@ type: docs
 |Slab|2" Foamular XPS under slab foam insulation (R-10) to help insulate concrete slab from external temperature fluctuations|
 |Lower level|Walkout with expansive south-facing windows|
 |Roof eaves|Longer than standard 24" eaves help reduce sun impact in Summer and enhance aesthetics|
-{.table .table-hover .table-striped}
+{.table .table-striped}
 
 ### Optional Accessory Structure
 
@@ -29,7 +29,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Siding|Fiber cement siding and trim throughout. [James Hardie Plank Lap Siding Cedar Mill](https://www.jameshardie.com/products/hardieplank-lap-siding), [Hardie Shingle Siding](https://www.jameshardie.com/products/hardieshingle-siding) on gables, and [Hardie Trim boards](https://www.jameshardie.com/products/hardietrim-boards)|
 |Tapered columns|Low maintenance Craftsman style tapered columns line the front porch and underpin the rear deck|
 |Exterior paint|Newly painted in Q3 2022|
-{.table .table-hover .table-striped}
+{.table .table-striped}
 
 ## Roof
 
@@ -44,7 +44,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Gutter guards|Stainless steel mesh gutter guards installed throughout|
 |Gutter drainage|Underground gutter drains used to move water downslope and away from the home and garage footprint|
 |Solar|Take advantage of the ideal south facing expanse of main structure and/or garage roofs to install solar panels|
-{.table .table-hover .table-striped}
+{.table .table-striped}
 
 ## HVAC
 
@@ -59,7 +59,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Dehumidifier|Whole-house dehumidifier for summer months.|
 |Humidifier|Whole-house steam humidifier for winter months. Integrated with home automation to automatically maintain desired humidity level.|
 |Ceiling fans|Casablanca Panama fans with modern smart switches|
-{.table .table-hover .table-striped}
+{.table .table-striped}
 
 ## Water
 
@@ -72,7 +72,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Water heater pre-heat tank|Geothermal HVAC unit is connected to Rheem 50 gallon water heater to use excess HVAC heat to pre-heat domestic water upostream of LP gas water heater|
 |Hose bibs|Freeze proof hose bibs in 5 exterior locations: House front, deck, below deck, east and north sides|
 |Yard hydrant|Frost-proof yard hydrant located on far west side of property|
-{.table .table-hover .table-striped}
+{.table .table-striped}
 
 ## Electrical
 
@@ -84,7 +84,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Service to lower land|...|
 |Switches|...|
 |Wall plates|...|
-{.table .table-hover .table-striped}
+{.table .table-striped}
 
 ## Doors and Windows
 
@@ -95,7 +95,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Interior doors|[Allegheny Wood Works (Pennsylvania)](https://solidhardwooddoors.com) solid wood 4-panel doors in cherry (25 quantity) throughout in natural finish|
 |Door casings/trim|Custom white finish|
 |Door handles and knobs|[Emtek Luzern levers](https://www.emtek.com/all-products/door-hardware/knobs-lever-and-rosettes/leversets/luzern-leverset/) in oil rubbed bronze on many of the cherry interior doors. Emtek knobs on remaining cherry interior doors.|
-{.table .table-hover .table-striped}
+{.table .table-striped}
 
 ### Exterior Doors
 
@@ -104,7 +104,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Front entry door|Therma Tru Fiber-Classic Craft|
 |Glass patio doors (2)|[Loewen Douglas Fir extruded aluminum clad glass terrace doors](https://www.loewen.com/terrace-door/)|
 |Secondary exterior doors|Therma Tru fiberglass|
-{.table .table-hover .table-striped}
+{.table .table-striped}
 
 ### Windows
 
@@ -112,7 +112,7 @@ Take advantage of already approved county variance to build your own detached ac
 |-|-|
 |Windows|Premium Loewen [Douglas Fir](https://www.loewen.com/product-features/wood-species/) [extruded aluminum clad](https://www.loewen.com/product-features/aluminum-cladding/) in natural wood finish|
 |Window casings/trim|Matching Douglas Fir in natural wood finish|
-{.table .table-hover .table-striped}
+{.table .table-striped}
 
 ## Plumbing Fixtures
 
@@ -120,7 +120,7 @@ Take advantage of already approved county variance to build your own detached ac
 |-|-|
 |Faucets and sinks|Grohe and Kohler|
 |Toilets|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
-{.table .table-hover .table-striped}
+{.table .table-striped}
 
 ## Lighting
 
@@ -132,7 +132,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Bridge flood flight|Automated light to accent the iron railroad bridge on-demand|
 |Smart switches and dimmers|More than nn smart dimmers and smart switches can controlled from your phone and via schedules|
 |Occupancy sensor lighting|Closets, water closets, and storage areas|
-{.table .table-hover .table-striped}
+{.table .table-striped}
 
 ## Central Vacuum
 
@@ -141,4 +141,4 @@ Take advantage of already approved county variance to build your own detached ac
 |Central vacuum|Garage wall mounted Beem central vacuum unit|
 |Vacuum outlets|6 fully covered and powered vacuum outlets + 2 outlets in garage|
 |Vaccum hoses|2 nn foot powered hoses for inside + 1 nn foot hose for garage|
-{.table .table-hover .table-striped}
+{.table .table-striped}
