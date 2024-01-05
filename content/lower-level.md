@@ -15,9 +15,9 @@ type: docs
 
 | | |
 |-|-|
-|Ceiling height|Mix of 9 foot 4 inch and 8 foot 9 inches (below sunken living room area)|
+|Ceiling height|Mix of 9'4" and 8'9" ceilings (latter below sunken living room area)|
 |Walls and ceiling|Fully finished walls and drywall ceiling|
-|Flooring|17 1/2 inch square tile floor|
+|Flooring|17 1/2" square tile floor|
 |Wireless network|PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point integrated with home wireless router for centralized control|
 {.table}
 
@@ -33,14 +33,14 @@ Part of the main room.
 |Lighting|...|
 |Refrigerator|...|
 |Dishwasher|...|
-|Flooring|17 1/2 inch square tile floor (part of main room)|
+|Flooring|17 1/2" square tile floor (part of main room)|
 {.table}
 
 ## Office
 
 | | |
 |-|-|
-|Dimensions|9 feet x 11 foot 3 inches with 9 foot 4 inch ceiling|
+|Dimensions|9'x11' with 9'4" ceiling height|
 |Windows|Large windows and view of Femme Osage Creek bridge, bottom area, and beyond|
 |Flooring|Durable plank artifical wood with foam backing|
 |Networking|Multiple wall mount ethernet ports for access to home network and gigabit Internet|
@@ -50,7 +50,7 @@ Part of the main room.
 
 | | |
 |-|-|
-|Dimensions|15+ feet x 19+ foot|
+|Dimensions|15'x19'|
 |Screen|120 inch diagonal screen|
 |Stadium seating|6 electric reclining home theater chairs. 3 on each of two levels|
 |Carpeting|Aids in sound absorption|
@@ -75,7 +75,7 @@ Part of the main room.
 
 | | |
 |-|-|
-|Dimensions|n feet x n foot|
+|Dimensions|x'xy'|
 |Cabinets|...|
 |Counter|...|
 |Shower|Large windows and view of Femme Osage Creek bridge, bottom area, and beyond|
