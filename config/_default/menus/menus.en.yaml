@@ -4,34 +4,34 @@ main:
     url: /
     weight: 10
 
-  - identifier: overview
-    name: Overview
-    url: /overview/
+  - identifier: property
+    name: The Property
+    url: /property-info/
     weight: 20
+    
+  - identifier: overview
+    name: The Home
+    url: /overview/
+    weight: 30
 
   - identifier: main-level
     name: Main Level
     url: /main-level/
-    weight: 30
+    weight: 40
 
   - identifier: lower-level
     name: Lower Level
     url: /lower-level/
-    weight: 40
+    weight: 50
 
   - identifier: garage
     name: Garage
     url: /garage/
-    weight: 50
+    weight: 60
 
   - identifier: home-systems
     name: Home Systems
     url: /home-systems/
-    weight: 60    
-
-  - identifier: property
-    name: Property
-    url: /property-info/
     weight: 70
         
   - identifier: recreation
