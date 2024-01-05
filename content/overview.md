@@ -52,7 +52,7 @@ Take advantage of already approved county variance to build your own detached ac
 |-|-|
 |HVAC unit|Multi-zone single geothermal HVAC unit with 6 vertical 150 foot deep wells. Combines heating and cooling into single HVAC unit housed in the lower unfinished area. No noisy outside air conditioning unit.|
 |HVAC zones|Three zones: 1: Kitchen, Laundry Room, Dining, and Sun Room; 2: Living room and main level bedrooms; 3: Lower level|
-|Thermostats|Honeywell T6 Pro smart thermostats with Z-Wave Plus. Integrated with home automation.|
+|Thermostats|Honeywell T6 Pro smart thermostats with Z-Wave Plus. 3 quantity, 1 per zone. Integrated with home automation.|
 |Exterior walls|Upgraded 2"x6" (typical is 2"x4"). Enabled thicker wall insulation.|
 |Roof overhangs|24" reduces sun impact in Summer|
 |ERV|Whole-house Energy Recovery Ventilator (ERV). Exchanges inside air with fresh outside air. Used throughout the year. Wall mounted control to adjust percentage runb time.|
