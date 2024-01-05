@@ -19,14 +19,13 @@ type: docs
 
 Take advantage of already approved county variance to build your own detached accessory structure/garage on the property.
 
-## Exterior
+## Siding and Trim
 
 | | |
 |-|-|
 |Siding|Hardie fiber cement siding, gable shingles, and trim|
 |Tapered columns|Low maintenance Craftsman style tapered columns line the front porch and underpin the rear deck|
 |Exterior paint|Newly painted in Q3 2022|
-|Hose bibs|Freeze proof|
 {.table}
 
 ## Roof
@@ -66,6 +65,9 @@ Take advantage of already approved county variance to build your own detached ac
 |Water softener|Whole house water softener delivers conditioned water to select faucets and laundry|
 |Water heater|Bradford White Hydrojet LP gas 75 gallon water heater installed in late 2018|
 |Water heater pre-heat tank|Geothermal HVAC unit is connected to Rheem 50 gallon water heater to use excess HVAC heat to pre-heat domestic water upostream of LP gas water heater|
+|Hose bibs|Freeze proof hose bibs in 5 exterior locations: House front, deck, below deck, east and north sides|
+|Yard hydrant|Frost-proof yard hydrant located on far west side of property|
+{.table}
 
 ## Electrical
 
