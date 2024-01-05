@@ -142,11 +142,3 @@ Take advantage of already approved county variance to build your own detached ac
 |Vacuum outlets|6 fully covered and powered vacuum outlets + 2 outlets in garage|
 |Vaccum hoses|2 nn foot powered hoses for inside + 1 nn foot hose for garage|
 {.table}
-
-## Entry Road and Driveway
-
-| | |
-|-|-|
-|Entry road|Private asphalt paved entry road from highway to home site. Two turnouts to accomodate rare event of oncoming vehicles.|
-|Driveway|Exposed aggregate concreate turnround area, driveway, and auto court. Extra thick 5" pour.|
-{.table}
