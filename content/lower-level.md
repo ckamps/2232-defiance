@@ -27,7 +27,7 @@ Part of the main room.
 
 | | |
 |-|-|
-|Cabinets|..|
+|Cabinets|Medallion Maple cabinets|
 |Counter and bar tops|...|
 |Sink|...|
 |Lighting|...|
