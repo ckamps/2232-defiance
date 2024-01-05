@@ -26,7 +26,7 @@ Take advantage of already approved county variance to build your own detached ac
 
 | | |
 |-|-|
-|Siding|Fiber cement siding and trim throughout. [James Hardie Plank Lap Siding Cedar Mill](https://www.jameshardie.com/products/hardieplank-lap-siding), [Hardie Shingle Siding](https://www.jameshardie.com/products/hardieshingle-siding) on gables, [Hardie Soffit Panels Vented Cedarmill](https://www.jameshardie.com/products/hardiesoffit-panels), and [Hardie Trim boards](https://www.jameshardie.com/products/hardietrim-boards)|
+|Siding|Fiber cement siding and trim throughout. [James Hardie Plank Lap Siding Cedar Mill](https://www.jameshardie.com/products/hardieplank-lap-siding), [Hardie Shingle Siding](https://www.jameshardie.com/products/hardieshingle-siding) on gables, and [Hardie Trim boards](https://www.jameshardie.com/products/hardietrim-boards)|
 |Tapered columns|Low maintenance Craftsman style tapered columns line the front porch and underpin the rear deck|
 |Exterior paint|Newly painted in Q3 2022|
 {.table}
@@ -39,6 +39,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Roof ventilation|Low visual impact ridge vents with soffit ventlation on garage and main structure|
 |Roof animal protection|[Ridge-Guard](https://www.animaltrapsandsupplies.com/products/ridgeguard-ridge-vent-animal-exclusion.html) metal mesh protection from animals along all ridge vents|
 |Roof vents|Exhaust fan and water vents are all situated on the rear of the main roof to remain hidden from view|
+|Soffits|Fiber cement [Hardie Soffit Panels Vented Cedarmill](https://www.jameshardie.com/products/hardiesoffit-panels)|
 |Gutters|Oversized 6" aluminum|
 |Gutter guards|Stainless steel mesh gutter guards installed throughout|
 |Gutter drainage|Underground gutter drains used to move water downslope and away from the home and garage footprint|
