@@ -12,8 +12,8 @@ The fully finished, south facing, oversized 3-car+ garage is tucked into the blu
 |Footprint|Oversize 48' wide x 30' deep 3-car+ garage with 3 separate garage doors|
 |Ceiling height|11'6" ceiling|
 |Walls and ceiling|Fully finished walls and ceiling|
-|Attic storage|nn' wide x 6' tall attic storage accessible via heavy duty expansion ladder|
-|Ceiling lights|LED flat panel ceiling lights dimmanble with 3 levels of temperature settings. Smart switch controlled to enable automation and voice control.|
+|Attic storage|nn' x nn' x 6' tall attic storage accessible via hide away retractable metal ladder|
+|Ceiling lights|LED flat panel ceiling lights, dimmanble with slectable light temperature settings. Smart switch controlled to enable automation and voice control.|
 |Floor|Epoxy coated|
 |Future car lift|Largest stall has extra depth concrete floor to help support future car lift|
 {.table}
