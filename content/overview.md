@@ -10,7 +10,7 @@ type: docs
 |Build year|2006|
 |Exterior walls|Upgraded 2"x6" framing (typical is 2"x4")|
 |Ceilings|9'+ ceilings on main floor. 11'6" ceiling in garage.|
-|Foundation|Generous 10' foundation wall height|
+|Foundation|Generous 10' foundation wall height provides additional lower level ceiling heights|
 |Lower level|Walkout with expansive south-facing windows|
 |Roof eaves|Longer than standard 24" eaves to reduce sun impact in Summer and enhance aesthetics|
 {.table}
