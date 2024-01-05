@@ -8,7 +8,7 @@ type: docs
 | | |
 |-|-|
 |...|...|
-{.table}
+{.table .table-striped}
 
 ## Kitchen
 
@@ -33,7 +33,7 @@ type: docs
 |Apple TV|Dedicated Apple TV 4K 32GB|
 |Speakers|Polk Audio RC60i ceiling speakers x 2|
 |A/V receiver|Dedicated Yamaha RX-V483x A/V receiver amplifier in lower level systems rack|
-{.table}
+{.table .table-striped}
 
 ## Dining Room
 
@@ -53,7 +53,7 @@ type: docs
 |Washer / dryer|...|
 |Storage cabinet|Main level whole house vacuum hose and attachments|
 |Whole house vacuum|1 powered wall receptacle|
-{.table}
+{.table .table-striped}
 
 ## Mud Room Bath
 
