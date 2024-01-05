@@ -3,7 +3,7 @@ title: Overview
 type: docs
 ---
 
-## Design and Construction
+## Construction
 
 | | |
 |-|-|
