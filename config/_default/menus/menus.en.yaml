@@ -24,9 +24,9 @@ main:
     url: /garage/
     weight: 50
 
-  - identifier: systems
+  - identifier: home-systems
     name: Home Systems
-    url: /systems/
+    url: /home-systems/
     weight: 60    
 
   - identifier: property
