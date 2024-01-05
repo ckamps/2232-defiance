@@ -9,7 +9,7 @@ type: docs
 |-|-|
 |Finished area|Approximately xx% / square feet of finished space|
 |Foundation|Generous 10 foot foundation wall height|
-{.table}
+{.table .table-striped}
 
 ## Main Room
 
@@ -19,7 +19,7 @@ type: docs
 |Walls and ceiling|Fully finished walls and drywall ceiling|
 |Flooring|17 1/2" square tile floor|
 |Wireless network|PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point integrated with home wireless router for centralized control|
-{.table}
+{.table .table-striped}
 
 ## Kitchenette
 
@@ -34,7 +34,7 @@ Part of the main room.
 |Refrigerator|...|
 |Dishwasher|...|
 |Flooring|17 1/2" square tile floor (part of main room)|
-{.table}
+{.table .table-striped}
 
 ## Office
 
@@ -44,7 +44,7 @@ Part of the main room.
 |Windows|Large windows and view of Femme Osage Creek bridge, bottom area, and beyond|
 |Flooring|Durable plank artifical wood with foam backing|
 |Networking|Multiple wall mount ethernet ports for access to home network and gigabit Internet|
-{.table}
+{.table .table-striped}
 
 ## Home Theater
 
@@ -69,7 +69,7 @@ Part of the main room.
 |Step lighting|Integrated LED step lighting to second tier of seating|
 |Doors|Double solid wood Cherry doors|
 |Ventilation|Fresh air vents to aid in air circulation|
-{.table}
+{.table .table-striped}
 
 ## Full Bath
 
@@ -82,7 +82,7 @@ Part of the main room.
 |Water closet / toilet|Dedicated room with solid wood Cherry pocket door|
 |Closet|...|
 |Exhaust fans|1 for shower area and 1 for water closet/toilet room|
-{.table}
+{.table .table-striped}
 
 ## Bedroom
 
