@@ -3,7 +3,7 @@ title: Garage
 type: docs
 ---
 
-The fully finished, south facing, oversized 3-car+ garage is tucked into the bluff so as to minimize it's visual impact on the site. West and south facing shingle clad roof gables make the sunbstantial garage to be a natural extension of the main home. A hide away retractable metal ladder provides easy access to substantial storage space of the upper level large storage attic. A great place to store infrequently used items.
+The fully finished, south facing, oversized 3-car+ garage is tucked into the bluff so as to minimize it's visual impact on the site. West and south facing shingle clad roof gables make the sunbstantial garage appear to be a natural extension of the main home. A hide away retractable metal ladder provides easy access to substantial storage space of the upper level large storage attic. A great place to store infrequently used items.
 
 ## Overview
 
