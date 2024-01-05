@@ -41,7 +41,7 @@ Although secluded, the property has two gigabit fiber internet services availabl
 |-|-|
 |OTA|Hidden, attic-mounted over the air (OTA) HD television antennae available via home network and devices|
 |Satellite|Dish mounts pre-installed|
-{.table}
+{.table .table-hover .table-striped}
 
 ## Weather Station
 
@@ -53,4 +53,4 @@ Tempest wireless weather station; wind speed, direction, temperature, humidity, 
 |-|-|
 |Automation hubs|Zoned automation hubs located in: Main level, lower level, and garage|
 |Lighting schedules|Predefined early morning and evening and customizable schedules|
-{.table}
+{.table .table-hover .table-striped}
