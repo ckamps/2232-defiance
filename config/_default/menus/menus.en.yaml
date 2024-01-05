@@ -24,22 +24,27 @@ main:
     url: /garage/
     weight: 50
 
+  - identifier: systems
+    name: Home Systems
+    url: /systems/
+    weight: 60    
+
   - identifier: property
     name: Property
     url: /property-info/
-    weight: 60
+    weight: 70
         
   - identifier: recreation
     name: Recreation
     url: /recreation/
-    weight: 70
+    weight: 80
 
   - identifier: area
     name: Defiance Area
     url: /area/
-    weight: 80
+    weight: 90
 
   - identifier: contact
     name: Contact
     url: /contact/
-    weight: 90
+    weight: 100
