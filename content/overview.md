@@ -8,11 +8,11 @@ type: docs
 | | |
 |-|-|
 |Build year|2006|
-|Exterior walls|Upgraded 2 inch x 6 inch framing (typical is 2 inch x 4 inch)|
-|Ceilings|9 foot+ ceilings on main floor. 11 foot 6 inch ceiling in garage.|
-|Foundation|Generous 10 foot foundation wall height|
+|Exterior walls|Upgraded 2"x6" framing (typical is 2"x4")|
+|Ceilings|9'+ ceilings on main floor. 11'6" ceiling in garage.|
+|Foundation|Generous 10' foundation wall height|
 |Lower level|Walkout with expansive south-facing windows|
-|Roof overhangs|24" to reduce sun impact in Summer and enhance aesthetics|
+|Roof eaves|Longer than standard 24" eaves to reduce sun impact in Summer and enhance aesthetics|
 {.table}
 
 ## Option to Build Accessory Structure
@@ -27,6 +27,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Tapered columns|Low maintenance Craftsman style tapered columns line the front porch and underpin the rear deck|
 |Exterior paint|Newly painted in Q3 2022|
 |Roof|Roofing shingles replaced in 2021|
+|Roof vents|Ridge vents with soffit ventlation on garage and main structure. [Ridge-Guard](https://www.animaltrapsandsupplies.com/products/ridgeguard-ridge-vent-animal-exclusion.html) metal mesh protection from animals along all ridge vents.|
 |Gutters|Oversized 6" aluminum|
 |Gutter guards|Stainless steel mesh gutter guards installed throughout|
 |Drainage|Underground gutter drains|
