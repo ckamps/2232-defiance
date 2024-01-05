@@ -54,7 +54,7 @@ Take advantage of the hidden large volume air compressor to easily and quikly in
 | | |
 |-|-|
 |**Utility sink**|2 bowl large utility sink with wall mounted Gojo soap dispenser|
-|**Hose bibs**|3 internal hose bibs for: cold unsoftened, cold softened, and hot water|
+|**Hose bibs**|3 inside wall mounted hose bibs for: cold unsoftened, cold softened, and hot water|
 |**Hose reel**|Internal wall mounted metal hose reel|
 |**Water shutoff valves**|Water shutoff valves and drains located in main home lower unfinished area for winterizing|
 {.table .table-striped}
