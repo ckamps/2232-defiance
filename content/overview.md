@@ -89,7 +89,7 @@ Take advantage of already approved county variance to build your own detached ac
 |-|-|
 |Interior doors|[Allegheny Wood Works (Pennsylvania)](https://solidhardwooddoors.com) solid wood 4-panel doors in cherry (25 quantity) throughout in natural finish|
 |Door casings/trim|Custom white finish|
-|Door handles and knobs|[Emtek Luzern levers](https://www.emtek.com/all-products/door-hardware/knobs-lever-and-rosettes/leversets/luzern-leverset/) in oil rubbed bronze of many of the cherry interior doors. Emtek knobs on remaining cherry interior doors.|
+|Door handles and knobs|[Emtek Luzern levers](https://www.emtek.com/all-products/door-hardware/knobs-lever-and-rosettes/leversets/luzern-leverset/) in oil rubbed bronze on many of the cherry interior doors. Emtek knobs on remaining cherry interior doors.|
 {.table}
 
 ### Exterior Doors
