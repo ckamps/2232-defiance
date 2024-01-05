@@ -10,7 +10,7 @@ type: docs
 
 | | |
 |-|-|
-|Entry road|Private asphalt paved entry road from highway to home site. Two turnouts to accomodate rare event of oncoming vehicles.|
+|Entry road|Private asphalt paved entry road (compacted 3" depth) from highway to home site. Two turnouts accomodate rare event of oncoming vehicles.|
 |Driveway|Exposed aggregate concreate turnround area, driveway, and auto court. Extra thick 5" pour.|
 {.table}
 
