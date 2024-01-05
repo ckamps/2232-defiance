@@ -9,11 +9,11 @@ type: docs
 |-|-|
 |Build year|2006|
 |Exterior walls|Upgraded 2"x6" framing (typical is 2"x4")|
-|Subfloors|[AdvanTech](https://www.huberwood.com/advantech/subflooring) engineered subflooring|
+|Subfloors|[AdvanTech](https://www.huberwood.com/advantech/subflooring) engineered tounge and groove subflooring|
 |Floor joists|Structurally engineered silent floor joists|
 |Ceilings|9'+ ceilings on main floor. 11'6" ceiling in garage.|
 |Foundation|Generous 10' foundation wall height provides additional lower level ceiling heights|
-|Slab|2" under slab foam insulation to help isolate concrete slab from outside temperature|
+|Slab|2" Foamular XPS under slab foam insulation (R-10) to help insulate concrete slab from external temperature fluctuations|
 |Lower level|Walkout with expansive south-facing windows|
 |Roof eaves|Longer than standard 24" eaves help reduce sun impact in Summer and enhance aesthetics|
 {.table}
