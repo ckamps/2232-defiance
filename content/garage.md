@@ -3,13 +3,13 @@ title: Garage
 type: docs
 ---
 
-The fully finished, south facing, oversized 3-car garage is tucked into the bluff so as to minimize it's visual impact on the site. West and south facing shingle clad gables align with the same types of gables on the main structure. An upper level large storage attic with hide away retractable metal ladder provides easy access to substantial storage space.
+The fully finished, south facing, oversized 3-car+ garage is tucked into the bluff so as to minimize it's visual impact on the site. West and south facing shingle clad gables align with the same types of gables on the main structure. An upper level large storage attic with hide away retractable metal ladder provides easy access to substantial storage space.
 
 ## Overview
 
 | | |
 |-|-|
-|Footprint|Oversize 48' wide x 30' deep 3-car garage with 3 separate garage doors|
+|Footprint|Oversize 48' wide x 30' deep 3-car+ garage with 3 separate garage doors|
 |Ceiling height|11'6" ceiling|
 |Walls and ceiling|Fully finished walls and ceiling|
 |Attic storage|nn' wide x 6' tall attic storage accessible via heavy duty expansion ladder|
