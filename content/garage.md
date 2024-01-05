@@ -23,7 +23,7 @@ The fully finished, south facing, oversized 3-car+ garage is tucked into the blu
 | | |
 |-|-|
 |Garage doors 1 and 2|Over size 10' wide x 9' tall|
-|Garage door 3|Over size 12' wide x 9' tall (sufficient framing height exists to enable future height extension)|
+|Garage door 3|Over size 12' wide x 9' tall. Sufficient outer wall framing and ceiling height exists to enable future height extension. For example, to accomodate a lifted Sprinter or similar RV.)|
 |Style|Color coordinated, multi-panel [Clopay Coachman](https://www.clopaydoor.com/coachman) steel insulated doors with exterior wood grain texture and top windows| 
 |Automation|In addition to traditional door controls (wall, in car), the garage door openers are smart home connected for remnote control and monitoring via Apple Home, Siri, Alexa, etc|
 {.table}
