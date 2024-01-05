@@ -3,9 +3,21 @@ title: Main Level
 type: docs
 ---
 
-## Floor Plan
+## Overview
+
+| | |
+|-|-|
+|...|...|
+{.table}
 
 ## Kitchen
+
+
+| | |
+|-|-|
+|Cabinets|Medallion Cherry in natural finish. Soft close drawers.|
+|Main sink|Two bowl stainless steel Kohler K-3356 undermount sink|
+{.table}
 
 ## Dining Room
 
