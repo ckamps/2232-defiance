@@ -26,12 +26,20 @@ Take advantage of already approved county variance to build your own detached ac
 |Siding|Hardie fiber cement siding, gable shingles, and trim|
 |Tapered columns|Low maintenance Craftsman style tapered columns line the front porch and underpin the rear deck|
 |Exterior paint|Newly painted in Q3 2022|
+|Hose bibs|Freeze proof|
+{.table}
+
+## Roof
+
+| | |
+|-|-|
 |Roof|Roofing shingles replaced in 2021|
-|Roof vents|Ridge vents with soffit ventlation on garage and main structure. [Ridge-Guard](https://www.animaltrapsandsupplies.com/products/ridgeguard-ridge-vent-animal-exclusion.html) metal mesh protection from animals along all ridge vents.|
+|Roof ventilation|Low visual impact ridge vents with soffit ventlation on garage and main structure|
+|Roof animal protection|[Ridge-Guard](https://www.animaltrapsandsupplies.com/products/ridgeguard-ridge-vent-animal-exclusion.html) metal mesh protection from animals along all ridge vents|
+|Roof vents|Exhaust fan and water vents are all situated on the rear of the main roof to remain hidden from view|
 |Gutters|Oversized 6" aluminum|
 |Gutter guards|Stainless steel mesh gutter guards installed throughout|
-|Drainage|Underground gutter drains|
-|Hose bibs|Freeze proof|
+|Gutter drainage|Underground gutter drains used to move water downslope and away from the home and garage footprint|
 {.table}
 
 ## HVAC and Efficiency
