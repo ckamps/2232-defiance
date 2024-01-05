@@ -6,7 +6,7 @@ type: docs
 ## Construction
 
 {{< table class="table-striped" >}}
-| | |
+|a |b|
 |-|-|
 |Build year|2006|
 |Exterior walls|Upgraded 2"x6" exterior wall framing (typical is 2"x4")|
