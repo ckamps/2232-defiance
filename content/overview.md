@@ -26,7 +26,7 @@ Take advantage of already approved county variance to build your own detached ac
 
 ## Siding and Trim
 
-{{< table class="table-striped w-auto" >}}
+{{< table class="table-striped" >}}
 | | |
 |:--------------------------------------------|:----|
 |Siding|Fiber cement siding and trim throughout. [James Hardie Plank Lap Siding Cedar Mill](https://www.jameshardie.com/products/hardieplank-lap-siding), [Hardie Shingle Siding](https://www.jameshardie.com/products/hardieshingle-siding) on gables, and [Hardie Trim boards](https://www.jameshardie.com/products/hardietrim-boards)|
