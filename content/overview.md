@@ -5,6 +5,14 @@ type: docs
 
 ## Construction
 
+{{< table class="table-striped" >}}
+| #  | Item        | Left aligned | Center aligned |   Right aligned|
+| -- | ----------- |:-------------|:--------------:| --------------:|
+| 1. | First item  | some text    | more text      | even more text |
+| 2. | Second item | some text    | more text      | even more text |
+| 3. | Third item  | some text    | more text      | even more text |
+{{< /table >}}
+
 | | |
 |-|-|
 |Build year|2006|
