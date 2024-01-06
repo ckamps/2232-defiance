@@ -14,7 +14,7 @@ type: docs
 |Floor joists|Structurally engineered silent floor joists|
 |Ceilings|9'+ ceilings on main floor. 11'6" ceiling in garage.|
 |Foundation|Generous 10' foundation wall height provides additional lower level ceiling heights|
-|Sill plate gaskets|Ridged sill seal gasket used throughout to help eliminates drafts, reduce heat or cooling loss, and insect intrusion|
+|Sill plate gaskets|Ridged sill seal gasket used throughout to help reduce drafts, heatin and cooling loss, and insect intrusion|
 |Slab|2" Foamular XPS under slab foam insulation to help insulate concrete slab from external temperature fluctuations|
 |Lower level|Walkout with expansive south-facing windows|
 |Roof eaves|Longer than standard 24" eaves help reduce sun impact in Summer and enhance aesthetics|
