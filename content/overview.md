@@ -17,7 +17,7 @@ type: docs
 |Sill plate gaskets|Ridged sill seal gasket used throughout to help reduce drafts, heatin and cooling loss, and insect intrusion|
 |Slab|2" Foamular XPS under slab foam insulation to help insulate concrete slab from external temperature fluctuations|
 |Lower level|Walkout with expansive south-facing windows|
-|Roof eaves|Longer than standard 24" eaves help reduce sun impact in Summer and enhance aesthetics|
+|Roof eaves|Wider than common, the home's 2' eaves help reduce sun impact in Summer and enhance aesthetics|
 {{< /table >}}
 
 ### Optional Accessory Structure
