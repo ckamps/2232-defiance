@@ -40,7 +40,7 @@ Although secluded, the property has two gigabit fiber internet services availabl
 | | |
 |-|-|
 |OTA|Hidden, attic-mounted over the air (OTA) HD television antennae available via home network and devices|
-|Satellite|Dish mounts pre-installed|
+|Satellite|Dish pole mount pre-installed with underground conduit and hidden from view in rear of property|
 {.table .table-striped}
 
 ## Weather Station
