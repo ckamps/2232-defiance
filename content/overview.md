@@ -14,7 +14,7 @@ type: docs
 |Floor joists|Structurally engineered silent floor joists|
 |Ceilings|9'+ ceilings on main floor. 11'6" ceiling in garage.|
 |Foundation|Generous 10' foundation wall height provides additional lower level ceiling heights|
-|Slab|2" Foamular XPS under slab foam insulation (R-10) to help insulate concrete slab from external temperature fluctuations|
+|Slab|2" Foamular XPS under slab foam insulation to help insulate concrete slab from external temperature fluctuations|
 |Lower level|Walkout with expansive south-facing windows|
 |Roof eaves|Longer than standard 24" eaves help reduce sun impact in Summer and enhance aesthetics|
 {{< /table >}}
