@@ -7,7 +7,7 @@ type: docs
 
 {{< table class="table-striped" >}}
 | | |
-|-|-|
+|-----------------|-|
 |Build year|2006|
 |Exterior walls|Upgraded 2"x6" exterior wall framing (typical is 2"x4")|
 |Subfloors|[AdvanTech](https://www.huberwood.com/advantech/subflooring) engineered tounge and groove subflooring|
