@@ -6,13 +6,6 @@ type: docs
 ## Construction
 
 {{< table class="table-striped" >}}
-| #  | Item        | Left aligned | Center aligned |   Right aligned|
-| -- | ----------- |:-------------|:--------------:| --------------:|
-| 1. | First item  | some text    | more text      | even more text |
-| 2. | Second item | some text    | more text      | even more text |
-| 3. | Third item  | some text    | more text      | even more text |
-{{< /table >}}
-
 | | |
 |-|-|
 |Build year|2006|
@@ -24,7 +17,7 @@ type: docs
 |Slab|2" Foamular XPS under slab foam insulation (R-10) to help insulate concrete slab from external temperature fluctuations|
 |Lower level|Walkout with expansive south-facing windows|
 |Roof eaves|Longer than standard 24" eaves help reduce sun impact in Summer and enhance aesthetics|
-{.table .table-striped}
+{{< /table >}}
 
 ### Optional Accessory Structure
 
