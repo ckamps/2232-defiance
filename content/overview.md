@@ -77,6 +77,14 @@ Take advantage of already approved county variance to build your own detached ac
 |Yard hydrant|Frost-proof yard hydrant located on far west side of property|
 {.table .table-striped}
 
+## Irrigation
+
+| | |
+|-|-|
+|**Sprinkler controller**|[Rachio 16ZULW-C](https://rachio.com/products/rachio-3/) 16 zone, 3rd generation smart sprinkler controller|
+|**Zones**|16-zone system including zoned master valve. Separate zone for deck drip to water seasonal plants on deck.|
+{.table .table-striped}
+
 ## Electrical
 
 | | |
