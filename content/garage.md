@@ -72,6 +72,6 @@ Take advantage of the hidden large volume air compressor to easily and quikly in
 |**Wireless network**|PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point integrated with home wireless router for centralized control|
 |**Speakers**|Wall mounted Klipsch AW-650 Indoor/Outdoor 8 inch speakers|
 |**Apple TV**|Dedicated Apple TV|
-|**A/V receiver amplifier**|Yamaha RX-... A/V receiver powers speakers and connects to Apple TV and wall mounted TV|
-|**Wall mount TV**|nn inch ... TV|
+|**A/V receiver amplifier**|Yamaha RX-V481 A/V receiver powers speakers and connects to Apple TV and wall mounted TV|
+|**Wall mount TV**|LED TV|
 {.table .table-striped}
