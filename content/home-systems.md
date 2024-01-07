@@ -33,6 +33,7 @@ Although secluded, the property has two gigabit fiber internet services availabl
 
 - Central home technology rack in lower level
 - Rack mount Unifi Dream Machine router
+- Built-in remote VPN access to home network
 - 4 ceiling mounted hardwired wireless access points
   - Dining room 
   - Master bedroom
