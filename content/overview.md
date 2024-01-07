@@ -92,7 +92,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Garage panel|Garage subpanel for garage and outdoor electrical loads|
 |Lower level panel|Separate 200 AMO subpanel in lower level unfinished area for main home|
 |Spa hookup|Spa hookup near rear patio for future spa power|
-|Switches and dimmers|Decora style switches and dimmers throughout. Large number of smart dimmers and switches throughout the home for commonly used lights and fans|
+|Switches and dimmers|Decora style switches and dimmers throughout. Large number of smart dimmers and switches throughout the home for commonly used lights and fans.|
 |Wall plates|Stylish Leviton screwless switch and receptable outlet wall plates in all living spaces|
 |Service to lower land|Underground electrical circuit from garage to RV pedastal near lower land area|
 |Light poles|2 light poles in lower land area each with raised electrical outlets|
@@ -130,7 +130,7 @@ Take advantage of already approved county variance to build your own detached ac
 
 | | |
 |-|-|
-|Faucets and sinks|Grohe and Kohler|
+|Faucets, shower heads, and sinks|Grohe and Kohler faucets, shower heads, and sinks throughout|
 |Toilets|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
 {.table .table-striped}
 
@@ -139,11 +139,11 @@ Take advantage of already approved county variance to build your own detached ac
 | | |
 |-|-|
 |Lighting type|LED throughout|
-|Automation|Many lights are automated according to custom schedules|
-|Landscape lighting|Three-zone: Deck, rear, entry|
-|Bridge flood flight|Automated light to accent the iron railroad bridge on-demand|
-|Smart switches and dimmers|More than nn smart dimmers and smart switches can controlled from your phone and via schedules|
-|Occupancy sensor lighting|Closets, water closets, and storage areas|
+|Automation|Commonly used lights are automated according to customizable schedules and events|
+|Landscape lighting|Three low voltage transformers control three zones of landscape lighting: Zone 1: Entry drive; Zone 2: Front of house and hill overlooking creek and river valleys; Zone 3: Deck lighting. All zones are integrated with home automation.|
+|Railroad bridge accent lighting|Flood light in lower land area can be remotely controlled to provide on-deman accent lighting of the iron railroad bridge|
+|Smart switches and dimmers|Large number of smart dimmers and switches throughout the home for commonly used lights and fans|
+|Occupancy sensor lighting|Presence sensor dimmers automatically light closets, water closets/toilet rooms, and storage areas|
 {.table .table-striped}
 
 ## Central Vacuum
@@ -151,6 +151,6 @@ Take advantage of already approved county variance to build your own detached ac
 | | |
 |-|-|
 |Central vacuum|Garage wall mounted Beem central vacuum unit|
-|Vacuum outlets|7 fully covered and powered vacuum outlets + 2 outlets in garage|
-|Vaccum hoses|2 nn foot powered hoses for inside + 1 nn foot hose for garage|
+|Vacuum outlets|7 powered vacuum outlets in the main home and 2 outlets in the garage|
+|Vaccum hoses|2 powered hoses for inside use and 1 hose for garage|
 {.table .table-striped}
