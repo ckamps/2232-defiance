@@ -34,6 +34,16 @@ A series of Power Over Ethernet (PoE) network cameras are positioned outside the
 |Entry road fence (winter only)|
 {.table .table-striped}
 
+{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/cameras/entry-road-hill.jpeg" >}}
+  {{< img src="img/cameras/driveway.jpeg" >}}
+  {{< img src="img/cameras/front.jpeg" >}}
+  {{< img src="img/cameras/porch.jpeg" }}
+  {{< img src="img/cameras/patio.jpeg" }}
+  {{< img src="img/cameras/bridge.jpeg" }}
+  {{< img src="img/cameras/dock.jpeg" }}
+{{< /carousel >}}
+
 ## Doorbell and Camera
 
 A Ring Doorbell Pro is positioned at the main entry door.
