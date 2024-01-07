@@ -48,8 +48,9 @@ Although secluded, the property has two gigabit fiber internet services availabl
 
 | | |
 |-|-|
-|OTA|Hidden, attic-mounted over the air (OTA) HD television antennae available via home network and devices|
-|Satellite|Dish pole mount pre-installed with underground conduit and hidden from view in rear of property|
+|OTA antenna|Attic mounted over the air (OTA) HD television antennae|
+|OTA receiver|SiliconDust HDHomeRun Flex 4K OTA receiver connects to the OTA antenna and the home network. It enables Apple TVs and phones to view local HD TV stations.|
+|Satellite ready|If you prefer satellite TV, a dish pole mount exists hidden behind the garage. Conduit is already in place to easily run coax from a dish to the garage and main home's lower level.|
 {.table .table-striped}
 
 ## Weather Station
