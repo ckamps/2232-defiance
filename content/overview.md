@@ -72,7 +72,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Water pressure regulator|Helps reduce the substantial pressure of the main service line|
 |Water softener|Whole house water softener delivers conditioned water to select faucets and laundry|
 |Water heater|Bradford White Hydrojet LP gas 75 gallon water heater installed in late 2018|
-|Water heater pre-heat tank|Geothermal HVAC unit is connected to Rheem 50 gallon water heater to use excess HVAC heat to pre-heat domestic water upostream of LP gas water heater|
+|Water heater pre-heat tank|Geothermal HVAC unit is connected to Rheem 50 gallon water heater to use excess HVAC heat to pre-heat domestic water upstream of LP gas water heater|
 |Hose bibs|Freeze proof hose bibs in 5 exterior locations: House front, deck, below deck, east and north sides|
 |Yard hydrant|Frost-proof yard hydrant located on far west side of property|
 {.table .table-striped}
