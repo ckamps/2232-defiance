@@ -38,7 +38,7 @@ Take advantage of already approved county variance to build your own detached ac
 
 | | |
 |-|-|
-|Roof material|GAF HD Timberline HD shingles and Rhino Synthetic underlayment installed in 2021|
+|Roof material|GAF Timberline HD shingles and Rhino Synthetic underlayment installed in 2021|
 |Roof ventilation|Low visual impact ridge vents with soffit ventlation on garage and main structure|
 |Roof animal protection|[Ridge-Guard](https://www.animaltrapsandsupplies.com/products/ridgeguard-ridge-vent-animal-exclusion.html) metal mesh protection from animals along all ridge vents|
 |Roof vents|Exhaust fan and water vents are all situated on the rear of the main roof to remain hidden from view|
