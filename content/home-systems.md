@@ -18,6 +18,14 @@ type: docs
   - Patio
   - Bridge
   - Dock
+ 
+## Cable Management
+
+| | |
+|-|-|
+|Main house attic cable conduits|Two generous size PVC conduit from lower level unfinished to main attic for network, speaker, and other cables|
+|Garage-house attic cable conduit|Generous size PVC conduit from house lower unfinished area to garage attic|
+{.table .table-striped}
 
 ## Networking
 
