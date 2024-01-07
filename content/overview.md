@@ -58,7 +58,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Thermostats|Honeywell T6 Pro smart thermostats with Z-Wave Plus. 3 quantity, 1 per zone. Integrated with home automation.|
 |Exterior walls|Upgraded 2"x6" (typical is 2"x4"). Enabled thicker wall insulation.|
 |Roof overhangs|24" reduces sun impact in Summer|
-|ERV|Whole-house Energy Recovery Ventilator (ERV). Exchanges inside air with fresh outside air. Used throughout the year. Wall mounted control to adjust percentage runb time.|
+|ERV|Whole-house Energy Recovery Ventilator (ERV). Exchanges inside air with fresh outside air. Used throughout the year. Wall mounted control to adjust percentage run time.|
 |Dehumidifier|Whole-house dehumidifier for summer months.|
 |Humidifier|Whole-house steam humidifier for winter months. Integrated with home automation to automatically maintain desired humidity level.|
 |Ceiling fans|Casablanca Panama fans with smart switches|
