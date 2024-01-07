@@ -89,10 +89,21 @@ All wireless access points were installed ~2022 at about the same time gigabit f
 
 ## Home Automation
 
-| | |
-|-|-|
-|Automation hubs|Zoned automation hubs located in: Main level, lower level, and garage|
-|Lighting schedules|Predefined early morning and evening and customizable schedules|
+[Hubitat](https://hubitat.com/) home automation hubs enable control of a wide variety of devices within the home. Three Hubitat devices are meshed and located in the living room (C-8 version), lower level (C-8 version), and garage (C-7 version). The hubs support Z-Wave, Zigbee, Apple HomeKit, and Matter (C-8 only).
+
+Apple TVs distributed throughout the home act as Apple Home hubs. Currently, most of the home's smart switches and other devices are registered with the Hubitat devices. In turn, the Hubitat devices use their built-in support for HomeKit to make the devices available via the Apple Home app on iOS devices.
+
+You have the option to define automations through the Apple Home app, Hubitat, or both.
+
+Examples of remote control and automation already in place include:
+
+| |
+|-|
+|Voice assistant control of living room fireplace. "Alex, turn on the fireplace"|
+|Voice assistant control of garage doors|
+|Automatic early morning and evening inside and outdoor lighting schedules|
+|Automatically arming the home security system in the late evening|
+|Automated monitoring of indoor and outdoor humidity levels and control of the whole house humidifier to align with target humidity level|
 {.table .table-striped}
 
 ## Cable Conduits
