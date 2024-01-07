@@ -5,7 +5,7 @@ type: docs
 
 ## Security System
 
-Although the home is difficult for people to access either via the entry road or by foot on the Katy trail, it's nice to have the extra security of a built-in home security alarm system and cameras.
+Although the home is difficult for people to access unnoticed via the entry road or by foot on the Katy trail, it's nice to have the extra security of a built-in home security alarm system and cameras.
 
 | | |
 |-|-|
