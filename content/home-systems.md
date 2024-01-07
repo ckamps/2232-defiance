@@ -3,21 +3,40 @@ title: Home Systems
 type: docs
 ---
 
-## Security
+## Security System
 
-- Central alarm system
-- Exterior door sensors
-- Glass break sensors throughout
-- Integrated with home automation system
-- 9 outdoor cameras managed by rack mounted network video recorder (NVR)
-  - Highway
-  - Entry fence
-  - Entry hill
-  - Driveway (2)
-  - Porch
-  - Patio
-  - Bridge
-  - Dock
+Although the home is difficult for people to access either via the entry road or by foot on the Katy trail, it's nice to have the extra security of a built-in home security alarm system and cameras.
+
+| | |
+|-|-|
+|Central alarm system|A ADT Safewatch Pro Security System (Honeywell Ademco Vista 20p security panel)|
+|Keypads|2: Master suite and mud room|
+|Exterior door contact sensors|All exterior doors have built-in contact sensors|
+|Glass break sensors|All rooms with glass windows accessible to ground level have glass break sensors|
+|Smoke sensor|Smoke sensor integrated with security system (apart from standard battery powered smoke and CO2 sensors)|
+|Home automation integration|[EyezOn EnvisaLink 4](https://www.eyezon.com/evl4.php) module connects to the security system as a third keypad and connects to the home network. Enabling the security systems to be integrated with the home automation system so that you can control and monitor the system using your phone|
+{.table .table-striped}
+
+## Outdoor Cameras
+
+A series of Power Over Ethernet (PoE) cameras are positioned outside the home to enable you to view the surroundings when you're home and away. A Hikvision Network Video Recorder (NVR) provides local storage for events and recordings. The Hikivison mobile app can be used to access your camera feeds from home and away.
+
+| |
+|-|
+|Entry road hill|
+|Driveway|
+|Autocourt and front of home|
+|Porch|
+|Patio|
+|Railroad bridge and creek (with audio)|
+|Dock and creek (with audio)|
+|Highway (winter only)|
+|Entry road fence (winter only)|
+{.table .table-striped}
+
+## Doorbell and Camera
+
+A Ring Doorbell Pro is positioned at the main entry door.
 
 ## Networking
 
