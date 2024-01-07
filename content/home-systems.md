@@ -114,7 +114,8 @@ Examples of remote control and automation already in place include:
 |Voice assistant control of living room fireplace. "Alexa, turn on the fireplace"|
 |Voice assistant control of garage doors|
 |Automatic early morning and evening inside and outdoor lighting schedules|
-|Automatically arming the home security system in the late evening|
+|Automatic arming the home security system in the late evening|
+|Automatic tunring on/off ceiling fans based on inside temperature|
 |Automated monitoring of indoor and outdoor humidity levels and control of the whole house humidifier to align with target humidity level|
 {.table .table-striped}
 
