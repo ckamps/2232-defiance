@@ -14,7 +14,7 @@ Although the home is difficult for people to access either via the entry road or
 |Exterior door contact sensors|All exterior doors have built-in contact sensors|
 |Glass break sensors|All rooms with glass windows accessible to ground level have glass break sensors|
 |Smoke sensor|Smoke sensor integrated with security system (apart from standard battery powered smoke and CO2 sensors)|
-|Home automation integration|[EyezOn EnvisaLink 4](https://www.eyezon.com/evl4.php) module connects to the security system as a third keypad and connects to the home network. Enabling the security systems to be integrated with the home automation system so that you can control and monitor the system using your phone|
+|Home automation integration|[EyezOn EnvisaLink 4](https://www.eyezon.com/evl4.php) module connects to the security system as a third keypad and connects to the home network. The module enables the security systems to be integrated with the home automation system so that you can control and monitor the system using your phone and automate actions based on events such as exterior doors opening and closing.|
 {.table .table-striped}
 
 ## Outdoor Cameras
