@@ -19,7 +19,7 @@ Although the home is difficult for people to access either via the entry road or
 
 ## Outdoor Cameras
 
-A series of Power Over Ethernet (PoE) network cameras are positioned outside the home to enable you to view the surroundings when you're home and away. A [Hikvision DS-7616NI-I2/16P](https://www.hikvision.com/au-en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7616ni-i2-16p/) Network Video Recorder (NVR) provides local storage for events and recordings. The Hikvison Hik Connect mobile app can be used to access your camera feeds from home and away. Since the NVR is in your home, there are no monthly subscription fees required to access your cameras and recordings.
+A series of Power Over Ethernet (PoE) network cameras are positioned outside the home to enable you to view the surroundings when you're home and away. A [Hikvision DS-7616NI-I2/16P](https://www.hikvision.com/au-en/products/IP-Products/Network-Video-Recorders/Pro-Series/ds-7616ni-i2-16p/) Network Video Recorder (NVR) provides local storage for events and recordings. The Hikvison Hik Connect mobile app can be used to receive alerts and access your camera feeds from home and away. Since the NVR is in your home, there are no monthly subscription fees required to access your cameras and recordings.
 
 | |
 |-|
