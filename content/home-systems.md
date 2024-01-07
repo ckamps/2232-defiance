@@ -108,14 +108,14 @@ Examples of remote control and automation already in place include:
 
 ## Cable Conduits
 
-Generous size gray PVC conduit has been installed to make it easy to route network, audio, and TV cables throughout the garage and home.
+Generously sized gray PVC conduit has been installed to make it easy to route network, audio, and TV cables throughout the garage and home.
 
 | |
 |-|
 |Lower level to attic|
 |Lower level to living room|
-|Lower level to bedroom|
+|Lower level to bedrooms|
 |Lower level unfinished to lower level main room|
-|Garage to house|
+|Garage to house beneath the breezeway|
 |Garage to attic|
 {.table .table-striped}
