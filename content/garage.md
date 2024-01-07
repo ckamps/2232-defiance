@@ -62,14 +62,6 @@ Take advantage of the hidden large volume air compressor to easily and quikly in
 |**Water shutoff valves**|Water shutoff valves and drains located in main home lower unfinished area for winterizing|
 {.table .table-striped}
 
-## Irrigation
-
-| | |
-|-|-|
-|**Sprinkler controller**|[Rachio 16ZULW-C](https://rachio.com/products/rachio-3/) 16 zone, 3rd generation smart sprinkler controller|
-|**Zones**|16-zone system including zoned master valve. Separate zone for deck drip to water seasonal plants on deck.|
-{.table .table-striped}
-
 ## Networking and A/V
 
 | | |
