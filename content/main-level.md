@@ -42,6 +42,7 @@ type: docs
 |-|-|
 |Room dimensions|...|
 |Flooring|nn" solid beech hardwood floors flow into kitchen and living room| 
+{.table .table-striped}
 
 ## Sun Room
 
