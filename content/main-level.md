@@ -3,34 +3,25 @@ title: Main Level
 type: docs
 ---
 
-## Overview
-
-| | |
-|-|-|
-|...|...|
-{.table .table-striped}
-
 ## Kitchen and Pantry
 
 | | |
 |-|-|
-|Room dimensions|...|
-|Flooring|nn" solid beech hardwood floors flow into dining room and living room| 
-|Pantry|...|
+|Flooring|Solid beech hardwood floors flow into dining room and living room| 
+|Pantry|Positioned next to refrigerator. Built-in shelving.|
 |Cabinets|Medallion Gold Valencia style Cherry in natural finish. Quiet close doors and drawers.|
 |Cabinet hardware|Restoration Hardware drawer pulls in oil rubbed bronze|
 |Under cabinet lighting|Kichler undercabinet LED lighting integrated with home automation|
-|Countertops|...|
-|Center island|...|
-|Center island sink|...|
-|Refigerator|GE...|
-|Ovens|Miele...|
-|Cooktop|Thermador xxx induction...|
-|Hood|...|
-|Warming drawer|...|
-|Microwave|...|
+|Countertops|Granite countertops with beveled edges|
+|Center island|Includes salad sink|
+|Refigerator|Built-in 42" GE Monogram refrigerator/freezer with ice and water dispenser|
+|Oven|Miele double convection oven|
+|Cooktop|Thermador 36" induction cooktop|
+|Hood|Stainless steel hood with lighting|
+|Warming drawer|Built-in warming drawer|
+|Microwave|Built-in Sharp SMC1585BS 1.5 cu. ft. microwave oven with convection cooking in stainless steel. New in 2021.|
 |Main sink|Two bowl stainless steel Kohler K-3356 undermount sink|
-|TV|23" LED|
+|TV|23" LED in dedicated TV cabinet|
 |Apple TV|Dedicated Apple TV 4K 32GB|
 |Speakers|Polk Audio RC60i ceiling speakers x 2|
 |A/V receiver|Dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via multi-zone speaker switch|
