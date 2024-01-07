@@ -54,7 +54,7 @@ A Ring Doorbell Pro is positioned at the main entry door.
 
 Although secluded, the property has two gigabit fiber internet services available. Currently, Brightspeed's 900Mbps service is integrated with the home. Alternatively, Spectrum fiber service also services the immediate area.
 
-The included [UniFi Dream Machine Pro](https://store.ui.com/us/en/products/udm-pro) makes managing and keeping up-to-date the home network and wireless access points simple.
+The included [UniFi Dream Machine Pro](https://store.ui.com/us/en/products/udm-pro) simplifies management of the home network and wireless access points.
 
 | ||
 |-|-|
