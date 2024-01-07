@@ -48,17 +48,17 @@ Although secluded, the property has two gigabit fiber internet services availabl
 
 ### Wireless Access Points
 
-All wireless access points were installed ~2022 at about the same time gigabit fiber internet service was established. Depending on your device, the access points are capable of providing up to ~500Mbps speeds throughout the home and outside.
+All wireless access points were installed ~2022 at about the same time gigabit fiber internet service was established. Depending on your device, the WiFi 6 access points are capable of providing up to ~500Mbps speeds throughout the home and outside.
 
 | ||
 |-|-|
-|Dining room ceiling|Unifi U6-Pro|
-|Master suite ceiling|Unifi U6-Pro|
-|Lower main room ceiling|Unifi U6-LR|
-|Garage ceiling|Unifi U6-LR|
-|Deck facing lower land|Unifi U6-Mesh|
-|Lower land light pole near railroad bridge|Unifi U6-Mesh|
-|Lower land light pole near dock|Unifi U6-Mesh|
+|Dining room ceiling|[UniFi U6-Pro](https://store.ui.com/us/en/products/u6-pro)|
+|Master suite ceiling|UniFi U6-Pro|
+|Lower main room ceiling|[UniFi U6-LR](https://store.ui.com/us/en/products/u6-lr)|
+|Garage ceiling|UniFi U6-LR|
+|Deck facing lower land|[UniFi U6-Mesh](https://store.ui.com/us/en/products/u6-mesh)|
+|Lower land light pole near railroad bridge|UniFi U6-Mesh|
+|Lower land light pole near dock|UniFi U6-Mesh|
 {.table .table-striped}
 
 ## Over the Air and Satellite Television
