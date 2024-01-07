@@ -18,14 +18,6 @@ type: docs
   - Patio
   - Bridge
   - Dock
- 
-## Cable Management
-
-| | |
-|-|-|
-|Main house attic cable conduits|Two generous size PVC conduits from lower level unfinished to main attic for network, speaker, and other cables|
-|Garage-house attic cable conduit|Generous size PVC conduit from house lower unfinished area to garage attic|
-{.table .table-striped}
 
 ## Networking
 
@@ -63,4 +55,18 @@ Tempest wireless weather station; wind speed, direction, temperature, humidity, 
 |-|-|
 |Automation hubs|Zoned automation hubs located in: Main level, lower level, and garage|
 |Lighting schedules|Predefined early morning and evening and customizable schedules|
+{.table .table-striped}
+
+## Cable Management
+
+Generous size gray PVC conduit has been installed to make it easy to route network, audio, and TV cables throughout the garage and home.
+
+| | |
+|-|-|
+|Lower level to attic||
+|Lower level to living room||
+|Lower level to bedroom||
+|Lower level unfinished to lower level main room||
+|Garage to house||
+|Garage to attic||
 {.table .table-striped}
