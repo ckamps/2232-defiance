@@ -41,7 +41,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Roof material|GAF Timberline HD shingles and Rhino Synthetic underlayment installed in 2021|
 |Roof ventilation|Low visual impact ridge vents with soffit ventlation on garage and main structure|
 |Roof animal protection|[Ridge-Guard](https://www.animaltrapsandsupplies.com/products/ridgeguard-ridge-vent-animal-exclusion.html) metal mesh protection from animals along all ridge vents|
-|Roof vents|Exhaust fan and water vents are all situated on the rear of the main roof to remain hidden from view|
+|Roof vents|Exhaust fan and water vents are situated on the rear of the main roof to remain hidden from view|
 |Soffits|Fiber cement [Hardie Soffit Panels Vented Cedarmill](https://www.jameshardie.com/products/hardiesoffit-panels)|
 |Gutters|Oversized 6" aluminum|
 |Gutter guards|Stainless steel mesh gutter guards installed throughout|
