@@ -36,7 +36,7 @@ Although secluded, the property has two gigabit fiber internet services availabl
   - Bridge
   - Dock
 
-## Television
+## Over the Air and Satellite Television
 
 | | |
 |-|-|
