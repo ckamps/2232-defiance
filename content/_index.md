@@ -6,7 +6,8 @@ modules: ["leaflet"]
   {{< img src="img/spring-front.jpeg" >}}
   {{< img src="img/sunset-winter.jpeg" >}}
   {{< img src="img/from-bottom-night.jpeg" >}}
-  {{< img src="img/winter-lower-bridge.jpeg" >}}
+  {{< img src="img/winter-lower-bridge.jpeg" caption="View from home of the Femme Osage Creek bridge" >}}
+  {{< img src="img/bluff-at-night.jpeg" caption="One of two bluffs">}}
 {{< /carousel >}}
 
 **$2,400,000**
