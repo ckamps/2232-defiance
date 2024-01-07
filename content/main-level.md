@@ -33,7 +33,7 @@ type: docs
 |TV|23" LED|
 |Apple TV|Dedicated Apple TV 4K 32GB|
 |Speakers|Polk Audio RC60i ceiling speakers x 2|
-|A/V receiver|Dedicated Yamaha RX-V483x A/V receiver amplifier in lower level systems rack|
+|A/V receiver|Dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via multi-zone speaker switch|
 {.table .table-striped}
 
 ## Dining Room
