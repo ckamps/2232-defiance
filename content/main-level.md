@@ -21,9 +21,12 @@ type: docs
 |Warming drawer|Built-in warming drawer|
 |Microwave|Built-in Sharp SMC1585BS 1.5 cu. ft. microwave oven with convection cooking in stainless steel. New in 2021.|
 |Main sink|Two bowl stainless steel Kohler K-3356 undermount sink|
+|Computer nook|Large enough to support 27" displays|
+|Uninterruptable Power Supply (UPS)|A 750VA/450W CyberPower EC750G Ecologic Battery Backup & Surge Protector UPS System provides back up power and helps protect the equipment in case of power outages and power spikes|
 |TV|23" LED in dedicated TV cabinet|
 |Apple TV|Dedicated Apple TV 4K 32GB|
 |Speakers|Polk Audio RC60i ceiling speakers x 2|
+|Speaker selector|Multi-zone speaker selector and volume control for the kitchen, dining room, and sun room ceiling speakers|
 |A/V receiver|Dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via multi-zone speaker switch|
 {.table .table-striped}
 
@@ -77,6 +80,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |Apple TV|Dedicated Apple TV ...|
 |Speakers|... center channel, ... front channels, ... powered subwoofer, Polk Audio RC60i ceiling speakers x 2 (rear channels) |
 |A/V receiver|Dedicated [Yamaha RX-V4A](https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-v4a/index.html) 5.2 channel A/V receiver amplifier|
+|Uninterruptable Power Supply (UPS)|A ... provides back up power and helps protect the equipment in case of power outages and power spikes|
 {.table .table-striped}
 
 ## Living Room Dry Bar
