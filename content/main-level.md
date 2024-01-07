@@ -85,7 +85,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |TV|nn 23" Samsung ... LED|
 |Apple TV|Dedicated Apple TV ...|
 |Speakers|... center channel, ... front channels, ... powered subwoofer, Polk Audio RC60i ceiling speakers x 2 (rear channels) |
-|A/V receiver|Dedicated Yamaha RX-V4A 5.2 channel A/V receiver amplifier|
+|A/V receiver|Dedicated [Yamaha RX-V4A](https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-v4a/index.html) 5.2 channel A/V receiver amplifier|
 {.table .table-striped}
 
 ## Living Room Dry Bar
