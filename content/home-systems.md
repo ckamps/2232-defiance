@@ -89,7 +89,7 @@ All wireless access points were installed ~2022 at about the same time gigabit f
 
 ## Home Automation
 
-[Hubitat](https://hubitat.com/) home automation hubs enable control of a wide variety of devices within the home. Three Hubitat devices are meshed and located in the living room (C-8 version), lower level (C-7 version), and garage (C-8 version). The hubs support Z-Wave, Zigbee, Apple HomeKit, and Matter (C-8 only).
+[Hubitat](https://hubitat.com/) home automation hubs enable control and automation of a wide variety of devices within the home. Three Hubitat devices are meshed and located in the living room (C-8 version), lower level (C-7 version), and garage (C-8 version). The hubs support Z-Wave, Zigbee, Apple HomeKit, and Matter (C-8 only).
 
 Apple TVs distributed throughout the home act as Apple Home hubs. Currently, most of the home's smart switches and other devices are registered with the Hubitat devices. In turn, the Hubitat devices use their built-in support for HomeKit to make the devices available via the Apple Home app on iOS devices.
 
