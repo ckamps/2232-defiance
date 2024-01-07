@@ -19,7 +19,7 @@ Although the home is difficult for people to access either via the entry road or
 
 ## Outdoor Cameras
 
-A series of Power Over Ethernet (PoE) cameras are positioned outside the home to enable you to view the surroundings when you're home and away. A Hikvision DS-7616NI-I2/16P Network Video Recorder (NVR) provides local storage for events and recordings. The Hikvison Hik Connect mobile app can be used to access your camera feeds from home and away. Since the NVR is in your home, there are no monthly subscription fees required to access your cameras and recordings.
+A series of Power Over Ethernet (PoE) network cameras are positioned outside the home to enable you to view the surroundings when you're home and away. A Hikvision DS-7616NI-I2/16P Network Video Recorder (NVR) provides local storage for events and recordings. The Hikvison Hik Connect mobile app can be used to access your camera feeds from home and away. Since the NVR is in your home, there are no monthly subscription fees required to access your cameras and recordings.
 
 | |
 |-|
@@ -40,20 +40,26 @@ A Ring Doorbell Pro is positioned at the main entry door.
 
 ## Networking
 
-Although secluded, the property has two gigabit fiber internet services available. Up-to-date wireless access points inside and out provide high-speed access for both pleasure and work.
+Although secluded, the property has two gigabit fiber internet services available. Currently, BrightspUp-to-date wireless access points inside and out provide high-speed access for both pleasure and work.
 
 - Central home technology rack in lower level
 - Rack mount Unifi Dream Machine router
 - Built-in remote VPN access to home network
-- 4 ceiling mounted hardwired wireless access points
-  - Dining room 
-  - Master bedroom
-  - Lower level main room
-  - Garage
-- 3 outdoor wireless  access points
-  - Deck
-  - Bridge
-  - Dock
+
+### Wireless Access Points
+
+All wireless access points were installed ~2022 at about the same time gigabit fiber internet service was established. Depending on your device, the access points are capable of providing up to ~500Mbps speeds throughout the home and outside.
+
+| ||
+|-|-|
+|Dining room ceiling|Unifi U6-Pro|
+|Master suite ceiling|Unifi U6-Pro|
+|Lower main room ceiling|Unifi U6-LR|
+|Garage ceiling|Unifi U6-LR|
+|Deck facing lower land|Unifi U6-Mesh|
+|Lower land light pole near railroad bridge|Unifi U6-Mesh|
+|Lower land light pole near dock|Unifi U6-Mesh|
+{.table .table-striped}
 
 ## Over the Air and Satellite Television
 
