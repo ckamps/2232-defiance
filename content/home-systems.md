@@ -19,7 +19,7 @@ Although the home is difficult for people to access either via the entry road or
 
 ## Outdoor Cameras
 
-A series of Power Over Ethernet (PoE) cameras are positioned outside the home to enable you to view the surroundings when you're home and away. A Hikvision Network Video Recorder (NVR) provides local storage for events and recordings. The Hikvison Hik Connect mobile app can be used to access your camera feeds from home and away.
+A series of Power Over Ethernet (PoE) cameras are positioned outside the home to enable you to view the surroundings when you're home and away. A Hikvision Network Video Recorder (NVR) provides local storage for events and recordings. The Hikvison Hik Connect mobile app can be used to access your camera feeds from home and away. Since the NVR is in your home, there are no monthly subscription fees to access your cameras and recordings.
 
 | |
 |-|
