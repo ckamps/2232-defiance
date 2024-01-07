@@ -67,7 +67,7 @@ Take advantage of the hidden large volume air compressor to easily and quikly in
 | | |
 |-|-|
 |**Sprinkler controller**|[Rachio 16ZULW-C](https://rachio.com/products/rachio-3/) 16 zone, 3rd generation smart sprinkler controller|
-|**Zones**|...|
+|**Zones**|16-zone system including zoned master valve. Separate zone for deck drip to water seasonal plants on deck.|
 {.table .table-striped}
 
 ## Networking and A/V
