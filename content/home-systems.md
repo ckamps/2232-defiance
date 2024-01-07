@@ -57,7 +57,7 @@ Tempest wireless weather station; wind speed, direction, temperature, humidity, 
 |Lighting schedules|Predefined early morning and evening and customizable schedules|
 {.table .table-striped}
 
-## Cable Management
+## Cable Conduits
 
 Generous size gray PVC conduit has been installed to make it easy to route network, audio, and TV cables throughout the garage and home.
 
