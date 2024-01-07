@@ -56,7 +56,7 @@ From many areas of the yard and home, enjoy a commanding and intimate view of th
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/bridge-spring-2.jpeg" caption="Bluff top view of 120-year-old iron railroad bridge on Katy trail" >}}
   {{< img src="img/bridge-lower-land.jpeg" caption="View from lower land" >}}  
-  {{< img src="img/bridge-from-water.jpeg" caption="Femme Osage Creek">}}
+  {{< img src="img/bridge-from-water.jpeg" caption="Femme Osage Creek and private dock on the right">}}
   {{< img src="img/bridge-night.jpeg" caption="Accent lighting of the bridge">}}
 {{< /carousel >}}
 
