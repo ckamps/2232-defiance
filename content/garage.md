@@ -29,7 +29,7 @@ The fully finished, south facing, oversized 3-car+ garage is tucked into the blu
 |**Automation**|In addition to wall-mounted door controls, the garage door openers are smart home connected for remote control and monitoring via Apple Home, Siri, Alexa, etc|
 {.table .table-striped}
 
-## Built-in Cabinets and Shelving
+## Storage, Shelving, and Workbench
 
 | | |
 |-|-|
