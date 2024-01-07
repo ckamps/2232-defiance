@@ -47,7 +47,12 @@ Although secluded, the property has two gigabit fiber internet services availabl
 
 ## Weather Station
 
-Tempest wireless weather station; wind speed, direction, temperature, humidity, pressure, light level, and solid state rain gauge
+|||
+|-|-|
+|Weather station|Garage roof mounted [WeatherFlow Tempest](https://tempest.earth/tempest-home-weather-system/) wireless and solar powered weather system. Measures wind speed and direction, temperature, humidity, pressure, light level, and rainfall via a solid state rain gauge|
+|Home automation integration|Outdoor weather data can be used to help automate home functions. For example, outside light levels help influence lighting decisions.|
+|Weather Underground integration|Weather station publishes as site [KMODEFIA18](https://www.wunderground.com/dashboard/pws/KMODEFIA18?cm_ven=localwx_pwsdash) on the Weather underground|
+{.table .table-striped}
 
 ## Home Automation
 
