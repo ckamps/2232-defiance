@@ -10,7 +10,7 @@ Although the home is difficult for people to access either via the entry road or
 | | |
 |-|-|
 |Central alarm system|A ADT Safewatch Pro Security System (Honeywell Ademco Vista 20p security panel). A subscription for ADT to provide remote monitoring is optional, but not necessary to use the security system.|
-|Keypads|2: Master suite and mud room|
+|Keypads|Keypads located in mud/laundry room and master suite|
 |Exterior door contact sensors|All exterior doors have built-in contact sensors|
 |Glass break sensors|All rooms with glass windows accessible to ground level have glass break sensors|
 |Smoke sensor|Smoke sensor integrated with security system (apart from standard battery powered smoke and CO2 sensors)|
