@@ -35,6 +35,7 @@ The fully finished, south facing, oversized 3-car+ garage is tucked into the blu
 |-|-|
 |**Wall cabinets**|Whirlpool Gladiator cabinets: 6 quantity tall cabinets, 3 quantity short cabinets|
 |**Shelving**|nn feet of shelves throughout|
+|**Workbench**|8' adjustable height hardwood workbench with heavy duty vice|
 |**Paddle board rack**|Accomodates up to 4 paddle boards|
 {.table .table-striped}
 
