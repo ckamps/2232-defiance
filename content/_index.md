@@ -6,6 +6,7 @@ modules: ["leaflet"]
   {{< img src="img/spring-front.jpeg" >}}
   {{< img src="img/sunset-winter.jpeg" >}}
   {{< img src="img/from-bottom-night.jpeg" >}}
+  {{< img src="img/winter-lower-bridge.jpeg" >}}
 {{< /carousel >}}
 
 **$2,400,000**
