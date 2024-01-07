@@ -49,7 +49,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Solar|Take advantage of the ideal south facing expanse of main structure and/or garage roofs to install solar panels|
 {.table .table-striped}
 
-## HVAC
+## HVAC and Efficiency
 
 | | |
 |-|-|
@@ -61,7 +61,7 @@ Take advantage of already approved county variance to build your own detached ac
 |ERV|Whole-house Energy Recovery Ventilator (ERV). Exchanges inside air with fresh outside air. Used throughout the year. Wall mounted control to adjust percentage runb time.|
 |Dehumidifier|Whole-house dehumidifier for summer months.|
 |Humidifier|Whole-house steam humidifier for winter months. Integrated with home automation to automatically maintain desired humidity level.|
-|Ceiling fans|Casablanca Panama fans with modern smart switches|
+|Ceiling fans|Casablanca Panama fans with smart switches|
 {.table .table-striped}
 
 ## Water
