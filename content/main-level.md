@@ -16,7 +16,7 @@ type: docs
 |-|-|
 |Room dimensions|...|
 |Pantry|...|
-|Cabinets|Medallion Cherry in natural finish. Soft close drawers.|
+|Cabinets|Medallion Cherry in natural finish. Quiet close doors and drawers.|
 |Cabinet hardware|Restoration Hardware drawer pulls in oil rubbed bronze|
 |Under cabinet lighting|...|
 |Countertops|...|
