@@ -90,7 +90,7 @@ Take advantage of already approved county variance to build your own detached ac
 | | |
 |-|-|
 |Garage panel|Garage subpanel for garage and outdoor electrical loads|
-|Lower level panel|Separate 200 AMO subpanel in lower level unfinished area for main home|
+|Lower level panel|Separate 200 AMP subpanel in lower level unfinished area for main home|
 |Spa hookup|Spa hookup near rear patio for future spa power|
 |Switches and dimmers|Decora style switches and dimmers throughout. Large number of smart dimmers and switches throughout the home for commonly used lights and fans.|
 |Wall plates|Stylish Leviton screwless switch and receptable outlet wall plates in all living spaces|
