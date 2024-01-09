@@ -96,7 +96,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 ## Bedrooms
 
-## Primary Bedroom
+### Primary Bedroom
 
 ### Second Bedroom
 
