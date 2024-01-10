@@ -26,8 +26,9 @@ type: docs
 | | |
 |-|-|
 |... Magnolia|...|
-|... Magnoilas|...|
 |Hollies|...|
+|... Magnoilas|...|
+|Japanese Maple|...|
 |Cedar of Lebanon|...|
 |...Flowering...|...|
 |Silver Maples|...|
