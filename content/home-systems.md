@@ -129,6 +129,5 @@ Generously sized gray PVC conduit has been installed to make it easy to route ne
 |Lower level to living room|
 |Lower level to bedrooms|
 |Lower level unfinished to lower level main room|
-|Garage to house beneath the breezeway|
-|Garage to attic|
+|Lower level unfinished to garage attic |
 {.table .table-striped}
