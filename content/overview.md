@@ -14,8 +14,9 @@ type: docs
 |Floor joists|Structurally engineered silent floor joists|
 |Ceilings|9'+ ceilings on main floor. 11'6" ceiling in garage.|
 |Foundation|Main structure's generous 10' foundation wall height provides additional lower level ceiling heights|
-|Sill plate gaskets|Sill plate gasket used throughout to help reduce drafts, heatin and cooling loss, and insect intrusion|
-|Slab|2" Foamular XPS under slab foam insulation to help insulate concrete slab from external temperature fluctuations|
+|Sill plate gaskets|Sill plate gasket used throughout to help reduce drafts, heating and cooling loss, and insect intrusion|
+|Slab|2" Foamular XPS foam insulation under slab to help insulate concrete slab from external temperature fluctuations|
+|Perimeter foundation drainage|Rock wrapped perimeter gravity drainage around perimeter of main home and garage foundation footings| 
 |Lower level|Walkout with expansive south-facing windows|
 |Roof eaves|Wider than common, the 2'-wide roof eaves help reduce sun impact in Summer and enhance aesthetics|
 {{< /table >}}
@@ -41,11 +42,11 @@ Take advantage of already approved county variance to build your own detached ac
 |Roof material|GAF Timberline HD shingles and Rhino Synthetic underlayment installed in 2021|
 |Roof ventilation|Low visual impact ridge vents with soffit ventlation on garage and main structure|
 |Roof animal protection|[Ridge-Guard](https://www.animaltrapsandsupplies.com/products/ridgeguard-ridge-vent-animal-exclusion.html) metal mesh protection from animals along all ridge vents|
-|Roof vents|Exhaust fan and water vents are situated on the rear of the main roof to remain hidden from view|
+|Roof vents|Exhaust fan and water vents positioned on rear of the main roof are hidden from view|
 |Soffits|Fiber cement [Hardie Soffit Panels Vented Cedarmill](https://www.jameshardie.com/products/hardiesoffit-panels)|
 |Gutters|Oversized 6" aluminum|
 |Gutter guards|Stainless steel mesh gutter guards installed throughout|
-|Gutter drainage|Underground gutter drains used to move water downslope and away from the home and garage footprint|
+|Gutter drainage|Underground gutter drains used to transfer water downslope and away from the home and garage footprint|
 |Solar|Take advantage of the ideal south facing expanse of main structure and/or garage roofs to install solar panels|
 {.table .table-striped}
 
