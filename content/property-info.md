@@ -30,7 +30,7 @@ type: docs
 |... Magnoilas|...|
 |Japanese Maple|...|
 |Cedar of Lebanon|...|
-|Flowering Crabapples|...|
+|Flowering Crabapple Prairifires|...|
 |Silver Maples|...|
 |Dogwood|...|
 {.table .table-striped}
