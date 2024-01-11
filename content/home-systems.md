@@ -125,9 +125,9 @@ PVC conduit has been installed to make it easy to route network, audio, and TV c
 
 | |
 |-|
-|Lower level to attic|
-|Lower level to living room|
-|Lower level to bedrooms|
+|Lower level unfinished to attic|
+|Lower level unfinished to living room|
+|Lower level unfinished to bedrooms|
 |Lower level unfinished to lower level main room|
 |Lower level unfinished to garage attic |
 {.table .table-striped}
