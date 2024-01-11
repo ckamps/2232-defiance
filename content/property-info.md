@@ -35,6 +35,8 @@ type: docs
 |Dogwood|...|
 {.table .table-striped}
 
+{{< image src="img/cedar-of-lebanon.jpeg" class="rounded" caption="Cedar of Lebanon next to deck">}}
+
 ### Extra Privacy Screens
 
 ...Thuja Green Giants...
