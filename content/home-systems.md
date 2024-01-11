@@ -52,7 +52,7 @@ The main entry has a Ring Doorbell Pro is positioned at the main entry door.
 
 ## Networking
 
-Although secluded, the property has two gigabit fiber internet services available. Brightspeed's 900Mbps up and down service is integrated with the home. Spectrum fiber service has also brought fiber to the property.
+The property has two gigabit fiber internet services available. Brightspeed's 900Mbps up and down service is integrated with the home. Spectrum fiber service has also brought fiber to the property.
 
 The included [UniFi Dream Machine Pro](https://store.ui.com/us/en/products/udm-pro) simplifies management of the home network and wireless access points.
 
