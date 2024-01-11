@@ -37,13 +37,13 @@ A [Hikvision DS-7616NI-I2/16P](https://www.hikvision.com/au-en/products/IP-Produ
 {.table .table-striped}
 
 {{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/cameras/entry-road-hill.jpeg" >}}
-  {{< img src="img/cameras/driveway.jpeg" >}}
-  {{< img src="img/cameras/front.jpeg" >}}
-  {{< img src="img/cameras/porch.jpeg" >}}
-  {{< img src="img/cameras/patio.jpeg" >}}
-  {{< img src="img/cameras/bridge.jpeg" >}}
-  {{< img src="img/cameras/dock.jpeg" >}}
+  {{< img src="img/cameras/camera-entry-road.png" >}}
+  {{< img src="img/cameras/camera-entry-frence.png" >}}
+  {{< img src="img/cameras/camera-driveway.png" >}}
+  {{< img src="img/cameras/camera-house-front.png" >}}
+  {{< img src="img/cameras/camera-porch.png" >}}
+  {{< img src="img/cameras/camera-lower-land.png" >}}
+  {{< img src="img/cameras/camera-bridge.png" >}}
 {{< /carousel >}}
 
 ## Doorbell and Camera
