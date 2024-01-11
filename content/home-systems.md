@@ -5,8 +5,6 @@ type: docs
 
 ## Security System
 
-Although the home is difficult for people to access unnoticed via the entry road or by foot on the Katy trail, it's nice to have the extra security of a built-in home security alarm system and cameras.
-
 | | |
 |-|-|
 |Central alarm system|ADT Safewatch Pro Security System (Honeywell Ademco Vista 20p security panel). A subscription for ADT to provide remote monitoring is optional, but not necessary to use the security system.|
@@ -48,7 +46,7 @@ A [Hikvision DS-7616NI-I2/16P](https://www.hikvision.com/au-en/products/IP-Produ
 
 ## Doorbell and Camera
 
-A Ring Doorbell Pro is positioned at the main entry door.
+The main entry has a Ring Doorbell Pro is positioned at the main entry door.
 
 ## Networking
 
@@ -121,7 +119,7 @@ Examples of remote control and automation already in place include:
 
 ## Cable Conduits
 
-Generously sized gray PVC conduit has been installed to make it easy to route network, audio, and TV cables throughout the garage and home.
+PVC conduit has been installed to make it easy to route network, audio, and TV cables throughout the garage and home. Conduit runs are installed between the following areas of the home and garage:
 
 | |
 |-|
