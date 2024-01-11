@@ -25,11 +25,11 @@ type: docs
 
 | | |
 |-|-|
-|Magnolia acuminata "Cucumber" Magnolia|...|
+|Magnolia acuminata - "Cucumber" Magnolia|...|
 |Hollies|...|
 |... Magnoilas|...|
 |Japanese Maple|...|
-|Cedar of Lebanon|...|
+|Stenacma - Cedar of Lebanon|...|
 |Flowering Crabapple Prairifires|...|
 |Silver Maples|...|
 |Dogwood|...|
