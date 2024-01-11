@@ -25,7 +25,7 @@ type: docs
 
 | | |
 |-|-|
-|... Magnolia|...|
+|Magnolia acuminata "Cucumber" Magnolia|...|
 |Hollies|...|
 |... Magnoilas|...|
 |Japanese Maple|...|
