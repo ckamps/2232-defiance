@@ -5,6 +5,7 @@ modules: ["leaflet"]
 {{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/spring-front.jpeg" >}}
   {{< img src="img/sunset-winter.jpeg" >}}
+  {{< img src="img/deck-winter-sunset.JPG">}}
   {{< img src="img/from-bottom-night.jpeg" >}}
   {{< img src="img/bluff-at-night.jpeg" caption="One of two bluffs">}}
   {{< img src="img/winter-lower-bridge.jpeg" caption="View from primary bedroom of the Femme Osage Creek bridge" >}}
