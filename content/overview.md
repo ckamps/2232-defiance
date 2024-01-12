@@ -3,6 +3,16 @@ title: The Home
 type: docs
 ---
 
+## Layout
+
+{{< table class="table-striped" >}}
+|                           |     |
+|:--------------------------|:----|
+|**Main level**|Majority of living space on the main level including laundry/mud room, kitchen, dining, sun room, living room and three bedrooms including the primary bedroom| 
+|**Lower level**|Walkout finished lower level with expansive south-facing windows. Office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Partially unfinished, storage, and mechanical space.|
+|**Garage**|Over sized three-car+ garage with enclosed attached breezeway to home and large storage attic with folding access stairs|
+{{< /table >}}
+
 ## Construction
 
 {{< table class="table-striped" >}}
@@ -17,7 +27,6 @@ type: docs
 |**Sill plate gaskets**|Sill plate gasket used throughout to help reduce drafts, heating and cooling loss, and insect intrusion|
 |**Slab**|2" Foamular XPS foam insulation under slab to help insulate concrete slab from external temperature fluctuations|
 |**Perimeter foundation drainage**|Rock wrapped perimeter perforated gravity drainage pipe around perimeter of main home and garage foundation footings| 
-|**Lower level**|Walkout with expansive south-facing windows|
 |**Roof eaves**|Wider than common, the 2'-wide roof eaves help reduce sun impact in Summer and enhance aesthetics|
 {{< /table >}}
 
