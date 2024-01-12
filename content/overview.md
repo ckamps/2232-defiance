@@ -8,9 +8,9 @@ type: docs
 {{< table class="table-striped" >}}
 |                           |     |
 |:--------------------------|:----|
-|**Main level**|Majority of living space on the main level including laundry/mud room, kitchen, dining room, deck, sun room, living room and three bedrooms including the primary bedroom. See [Main Level]({{<ref "main-level" >}}) for details.| 
-|**Lower level**|Walkout finished lower level with expansive south-facing windows. Includes office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Partially unfinished, storage, and mechanical space. See [Lower Level]({{<ref "lower-level" >}}) for details.|
-|**Garage**|Over sized three-car+ garage with enclosed attached breezeway to home and large storage attic with folding access stairs. See [Garage]({{<ref "garage" >}}) for details.|
+|**Main level**|The majority of your day-to-day living space is on the main level. Spaces inlude the laundry/mud room, kitchen, dining room, deck, sun room, living room and three bedrooms including the primary bedroom. See [Main Level]({{<ref "main-level" >}}) for details.| 
+|**Lower level**|The walkout finished lower level is great for working from home, guests, movies, and games. Spaces include an office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Partially unfinished, storage, and mechanical space. See [Lower Level]({{<ref "lower-level" >}}) for details.|
+|**Garage**|The over sized three-car+ garage with a fully enclosed breezeway provides easy access to the home. A large storage attic with folding access stairs enables you to store out of the way. See [Garage]({{<ref "garage" >}}) for details.|
 {{< /table >}}
 
 ### Optional Accessory Structure
