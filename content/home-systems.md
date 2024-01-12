@@ -48,7 +48,7 @@ Cameras cover the following outside areas:
 
 ## Doorbell and Camera
 
-The main entry has a Ring Doorbell Pro is positioned at the main entry door.
+The main entry has a Ring Video Doorbell Pro 2.
 
 ## Networking
 
