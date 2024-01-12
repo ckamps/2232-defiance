@@ -42,6 +42,17 @@ type: docs
 
 ## Deck
 
+| | |
+|-|-|
+|**Dimensions**|...|
+|**Decking**|Extremely durable and dense Brazilian IPE hardwood decking with hidden fasteners|
+|**Posts**|IPE wrapped n" x n" deck posts with aluminum caps|
+|**Lighting**|Automated LED deck column lights|
+|**Deck support columns**|Tapered columns under the deck align with the rest of the home's craftsmen style|
+|**Speakers**|Under eave mounted Polk Audio Atrium 5 outdoor speakers|
+|**Bird Feeders**|Deck post mounted bird feeder extension poles to keep shells and debris away from the deck|
+|**LP gas**|LP gas pipe is roughed in under the deck for future dedicated pipe to gas grill and/or patio heater|
+
 ## Mud Room / Laundry Room
 
 | | |
