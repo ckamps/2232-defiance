@@ -54,11 +54,9 @@ The main entry has a Ring Video Doorbell Pro 2.
 
 The property has two gigabit fiber internet services available. Brightspeed's 900Mbps up and down service is integrated with the home. Spectrum fiber service has also brought fiber to the property.
 
-The included [UniFi Dream Machine Pro](https://store.ui.com/us/en/products/udm-pro) simplifies management of the home network and wireless access points.
-
 | ||
 |-|-|
-|**Internet router**|A UniFi Dream Machine Pro rack mount router and switch acts the hub for managing all wireless accesspoints|
+|**Internet router**|A rack mount [UniFi Dream Machine Pro](https://store.ui.com/us/en/products/udm-pro) router and switch simplifies management of the home network and wireless access points|
 |**Remote VPN access**|The Dream Machine router supports remote access to the home network over a mobile VPN client. This capability is free.|
 |**Network switch**|...|
 |**Network rack**|A dedicated wall mount network rack is positioned in the lower level unfinished area|
