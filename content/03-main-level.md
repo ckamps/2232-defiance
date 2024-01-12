@@ -1,4 +1,4 @@
----
+a---
 title: Main Level
 type: docs
 ---
@@ -21,7 +21,7 @@ type: docs
 |Warming drawer|Built-in warming drawer|
 |Microwave|Built-in Sharp SMC1585BS 1.5 cu. ft. microwave oven with convection cooking in stainless steel. New in 2021.|
 |Main sink|Two bowl stainless steel Kohler K-3356 undermount sink|
-|Computer nook|Large enough to support 27" displays|
+|Computer nook|Large enough to support a 27" display|
 |Uninterruptable Power Supply (UPS)|A 750VA/450W CyberPower EC750G Ecologic Battery Backup & Surge Protector UPS System provides back up power and helps protect the equipment in case of power outages and power spikes|
 |TV|23" LED in dedicated TV cabinet|
 |Apple TV|Dedicated Apple TV 4K 32GB|
