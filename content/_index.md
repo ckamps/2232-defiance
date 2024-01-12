@@ -9,6 +9,7 @@ modules: ["leaflet"]
   {{< img src="img/from-bottom-night.jpeg" >}}
   {{< img src="img/bluff-at-night.jpeg" caption="One of two bluffs bracketing the home">}}
   {{< img src="img/winter-lower-bridge.jpeg" caption="View from the primary bedroom of the Femme Osage Creek bridge" >}}
+  {{< img src="img/femme-osage-paddle-boarding-evening.jpeg" caption="Sunset paddles on the Femme Osage Creek from your private dock">}}
 {{< /carousel >}}
 
 **$2,400,000**
