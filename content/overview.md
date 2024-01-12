@@ -13,6 +13,10 @@ type: docs
 |**Garage**|Over sized three-car+ garage with enclosed attached breezeway to home and large storage attic with folding access stairs. See [Garage]({{<ref "garage" >}}) for details.|
 {{< /table >}}
 
+### Optional Accessory Structure
+
+Take advantage of an already approved county variance to build your own detached accessory structure on the property. For example, if you'd like to build a dettached garage or pole barn to augment the existing garage.
+
 ## Construction
 
 {{< table class="table-striped" >}}
@@ -29,10 +33,6 @@ type: docs
 |**Perimeter foundation drainage**|Rock wrapped perimeter perforated gravity drainage pipe around perimeter of main home and garage foundation footings| 
 |**Roof eaves**|Wider than common, the 2'-wide roof eaves help reduce sun impact in Summer and enhance aesthetics|
 {{< /table >}}
-
-### Optional Accessory Structure
-
-Take advantage of already approved county variance to build your own detached accessory structure on the property. For example, if you'd like to build a dettached garage or pole barn to augment the existing garage.
 
 ## Siding and Trim
 
