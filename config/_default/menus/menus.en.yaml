@@ -4,44 +4,44 @@ main:
     url: /
     weight: 10
 
-  - identifier: property
+  - identifier: the-property
     name: The Property
-    url: /property-info/
+    url: /01-the-property/
     weight: 20
     
-  - identifier: overview
+  - identifier: the-home
     name: The Home
-    url: /overview/
+    url: /02-the-home/
     weight: 30
 
   - identifier: main-level
     name: Main Level
-    url: /main-level/
+    url: /03-main-level/
     weight: 40
 
   - identifier: lower-level
     name: Lower Level
-    url: /lower-level/
+    url: /04-lower-level/
     weight: 50
 
   - identifier: garage
     name: Garage
-    url: /garage/
+    url: /05-garage/
     weight: 60
 
   - identifier: home-systems
     name: Home Systems
-    url: /home-systems/
+    url: /06-home-systems/
     weight: 70
         
   - identifier: recreation
     name: Recreation
-    url: /recreation/
+    url: /07-recreation/
     weight: 80
 
   - identifier: area
     name: Defiance Area
-    url: /area/
+    url: /08-area/
     weight: 90
 
   - identifier: contact
