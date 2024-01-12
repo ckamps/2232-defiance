@@ -16,7 +16,7 @@ type: docs
 |Foundation|Main structure's generous 10' foundation wall height provides additional lower level ceiling heights|
 |Sill plate gaskets|Sill plate gasket used throughout to help reduce drafts, heating and cooling loss, and insect intrusion|
 |Slab|2" Foamular XPS foam insulation under slab to help insulate concrete slab from external temperature fluctuations|
-|Perimeter foundation drainage|Rock wrapped perimeter perferorated gravity drainage pipe around perimeter of main home and garage foundation footings| 
+|Perimeter foundation drainage|Rock wrapped perimeter perforated gravity drainage pipe around perimeter of main home and garage foundation footings| 
 |Lower level|Walkout with expansive south-facing windows|
 |Roof eaves|Wider than common, the 2'-wide roof eaves help reduce sun impact in Summer and enhance aesthetics|
 {{< /table >}}
