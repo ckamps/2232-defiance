@@ -34,7 +34,7 @@ type: docs
 |Dogwood|...|
 {.table .table-striped}
 
-{{< image src="img/cedar-of-lebanon.jpeg" class="rounded" wrapper="col-6 mx-auto" caption="Cedar of Lebanon next to deck" >}}
+{{< image src="img/cedar-of-lebanon.jpeg" class="rounded" wrapper="col mx-auto" caption="Cedar of Lebanon next to deck" >}}
 
 ### Extra Privacy Screens
 
@@ -58,8 +58,8 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 |Electricity|The shore mounted light pole contains an electrical outlet|
 {.table .table-striped}
 
-{{< image src="img/dock-straight-on-sunset.jpeg" wrapper="col-6 mx-auto" caption="Private dock" >}}
-{{< image src="img/dock-bridge-dusk.jpeg" wrapper="col-6 mx-auto" >}}
+{{< image src="img/dock-straight-on-sunset.jpeg" wrapper="col mx-auto" caption="Private dock" >}}
+{{< image src="img/dock-bridge-dusk.jpeg" wrapper="col mx-auto" >}}
 
 ## Katy Trail State Park
 
