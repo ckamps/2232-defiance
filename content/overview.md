@@ -8,7 +8,7 @@ type: docs
 {{< table class="table-striped" >}}
 |                           |     |
 |:--------------------------|:----|
-|**Main level**|Majority of living space on the main level including laundry/mud room, kitchen, dining, sun room, living room and three bedrooms including the primary bedroom| 
+|**Main level**|Majority of living space on the main level including laundry/mud room, kitchen, dining room, deck, sun room, living room and three bedrooms including the primary bedroom| 
 |**Lower level**|Walkout finished lower level with expansive south-facing windows. Office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Partially unfinished, storage, and mechanical space.|
 |**Garage**|Over sized three-car+ garage with enclosed attached breezeway to home and large storage attic with folding access stairs|
 {{< /table >}}
