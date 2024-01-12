@@ -25,9 +25,9 @@ type: docs
 |Uninterruptable Power Supply (UPS)|A 750VA/450W CyberPower EC750G Ecologic Battery Backup & Surge Protector UPS System provides back up power and helps protect the equipment in case of power outages and power spikes|
 |TV|23" LED in dedicated TV cabinet|
 |Apple TV|Dedicated Apple TV 4K 32GB|
-|Speakers|Polk Audio RC60i ceiling speakers x 2|
-|Speaker selector|Multi-zone speaker selector and volume control for the kitchen, dining room, and sun room ceiling speakers|
-|A/V receiver|Dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via multi-zone speaker switch|
+|Speakers|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
+|Speaker selector|Speaker selector and volume control for independent adjustment of kitchen, dining room, and sun room ceiling speakers|
+|A/V receiver|Dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via the speaker switch in the kitchen|
 {.table .table-striped}
 
 ## Dining Room
