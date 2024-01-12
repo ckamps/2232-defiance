@@ -54,7 +54,7 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 |Dock platform size|n' x n' dock / swim platform|
 |Aluminum gangway|A n' hinged gangay with non-slip surface, handrail, and transition plate enables easy access to the creek|
 |Shore connection|A large concrete pier anchors the dock, stabilizer bars, and gangway to the shore|
-|Canoe and paddle board storage rack|Room for 2 canoes and 4+ paddle boards. Raised sufficiently for easy mowing.|
+|Canoe and paddle board storage rack|Room for 2 canoes and 4+ paddle boards. Raised for easy mowing.|
 |Electricity|The shore mounted light pole contains an electrical outlet|
 {.table .table-striped}
 
