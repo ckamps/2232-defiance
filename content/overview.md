@@ -47,7 +47,7 @@ Take advantage of already approved county variance to build your own detached ac
 |Gutters|Oversized 6" aluminum|
 |Gutter guards|Stainless steel mesh gutter guards installed throughout|
 |Gutter drainage|Underground gutter drains used to transfer water downslope and away from the home and garage footprint|
-|Solar|Take advantage of the ideal south facing expanse of main structure and/or garage roofs to install solar panels|
+|Solar|Take advantage of the ideal south facing roofs of the home and garage for a future solar panel installation|
 {.table .table-striped}
 
 ## HVAC and Efficiency
