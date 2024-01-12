@@ -73,7 +73,7 @@ From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to 
 
 ## Private Femme Osage Creek frontage and access to the Missouri River
 
-Use your [private dock]({{<ref "the-property#private-dock" >}}) on over 260 feet of [Femme Osage Creek](https://www.anyplaceamerica.com/directory/mo/st-charles-county-29183/streams/femme-osage-creek-756042/) shoreline to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling from your home all the way to its confluence with the Missouri River.
+Use your [private dock]({{<ref "01-the-property#private-dock" >}}) on over 260 feet of [Femme Osage Creek](https://www.anyplaceamerica.com/directory/mo/st-charles-county-29183/streams/femme-osage-creek-756042/) shoreline to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling from your home all the way to its confluence with the Missouri River.
 
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/femme-osage-paddle-boarding-evening.jpeg" caption="Paddling on Femme Osage Creek">}}
