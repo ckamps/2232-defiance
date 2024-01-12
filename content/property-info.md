@@ -57,7 +57,7 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 |Canoe and paddle board torage rack|Room for 2 canoes more than 4 paddle boards|
 {.table .table-striped}
 
-{{< carousel ratio="16x9" >}}
+{{< carousel ratio="16x9" portrait="true" >}}
   {{< img src="img/dock-straight-on-sunset.jpeg" caption="Private dock" >}}
   {{< img src="img/dock-bridge-dusk.jpeg" >}}
 {{< /carousel >}}
