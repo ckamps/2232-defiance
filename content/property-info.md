@@ -44,6 +44,21 @@ type: docs
 
 ## Lower Land
 
+### Private Dock
+
+Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 miles from the Missouri River, you'll have plenty of areas to explore while paddling and fishing.
+
+| | |
+|-|-|
+|Dock design|A floating dock with an articulating gangway anchored to the shore. Two 2" x 20' galvanized pipes act as stabilizers that enable the dock to rest on the creek bank and extend to `20' high during high water.|
+|Dock platform size|n' x n' dock / swim platform|
+|Aluminum gangway|n' ariculating gangay with non-slip surface, handrail, and transition plate|
+|Shore connection|A large concrete pier anchors the dock, stabilizer bars, and gangway to shore|
+|Canoe and paddle board torage rack|Room for 2 canoes more than 4 paddle boards|
+{.table .table-striped}
+
+{{< image src="img/dock-straight-on-sunset.jpeg" class="rounded" caption="Private dock">}}
+
 ## Katy Trail State Park
 
 ## Femme Osage Creek
