@@ -34,7 +34,7 @@ Don't miss this opportunity to own a unique 5.25-acre property and custom home i
     View in Google Maps
 {{< /button >}}
 
-## Buffered from neighbors yet within easy access to area services
+## Buffered from neighbors yet easy access to area services
 
 Nestled between two high-end communities with large 5-acre and 3-acre lots, bordered on three sides by dense woods and river bluff buffs and on two sides by the Katy Trail State Park and the Femme Osage Creek, the property provides highly sought after isolation. Yet you're only a 20-minute drive from a wide variety of services in Chesterfield Valley, O'Fallon, and Lake St Louis.
 
