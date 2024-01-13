@@ -72,6 +72,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Whole-house Dehumidifier**|AprilAire 1720 whole-house dehumidifier for summer months.|
 |**Whole-house Humidifier**|Whole-house steam humidifier for winter months. Integrated with home automation to automatically maintain desired humidity level.|
 |**Ceiling fans**|Casablanca Panama fans with smart switches|
+|**Bathroom exhaust fans**|Quiet Panasonic WhisperCeiling fans throughout. Exhaust ductwork is insulated in home attic to minimize condensation.|
 {.table .table-striped}
 
 ## Water
