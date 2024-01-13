@@ -51,8 +51,8 @@ Part of the main room.
 | | |
 |-|-|
 |**Dimensions**|15'x19'|
-|**Screen**|120 inch diagonal screen|
-|**Stadium seating**|6 electric reclining home theater chairs. 3 on each of two levels|
+|**Screen**|120" diagonal screen|
+|**Stadium seating**|[Valencia Tuscany](https://us.valenciatheaterseating.com/products/valencia-tuscany) premium top grain Italian Nappa 11000 leather, power reclining, power lumbar support, power headrest. Six chairs, two rows of three seats in a stadium seating configuration.|
 |**Carpeting**|Aids in sound absorption|
 |**Acoustic wall panels**|13 sound absorbing acoustic panels color matched with walls|
 |**Ceiling**|Black grid ceiling for easy access to mechanicals and wiring|
