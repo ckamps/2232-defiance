@@ -35,7 +35,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 
 | | |
 |-|-|
-|**Wall cabinets**|Gladiator cabinets: 6 quantity tall cabinets, 3 quantity short cabinets|
+|**Wall mounted lockers and cabinets**|Gladiator Garage Works steel storage: 6 lockers and 3 cabinets|
 |**Shelving**|Extensive 2' deep Fleximounts wire shelving throughout|
 |**Workbench**|Gladiator 8' adjustable height hardwood workbench with heavy duty vice|
 |**Paddle board rack**|Accomodates up to 4 paddle boards|
