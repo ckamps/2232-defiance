@@ -12,7 +12,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 | | |
 |-|-|
 |**Footprint**|Oversize 48' wide x 30' deep 3-car+ garage with 3 separate garage doors|
-|**Ceiling height**|11'6" ceiling|
+|**Ceiling height**|11' 6" ceiling|
 |**Walls and ceiling**|Fully finished walls and ceiling|
 |**Attic storage**|48' long x 12' wide x 6' tall attic storage area is accessible via hide away retractable metal ladder|
 |**Ceiling lights**|LED flat panel ceiling lights, dimmanble with slectable light temperature settings. Smart switch controlled to enable automation and voice control.|
@@ -25,7 +25,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 | | |
 |-|-|
 |**Garage doors 1 and 2**|Oversize 10' wide x 9' tall|
-|**Garage door 3**|Oversize 12' wide x 9' tall. Sufficient outer wall framing and ceiling height exists to enable future height extension. For example, to accomodate a lifted Sprinter or similar RV.)|
+|**Garage door 3**|Oversize 12' wide x 9' tall. Sufficient outer wall framing and ceiling height exists to enable future height extension. For example, to accomodate a lifted Sprinter or similar RV.|
 |**Style**|Color coordinated, multi-panel [Clopay Coachman](https://www.clopaydoor.com/coachman) steel insulated doors with exterior wood grain texture and top windows| 
 |**Garage door openers**|Chamberlain LiftMaster 3/4 HP garage door openers|
 |**Automation**|In addition to wall-mounted door controls, the garage door openers are smart home connected for remote control and monitoring via Apple Home, Siri, Alexa, etc|
@@ -38,7 +38,6 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 |**Wall mounted lockers**|Gladiator Garage Works steel storage lockers. 2 lockers 36" wide x 18" deep x 6' tall; 4 lockers 30" wide x 18" deep x 5' tall|
 |**Wall cabinets**|Gladiator Garage Works steel wall cabinets. 3 cabinets 30" wide x 12" deep x 30" tall|
 |**Shelving**|Extensive 2' deep Fleximounts wire shelving throughout|
-|**Workbench**|Gladiator 8' adjustable height hardwood workbench with heavy duty vice|
 |**Paddle board rack**|Accomodates up to 4 paddle boards|
 |**Garden tool mounts and hangers**|20+ feet of garden tool hanging mounts and hangers|
 |**Long ladder hoist**|Ceiling mounted hoist to store 20' extension ladder out of the way|
