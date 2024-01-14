@@ -15,7 +15,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 |**Ceiling height**|11' 6" ceiling|
 |**Walls and ceiling**|Fully finished walls and ceiling|
 |**Attic storage**|48' long x 12' wide x 6' tall attic storage area is accessible via hide away retractable metal ladder|
-|**Ceiling lights**|LED flat panel ceiling lights, dimmanble with slectable light temperature settings. Smart switch controlled to enable automation and voice control.|
+|**Ceiling lights**|LED flat panel ceiling lights, dimmable with selectable light temperature settings. Smart switch controlled to enable automation and voice control.|
 |**Floor**|Epoxy coated|
 |**Future car lift**|Largest stall has extra depth concrete floor to help support future car lift|
 {.table .table-striped}
