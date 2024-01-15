@@ -92,3 +92,11 @@ Part of the main room.
 ## Partially Finished Utility Rooms
 
 ## Storage and Mechanical Rooms
+
+## Patio
+
+| | |
+|-|-|
+|**Speakers**|Bose Free Space 51 Outdoor In-Ground Speakers with downward firing 4 1/4 full range driver|
+|**A/V receiver**|Dedicated Yamaha RX-V485 A/V receiver amplifier in lower level unifinished room. Supports Apple AirPlay 2 for whole house audio streaming.|
+{.table .table-striped}
