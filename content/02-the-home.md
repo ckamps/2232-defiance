@@ -82,7 +82,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Water service**|Water District 2 municipal water supply service|
 |**Water pressure regulator**|Helps regulate the pressure of the main service line|
 |**Water softener**|Whole house water softener delivers conditioned water to select faucets and laundry|
-|**Water heater**|Bradford White Hydrojet LP gas 75 gallon water heater installed in late 2018|
+|**Water heater**|Bradford White Hydrojet LP gas 75 gallon water heater installed in December 2018|
 |**Water heater pre-heat tank**|Geothermal HVAC unit is connected to Rheem 50 gallon water heater to use excess HVAC heat to pre-heat domestic water upstream of LP gas water heater|
 |**Hose bibs**|Freeze proof hose bibs in 5 exterior locations: House front, deck, below deck, east and north sides|
 |**Yard hydrant**|Frost-proof yard hydrant located on west end of driveway|
