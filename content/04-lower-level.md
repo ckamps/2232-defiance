@@ -19,7 +19,7 @@ type: docs
 |**Walls and ceiling**|Fully finished walls and drywall ceiling|
 |**Flooring**|17 1/2" square tile floor|
 |**Wireless network**|PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point integrated with home wireless router for centralized control|
-|**TV**|[Samsung 65" Class RU8000 Premium Smart 4K UHD TV](https://www.samsung.com/us/televisions-home-theater/tvs/premium-uhd-tvs/65--class-ru8000-premium-smart-4k-uhd-tv--2019--un65ru8000fxza/) integrated with dedicated Yamaha A/V receiver, Apple TV, and 4 ceiling speakers|
+|**TV**|[Samsung 65" Class RU8000 Premium Smart 4K UHD TV](https://www.samsung.com/us/televisions-home-theater/tvs/premium-uhd-tvs/65--class-ru8000-premium-smart-4k-uhd-tv--2019--un65ru8000fxza/) integrated with dedicated Yamaha A/V receiver, Apple TV, and ceiling speakers|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
 |**Speakers**|4 Polk Audio RC60i ceiling speakers|
 |**A/V receiver**|Dedicated Yamaha RX-V481 A/V receiver amplifier in lower level unifinished room|
