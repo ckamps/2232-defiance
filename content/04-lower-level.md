@@ -32,11 +32,11 @@ Part of the main room.
 | | |
 |-|-|
 |**Cabinets**|Medallion Maple cabinets|
-|**Counter and bar tops**|...|
-|**Sink**|...|
-|**Lighting**|...|
+|**Counter and bar tops**|Granite|
+|**Sink**|Stainless steel|
+|**Lighting**|Ceiling and under cabinet lighting|
 |**Refrigerator**|...|
-|**Dishwasher**|...|
+|**Dishwasher**|Samsung - 24" Top Control Smart Built-In Stainless Steel Tub Dishwasher with Storm Wash|
 |**Flooring**|17 1/2" square tile floor (part of main room)|
 {.table .table-striped}
 
@@ -46,7 +46,7 @@ Part of the main room.
 |-|-|
 |**Dimensions**|11' wide x 9' deep with a 9' 4" ceiling height|
 |**Windows**|Large windows and view of Femme Osage Creek bridge, bottom area, and beyond|
-|**Flooring**|Durable plank artifical wood with foam backing|
+|**Flooring**|Durable laminate plank flooring with foam backing. Columbia Flooring Traditional Clicette Maryland Cherry Burgundy.|
 |**Networking**|Multiple wall mount ethernet ports for access to home network and gigabit Internet|
 {.table .table-striped}
 
