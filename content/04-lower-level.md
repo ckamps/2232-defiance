@@ -61,13 +61,13 @@ Part of the main room.
 |**Acoustic wall panels**|Color matched sound absorbing acoustic wall panels|
 |**Ceiling**|Black grid drop ceiling for easy access to mechanicals and wiring|
 |**Projector**|Ceiling mounted Sony HW55ES HD / 3D projector|
-|**Subwoofer**|SVS SB-2000|
 |**Center channel speaker**|Klipsch RC-52|
-|**Front speakers**|Klipsch RF-62 floor standing speakers (2 quantity)|
-|**Side and rear speakers**|Klipsch RS-42 surround speakers (4 quantity)|
-|**A/V rack**|In wall A/V rack with easy rear access from unfinished area|
-|**A/V receiver**|...|
-|**Apple TV**|...|
+|**Front speakers**|2 x Klipsch RF-62 floor standing speakers|
+|**Side and rear speakers**|4 x Klipsch RS-42 surround speakers|
+|**Subwoofer**|SVS SB-2000|
+|**A/V rack**|Built-in flush wall mount A/V rack with easy rear access from unfinished area|
+|**A/V receiver**|Dedicated Yamaha RX-A2040 A/V receiver|
+|**Apple TV**|Dedicated Apple TV 4K 32GB (A2169)|
 |**Networking**|Hardwired ethernet cable between main house network switch and switch in the home theater A/V rack|
 |**Wall lighting**|4 craftsmen style dimmable sconce lights on smart switch|
 |**Step lighting**|Integrated LED step lighting|
