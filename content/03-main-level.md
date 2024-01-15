@@ -7,7 +7,7 @@ type: docs
 
 | | |
 |-|-|
-|**Flooring**|Solid beech hardwood floors flow into dining room and living room| 
+|**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into dining room and living room| 
 |**Pantry**|Positioned next to refrigerator. Built-in shelving.|
 |**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Quiet close doors and drawers.|
 |**Cabinet hardware**|Restoration Hardware drawer pulls in oil rubbed bronze|
@@ -35,7 +35,7 @@ type: docs
 | | |
 |-|-|
 |**Room dimensions**|...|
-|**Flooring**|nn" solid beech hardwood floors flow into kitchen and living room| 
+|**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into kitchen and living room| 
 {.table .table-striped}
 
 ## Sun Room
@@ -85,8 +85,8 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 | | |
 |-|-|
-|**Flooring**|nn" solid beech hardwood floors flow into dining room and kitchen| 
-|**Fireplace**|Fireplace Xtrordinair direct vent LP gas fireplace with Artisan hammered nickel face and automatic fan. Integrated with home automation to enable, for example, "Alexa, turn on the fireplace".| 
+|**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into dining room and kitchen|
+|**Fireplace**|Fireplace Xtrordinair 36" direct vent LP gas fireplace with Artisan hammered nickel face and automatic fan. Integrated with home automation to enable, for example, "Alexa, turn on the fireplace".| 
 |**Fireplace mantel**|Solid maple fireplace mantel|
 |**Cabinets**|Custom built-in cabinets|
 |**TV**|nn 23" Samsung ... LED|
