@@ -63,7 +63,7 @@ Take advantage of an already approved county variance to build your own detached
 
 | | |
 |-|-|
-|**HVAC unit**|WaterFurnace Envision 6-ton dual capacity geothermal HVAC unit with 6 x 150 foot deep vertical wells. Combines heating and cooling in a single unit located in the lower unfinished area. Does not require an outside air conditioner condensor unit.|
+|**HVAC unit**|WaterFurnace Envision 6-ton dual capacity geothermal HVAC unit with 6 x 150' deep vertical wells. Combines heating and cooling in a single unit located in the lower unfinished area. Does not require an outside air conditioner condensor unit.|
 |**HVAC zones**|WaterFurnace IntelliZone controller managed electronic dampers for 3 zones: Zone 1: Kitchen, Laundry Room, Dining, and Sun Room; Zone 2: Living room and main level bedrooms; Zone 3: Lower level|
 |**Thermostats**|Honeywell T6 Pro smart thermostats with Z-Wave Plus. 3 quantity, 1 per zone. Integrated with home automation.|
 |**Exterior walls**|Upgraded 2"x6" (typical is 2"x4"). Enabled thicker wall insulation.|
