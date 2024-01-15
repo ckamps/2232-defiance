@@ -102,6 +102,7 @@ Take advantage of an already approved county variance to build your own detached
 |-|-|
 |**Garage panel**|Garage subpanel for garage and outdoor electrical loads|
 |**Lower level panel**|Separate 200 AMP subpanel in lower level unfinished area for main home|
+|**Panel surge protectors**|Each electrical panel includes a surge protector|
 |**Switches and dimmers**|Decora style switches and dimmers throughout. Large number of smart dimmers and switches throughout the home for commonly used lights and fans.|
 |**Wall plates**|Leviton screwless switch and receptable outlet wall plates in all living spaces|
 |**Spa hookup**|Spa hookup near rear patio for future spa power|
