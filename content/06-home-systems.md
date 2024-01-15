@@ -59,7 +59,7 @@ The property has two gigabit fiber internet services available. Brightspeed's 90
 |**Internet router**|A rack mount [UniFi Dream Machine Pro](https://store.ui.com/us/en/products/udm-pro) router and switch simplifies management of the home network and wireless access points|
 |**Remote VPN access**|The Dream Machine router supports remote access to the home network over a mobile VPN client. This capability is free.|
 |**Network switch**|...|
-|**Network rack**|A dedicated wall mount network rack is positioned in the lower level unfinished area|
+|**Network rack**|A dedicated 12U wall mount network rack is positioned in the lower level unfinished area|
 |**Network patch panel**|Simplifies connections between network cables and devices mounted in the network rack|
 |**Uninterruptable Power Supply (UPS)**|CyberPower BRG1500AVRLCD Intelligent LCD UPS System 1500VA provides back up power and helps protect the equipment in case of power outages and power spikes|
 {.table .table-striped}
