@@ -67,7 +67,7 @@ Take advantage of an already approved county variance to build your own detached
 |**HVAC zones**|WaterFurnace IntelliZone controller managed electronic dampers for 3 zones: Zone 1: Kitchen, Laundry Room, Dining, and Sun Room; Zone 2: Living room and main level bedrooms; Zone 3: Lower level|
 |**Thermostats**|Honeywell T6 Pro smart thermostats with Z-Wave Plus. 3 quantity, 1 per zone. Integrated with home automation.|
 |**Exterior walls**|Upgraded 2"x6" (typical is 2"x4"). Provides more room for thicker in-wall insulation.|
-|**Roof overhangs**|24" reduces sun impact in Summer|
+|**Roof overhangs**|24" roof overhangs reduce sun impact in summer months|
 |**Whole-house ERV**|RenewAire EV300 300 CFM whole-house Energy Recovery Ventilator (ERV). Exchanges inside air with fresh outside air. Used throughout the year. Wall mounted control to adjust percentage run time.|
 |**Whole-house Dehumidifier**|AprilAire 1720 whole-house dehumidifier for summer months.|
 |**Whole-house Humidifier**|Whole-house steam humidifier for winter months. Integrated with home automation to automatically maintain desired humidity level.|
