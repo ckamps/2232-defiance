@@ -93,7 +93,7 @@ Take advantage of an already approved county variance to build your own detached
 | | |
 |-|-|
 |**Sprinkler controller**|[Rachio 16ZULW-C](https://rachio.com/products/rachio-3/) 16 zone, 3rd generation smart sprinkler controller|
-|**Zones**|16-zone system including zoned master valve. Separate zone for deck drip to water seasonal plants on deck.|
+|**Zones**|16-zone system including zoned master valve. One of the zones is dedicated for drip watering plants on the deck.|
 {.table .table-striped}
 
 ## Electrical
