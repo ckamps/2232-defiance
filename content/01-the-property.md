@@ -1,5 +1,5 @@
 ---
-title: Property
+title: The Property
 type: docs
 ---
 
