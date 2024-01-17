@@ -66,7 +66,7 @@ Part of the main room.
 |**Side and rear speakers**|4 x Klipsch RS-42 surround speakers|
 |**Subwoofer**|SVS SB-2000|
 |**A/V rack**|Built-in flush wall mount A/V rack with easy rear access from unfinished area|
-|**A/V receiver**|Dedicated Yamaha RX-A2040 A/V receiver|
+|**A/V receiver**|Dedicated Yamaha RX-A6A 9.2-Ch x 150 Watts A/V receiver|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A2169)|
 |**Networking**|Hardwired ethernet cable between main house network switch and switch in the home theater A/V rack|
 |**Wall lighting**|4 craftsmen style dimmable sconce lights on smart switch|
