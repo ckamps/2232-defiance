@@ -3,6 +3,36 @@ title: Home Systems
 type: docs
 ---
 
+## Networking and Internet
+
+The property has two gigabit fiber internet services available. Brightspeed's 900Mbps up and down service is currently integrated with the home. Spectrum's fiber service is also available on the property.
+
+A 12U size network rack in the lower unfinished area houses the following components:
+
+| ||
+|-|-|
+|**Internet router**|A rack mount [UniFi Dream Machine Pro](https://store.ui.com/us/en/products/udm-pro) router and switch simplifies management of the home network and wireless access points|
+|**Network switch**|Netgear 24-Port gigabit ethernet switch|
+|**Network patch panel**|Simplifies connections between network cables and devices mounted in the network rack|
+|**Uninterruptable Power Supply (UPS)**|CyberPower BRG1500AVRLCD Intelligent LCD UPS System 1500VA provides back up power and helps protect the equipment in case of power outages and power spikes|
+|**Network Video Recorder (NVR)**|See [Outdoor Cameras]({{<ref "#outdoor-cameras" >}})|
+{.table .table-striped}
+
+### Wireless Access Points
+
+All wireless access points were installed in 2022 at about the same time gigabit fiber internet service was established. Depending on your device, the WiFi 6 access points are capable of providing up to ~500Mbps speeds throughout the home and outside.
+
+| ||
+|-|-|
+|**Dining room ceiling**|[UniFi U6-Pro](https://store.ui.com/us/en/products/u6-pro)|
+|**Master suite ceiling**|UniFi U6-Pro|
+|**Lower main room ceiling**|[UniFi U6-LR](https://store.ui.com/us/en/products/u6-lr)|
+|**Garage ceiling**|UniFi U6-LR|
+|**Deck facing lower land**|[UniFi U6-Mesh](https://store.ui.com/us/en/products/u6-mesh)|
+|**Lower land light pole near railroad bridge**|UniFi U6-Mesh|
+|**Lower land light pole near dock**|UniFi U6-Mesh|
+{.table .table-striped}
+
 ## Security System
 
 | | |
@@ -49,36 +79,6 @@ Cameras cover the following outside areas:
 ## Doorbell and Camera
 
 The main entry has a Ring Video Doorbell Pro 2.
-
-## Networking and Internet
-
-The property has two gigabit fiber internet services available. Brightspeed's 900Mbps up and down service is currently integrated with the home. Spectrum's fiber service is also available on the property.
-
-A 12U size network rack in the lower unfinished area houses the following components:
-
-| ||
-|-|-|
-|**Internet router**|A rack mount [UniFi Dream Machine Pro](https://store.ui.com/us/en/products/udm-pro) router and switch simplifies management of the home network and wireless access points|
-|**Network switch**|Netgear 24-Port gigabit ethernet switch|
-|**Network patch panel**|Simplifies connections between network cables and devices mounted in the network rack|
-|**Uninterruptable Power Supply (UPS)**|CyberPower BRG1500AVRLCD Intelligent LCD UPS System 1500VA provides back up power and helps protect the equipment in case of power outages and power spikes|
-|**Network Video Recorder (NVR)**|See [Outdoor Cameras]({{<ref "#outdoor-cameras" >}})|
-{.table .table-striped}
-
-### Wireless Access Points
-
-All wireless access points were installed in 2022 at about the same time gigabit fiber internet service was established. Depending on your device, the WiFi 6 access points are capable of providing up to ~500Mbps speeds throughout the home and outside.
-
-| ||
-|-|-|
-|**Dining room ceiling**|[UniFi U6-Pro](https://store.ui.com/us/en/products/u6-pro)|
-|**Master suite ceiling**|UniFi U6-Pro|
-|**Lower main room ceiling**|[UniFi U6-LR](https://store.ui.com/us/en/products/u6-lr)|
-|**Garage ceiling**|UniFi U6-LR|
-|**Deck facing lower land**|[UniFi U6-Mesh](https://store.ui.com/us/en/products/u6-mesh)|
-|**Lower land light pole near railroad bridge**|UniFi U6-Mesh|
-|**Lower land light pole near dock**|UniFi U6-Mesh|
-{.table .table-striped}
 
 ## Over the Air and Satellite Television
 
