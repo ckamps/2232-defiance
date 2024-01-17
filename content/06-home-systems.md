@@ -10,7 +10,7 @@ type: docs
 |**Central alarm system**|The central alarm sustem is an ADT Safewatch Pro Security System (Honeywell Ademco Vista 20p security panel). A subscription for ADT to provide remote monitoring is optional, but not necessary to use the security system.|
 |**Keypads**|Keypads are located in the mud/laundry room and primary bedroom|
 |**Exterior door contact sensors**|All exterior doors have built-in contact sensors|
-|**Glass break sensors**|All rooms with glass windows accessible to ground level have glass break sensors|
+|**Glass break sensors**|All rooms with windows that are accessible to ground level have glass break sensors|
 |**Smoke sensor**|A smoke sensor is integrated with the security system (apart from multiple battery powered smoke and CO2 sensors)|
 |**Home automation integration**|An [EyezOn EnvisaLink 4](https://www.eyezon.com/evl4.php) module connects to the security system as a third keypad. This networked module enables the security systems to be integrated with the home automation system. For example, you can control and monitor the system using your phone and automate actions based on events such as exterior doors opening and closing.|
 {.table .table-striped}
