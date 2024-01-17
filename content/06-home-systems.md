@@ -67,7 +67,7 @@ A 12U size network rack IN THE lower unfinished are houses the following compone
 
 ### Wireless Access Points
 
-All wireless access points were installed ~2022 at about the same time gigabit fiber internet service was established. Depending on your device, the WiFi 6 access points are capable of providing up to ~500Mbps speeds throughout the home and outside.
+All wireless access points were installed in 2022 at about the same time gigabit fiber internet service was established. Depending on your device, the WiFi 6 access points are capable of providing up to ~500Mbps speeds throughout the home and outside.
 
 | ||
 |-|-|
