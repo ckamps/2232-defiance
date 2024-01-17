@@ -50,9 +50,9 @@ Cameras cover the following outside areas:
 
 The main entry has a Ring Video Doorbell Pro 2.
 
-## Networking
+## Networking and Internet
 
-The property has two gigabit fiber internet services available. Brightspeed's 900Mbps up and down service is integrated with the home. Spectrum fiber service has also brought fiber to the property.
+The property has two gigabit fiber internet services available. Brightspeed's 900Mbps up and down service is currently integrated with the home. Spectrum's fiber service is also available on the property.
 
 A 12U size network rack in the lower unfinished area houses the following components:
 
