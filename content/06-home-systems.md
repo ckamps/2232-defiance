@@ -54,7 +54,7 @@ The main entry has a Ring Video Doorbell Pro 2.
 
 The property has two gigabit fiber internet services available. Brightspeed's 900Mbps up and down service is integrated with the home. Spectrum fiber service has also brought fiber to the property.
 
-In the main home lower level unfinished area, a 12U size network rack hosues the following components:
+A 12U size network rack IN THE lower unfinished are houses the following components:
 
 | ||
 |-|-|
