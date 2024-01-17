@@ -62,7 +62,7 @@ A 12U size network rack IN THE lower unfinished are houses the following compone
 |**Network switch**|Netgear 24-Port gigabit ethernet switch|
 |**Network patch panel**|Simplifies connections between network cables and devices mounted in the network rack|
 |**Uninterruptable Power Supply (UPS)**|CyberPower BRG1500AVRLCD Intelligent LCD UPS System 1500VA provides back up power and helps protect the equipment in case of power outages and power spikes|
-|**Network Video Recorder (NVR)**|See [Outdoor Cameras](({{<ref "#outdoor-cameras" >}})|
+|**Network Video Recorder (NVR)**|See [Outdoor Cameras]({{<ref "#outdoor-cameras" >}})|
 {.table .table-striped}
 
 ### Wireless Access Points
