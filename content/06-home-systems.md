@@ -54,14 +54,15 @@ The main entry has a Ring Video Doorbell Pro 2.
 
 The property has two gigabit fiber internet services available. Brightspeed's 900Mbps up and down service is integrated with the home. Spectrum fiber service has also brought fiber to the property.
 
+In the main home lower level unfinished area, a 12U size network rack hosues the following components:
+
 | ||
 |-|-|
 |**Internet router**|A rack mount [UniFi Dream Machine Pro](https://store.ui.com/us/en/products/udm-pro) router and switch simplifies management of the home network and wireless access points|
-|**Remote VPN access**|The Dream Machine router supports remote access to the home network over a mobile VPN client. This capability is free.|
 |**Network switch**|Netgear 24-Port gigabit ethernet switch|
-|**Network rack**|A dedicated 12U wall mount network rack is positioned in the lower level unfinished area|
 |**Network patch panel**|Simplifies connections between network cables and devices mounted in the network rack|
 |**Uninterruptable Power Supply (UPS)**|CyberPower BRG1500AVRLCD Intelligent LCD UPS System 1500VA provides back up power and helps protect the equipment in case of power outages and power spikes|
+|**Network Video Recorder (NVR)**|See [Outdoor Cameras](({{<ref "#outdoor-cameras" >}})|
 {.table .table-striped}
 
 ### Wireless Access Points
