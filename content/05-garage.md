@@ -28,7 +28,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 |**Garage door 3**|Oversize 12' wide x 9' tall. Sufficient outer wall framing and ceiling height exists to enable future height extension. For example, to accomodate a lifted Sprinter or similar RV.|
 |**Style**|Color coordinated, multi-panel [Clopay Coachman](https://www.clopaydoor.com/coachman) steel insulated doors with exterior wood grain texture and top windows| 
 |**Garage door openers**|Chamberlain LiftMaster 3/4 HP garage door openers|
-|**Automation**|In addition to wall-mounted door controls, the garage door openers are smart home connected for remote control and monitoring via Apple Home, Siri, Alexa, etc|
+|**Automation**|Meross Smart Garage Door Opener Remote. In addition to wall-mounted door controls, the garage door openers are smart home connected for remote control and monitoring via Apple Home, Siri, Alexa, etc|
 {.table .table-striped}
 
 ## Storage, Shelving, and Workbench
