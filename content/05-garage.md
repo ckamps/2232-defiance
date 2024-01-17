@@ -68,8 +68,8 @@ Take advantage of the hidden large volume air compressor to easily and quikly in
 
 | | |
 |-|-|
-|**Network rack**|Wall mounted enclosed networking rack houses internet fiber connection, internet modem, network switch for PoE cameras, and garage A/V components|
-|**Wireless network**|PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point integrated with home wireless router for centralized control|
+|**Network rack**|A wall mounted enclosed networking rack houses internet fiber connection, internet modem, network switch for PoE cameras, and garage A/V components|
+|**Wireless network**|A PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point is integrated with home wireless router for centralized control|
 |**Speakers**|Wall mounted Klipsch AW-650 Indoor/Outdoor 8 inch speakers|
 |**Apple TV**|Dedicated Apple TV|
 |**A/V receiver amplifier**|Yamaha RX-V481 A/V receiver powers speakers and connects to Apple TV and wall mounted TV|
