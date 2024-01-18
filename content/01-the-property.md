@@ -29,7 +29,7 @@ type: docs
 |**Silver Maples**|2 are located on the east side of the main home|
 {.table .table-striped}
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/spring-front.jpeg" caption="Flowering Crabapple Prairifires">}}
   {{< img src="img/japanese-maple-night.jpeg" caption="Japanese Maple">}}
   {{< img src="img/trees-japanese-maple-front.jpeg" caption="Japanese Maple">}}
