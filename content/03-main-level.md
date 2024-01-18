@@ -9,7 +9,7 @@ type: docs
 |-|-|
 |**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into dining room and living room| 
 |**Pantry**|Positioned next to refrigerator. Built-in shelving.|
-|**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Quiet close doors and drawers.|
+|**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Quiet close drawers with dovetail joints.|
 |**Cabinet hardware**|Restoration Hardware drawer pulls in oil rubbed bronze|
 |**Under cabinet lighting**|Kichler undercabinet LED lighting integrated with home automation|
 |**Countertops**|Granite countertops with beveled edges|
