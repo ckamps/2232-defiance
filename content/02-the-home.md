@@ -51,7 +51,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Roof material**|GAF Timberline HD shingles and Rhino Synthetic underlayment installed in 2021. 50-year System Plus limited warranty.|
 |**Roof ventilation**|Low visual impact ridge vents with soffit ventlation on garage and main structure|
 |**Roof animal protection**|[Ridge-Guard](https://www.animaltrapsandsupplies.com/products/ridgeguard-ridge-vent-animal-exclusion.html) metal mesh protection from animals along all ridge vents|
-|**Exhaust vents**|Exhaust fan and water vents positioned on rear of the main roof are hidden from view|
+|**Exhaust vents**|Exhaust fan and water vents positioned on rear of the main roof are hidden from the front appeoach and Katy trail views of the home|
 |**Soffits**|Fiber cement [Hardie Soffit Panels Vented Cedarmill](https://www.jameshardie.com/products/hardiesoffit-panels)|
 |**Gutters**|Oversized 6" aluminum|
 |**Gutter guards**|Stainless steel mesh gutter guards installed throughout|
