@@ -45,7 +45,7 @@ type: docs
 | | |
 |-|-|
 |**Dimensions**|...|
-|**Decking**|Durable and dense Brazilian IPE hardwood decking with hidden fasteners|
+|**Decking**|Durable Brazilian IPE hardwood decking with hidden fasteners|
 |**Posts**|IPE wrapped n" x n" deck posts with aluminum caps|
 |**Lighting**|Automated LED deck column lights|
 |**Deck support columns**|Tapered columns under the deck align with the rest of the home's craftsmen style|
