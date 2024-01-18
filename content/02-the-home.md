@@ -134,7 +134,7 @@ Take advantage of an already approved county variance to build your own detached
 
 | | |
 |-|-|
-|**Windows**|Premium Loewen [Douglas Fir](https://www.loewen.com/product-features/wood-species/) [extruded aluminum clad](https://www.loewen.com/product-features/aluminum-cladding/) in natural wood finish|
+|**Windows**|Premium Loewen [Douglas Fir](https://www.loewen.com/product-features/wood-species/) [extruded aluminum clad](https://www.loewen.com/product-features/aluminum-cladding/) in natural wood finish. Mixture of casement, awning, and double hung (sun room).|
 |**Interior window casings/trim**|Matching Douglas Fir in natural wood finish|
 {.table .table-striped}
 
