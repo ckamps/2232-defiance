@@ -32,7 +32,7 @@ type: docs
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/spring-front.jpeg" caption="Flowering Crabapple Prairifires">}}
   {{< img src="img/japanese-maple-night.jpeg" caption="Japanese Maple">}}
-  {{< img src="img/trees-japanese-maple-front.jpeg" caption="Japanese Maple">}}
+  {{< img src="img/trees-japanese-maple-front.jpg" caption="Japanese Maple">}}
   {{< img src="img/cedar-of-lebanon.jpeg" caption="Cedar of Lebanon next to deck" >}}
   {{< img src="img/trees-cedar-deck-winter.jpg" caption="Cedar of Lebanon in winter" >}}
   {{< img src="img/maple-fall.jpeg" caption="Silver Maple in fall">}}
