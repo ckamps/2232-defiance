@@ -105,7 +105,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Panel surge protectors**|Each electrical panel includes a surge protector|
 |**Switches and dimmers**|Decora style switches and dimmers throughout. Large number of smart dimmers and switches throughout the home for commonly used lights and fans.|
 |**Wall plates**|Leviton screwless switch and receptable outlet wall plates in all living spaces|
-|**Spa hookup**|Spa hookup near rear patio for future spa power|
+|**Spa hookup**|Spa electrical hookup near rear patio for future spa|
 |**Service to lower land**|Underground electrical circuit from garage to RV pedastal near lower land area|
 |**Light poles**|2 light poles in lower land area each with raised electrical outlets|
 {.table .table-striped}
