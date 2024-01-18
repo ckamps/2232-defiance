@@ -40,7 +40,7 @@ Take advantage of an already approved county variance to build your own detached
 | | |
 |:--------------------------------------------|:----|
 |**Siding**|Fiber cement siding and trim throughout. [James Hardie Plank Lap Siding Cedar Mill](https://www.jameshardie.com/products/hardieplank-lap-siding), [Hardie Shingle Siding](https://www.jameshardie.com/products/hardieshingle-siding) on gables, and [Hardie Trim boards](https://www.jameshardie.com/products/hardietrim-boards)|
-|**Tapered columns**|Low maintenance craftsman style tapered columns line the front porch and underpin the rear deck|
+|**Tapered columns**|Low maintenance craftsmen style tapered columns line the front porch and underpin the rear deck|
 |**Exterior paint**|Complete exterior painted in September 2022|
 {{< /table >}}
 
