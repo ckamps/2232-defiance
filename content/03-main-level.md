@@ -17,7 +17,7 @@ type: docs
 |**Refigerator**|Built-in 42" GE Monogram refrigerator/freezer with ice and water dispenser|
 |**Oven**|Miele double convection oven|
 |**Cooktop**|Thermador 36" induction cooktop|
-|**Hood**|Stainless steel hood with lighting|
+|**Hood**|Stainless steel hood with lighting and exhaust fan|
 |**Warming drawer**|Built-in warming drawer|
 |**Microwave**|Built-in Sharp SMC1585BS 1.5 cu. ft. microwave oven with convection cooking in stainless steel. New in 2021.|
 |**Main sink**|Two-bowl stainless steel Kohler K-3356 undermount sink|
