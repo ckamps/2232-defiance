@@ -20,13 +20,13 @@ type: docs
 
 | | |
 |-|-|
-|**Magnolia acuminata - "Cucumber" Magnolia**|...|
-|**Holly**|...| 
-|**Japanese Magnoila "Ann"**|...|
-|**Japanese Maple**|...|
-|**Stenacoma "Cedar of Lebanon"**|...|
-|**Flowering Crabapple Prairifires**|...|
-|**Silver Maples**|...|
+|**Magnolia acuminata - "Cucumber" Magnolia**|1 is located on the hill along the entry driveway|
+|**Holly**|3 are located on the hill along the entry driveway| 
+|**Japanese Magnoila "Ann"**|1 is located along the entry driveway; 2 are located on the hill to the lower land|
+|**Japanese Maple**|1 is located adjacent to the auto court|
+|**Stenacoma "Cedar of Lebanon"**|1 is located adjacent to the deck|
+|**Flowering Crabapple Prairifires**|2 are located along the entry driveway; 2 are located on the hill to the lower land; 2 are located on the east side of the home|
+|**Silver Maples**|2 are located on the east side of the main home|
 {.table .table-striped}
 
 {{< image src="img/cedar-of-lebanon.jpeg" class="rounded" wrapper="col mx-auto" caption="Cedar of Lebanon next to deck" >}}
@@ -37,11 +37,11 @@ The rear or the home is lined with Thuja Green Giant Arborvitae evergreen trees 
 
 ## Bluffs
 
-Two exposed limestobe bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
+Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
 
 ## Lower Land
 
-The lower land of the parcel sits ~70' below the building level.
+The lower land of the parcel sits ~70' below the level of the home. Well above any potential flooding of the Femme Osage Creek and Missouri River valleys.
 
 ### Stone Steps to Lower Land
 
@@ -69,17 +69,17 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 {{< image src="img/dock-straight-on-sunset.jpeg" wrapper="col mx-auto" caption="Private dock" >}}
 {{< image src="img/dock-bridge-dusk.jpeg" wrapper="col mx-auto" >}}
 
-## Katy Trail State Park
-
-## Femme Osage Creek
-
 ## Wildlife
 
-* Bald Eagles frequent fly up and down the Femme Osage Creek
-* Great Blue Herons
-* Bobcats
+Common wildlife in the area include:
+
+* Bald Eagles frequently fly up and down the Femme Osage Creek
+* Great Blue Herons nest upstream from the home
 * Deer
+* Coyote
+* Bobcats
 * Foxes
-* Fishes: Channel Catfish, …
 
 ## Property History
+
+In the early 1900s, the lower land of the property was the site of the Femme Osage Hunting and Fishing Club, also known as the Finney Club.
