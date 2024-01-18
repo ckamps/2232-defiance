@@ -55,6 +55,8 @@ type: docs
 |**Amplifier**|Dedicated Yamaha RX-V485 A/V AirPlay 2 compatible receiver amplifier in lower level systems rack|
 {.table .table-striped}
 
+{{< image src="img/winter-sunset-from-deck.jpeg" wrapper="col mx-auto" caption="Winter sunsets" >}}
+
 ## Mud Room / Laundry Room
 
 | | |
