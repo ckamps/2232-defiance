@@ -30,7 +30,8 @@ type: docs
 {.table .table-striped}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/spring-front.jpeg" caption="Flowering Crabapple Prairifires">}}
+  {{< img src="img/spring-front.jpeg" caption="Flowering Crabapple Prairifires along entry driveway">}}
+  {{< img src="img/bridge-spring.jpeg" caption="Flowering Crabapple Prairifires on hill to lower land">}}
   {{< img src="img/japanese-maple-night.jpeg" caption="Japanese Maple">}}
   {{< img src="img/trees-japanese-maple-front.jpg" caption="Japanese Maple">}}
   {{< img src="img/cedar-of-lebanon.jpeg" caption="Cedar of Lebanon next to deck" >}}
