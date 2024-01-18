@@ -89,4 +89,8 @@ Common wildlife in the area include:
 
 ## Property History
 
-In the early 1900s, the lower land of the property was the site of the Femme Osage Hunting and Fishing Club, also known as the Finney Club.
+In the early 1900s, the lower land of the property was the site of the Femme Osage Hunting and Fishing Club. Also known as the Finney Club.
+
+{{< image src="img/finney-panorama.jpeg" wrapper="col mx-auto" caption="The Finney Club in the lower land - 1917" >}}
+{{< image src="img/finney-middle.jpeg" wrapper="col mx-auto" caption="1917 Stag outing" >}}
+
