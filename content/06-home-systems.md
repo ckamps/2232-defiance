@@ -35,6 +35,16 @@ All wireless access points were installed in 2022 at about the same time gigabit
 |**Lower land light pole near dock**|UniFi U6-Mesh|
 {.table .table-striped}
 
+## TV and Video Streaming
+
+| | |
+|-|-|
+|**Apple TVs**|Apple TVs combined with the gigabit internet service enable access to video streaming services throughout the home|
+|**OTA antenna**|Attic mounted over the air (OTA) HD television antennae enables free access to local TV programming|
+|**OTA receiver**|SiliconDust HDHomeRun Flex 4K OTA receiver connects to the OTA antenna and the home network. Via the Channels app, you can view local HD broadcast stations through the Apple TVs and your phones.|
+|**Satellite ready**|If you prefer satellite TV, a dish pole mount exists hidden behind the garage. Conduit is already in place to easily run coax from a dish to the garage and main home's lower level.|
+{.table .table-striped}
+
 ## Security System
 
 | | |
@@ -81,16 +91,6 @@ Cameras cover the following outside areas:
 ## Doorbell and Camera
 
 The main entry has a Ring Video Doorbell Pro 2.
-
-## TV and Video Streaming
-
-| | |
-|-|-|
-|**Apple TVs**|Apple TVs combined with the gigabit internet service enable access to video streaming services throughout the home|
-|**OTA antenna**|Attic mounted over the air (OTA) HD television antennae enables free access to local TV programming|
-|**OTA receiver**|SiliconDust HDHomeRun Flex 4K OTA receiver connects to the OTA antenna and the home network. Via the Channels app, you can view local HD broadcast stations through the Apple TVs and your phones.|
-|**Satellite ready**|If you prefer satellite TV, a dish pole mount exists hidden behind the garage. Conduit is already in place to easily run coax from a dish to the garage and main home's lower level.|
-{.table .table-striped}
 
 ## Weather Station
 
