@@ -126,7 +126,7 @@ Take advantage of an already approved county variance to build your own detached
 | | |
 |-|-|
 |**Front entry door**|Therma Tru Fiber-Classic Craft|
-|**Glass patio doors (2)**|[Loewen Douglas Fir extruded aluminum clad glass terrace doors](https://www.loewen.com/terrace-door/)|
+|**Patio doors**|[Loewen Douglas Fir extruded aluminum clad glass terrace doors](https://www.loewen.com/terrace-door/) leading to deck amd patio|
 |**Secondary exterior doors**|Therma Tru fiberglass|
 {.table .table-striped}
 
