@@ -41,7 +41,7 @@ type: docs
 
 ### Extra Privacy Screens
 
-The rear or the home is lined with Thuja Green Giant Arborvitae evergreen trees as an additional measure of privacy.
+The rear or the home is lined with Thuja Green Giant Arborvitae evergreen trees for an additional measure of privacy.
 
 ## Bluffs
 
