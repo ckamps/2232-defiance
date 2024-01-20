@@ -91,7 +91,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Fireplace**|Fireplace Xtrordinair 36" direct vent LP gas fireplace with Artisan hammered nickel face and automatic fan. Integrated with home automation to enable, for example, "Alexa, turn on the fireplace".| 
 |**Fireplace mantel**|Solid maple fireplace mantel|
 |**Cabinets**|Custom built-in cabinets|
-|**TV**|nn 23" Samsung ... LED|
+|**TV**|Samsung 60" SUHD 4K Flat Smart TV JS7000|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A2169)|
 |**Speakers**|... center channel, ... front channels, ... powered subwoofer, Polk Audio RC60i ceiling speakers x 2 (rear channels) |
 |**A/V receiver**|Dedicated [Yamaha RX-V4A](https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-v4a/index.html) 5.2 channel A/V receiver amplifier|
