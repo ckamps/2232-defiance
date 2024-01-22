@@ -36,6 +36,8 @@ type: docs
   {{< img src="img/trees/japanese-maple-front.jpg" caption="Japanese Maple">}}
   {{< img src="img/trees/cedar-of-lebanon.jpeg" caption="Cedar of Lebanon next to deck" >}}
   {{< img src="img/trees/cedar-deck-winter.jpg" caption="Cedar of Lebanon in winter" >}}
+  {{< img src="static/images/trees/magnolia-night-art.jpeg" caption="Japanese Magnoila \"Ann\"" >}}
+  {{< img src="static/images/trees/magnolia-night-from-patio.jpeg" caption="Japanese Magnoila \"Ann\"" >}} 
   {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
 {{< /carousel >}}
 
