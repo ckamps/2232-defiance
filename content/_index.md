@@ -6,7 +6,7 @@ modules: ["leaflet"]
   {{< img src="img/exterior/spring-front.jpeg" >}}
   {{< img src="img/exterior/from-bottom-night.jpeg" >}}
   {{< img src="img/sunsets/sunset-winter.jpeg" >}}
-  {{< img src="img/deck/deck-winter-sunset.JPG">}}
+  {{< img src="img/deck/deck-winter-east.jpeg">}}
   {{< img src="img/lower-land/bluff-at-night.jpeg" caption="One of two bluffs bracketing the home">}}
   {{< img src="img/views/winter-lower-bridge.jpeg" caption="View from the primary bedroom of the Femme Osage Creek bridge" >}}
   {{< img src="img/creek/femme-osage-paddle-boarding-evening.jpeg" caption="Sunset paddles on the Femme Osage Creek from your private dock">}}
