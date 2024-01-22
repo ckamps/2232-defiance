@@ -38,7 +38,8 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 |**Wall mounted lockers**|Gladiator Garage Works steel storage lockers. 2 lockers 36" wide x 18" deep x 6' tall; 4 lockers 30" wide x 18" deep x 5' tall|
 |**Wall cabinets**|Gladiator Garage Works steel wall cabinets. 3 cabinets 30" wide x 12" deep x 30" tall|
 |**Shelving**|Extensive 2' deep Fleximounts wire shelving throughout|
-|**Paddle board rack**|Accomodates up to 4 paddle boards|
+|**Bike hangers**|4 bike racks to hang bikes vertically against rear wall of garage|
+|**Paddle board rack**|Accommodates up to 4 paddle boards|
 |**Garden tool mounts and hangers**|20+ feet of garden tool hanging mounts and hangers|
 |**Long ladder hoist**|Ceiling mounted hoist to store 20' extension ladder out of the way|
 {.table .table-striped}
