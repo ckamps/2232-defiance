@@ -30,13 +30,13 @@ type: docs
 {.table .table-striped}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/spring-front.jpeg" caption="Flowering Crabapple Prairifires along entry driveway">}}
-  {{< img src="img/bridge-spring.jpeg" caption="Flowering Crabapple Prairifires on hill to lower land">}}
-  {{< img src="img/japanese-maple-night.jpeg" caption="Japanese Maple">}}
-  {{< img src="img/trees-japanese-maple-front.jpg" caption="Japanese Maple">}}
-  {{< img src="img/cedar-of-lebanon.jpeg" caption="Cedar of Lebanon next to deck" >}}
-  {{< img src="img/trees-cedar-deck-winter.jpg" caption="Cedar of Lebanon in winter" >}}
-  {{< img src="img/maple-fall.jpeg" caption="Silver Maple in fall">}}
+  {{< img src="img/exterior/spring-front.jpeg" caption="Flowering Crabapple Prairifires along entry driveway">}}
+  {{< img src="img/bridge/bridge-spring.jpeg" caption="Flowering Crabapple Prairifires on hill to lower land">}}
+  {{< img src="img/trees/japanese-maple-night.jpeg" caption="Japanese Maple">}}
+  {{< img src="img/trees/japanese-maple-front.jpg" caption="Japanese Maple">}}
+  {{< img src="img/trees/cedar-of-lebanon.jpeg" caption="Cedar of Lebanon next to deck" >}}
+  {{< img src="img/trees/cedar-deck-winter.jpg" caption="Cedar of Lebanon in winter" >}}
+  {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
 {{< /carousel >}}
 
 ### Extra Privacy Screens
@@ -57,7 +57,7 @@ nn flagstone steps provide one means to access the lower land from the main home
 
 ### Double Track Path to Lower Land
 
-In additon to the stone steps, a double track path provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occassional truck. 
+In addition to the stone steps, a double track path provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occassional truck. 
 
 ### Private Dock
 
@@ -74,8 +74,8 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 |**Electricity**|The shore mounted light pole contains an electrical outlet|
 {.table .table-striped}
 
-{{< image src="img/dock-straight-on-sunset.jpeg" wrapper="col mx-auto" caption="Private dock" >}}
-{{< image src="img/dock-bridge-dusk.jpeg" wrapper="col mx-auto" >}}
+{{< image src="img/dock/dock-straight-on-sunset.jpeg" wrapper="col mx-auto" caption="Private dock" >}}
+{{< image src="img/dock/dock-bridge-dusk.jpeg" wrapper="col mx-auto" >}}
 
 ## Wildlife
 
@@ -92,7 +92,6 @@ Common wildlife in the area include:
 
 In the early 1900s, the lower land of the property was the site of the Femme Osage Hunting and Fishing Club. Also known as the Finney Club.
 
-{{< image src="img/finney-map.png" wrapper="col mx-auto" caption="Finney Club House on survey map from early 1900s" >}}
-{{< image src="img/finney-panorama.jpeg" wrapper="col mx-auto" caption="The Finney Club in the lower land - 1917" >}}
-{{< image src="img/finney-middle.jpeg" wrapper="col mx-auto" caption="1917 Stag outing" >}}
-
+{{< image src="img/finney/finney-map.png" wrapper="col mx-auto" caption="Finney Club House on survey map from early 1900s" >}}
+{{< image src="img/finney/finney-panorama.jpeg" wrapper="col mx-auto" caption="The Finney Club in the lower land - 1917" >}}
+{{< image src="img/finney/finney-middle.jpeg" wrapper="col mx-auto" caption="1917 Stag outing" >}}

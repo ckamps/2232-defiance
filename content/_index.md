@@ -3,13 +3,13 @@ modules: ["leaflet"]
 ---
 
 {{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/spring-front.jpeg" >}}
-  {{< img src="img/sunset-winter.jpeg" >}}
-  {{< img src="img/deck-winter-sunset.JPG">}}
-  {{< img src="img/from-bottom-night.jpeg" >}}
-  {{< img src="img/bluff-at-night.jpeg" caption="One of two bluffs bracketing the home">}}
-  {{< img src="img/winter-lower-bridge.jpeg" caption="View from the primary bedroom of the Femme Osage Creek bridge" >}}
-  {{< img src="img/femme-osage-paddle-boarding-evening.jpeg" caption="Sunset paddles on the Femme Osage Creek from your private dock">}}
+  {{< img src="img/exterior/spring-front.jpeg" >}}
+  {{< img src="img/sunsets/sunset-winter.jpeg" >}}
+  {{< img src="img/deck/deck-winter-sunset.JPG">}}
+  {{< img src="img/exterior/from-bottom-night.jpeg" >}}
+  {{< img src="img/lower-land/bluff-at-night.jpeg" caption="One of two bluffs bracketing the home">}}
+  {{< img src="img/bridge/winter-lower-bridge.jpeg" caption="View from the primary bedroom of the Femme Osage Creek bridge" >}}
+  {{< img src="img/creek/femme-osage-paddle-boarding-evening.jpeg" caption="Sunset paddles on the Femme Osage Creek from your private dock">}}
 {{< /carousel >}}
 
 **$2,400,000**
@@ -56,11 +56,11 @@ In winter, enjoy expansive south-facing panoramic views for miles across undevel
 From many areas of the yard and home, enjoy a commanding and intimate view of the 120+ year-old iron railroad bridge spanning the Femme Osage Creek that is just ~250 feet away and ~60 feet below the main level of the home. You'll feel like you're on vacation whenever you see the bridge!
 
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/bridge-spring-2.jpeg" caption="Bluff top view of 120-year-old iron railroad bridge on Katy trail" >}}
-  {{< img src="img/bridge-lower-land.jpeg" caption="View from lower land" >}}
-  {{< img src="img/bridge-night-2.jpeg" caption="Accent lighting of the bridge">}}
-  {{< img src="img/bridge-from-water.jpeg" caption="Femme Osage Creek and private dock on the right">}}
-  {{< img src="img/bridge-night.jpeg" caption="Accent lighting of the bridge">}}
+  {{< img src="img/bridge/bridge-spring-2.jpeg" caption="Bluff top view of 120-year-old iron railroad bridge on Katy trail" >}}
+  {{< img src="img/bridge/bridge-lower-land.jpeg" caption="View from lower land" >}}
+  {{< img src="img/bridge/bridge-night-2.jpeg" caption="Accent lighting of the bridge">}}
+  {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek and private dock on the right">}}
+  {{< img src="img/bridge/bridge-night.jpeg" caption="Accent lighting of the bridge">}}
 {{< /carousel >}}
 
 ## Classic style with modern amenities
@@ -78,9 +78,9 @@ From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to 
 Use your [private dock]({{<ref "01-the-property#private-dock" >}}) on over 260 feet of [Femme Osage Creek](https://www.anyplaceamerica.com/directory/mo/st-charles-county-29183/streams/femme-osage-creek-756042/) shoreline to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling from your home all the way to its confluence with the Missouri River.
 
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/femme-osage-paddle-boarding-evening.jpeg" caption="Paddling on Femme Osage Creek">}}
-  {{< img src="img/bridge-from-water.jpeg" caption="Femme Osage Creek">}}
-  {{< img src="img/dock-dusk.jpeg" caption="Private dock">}}
+  {{< img src="img/creek/femme-osage-paddle-boarding-evening.jpeg" caption="Paddling on Femme Osage Creek">}}
+  {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek">}}
+  {{< img src="img/dock/dock-dusk.jpeg" caption="Private dock">}}
 {{< /carousel >}}
 
 ## Learn more
