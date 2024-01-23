@@ -2,6 +2,6 @@
 type: minimal
 ---
 
-## Thanks for requesting information. We'll be contacting you soon with a response.
+## Thanks for requesting information
 
-{{< button color="primary" href="/" >}}Home{{< /button >}}
+We'll be contacting you soon with a response.
