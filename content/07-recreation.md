@@ -1,6 +1,6 @@
 ---
 title: Recreation
-type: docs
+type: minimal
 ---
 
 ## Katy Trail State Park 

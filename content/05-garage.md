@@ -1,6 +1,6 @@
 ---
 title: Garage
-type: docs
+type: minimal
 ---
 
 The fully finished, south facing, oversized 3-car+ garage is tucked into the bluff to minimize it's visual impact on the site. West- and south-facing shingle clad roof gables make the generously sized garage appear to be a natural extension of the main home. 

@@ -1,6 +1,6 @@
 ---
 title: Home Systems
-type: docs
+type: minimal
 ---
 
 ## Networking and Internet

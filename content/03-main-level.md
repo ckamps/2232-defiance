@@ -1,6 +1,6 @@
 ---
 title: Main Level
-type: docs
+type: minimal
 ---
 
 ## Kitchen and Pantry

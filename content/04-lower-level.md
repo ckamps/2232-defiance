@@ -1,6 +1,6 @@
 ---
 title: Lower Level
-type: docs
+type: minimal
 ---
 
 ## Overview

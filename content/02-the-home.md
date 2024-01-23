@@ -1,6 +1,6 @@
 ---
 title: The Home 
-type: docs
+type: minimal
 ---
 
 ## Layout
