@@ -41,5 +41,5 @@ main:
 
   - identifier: contact
     name: Contact
-    url: /08-contact/
+    url: /contact/contact/
     weight: 90
