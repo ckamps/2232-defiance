@@ -87,5 +87,9 @@ Use your [private dock]({{<ref "01-the-property#private-dock" >}}) on over 260 f
   {{< img src="img/dock/dock-dusk.jpeg" caption="Private dock">}}
 {{< /carousel >}}
 
-{{< button color="primary" href="/01-the-property/" >}}The Property{{< /button >}}
-{{< button color="primary" href="/02-the-home/#!" >}}The Home{{< /button >}}
+{{< button-group >}}
+  {{< button color="primary" href="/01-the-property/" >}}The Property{{< /button >}}
+  {{< button color="primary" href="/02-the-home/#!" >}}The Home{{< /button >}}
+{{< /button-group >}}
+
+
