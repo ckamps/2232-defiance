@@ -50,9 +50,9 @@ The rear or the home is lined with Thuja Green Giant Arborvitae evergreen trees 
 Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/bluffs-east.jpeg" caption="East side bluffs from lower land">}}
-  {{< img src="img/lower-land/bluffs-west.jpeg" caption="West side bluffs from lower land">}}]
-  {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East side bluffs at night">}}
+  {{< img src="img/lower-land/bluffs-east.jpeg" caption="East side bluffs from lower land" >}}
+  {{< img src="img/lower-land/bluffs-west.jpeg" caption="West side bluffs from lower land" >}}]
+  {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East side bluffs at night" >}}
 {{< /carousel >}}
 
 ## Lower Land
@@ -61,7 +61,13 @@ The lower land of the parcel sits ~70' below the level of the home. Well above a
 
 ### Stone Steps to Lower Land
 
-nn flagstone steps provide one means to access the lower land from the main home site. Solar powered step lights illuminate the steps at nigh. The steps are lined on either side with landscaping.
+56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at nigh. The steps are lined on either side with landscaping.
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/steps-bottom.jpeg" caption="Flagstone steps from lower land" >}}
+  {{< img src="img/lower-land/steps-midway.jpeg" >}}]
+  {{< img src="img/lower-land/steps-top.jpeg" >}}
+{{< /carousel >}}
 
 ### Double Track Path to Lower Land
 
