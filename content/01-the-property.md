@@ -29,7 +29,7 @@ type: minimal
 |**Silver Maples**|2 are located on the east side of the main home|
 {.table .table-striped}
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/exterior/spring-front.jpeg" caption="Flowering Crabapple Prairifires along entry driveway">}}
   {{< img src="img/bridge/bridge-spring.jpeg" caption="Flowering Crabapple Prairifires on hill to lower land">}}
   {{< img src="img/trees/japanese-maple-night.jpeg" caption="Japanese Maple">}}
@@ -49,7 +49,7 @@ The rear or the home is lined with Thuja Green Giant Arborvitae evergreen trees 
 
 Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/bluffs-east.jpeg" caption="East bluffs from lower land" >}}
   {{< img src="img/lower-land/east-bluffs-closeup.jpeg" caption="East bluffs" >}}
   {{< img src="img/lower-land/bluffs-west.jpeg" caption="West bluffs from lower land" >}}]]
@@ -65,7 +65,7 @@ The lower land of the parcel sits ~70' below the level of the home. Well above a
 
 56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/steps-bottom.jpeg" caption="Flagstone steps from lower land" >}}
   {{< img src="img/lower-land/steps-top.jpeg" >}}
 {{< /carousel >}}
@@ -74,7 +74,7 @@ The lower land of the parcel sits ~70' below the level of the home. Well above a
 
 In addition to the stone steps, a double track trail provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/trail-to-lower-land.jpeg" caption="Trail from lower land to top if the property" >}}
   {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}]
 {{< /carousel >}}
