@@ -26,6 +26,8 @@ modules: ["leaflet"]
 | Gigabit internet service |2 office rooms  |  |
 {.table}
 
+{{< button color="primary" href="/08-contact/#!" >}}Request more information{{< /button >}}
+
 ## Desirable Defiance area of St Louis
 
 Don't miss this opportunity to own a unique 5.25-acre property and custom home in the desirable Defiance area of St Louis, Missouri. Whether you work from home or commute, the setting will make you feel like you're always at a weekend retreat.
@@ -85,4 +87,3 @@ Use your [private dock]({{<ref "01-the-property#private-dock" >}}) on over 260 f
 
 {{< button color="primary" href="/01-the-property/" >}}The Property{{< /button >}}
 {{< button color="primary" href="/02-the-home/#!" >}}The Home{{< /button >}}
-{{< button color="primary" href="/08-contact/#!" >}}Contact{{< /button >}}
