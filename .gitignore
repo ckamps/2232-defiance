@@ -10,8 +10,9 @@ hugo_stats.json
 .netlify
 
 # Node.js
-package-lock.json
-node_modules/
+**/package-lock.json
+**/node_modules/
+**/Archive.zip
 
 **/.terraform/*
 

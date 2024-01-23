@@ -1,0 +1,10 @@
+{
+  "name": "myProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "aws-sdk": "^2.1541.0",
+    "axios": "^1.6.5"
+  }
+}
