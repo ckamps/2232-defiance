@@ -69,9 +69,14 @@ The lower land of the parcel sits ~70' below the level of the home. Well above a
   {{< img src="img/lower-land/steps-top.jpeg" >}}
 {{< /carousel >}}
 
-### Double Track Path to Lower Land
+### Double Track Trail to Lower Land
 
-In addition to the stone steps, a double track path provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
+In addition to the stone steps, a double track trail provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/trail-to-lower-land.jpeg" caption="Trail from lower land to top if the property" >}}
+  {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}]
+{{< /carousel >}}
 
 ### Private Dock
 
