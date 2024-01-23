@@ -86,7 +86,7 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 | | |
 |-|-|
 |**Floating dock design**|A floating dock with a hinged gangway is anchored to the shore via two 2" x 20' galvanized steel schedule 40 stabilizer pipes. At low water, the dock rest on the creek bank. When the water rises, the floating dock and gangway rise with the water.|
-|**Dock platform size**|12' x 10' dock / swim platform with 6' x 4' extension. Retractable cleats make it easy to tie of canoes, kayaks, and paddle boards.|
+|**Dock platform size**|12' x 10' dock / swim platform with 6' x 4' extension. Retractable cleats make it easy to tie off canoes, kayaks, and paddle boards.|
 |**Shore to dock ramp**|A 24' x 3' hinged aluminum ramp with non-slip surface, handrail, and transition plate enables easy access to the creek|**
 |**Shore anchor**|A large exposed aggregate concrete pier anchors the dock, stabilizer bars, and gangway to the shore|
 |**Dock lights**|4 solar powered dock lights illuminate the corners of the dock|
