@@ -48,6 +48,12 @@ The rear or the home is lined with Thuja Green Giant Arborvitae evergreen trees 
 ## Bluffs
 
 Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/bluffs-east.jpeg" caption="East side bluffs from lower land">}}
+  {{< img src="img/lower-land/bluffs-west.jpeg" caption="West side bluffs from lower land">}}
+{{< /carousel >}}
+
+
 
 ## Lower Land
 
