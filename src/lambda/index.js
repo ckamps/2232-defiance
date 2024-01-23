@@ -16,13 +16,19 @@ module.exports.webhook = async (event, context, callback) => {
 
   var secretName = 'defiancehome/recaptcha-secret-key';
   var region = 'us-east-1';
-  var reCaptchaSecret = await SecretsManager.getSecret(secretName, region);
+  var secretString = await SecretsManager.getSecret(secretName, region);
+  const secret = JSON.parse(secretString)
+  var reCaptchaSecret = secret['recaptcha-secret-key'];
 
   let body = event.body;
   let headers = event.headers;
 
   // process the urlencoded body of the form submit and put it in a map structure
-  let parts = body.split('&');
+
+  let buff = Buffer.from(body, "base64");
+  let eventBodyStr = buff.toString('UTF-8');
+  console.log(eventBodyStr);
+  let parts = eventBodyStr.split('&');
   let result = [];
   
   // grab the params
@@ -34,7 +40,7 @@ module.exports.webhook = async (event, context, callback) => {
   }
   
   // Enable to inspect the params in Amazon Cloudwatch
-  // console.log(result);
+  console.log(result);
   
   // verify the result by POSTing to google backend with secret and
   // frontend recaptcha token as payload

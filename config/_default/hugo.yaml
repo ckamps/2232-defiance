@@ -10,7 +10,7 @@ languagecode: en-us
 canonifyurls: false
 enableinlineshortcodes: true
 timezone: America/Chicago
-timeout: 60000
+timeout: 60000s
 
 module:
   imports:
