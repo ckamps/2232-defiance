@@ -27,7 +27,7 @@ modules: ["leaflet"]
 | Gigabit internet service |2 office rooms  |  |
 {.table}
 
-{{< button color="primary" href="/08-contact/#!" >}}Request more information{{< /button >}}
+{{< button color="primary" href="/contact/contact/#!" >}}Request more information{{< /button >}}
 
 ## Desirable Defiance area of St Louis
 

@@ -47,5 +47,3 @@ Use your private dock on over 260 feet of the Femme Osage Creek to set off on pa
 ## Hiking
 
 Lewis and Clark trail is just an 10-minute drive or 25-minute bike ride away.
-
-{{< button color="primary" href="/08-contact/#!" >}}Contact{{< /button >}}

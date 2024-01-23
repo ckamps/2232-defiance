@@ -166,5 +166,3 @@ Take advantage of an already approved county variance to build your own detached
 |**Vacuum outlets**|7 powered vacuum outlets in the main home and 2 outlets in the garage|
 |**Vacuum hoses**|2 powered hoses for main and lower levels and 1 hose for garage|
 {.table .table-striped}
-
-{{< button color="primary" href="/08-contact/#!" >}}Contact{{< /button >}}
