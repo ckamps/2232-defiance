@@ -118,3 +118,5 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 ### Third Bedroom
 
 ### Lower Bedroom
+
+{{< button color="primary" href="/08-contact/#!" >}}Contact{{< /button >}}
