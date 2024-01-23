@@ -2,8 +2,9 @@
 modules: ["leaflet"]
 ---
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/exterior/spring-front.jpeg" >}}
+  {{< img src="img/exterior/home-from-lower-trail.jpeg">}}
   {{< img src="img/exterior/from-bottom-night.jpeg" >}}
   {{< img src="img/sunsets/sunset-winter.jpeg" >}}
   {{< img src="img/deck/deck-winter-east.jpeg">}}
@@ -19,12 +20,14 @@ modules: ["leaflet"]
 
 |     |       |     |
 | --------- | -------- | ------ |
-| 4 bedrooms  | 5 baths | 3,300 sq ft main level + 1,600+ sq ft finished walk out |
+| 4 bedrooms  | 5 baths:3 full, 2 half | 3,300 sq ft main level + 1,600+ sq ft finished walk out |
 | Custom built in 2006  | 5.25 acres | No HOA |
 | 400 ft Katy Trail frontage | 260 ft Femme Osage Creek frontage | Expansive south-facing views |
 | Geothermal HVAC | Municipal water | Underground electric service|
 | Gigabit internet service |2 office rooms  |  |
 {.table}
+
+{{< button color="primary" href="/08-contact/#!" >}}Request more information{{< /button >}}
 
 ## Desirable Defiance area of St Louis
 
@@ -83,6 +86,9 @@ Use your [private dock]({{<ref "01-the-property#private-dock" >}}) on over 260 f
   {{< img src="img/dock/dock-dusk.jpeg" caption="Private dock">}}
 {{< /carousel >}}
 
-{{< button color="primary" href="/01-the-property/" >}}The Property{{< /button >}}
-{{< button color="primary" href="/02-the-home/#!" >}}The Home{{< /button >}}
-{{< button color="primary" href="/08-contact/#!" >}}Contact{{< /button >}}
+{{< button-group >}}
+  {{< button color="primary" href="/01-the-property/" >}}The Property{{< /button >}}
+  {{< button color="primary" href="/02-the-home/#!" >}}The Home{{< /button >}}
+{{< /button-group >}}
+
+

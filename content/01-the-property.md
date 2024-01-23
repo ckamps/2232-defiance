@@ -29,7 +29,7 @@ type: minimal
 |**Silver Maples**|2 are located on the east side of the main home|
 {.table .table-striped}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/exterior/spring-front.jpeg" caption="Flowering Crabapple Prairifires along entry driveway">}}
   {{< img src="img/bridge/bridge-spring.jpeg" caption="Flowering Crabapple Prairifires on hill to lower land">}}
   {{< img src="img/trees/japanese-maple-night.jpeg" caption="Japanese Maple">}}
@@ -41,25 +41,39 @@ type: minimal
   {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
 {{< /carousel >}}
 
-### Extra Privacy Screens
+### Stone Steps to Lower Land
 
-The rear or the home is lined with Thuja Green Giant Arborvitae evergreen trees for an additional measure of privacy.
+56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
 
-## Bluffs
-
-Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/steps-bottom.jpeg" caption="Flagstone steps from lower land" >}}
+  {{< img src="img/lower-land/steps-top.jpeg" >}}
+{{< /carousel >}}
 
 ## Lower Land
 
-The lower land of the parcel sits ~70' below the level of the home. Well above any potential flooding of the Femme Osage Creek and Missouri River valleys.
+The lower land of the property sits 40+' below the level of the home. Well above any potential flooding of the Femme Osage Creek and Missouri River.
 
-### Stone Steps to Lower Land
+### Bluffs
 
-nn flagstone steps provide one means to access the lower land from the main home site. Solar powered step lights illuminate the steps at nigh. The steps are lined on either side with landscaping.
+Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
 
-### Double Track Path to Lower Land
+{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/bluffs-east.jpeg" caption="East bluffs from lower land" >}}
+  {{< img src="img/lower-land/east-bluffs-closeup.jpeg" caption="East bluffs" >}}
+  {{< img src="img/lower-land/bluffs-west.jpeg" caption="West bluffs from lower land" >}}]]
+  {{< img src="img/lower-land/west-bluff.jpeg" caption="West bluffs from lower land" >}}]
+  {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East bluffs at night" >}}
+{{< /carousel >}}
 
-In addition to the stone steps, a double track path provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
+### Double Track Trail to Lower Land
+
+In addition to the stone steps, a double track trail provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
+
+{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/trail-to-lower-land.jpeg" caption="Trail from lower land to top if the property" >}}
+  {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}]
+{{< /carousel >}}
 
 ### Private Dock
 
@@ -68,7 +82,7 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 | | |
 |-|-|
 |**Floating dock design**|A floating dock with a hinged gangway is anchored to the shore via two 2" x 20' galvanized steel schedule 40 stabilizer pipes. At low water, the dock rest on the creek bank. When the water rises, the floating dock and gangway rise with the water.|
-|**Dock platform size**|n' x n' dock / swim platform|
+|**Dock platform size**|12' x 10' dock / swim platform with 6' x 4' extension. Retractable cleats make it easy to tie off canoes, kayaks, and paddle boards.|
 |**Shore to dock ramp**|A 24' x 3' hinged aluminum ramp with non-slip surface, handrail, and transition plate enables easy access to the creek|**
 |**Shore anchor**|A large exposed aggregate concrete pier anchors the dock, stabilizer bars, and gangway to the shore|
 |**Dock lights**|4 solar powered dock lights illuminate the corners of the dock|
