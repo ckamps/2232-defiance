@@ -5,7 +5,7 @@ AWS.config.update({region: 'us-east-1'});
 const axios = require('axios');
 const reCapUrl = "https://www.google.com/recaptcha/api/siteverify";
 
-const SecretsManager = require('./SecretsManager.js');
+const SecretsManager = require('./common/secretsManager.js');
 
 // This is the SNS Topic configured so you can be emailed.
 const snsTopic = "arn:aws:sns:us-east-1:052490168305:defiancehome-contact";

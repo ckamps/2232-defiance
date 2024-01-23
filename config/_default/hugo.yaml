@@ -27,3 +27,8 @@ deployment:
     - name: production
       URL: s3://defiancehome-com?region=us-east-1
       cloudFrontDistributionID:	E27WOJ1ENY5GKJ
+
+privacy:
+  googleanalytics:
+    disabled: true
+    respectDoNotTrack: true
