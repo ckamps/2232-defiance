@@ -12,7 +12,9 @@ $ terraform init
 $ terraform apply
 ```
 
-## Hugo themes
+## Hinode Hugo Theme
+
+https://myrthos.net/blog/modifications/
 
 
 ## Publishing Hugo-based content
