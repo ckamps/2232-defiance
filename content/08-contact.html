@@ -9,7 +9,8 @@ type: minimal
                 e.preventDefault();
                 var name = $("#name").val(),
                     email = $("#email").val(),
-                    comment = $("#comment").val();
+                    phone = $("#phone").val(),
+                    request = $("#request").val();
                 $.ajax({
                     type: "POST",
                     url: 'https://yahu1b5i42.execute-api.us-east-1.amazonaws.com/default/defiancehome-contact',
