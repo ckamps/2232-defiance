@@ -45,7 +45,11 @@ type: minimal
 
 The rear or the home is lined with Thuja Green Giant Arborvitae evergreen trees for an additional measure of privacy.
 
-## Bluffs
+## Lower Land
+
+The lower land of the property sits 40+' below the level of the home. Well above any potential flooding of the Femme Osage Creek and Missouri River.
+
+### Bluffs
 
 Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
 
@@ -56,10 +60,6 @@ Two exposed limestone bluffs bracket the main home site. The bluffs are illumina
   {{< img src="img/lower-land/west-bluff.jpeg" caption="West bluffs from lower land" >}}]
   {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East bluffs at night" >}}
 {{< /carousel >}}
-
-## Lower Land
-
-The lower land of the parcel sits ~70' below the level of the home. Well above any potential flooding of the Femme Osage Creek and Missouri River valleys.
 
 ### Stone Steps to Lower Land
 
