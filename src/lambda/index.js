@@ -66,7 +66,8 @@ module.exports.webhook = async (event, context, callback) => {
       let emailbody = "Contact form submitted via:" + headers.origin +
       "\n\nFrom:"+result["name"]+
       "\nEmail: "+result["email"]+
-      "\nComment: "+result["comment"]+
+      "\nPhone: "+result["phone"]+
+      "\nRequest: "+result["request"]+
       "\n\nIP: " +headers["X-Forwarded-For"]+
       "\nUser Agent: " +headers["User-Agent"];
 
