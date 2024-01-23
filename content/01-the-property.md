@@ -41,9 +41,14 @@ type: minimal
   {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
 {{< /carousel >}}
 
-### Extra Privacy Screens
+### Stone Steps to Lower Land
 
-The rear or the home is lined with Thuja Green Giant Arborvitae evergreen trees for an additional measure of privacy.
+56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/steps-bottom.jpeg" caption="Flagstone steps from lower land" >}}
+  {{< img src="img/lower-land/steps-top.jpeg" >}}
+{{< /carousel >}}
 
 ## Lower Land
 
@@ -59,15 +64,6 @@ Two exposed limestone bluffs bracket the main home site. The bluffs are illumina
   {{< img src="img/lower-land/bluffs-west.jpeg" caption="West bluffs from lower land" >}}]]
   {{< img src="img/lower-land/west-bluff.jpeg" caption="West bluffs from lower land" >}}]
   {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East bluffs at night" >}}
-{{< /carousel >}}
-
-### Stone Steps to Lower Land
-
-56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
-
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/steps-bottom.jpeg" caption="Flagstone steps from lower land" >}}
-  {{< img src="img/lower-land/steps-top.jpeg" >}}
 {{< /carousel >}}
 
 ### Double Track Trail to Lower Land
