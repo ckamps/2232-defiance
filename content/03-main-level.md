@@ -14,7 +14,7 @@ type: minimal
 |**Under cabinet lighting**|Kichler undercabinet LED lighting integrated with home automation|
 |**Countertops**|Granite countertops with beveled edges|
 |**Center island**|Includes salad sink|
-|**Refigerator**|Built-in 42" GE Monogram refrigerator/freezer with ice and water dispenser|
+|**Refrigerator**|Built-in 42" GE Monogram refrigerator/freezer with ice and water dispenser|
 |**Oven**|Miele double convection oven|
 |**Cooktop**|Thermador 36" induction cooktop|
 |**Hood**|Stainless steel hood with lighting and exhaust fan|

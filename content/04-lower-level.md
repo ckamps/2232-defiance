@@ -22,7 +22,7 @@ type: minimal
 |**TV**|[Samsung 65" Class RU8000 Premium Smart 4K UHD TV](https://www.samsung.com/us/televisions-home-theater/tvs/premium-uhd-tvs/65--class-ru8000-premium-smart-4k-uhd-tv--2019--un65ru8000fxza/) integrated with dedicated Yamaha A/V receiver, Apple TV, and ceiling speakers|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
 |**Speakers**|4 Polk Audio RC60i ceiling speakers|
-|**A/V receiver**|Dedicated Yamaha RX-V481 A/V receiver amplifier in lower level unifinished room|
+|**A/V receiver**|Dedicated Yamaha RX-V481 A/V receiver amplifier in lower level unfinished room|
 {.table .table-striped}
 
 ## Kitchenette
@@ -72,7 +72,7 @@ Part of the main room.
 |**Wall lighting**|4 craftsmen style dimmable sconce lights on smart switch|
 |**Step lighting**|Integrated LED step lighting|
 |**Doors**|Double solid wood Cherry doors|
-|**Ventilation**|Flow through ventalation to aid in air circulation|
+|**Ventilation**|Flow through ventilation to aid in air circulation|
 {.table .table-striped}
 
 ## Full Bath

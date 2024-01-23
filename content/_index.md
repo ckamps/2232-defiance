@@ -19,7 +19,7 @@ modules: ["leaflet"]
 
 |     |       |     |
 | --------- | -------- | ------ |
-| 4 bedrooms  | 5 baths | 3,300 sqft main level + 1,600+ sqft finished walk out |
+| 4 bedrooms  | 5 baths | 3,300 sq ft main level + 1,600+ sq ft finished walk out |
 | Custom built in 2006  | 5.25 acres | No HOA |
 | 400 ft Katy Trail frontage | 260 ft Femme Osage Creek frontage | Expansive south-facing views |
 | Geothermal HVAC | Municipal water | Underground electric service|
@@ -82,8 +82,6 @@ Use your [private dock]({{<ref "01-the-property#private-dock" >}}) on over 260 f
   {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek">}}
   {{< img src="img/dock/dock-dusk.jpeg" caption="Private dock">}}
 {{< /carousel >}}
-
-## Learn more
 
 {{< button color="primary" href="/01-the-property/" >}}The Property{{< /button >}}
 {{< button color="primary" href="/02-the-home/#!" >}}The Home{{< /button >}}

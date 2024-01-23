@@ -10,8 +10,8 @@ type: minimal
 
 | | |
 |-|-|
-|**Entry road**|Private asphalt paved entry road (compacted 3" depth) from highway to home site. Two turnouts accomodate the rare event when you meet an oncoming vehicle. For example, a delivery truck.|
-|**Driveway**|Exposed aggregate concreate turnround area, driveway, and auto court. Extra thick 5" pour.|
+|**Entry road**|Private asphalt paved entry road (compacted 3" depth) from highway to home site. Two turnouts accommodate the rare event when you meet an oncoming vehicle. For example, a delivery truck.|
+|**Driveway**|Exposed aggregate concrete turnaround area, driveway, and auto court. Extra thick 5" pour.|
 {.table .table-striped}
 
 ## Landscaping
@@ -22,7 +22,7 @@ type: minimal
 |-|-|
 |**Magnolia acuminata - "Cucumber" Magnolia**|1 is located on the hill along the entry driveway|
 |**Holly**|3 are located on the hill along the entry driveway| 
-|**Japanese Magnoila "Ann"**|1 is located along the entry driveway; 2 are located on the hill to the lower land|
+|**Japanese Magnolia "Ann"**|1 is located along the entry driveway; 2 are located on the hill to the lower land|
 |**Japanese Maple**|1 is located adjacent to the auto court|
 |**Stenacoma "Cedar of Lebanon"**|1 is located adjacent to the deck|
 |**Flowering Crabapple Prairifires**|2 are located along the entry driveway; 2 are located on the hill to the lower land; 2 are located on the east side of the home|
@@ -36,8 +36,8 @@ type: minimal
   {{< img src="img/trees/japanese-maple-front.jpg" caption="Japanese Maple">}}
   {{< img src="img/trees/cedar-of-lebanon.jpeg" caption="Cedar of Lebanon next to deck" >}}
   {{< img src="img/trees/cedar-deck-winter.jpg" caption="Cedar of Lebanon in winter" >}}
-  {{< img src="img/trees/magnolia-night-art.jpeg" caption="Japanese Magnoila \"Ann\"" >}}
-  {{< img src="img/trees/magnolia-night-from-patio.jpeg" caption="Japanese Magnoila \"Ann\"" >}} 
+  {{< img src="img/trees/magnolia-night-art.jpeg" caption="Japanese Magnolia \"Ann\"" >}}
+  {{< img src="img/trees/magnolia-night-from-patio.jpeg" caption="Japanese Magnolia \"Ann\"" >}} 
   {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
 {{< /carousel >}}
 
@@ -59,7 +59,7 @@ nn flagstone steps provide one means to access the lower land from the main home
 
 ### Double Track Path to Lower Land
 
-In addition to the stone steps, a double track path provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occassional truck. 
+In addition to the stone steps, a double track path provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
 
 ### Private Dock
 
@@ -69,10 +69,10 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 |-|-|
 |**Floating dock design**|A floating dock with a hinged gangway is anchored to the shore via two 2" x 20' galvanized steel schedule 40 stabilizer pipes. At low water, the dock rest on the creek bank. When the water rises, the floating dock and gangway rise with the water.|
 |**Dock platform size**|n' x n' dock / swim platform|
-|**Shore to dock ramp**|A 24' x 3' hinged aluminum gangay with non-slip surface, handrail, and transition plate enables easy access to the creek|**
+|**Shore to dock ramp**|A 24' x 3' hinged aluminum ramp with non-slip surface, handrail, and transition plate enables easy access to the creek|**
 |**Shore anchor**|A large exposed aggregate concrete pier anchors the dock, stabilizer bars, and gangway to the shore|
-|**Dock lights**|4 solar powered dock lights illumnite the corners of the dock|
-|**Canoe and paddle board storage rack**|A rack near the dock provides storage for 2 canoes and 4+ paddle boards. The raick is raised for easy mowing.|
+|**Dock lights**|4 solar powered dock lights illuminate the corners of the dock|
+|**Canoe and paddle board storage rack**|A rack near the dock provides storage for 2 canoes and 4+ paddle boards. The rack is raised for easy mowing.|
 |**Electricity**|The shore mounted light pole contains an electrical outlet|
 {.table .table-striped}
 

@@ -8,7 +8,7 @@ type: minimal
 {{< table class="table-striped" >}}
 |                           |     |
 |:--------------------------|:----|
-|**Main level**|The majority of your day-to-day living space is on the main level. Spaces inlude the laundry/mud room, kitchen, dining room, deck, sun room, living room and three bedrooms including the primary bedroom. See [Main Level]({{<ref "03-main-level" >}}) for details.| 
+|**Main level**|The majority of your day-to-day living space is on the main level. Spaces include the laundry/mud room, kitchen, dining room, deck, sun room, living room and three bedrooms including the primary bedroom. See [Main Level]({{<ref "03-main-level" >}}) for details.| 
 |**Walkout lower level**|The walkout finished lower level is great for working from home, guests, movies, and games. Spaces include an office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Additionally, there's an abundance of partially finished, storage, and mechanical space. See [Lower Level]({{<ref "04-lower-level" >}}) for details.|
 |**Garage**|The fully finished, over sized three-car+ garage has a fully enclosed breezeway that provides easy access to the home. A large storage attic with folding access stairs enables you to store out of the way. See [Garage]({{<ref "05-garage" >}}) for details.|
 {{< /table >}}
@@ -24,7 +24,7 @@ Take advantage of an already approved county variance to build your own detached
 |:--------------------------|:----|
 |**Build year**|2006|
 |**Exterior walls**|Upgraded 2"x6" exterior wall framing (typical is 2"x4")|
-|**Subfloors**|[Huber AdvanTech](https://www.huberwood.com/advantech/subflooring) engineered tounge and groove subflooring|
+|**Subfloors**|[Huber AdvanTech](https://www.huberwood.com/advantech/subflooring) engineered tongue and groove subflooring|
 |**Floor joists**|Structurally engineered silent floor joists|
 |**Ceilings**|9'+ ceilings on main floor. 11'6" ceiling in garage.|
 |**Foundation**|Main structure's generous 10' foundation wall height provides additional lower level ceiling heights|
@@ -49,13 +49,13 @@ Take advantage of an already approved county variance to build your own detached
 | | |
 |-|-|
 |**Roof material**|GAF Timberline HD shingles and Rhino Synthetic underlayment installed in 2021. 50-year System Plus limited warranty.|
-|**Roof ventilation**|Low visual impact ridge vents with soffit ventlation on garage and main structure|
+|**Roof ventilation**|Low visual impact ridge vents with soffit ventilation on garage and main structure|
 |**Roof animal protection**|[Ridge-Guard](https://www.animaltrapsandsupplies.com/products/ridgeguard-ridge-vent-animal-exclusion.html) metal mesh protection from animals along all ridge vents|
-|**Exhaust vents**|Exhaust fan and water vents positioned on rear of the main roof are hidden from the front appeoach and Katy trail views of the home|
+|**Exhaust vents**|Exhaust fan and water vents positioned on rear of the main roof are hidden from the front approach and Katy trail views of the home|
 |**Soffits**|Fiber cement [Hardie Soffit Panels Vented Cedarmill](https://www.jameshardie.com/products/hardiesoffit-panels)|
 |**Gutters**|Oversized 6" aluminum|
 |**Gutter guards**|Stainless steel mesh gutter guards installed throughout|
-|**Gutter drainage**|Underground gutter drains used to transfer water downslope and away from the home and garage footprint|
+|**Gutter drainage**|Underground gutter drains used to transfer water down slope and away from the home and garage footprint|
 |**Solar**|Take advantage of the ideal south facing roofs of the home and garage for a future solar panel installation|
 {.table .table-striped}
 
@@ -63,7 +63,7 @@ Take advantage of an already approved county variance to build your own detached
 
 | | |
 |-|-|
-|**HVAC unit**|WaterFurnace Envision 6-ton dual capacity geothermal HVAC unit with 6 x 150' deep vertical wells. Combines heating and cooling in a single unit located in the lower unfinished area. Does not require an outside air conditioner condensor unit.|
+|**HVAC unit**|WaterFurnace Envision 6-ton dual capacity geothermal HVAC unit with 6 x 150' deep vertical wells. Combines heating and cooling in a single unit located in the lower unfinished area. Does not require an outside air conditioner condenser unit.|
 |**HVAC zones**|A WaterFurnace IntelliZone controller controls electronic dampers for 3 zones: Zone 1: Kitchen, Laundry Room, Dining, and Sun Room; Zone 2: Living room and main level bedrooms; Zone 3: Lower level|
 |**Thermostats**|Honeywell T6 Pro smart thermostats with Z-Wave Plus. 3 quantity, 1 per zone. Integrated with home automation.|
 |**Exterior walls**|Upgraded 2"x6" (typical is 2"x4"). Provides more room for thicker in-wall insulation.|
@@ -72,7 +72,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Whole-house Dehumidifier**|AprilAire 1720 whole-house dehumidifier for summer months.|
 |**Whole-house Humidifier**|Whole-house steam humidifier for winter months. Integrated with home automation to automatically maintain desired humidity level.|
 |**Ceiling fans**|Casablanca Panama fans with smart switches|
-|**Bathroom exhaust fans**|Quiet Panasonic WhisperCeiling fans throughout. Exhaust ductwork is insulated in home attic to minimize condensation.|
+|**Bathroom exhaust fans**|Quiet Panasonic WhisperCeiling fans throughout. Exhaust duct work is insulated in home attic to minimize condensation.|
 {.table .table-striped}
 
 ## Water
@@ -104,7 +104,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Lower level panel**|Separate 200 AMP subpanel in lower level unfinished area for main home|
 |**Panel surge protectors**|Each electrical panel includes a surge protector|
 |**Switches and dimmers**|Decora style switches and dimmers throughout. Large number of smart dimmers and switches throughout the home for commonly used lights and fans.|
-|**Wall plates**|Leviton screwless switch and receptable outlet wall plates in all living spaces|
+|**Wall plates**|Leviton screwless switch and receptacle outlet wall plates in all living spaces|
 |**Spa hookup**|Spa electrical hookup near rear patio for future spa|
 |**Service to lower land**|Underground electrical circuit from garage to RV pedastal near lower land area|
 |**Light poles**|2 light poles in lower land area each with raised electrical outlets|
@@ -164,7 +164,7 @@ Take advantage of an already approved county variance to build your own detached
 |-|-|
 |**Central vacuum**|Garage wall mounted Beem central vacuum unit|
 |**Vacuum outlets**|7 powered vacuum outlets in the main home and 2 outlets in the garage|
-|**Vaccum hoses**|2 powered hoses for main and lower levels and 1 hose for garage|
+|**Vacuum hoses**|2 powered hoses for main and lower levels and 1 hose for garage|
 {.table .table-striped}
 
 {{< button color="primary" href="/08-contact/#!" >}}Contact{{< /button >}}

@@ -49,7 +49,7 @@ All wireless access points were installed in 2022 at about the same time gigabit
 
 | | |
 |-|-|
-|**Central alarm system**|The central alarm sustem is an ADT Safewatch Pro Security System (Honeywell Ademco Vista 20p security panel). A subscription for ADT to provide remote monitoring is optional, but not necessary to use the security system.|
+|**Central alarm system**|The central alarm system is an ADT Safewatch Pro Security System (Honeywell Ademco Vista 20p security panel). A subscription for ADT to provide remote monitoring is optional, but not necessary to use the security system.|
 |**Keypads**|Keypads are located in the mud/laundry room and primary bedroom|
 |**Exterior door contact sensors**|All exterior doors have built-in contact sensors|
 |**Glass break sensors**|All rooms with windows that are accessible to ground level have glass break sensors|
@@ -109,7 +109,7 @@ The main entry has a Ring Video Doorbell Pro 2.
 
 Apple TVs distributed throughout the home act as Apple Home hubs. Currently, most of the home's smart switches and other devices are registered with the Hubitat devices. In turn, the Hubitat devices use their built-in support for HomeKit to make the devices available via the Apple Home app on iOS devices.
 
-You have the option to define automations through the Apple Home app, Hubitat, or both.
+You have the option to define automation through the Apple Home app, Hubitat, or both.
 
 Examples of remote control and automation already in place include:
 

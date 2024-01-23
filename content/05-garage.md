@@ -25,7 +25,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 | | |
 |-|-|
 |**Garage doors 1 and 2**|Oversize 10' wide x 9' tall|
-|**Garage door 3**|Oversize 12' wide x 9' tall. Sufficient outer wall framing and ceiling height exists to enable future height extension. For example, to accomodate a lifted Sprinter or similar RV.|
+|**Garage door 3**|Oversize 12' wide x 9' tall. Sufficient outer wall framing and ceiling height exists to enable future height extension. For example, to accommodate a lifted Sprinter or similar RV.|
 |**Style**|Color coordinated, multi-panel [Clopay Coachman](https://www.clopaydoor.com/coachman) steel insulated doors with exterior wood grain texture and top windows| 
 |**Garage door openers**|Chamberlain LiftMaster 3/4 HP garage door openers|
 |**Automation**|Meross Smart Garage Door Opener Remote. In addition to wall-mounted door controls, the garage door openers are smart home connected for remote control and monitoring via Apple Home, Siri, Alexa, etc|
@@ -46,7 +46,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 
 ## Air Compressor and Electric
 
-Take advantage of the hidden large volume air compressor to easily and quikly inflate tires and other inflatables.
+Take advantage of the hidden large volume air compressor to easily and quickly inflate tires and other inflatables.
 
 | | |
 |-|-|
