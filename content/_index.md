@@ -2,7 +2,7 @@
 modules: ["leaflet"]
 ---
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/exterior/spring-front.jpeg" >}}
   {{< img src="img/exterior/home-view-from-turnaround.jpeg">}}
   {{< img src="img/exterior/home-from-lower-trail.jpeg">}}
