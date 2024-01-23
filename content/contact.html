@@ -17,7 +17,7 @@ type: minimal
                     comment = $("#comment").val();
                 $.ajax({
                     type: "POST",
-                    url: 'https://1uq4cf04vi.execute-api.us-east-1.amazonaws.com/default/defiancehome-contact',
+                    url: 'https://yahu1b5i42.execute-api.us-east-1.amazonaws.com/default/defiancehome-contact',
                     contentType: 'application/json',
                     data: JSON.stringify({
                         'name': name,
@@ -35,7 +35,7 @@ type: minimal
         });
     </script>
     <script src="https://www.google.com/recaptcha/api.js"></script>
-    <div class="container"><form id="contact"  action="https://1uq4cf04vi.execute-api.us-east-1.amazonaws.com/default/defiancehome-contact" method="post" enctype="application/json">
+    <div class="container"><form id="contact"  action="https://yahu1b5i42.execute-api.us-east-1.amazonaws.com/default/defiancehome-contact" method="post" enctype="application/json">
         <p><input id="name" tabindex="1" name="name" required="" type="text" autofocus="" placeholder="Your name" size="40"/></p>
         <p><input tabindex="2" name="email" required="" type="email" placeholder="Email address" size="40" /></p>
         <p><textarea id="comment" name="comment" tabindex="3" required="" placeholder="Type your comment here" rows="4" cols="40"></textarea></p>
