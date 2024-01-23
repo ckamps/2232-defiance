@@ -1,6 +1,6 @@
 ---
 title: The Property
-type: docs
+type: minimal
 ---
 
 ## Parcel
