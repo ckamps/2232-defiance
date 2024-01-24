@@ -78,23 +78,7 @@
                 <div class="main-content">
                     {{ block "featured" . }}{{ end -}}
                 </div>
-                {{ if .Site.Params.main.footerBelowFold }}
-                    {{ block "main" . }}{{ end -}}
-                {{ end }}
             </div>
-
-            {{ if not .Site.Params.main.footerBelowFold }}
-                {{ block "main" . }}{{ end -}}
-                {{- partial "footer/footer.html" . -}}
-            {{ end }}
         </div>
-
-        {{ if .Site.Params.main.footerBelowFold }}
-            {{- partial "footer/footer.html" . -}}
-        {{ end }}
-
-        {{- partial "footer/toast-container.html" . -}}
-        {{- partialCached "footer/scripts.html" (dict "header" false "page" . "core" true) }}
-        {{- partial "partials/optional-scripts.html" . -}}
     </body>
 </html>

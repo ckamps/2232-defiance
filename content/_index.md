@@ -91,5 +91,3 @@ Use your [private dock]({{<ref "01-the-property#private-dock" >}}) on over 260 f
   {{< button color="primary" href="/01-the-property/" >}}The Property{{< /button >}}
   {{< button color="primary" href="/02-the-home/#!" >}}The Home{{< /button >}}
 {{< /button-group >}}
-
-

@@ -16,6 +16,8 @@ The property is nestled between the high-end Ridge Creek and Markham Hills devel
 
 ## Entry Road and Driveway
 
+The paved entry drive is part of the parcel and provides private access to the property.
+
 | | |
 |-|-|
 |**Entry road**|Private asphalt paved entry road (compacted 3" depth) from highway to home site. Two turnouts accommodate the rare event when you meet an oncoming vehicle. For example, a delivery truck.|
