@@ -55,7 +55,7 @@ A series of specimen trees provide year-round character to the main portion of t
 
 56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
 
-{{< carousel ratio="4x3" portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="16x9" portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/steps-bottom.jpeg" caption="Flagstone steps from lower land" >}}
   {{< img src="img/lower-land/steps-top.jpeg" >}}
 {{< /carousel >}}
@@ -96,8 +96,12 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 |**Electricity**|The shore mounted light pole contains an electrical outlet|
 {.table .table-striped}
 
-{{< image src="img/dock/dock-straight-on-sunset.jpeg" wrapper="col mx-auto" caption="Private dock" >}}
-{{< image src="img/dock/dock-bridge-dusk.jpeg" wrapper="col mx-auto" >}}
+{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/dock/dock-straight-on-sunset.jpeg" >}}
+  {{< img src="img/dock/dock-bridge-dusk.jpeg"  >}}
+  {{< img src="img/dock/paddle-rack-bridge.jpeg"  >}}
+  {{< img src="img/dock/paddle-rack.jpeg"  >}}
+{{< /carousel >}}
 
 ## Wildlife
 
