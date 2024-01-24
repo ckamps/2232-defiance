@@ -66,7 +66,7 @@ A series of specimen trees provide year-round character to the main portion of t
 
 ## Lower Land
 
-The lower land of the property sits 40+' below the level of the home. Well above any potential flooding of the Femme Osage Creek and Missouri River.
+The lower land of the property sits 40+' below the level of the home.
 
 ### Bluffs
 
