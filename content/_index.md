@@ -47,9 +47,7 @@ Nestled between two high-end communities with large 5-acre and 3-acre lots, bord
 
 Situated well above the adjacent Femme Osage Creek and Missouri River bottoms on its own private parcel in the sparsely-developed southwest portion of St Charles County, this property sits at the gateway to Missouri's wine country.
 
-## Views galore
-
-#### Views of the opposite bluffs of the Missouri River
+## Views of the opposite bluffs of the Missouri River
 
 In winter, enjoy expansive south-facing panoramic views for miles across undeveloped bottom lands toward the south side of the Missouri River. You won't see structures of the adjacent properties from the home's numerous windows. The closest homes in view are those situated in St Albans, 2+ miles away in Franklin County atop the south bluffs of the Missouri River. In other seasons, you'll enjoy filtered forms of the same views.
 
@@ -59,7 +57,7 @@ In winter, enjoy expansive south-facing panoramic views for miles across undevel
   {{< img src="img/views/winter-lower-bridge.jpeg" caption="View from primary bedroom" >}}
 {{< /carousel >}}
 
-#### Femme Osage Creek Bridge: The region's largest yard art
+## Femme Osage Creek Bridge: The region's largest yard art
 
 From many areas of the yard and home, enjoy a commanding and intimate view of the 120+ year-old iron railroad bridge spanning the Femme Osage Creek that is just ~250 feet away and ~60 feet below the main level of the home. You'll feel like you're on vacation whenever you see the bridge!
 
@@ -89,6 +87,7 @@ Use your [private dock]({{<ref "01-the-property#private-dock" >}}) on over 260 f
   {{< img src="img/creek/femme-osage-paddle-boarding-evening.jpeg" caption="Paddling on Femme Osage Creek">}}
   {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek">}}
   {{< img src="img/dock/dock-dusk.jpeg" caption="Private dock">}}
+  {{< img src="img/creek/creek-view-from-top-west-bluff.jpeg" caption="Looking west upstream from top of west bluff">}}
 {{< /carousel >}}
 
 {{< button-group >}}
