@@ -5,6 +5,15 @@ type: minimal
 
 ## Parcel
 
+The property is nestled between the high-end Ridge Creek and Markham Hills developments. It has a front row seat to the Katy Trail State Park and Femme Osage Creek.
+
+{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/parcel/parcel-in-context.png" >}}
+  {{< img src="img/parcel/google-maps-screenshot.png" >}}
+  {{< img src="img/parcel/2232-aerial.png" >}}
+  {{< img src="img/parcel/2232-lot-lines.png" >}}
+  {{< img src="img/parcel/2232-topo.png" >}}
+{{< /carousel >}}
 
 ## Entry Road and Driveway
 
