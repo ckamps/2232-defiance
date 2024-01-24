@@ -85,7 +85,7 @@ Two exposed limestone bluffs bracket the main home site. The bluffs are illumina
 In addition to the stone steps, a double track trail provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
 
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/trail-to-lower-land.jpeg" caption="Trail from lower land to top if the property" >}}
+  {{< img src="img/lower-land/trail-to-lower-land.jpeg" caption="Trail from lower land to top of the property" >}}
   {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}]
 {{< /carousel >}}
 
