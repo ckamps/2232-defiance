@@ -14,19 +14,23 @@ The property is nestled between the high-end Ridge Creek and Markham Hills devel
   {{< img src="img/parcel/2232-topo.png" >}}
 {{< /carousel >}}
 
-## Entry Road and Driveway
+## Entry Drive and Driveway
 
-The paved entry drive is part of the parcel and provides private access to the property.
+The paved entry drive is part of the parcel and provides private access to the main portion of the property from Highway 94. The entry drive passes along horse fences and horse paddocks of the neighboring properties.
 
 | | |
 |-|-|
-|**Entry road**|Private asphalt paved entry road (compacted 3" depth) from highway to home site. Two turnouts accommodate the rare event when you meet an oncoming vehicle. For example, a delivery truck.|
+|**Entry drive**|Private asphalt paved entry drive (compacted 3" depth) from the highway to the main home site. Two turnouts accommodate the rare event when you meet an oncoming vehicle. For example, a delivery truck.|
 |**Driveway**|Exposed aggregate concrete turnaround area, driveway, and auto court. Extra thick 5" pour.|
 {.table .table-striped}
 
 ## Landscaping
 
+Custom landscaping greets you as soon as you transition from the entry drive to the exposed aggregate concrete driveway.
+
 ### Specimen Trees
+
+A series of specimen trees provide year-round character to the main portion of the property.
 
 | | |
 |-|-|
