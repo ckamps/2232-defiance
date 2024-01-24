@@ -2,7 +2,7 @@
 type: minimal
 ---
 
-## Thanks for requesting information
+### Thanks for requesting information
 
 We'll be contacting you soon with a response.
 
