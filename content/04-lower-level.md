@@ -5,17 +5,12 @@ type: minimal
 
 ## Overview
 
-| | |
-|-|-|
-|**Finished area**|Approximately xx% / square feet of finished space|
-|**Foundation**|Generous 10 foot foundation wall height|
-{.table .table-striped}
+Enjoy the spacious feeling of the walk out lower level with expansive views.
 
 ## Main Room
 
 | | |
 |-|-|
-|**Ceiling height**|Mix of 9' 4" and 8' 9" ceilings (latter below sunken living room area)|
 |**Walls and ceiling**|Fully finished walls and drywall ceiling|
 |**Flooring**|17 1/2" square tile floor|
 |**Wireless network**|PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point integrated with home wireless router for centralized control|
@@ -56,7 +51,7 @@ Part of the main room.
 |-|-|
 |**Dimensions**|15' wide x 19' deep|
 |**Screen**|120" diagonal screen|
-|**Stadium seating**|[Valencia Tuscany](https://us.valenciatheaterseating.com/products/valencia-tuscany) premium top grain Italian Nappa 11000 leather, power reclining, power lumbar support, power headrest. Six chairs, two rows of three seats in a stadium seating configuration.|
+|**Stadium seating**|[Valencia Tuscany](https://us.valenciatheaterseating.com/products/valencia-tuscany) leather, power reclining, power lumbar support, power headrest. Six chairs: two rows of three seats each in a stadium seating configuration.|
 |**Carpeting**|Aids in sound absorption|
 |**Acoustic wall panels**|Color matched sound absorbing acoustic wall panels|
 |**Ceiling**|Black grid drop ceiling for easy access to mechanicals and wiring|
@@ -66,7 +61,7 @@ Part of the main room.
 |**Side and rear speakers**|4 x Klipsch RS-42 surround speakers|
 |**Subwoofer**|SVS SB-2000|
 |**A/V rack**|Built-in flush wall mount A/V rack with easy rear access from unfinished area|
-|**A/V receiver**|Dedicated A/V receiver|
+|**A/V receiver**|Dedicated Sony STR-AN1000 7.2CH Surround Sound Home Theater 8K A/V Receiver: Dolby Atmos, DTS|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A2169)|
 |**Networking**|Hardwired ethernet cable between main house network switch and switch in the home theater A/V rack|
 |**Wall lighting**|4 craftsmen style dimmable sconce lights on smart switch|
@@ -97,6 +92,7 @@ Part of the main room.
 
 | | |
 |-|-|
+|**Patio**|Exposed aggregate concrete patio|
 |**Speakers**|Bose Free Space 51 Outdoor In-Ground Speakers with downward firing 4 1/4 full range driver|
 |**A/V receiver**|Dedicated Yamaha RX-V485 A/V receiver amplifier in lower level unifinished room. Supports Apple AirPlay 2 for whole house audio streaming.|
 {.table .table-striped}

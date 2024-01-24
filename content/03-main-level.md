@@ -11,7 +11,7 @@ type: minimal
 |**Pantry**|Positioned next to refrigerator. Built-in shelving.|
 |**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Quiet close drawers with dovetail joints.|
 |**Cabinet hardware**|Restoration Hardware drawer pulls in oil rubbed bronze|
-|**Under cabinet lighting**|Kichler undercabinet LED lighting integrated with home automation|
+|**Under cabinet lighting**|Undercabinet LED lighting integrated with home automation|
 |**Countertops**|Granite countertops with beveled edges|
 |**Center island**|Includes salad sink|
 |**Refrigerator**|Built-in 42" GE Monogram refrigerator/freezer with ice and water dispenser|
@@ -34,22 +34,33 @@ type: minimal
 
 | | |
 |-|-|
-|**Room dimensions**|...|
 |**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into kitchen and living room| 
+|**Bay Window Seat**|Spacious bay window seat with hidden storage| 
+|**Lighting**|Ceiling accent lighting for dining room table and window seat|
+|**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 {.table .table-striped}
 
 ## Sun Room
+
+| | |
+|-|-|
+|**Flooring**|Tile floor| 
+|**Windows**|Windows on three sides of the room| 
+|**Doors**|Solid wood 10-light glass doors in cherry|
+|**Ceiling fans**|Casablanca Panama fan with smart switch|
+|**Lighting**|Wall art lighting on smart switch|
+|**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
+{.table .table-striped}
 
 ## Deck
 
 | | |
 |-|-|
-|**Dimensions**|...|
 |**Decking**|Durable Brazilian IPE hardwood decking with hidden fasteners|
 |**Posts**|IPE wrapped n" x n" deck posts with aluminum caps|
-|**Lighting**|Automated LED deck post lights|
+|**Lighting**|LED deck post lights integrated with home automation|
 |**Deck support columns**|Tapered columns under the deck align with the rest of the home's craftsmen style|
-|**Bird Feeders**|Deck post mounted bird feeder extension poles to keep shells and debris away from the deck|
+|**Bird feeders**|Deck post mounted bird feeder extension poles help keep shells and debris away from the deck|
 |**LP gas**|LP gas pipe is roughed in under the deck for future dedicated pipe to gas grill and/or patio heater|
 |**Speakers**|Under eave mounted Polk Audio Atrium 5 outdoor speakers|
 |**Amplifier**|Dedicated Yamaha RX-V485 A/V AirPlay 2 compatible receiver amplifier in lower level systems rack|
@@ -83,7 +94,7 @@ type: minimal
 
 ## Living Room
 
-Enjoy the expansive south-facing views of the Missouri River and Femme Osage Creek valleys.
+Enjoy the expansive south-facing views of the Missouri River and Femme Osage Creek valleys through the wall of windows in your living room.
 
 | | |
 |-|-|
@@ -104,7 +115,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |-|-|
 |**Refrigerator**|2-drawer beverage refrigerator|
 |**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Glass doors. Quiet close doors and drawers.|
-|**Under cabinet lighting**|Kichler undercabinet LED lighting integrated with home automation|
+|**Under cabinet lighting**|Undercabinet LED lighting integrated with home automation|
 {.table .table-striped}
 
 ## Hallway Bath
@@ -115,6 +126,12 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 ### Second Bedroom
 
-### Third Bedroom
+### Third Bedroom / Office
+
+| | |
+|-|-|
+|**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into dining room and kitchen|
+|**Doors**|Solid wood 10-light glass doors in cherry|
+|**Ceiling fans**|Casablanca Panama fan with smart switch|
 
 ### Lower Bedroom
