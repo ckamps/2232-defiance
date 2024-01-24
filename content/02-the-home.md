@@ -15,7 +15,7 @@ type: minimal
 |**Garage**|The fully finished, over sized three-car+ garage has a fully enclosed breezeway that provides easy access to the home. A large storage attic with folding access stairs enables you to store out of the way. See [Garage]({{<ref "05-garage" >}}) for details.|
 {{< /table >}}
 
-### Optional Accessory Structure
+## Optional Accessory Structure
 
 Take advantage of an already approved county variance to build your own detached accessory structure on the property. For example, if you'd like to build a dettached garage or pole barn to augment the existing garage.
 
@@ -112,9 +112,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Light poles**|2 light poles in lower land area each with raised electrical outlets|
 {.table .table-striped}
 
-## Doors and Windows
-
-### Interior Doors
+## Interior Doors
 
 | | |
 |-|-|
@@ -123,7 +121,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Interior door handles and knobs**|[Emtek Luzern lever handsets](https://www.emtek.com/all-products/door-hardware/knobs-lever-and-rosettes/leversets/luzern-leverset/) in oil rubbed bronze on many of the cherry interior doors. Emtek knobs on remaining cherry interior doors.|
 {.table .table-striped}
 
-### Exterior Doors
+## Exterior Doors
 
 | | |
 |-|-|
@@ -132,7 +130,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Secondary exterior doors**|Therma Tru fiberglass|
 {.table .table-striped}
 
-### Windows
+## Windows
 
 | | |
 |-|-|
