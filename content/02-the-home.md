@@ -152,7 +152,7 @@ Take advantage of an already approved county variance to build your own detached
 |-|-|
 |**Lighting type**|LED throughout|
 |**Automation**|Commonly used lights are automated according to customizable schedules and events|
-|**Landscape lighting**|Three low voltage transformers control three zones of landscape lighting: Zone 1: Entry drive; Zone 2: Front of house and hill overlooking creek and river valleys; Zone 3: Deck lighting. All zones are integrated with home automation.|
+|**Landscape lighting**|Three low voltage transformers control three zones of landscape lighting:<br><br>Zone 1: Entry drive<br><br>Zone 2: Front of house and hill overlooking creek and river valleys<br><br>Zone 3: Deck lighting.<br><br>All zones are integrated with home automation.|
 |**Railroad bridge accent lighting**|Light pole mounted LED flood light in lower land area can be remotely controlled to provide on-deman accent lighting of the iron railroad bridge|
 |**Smart switches and dimmers**|Large number of smart dimmers and switches throughout the home for commonly used lights and fans|
 |**Occupancy sensor lighting**|Presence sensor dimmers automatically light closets, water closets/toilet rooms, and storage areas|
