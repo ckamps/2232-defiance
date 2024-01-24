@@ -24,11 +24,7 @@ The paved entry drive is part of the parcel and provides private access to the m
 |**Driveway**|Exposed aggregate concrete turnaround area, driveway, and auto court. Extra thick 5" pour.|
 {.table .table-striped}
 
-## Landscaping
-
-Custom landscaping greets you as soon as you transition from the entry drive to the exposed aggregate concrete driveway.
-
-### Specimen Trees
+## Specimen Trees
 
 A series of specimen trees provide year-round character to the main portion of the property.
 
@@ -55,7 +51,7 @@ A series of specimen trees provide year-round character to the main portion of t
   {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
 {{< /carousel >}}
 
-### Stone Steps to Lower Land
+## Stone Steps to Lower Land
 
 56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
 
@@ -64,11 +60,7 @@ A series of specimen trees provide year-round character to the main portion of t
   {{< img src="img/lower-land/steps-top.jpeg" >}}
 {{< /carousel >}}
 
-## Lower Land
-
-The lower land of the property sits 40+' below the level of the home.
-
-### Bluffs
+## Bluffs
 
 Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
 
@@ -80,7 +72,7 @@ Two exposed limestone bluffs bracket the main home site. The bluffs are illumina
   {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East bluffs at night" >}}
 {{< /carousel >}}
 
-### Double Track Trail to Lower Land
+## Double Track Trail to Lower Land
 
 In addition to the stone steps, a double track trail provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
 
@@ -89,7 +81,7 @@ In addition to the stone steps, a double track trail provides easy access from t
   {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}]
 {{< /carousel >}}
 
-### Private Dock
+## Private Dock
 
 Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 miles from the Missouri River, you'll have plenty of areas to explore while paddling and fishing.
 
