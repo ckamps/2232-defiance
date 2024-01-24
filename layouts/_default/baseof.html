@@ -85,13 +85,11 @@
 
             {{ if not .Site.Params.main.footerBelowFold }}
                 {{ block "main" . }}{{ end -}}
-                {{- partial "footer/social.html" . -}}
                 {{- partial "footer/footer.html" . -}}
             {{ end }}
         </div>
 
         {{ if .Site.Params.main.footerBelowFold }}
-            {{- partial "footer/social.html" . -}}
             {{- partial "footer/footer.html" . -}}
         {{ end }}
 
