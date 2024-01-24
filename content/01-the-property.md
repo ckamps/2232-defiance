@@ -55,7 +55,7 @@ A series of specimen trees provide year-round character to the main portion of t
 
 56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/steps-bottom.jpeg" caption="Flagstone steps from lower land" >}}
   {{< img src="img/lower-land/steps-top.jpeg" >}}
 {{< /carousel >}}
