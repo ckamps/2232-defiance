@@ -20,7 +20,7 @@ The paved entry drive is part of the parcel and provides private access to the m
 
 | | |
 |-|-|
-|**Entry drive**|Private asphalt paved entry drive (compacted 3" depth) from the highway to the main home site. Two turnouts accommodate the rare event when you meet an oncoming vehicle. For example, a delivery truck.|
+|**Entry drive**|Private asphalt paved entry drive (compacted 3" depth) from the highway to the main home site. Two turnouts accommodate the rare event when you meet an oncoming vehicle.|
 |**Driveway**|Exposed aggregate concrete turnaround area, driveway, and auto court. Extra thick 5" pour.|
 {.table .table-striped}
 
