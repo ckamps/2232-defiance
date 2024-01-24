@@ -66,8 +66,8 @@ Two exposed limestone bluffs bracket the main home site. The bluffs are illumina
 
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/bluffs-east.jpeg" caption="East bluffs from lower land" >}}
-  {{< img src="img/lower-land/bluffs-west.jpeg" caption="West bluffs from lower land" >}}]]
-  {{< img src="img/lower-land/west-bluff.jpeg" caption="West bluffs from lower land" >}}]
+  {{< img src="img/lower-land/bluffs-west.jpeg" caption="West bluffs from lower land" >}}
+  {{< img src="img/lower-land/west-bluff.jpeg" caption="West bluffs from lower land" >}}
   {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East bluffs at night" >}}
 {{< /carousel >}}
 
@@ -77,7 +77,7 @@ In addition to the stone steps, a double track trail provides easy access from t
 
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/trail-to-lower-land.jpeg" caption="Trail from lower land to top of the property" >}}
-  {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}]
+  {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}
 {{< /carousel >}}
 
 ## Private Dock
