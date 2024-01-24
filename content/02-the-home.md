@@ -163,6 +163,6 @@ Take advantage of an already approved county variance to build your own detached
 | | |
 |-|-|
 |**Central vacuum**|Garage wall mounted Beem central vacuum unit|
-|**Vacuum outlets**|7 powered vacuum outlets in the main home and 2 outlets in the garage|
+|**Vacuum outlets**|7 powered vacuum outlets in the main home|
 |**Vacuum hoses**|2 powered hoses for main and lower levels and 1 hose for garage|
 {.table .table-striped}
