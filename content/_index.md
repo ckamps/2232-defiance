@@ -28,7 +28,7 @@ type: minimal
 | Gigabit internet service | 2 office rooms| Ideal orientation for rooftop solar |
 {.table}
 
-{{< button color="primary" href="/contact/contact/#!" >}}Request more information{{< /button >}}
+{{< button color="primary" href="/contact/#!" >}}Request more information{{< /button >}}
 
 ## Desirable Defiance area of St Louis
 

@@ -95,7 +95,7 @@ module.exports.webhook = async (event, context, callback) => {
         callback(null, {
         statusCode: 302,
         headers: {
-          Location: headers.origin + '/contact/contact-response/',
+          Location: headers.origin + '/contact-response/',
         }
       });
     }
