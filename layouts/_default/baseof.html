@@ -70,7 +70,7 @@
             <div class="d-flex flex-column {{ if $fullCover }} fullscreen{{ end }}{{ if .IsHome }} {{ .Site.Params.home.style }}{{ end }}">
                 {{- partial "assets/navbar.html" (dict
                     "page" .
-                    "fixed" (string site.Params.navigation.fixed)
+                    "fixed" site.Params.navigation.fixed
                     "color" site.Params.navigation.color
                     "style" (default "light" site.Params.navigation.style)
                     "size" (default "md" site.Params.navigation.size))
@@ -85,11 +85,13 @@
 
             {{ if not .Site.Params.main.footerBelowFold }}
                 {{ block "main" . }}{{ end -}}
+                {{- partial "footer/social.html" . -}}
                 {{- partial "footer/footer.html" . -}}
             {{ end }}
         </div>
 
         {{ if .Site.Params.main.footerBelowFold }}
+            {{- partial "footer/social.html" . -}}
             {{- partial "footer/footer.html" . -}}
         {{ end }}
 
