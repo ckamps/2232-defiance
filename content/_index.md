@@ -53,7 +53,11 @@ Situated well above the adjacent Femme Osage Creek and Missouri River bottoms on
 
 In winter, enjoy expansive south-facing panoramic views for miles across undeveloped bottom lands toward the south side of the Missouri River. You won't see structures of the adjacent properties from the home's numerous windows. The closest homes in view are those situated in St Albans, 2+ miles away in Franklin County atop the south bluffs of the Missouri River. In other seasons, you'll enjoy filtered forms of the same views.
 
-{{< image src="img/your-view.png" >}}
+{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/views/your-view.jpeg" caption="South-facing views ~2 miles across Missouri River valley" >}}
+  {{< img src="img/views/view-from-patio.jpeg" caption="View from patio" >}}
+  {{< img src="img/views/winter-lower-bridge.jpeg" caption="View from primary bedroom" >}}
+{{< /carousel >}}
 
 #### Femme Osage Creek Bridge: The region's largest yard art
 
