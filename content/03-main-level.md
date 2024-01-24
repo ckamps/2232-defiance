@@ -47,7 +47,7 @@ type: minimal
 |**Flooring**|Tile floor| 
 |**Windows**|Windows on three sides of the room| 
 |**Doors**|Solid wood 10-light glass doors in cherry|
-|**Ceiling fans**|Casablanca Panama fan with smart switch|
+|**Ceiling fan**|Casablanca Panama fan with smart switch|
 |**Lighting**|Wall art lighting on smart switch|
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 {.table .table-striped}
@@ -87,10 +87,7 @@ type: minimal
 
 ## Breezeway
 
-| | |
-|-|-|
-|**Flooring**|nn" square tile flooring|
-{.table .table-striped}
+Full enclosed breezeway access between the garage and the main home.
 
 ## Living Room
 
@@ -120,18 +117,25 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 ## Hallway Bath
 
-## Bedrooms
+## Primary Bedroom
 
-### Primary Bedroom
+## Second Bedroom
 
-### Second Bedroom
+| | |
+|-|-|
+|**Bay Window Seat**|Spacious bay window seat with hidden storage|
+|**Closet**|Walk in closet|
+|**Desk**|Built in desk with shelving|
+|**Ceiling fan**|Casablanca Panama fan with smart switch|
 
-### Third Bedroom / Office
+## Third Bedroom / Office
 
 | | |
 |-|-|
 |**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into dining room and kitchen|
 |**Doors**|Solid wood 10-light glass doors in cherry|
-|**Ceiling fans**|Casablanca Panama fan with smart switch|
+|**Ceiling fan**|Casablanca Panama fan with smart switch|
 
-### Lower Bedroom
+## Jack-n-Jill Bathroom
+
+## Lower / Fourth Bedroom
