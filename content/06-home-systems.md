@@ -20,7 +20,7 @@ A 12U size network rack in the lower unfinished area houses the following compon
 
 A separate rack in the garage houses the internet fiber modem and other equipment. See [Garage Networking and A/V]({{<ref "05-garage#networking-and-av" >}}) for details.
 
-### Wireless Access Points
+## Wireless Access Points
 
 All wireless access points were installed in 2022 at about the same time gigabit fiber internet service was established. Depending on your device, the WiFi 6 access points are capable of providing up to ~500Mbps speeds throughout the home and outside.
 
