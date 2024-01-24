@@ -98,6 +98,7 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/dock/dock-straight-on-sunset.jpeg" >}}
   {{< img src="img/dock/dock-bridge-dusk.jpeg"  >}}
+  {{< img src="img/dock/dock-pier-winter.jpeg"  >}}
   {{< img src="img/dock/paddle-rack-bridge.jpeg"  >}}
   {{< img src="img/dock/paddle-rack.jpeg"  >}}
 {{< /carousel >}}
