@@ -11,7 +11,6 @@ The property is nestled between the high-end Ridge Creek and Markham Hills devel
   {{< img src="img/parcel/parcel-in-context.png" >}}
   {{< img src="img/parcel/google-maps-screenshot.png" >}}
   {{< img src="img/parcel/2232-aerial.png" >}}
-  {{< img src="img/parcel/2232-lot-lines.png" >}}
   {{< img src="img/parcel/2232-topo.png" >}}
 {{< /carousel >}}
 
