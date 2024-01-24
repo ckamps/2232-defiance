@@ -25,7 +25,7 @@ type: minimal
 | Custom built in 2006  | 5.25 acres | No HOA |
 | 400 ft Katy Trail frontage | 260 ft Femme Osage Creek frontage | Expansive south-facing views |
 | Geothermal HVAC | Municipal water | Underground electric service|
-| Gigabit internet service |2 office rooms  |  |
+| Gigabit internet service | 2 office rooms| Ideal orientation for rooftop solar |
 {.table}
 
 {{< button color="primary" href="/contact/contact/#!" >}}Request more information{{< /button >}}
