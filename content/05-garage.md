@@ -31,7 +31,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 |**Automation**|Meross Smart Garage Door Opener Remote. In addition to wall-mounted door controls, the garage door openers are smart home connected for remote control and monitoring via Apple Home, Siri, Alexa, etc|
 {.table .table-striped}
 
-## Storage, Shelving, and Workbench
+## Storage and Shelving
 
 | | |
 |-|-|
