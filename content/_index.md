@@ -1,5 +1,6 @@
 ---
 modules: ["leaflet"]
+type: minimal
 ---
 
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
