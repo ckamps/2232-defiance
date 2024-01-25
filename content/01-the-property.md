@@ -44,7 +44,7 @@ A mix of evergreen, flowering, and deciduous specimen trees provide year round c
   {{< img src="img/trees/magnolia-night-from-patio.jpeg" caption="Japanese Magnolia \"Ann\"" >}} 
 {{< /carousel >}}
 
-{{< carousel ratio="16x9" portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/trees/japanese-maple-night.jpeg" caption="Japanese Maple">}}
   {{< img src="img/trees/japanese-maple-front.jpg" caption="Japanese Maple">}}
   {{< img src="img/trees/magnolia.jpeg" caption="Magnolia" >}}
