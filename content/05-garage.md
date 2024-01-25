@@ -5,9 +5,13 @@ type: minimal
 
 The fully finished, south-facing, oversized 3-car+ garage is tucked into the bluff to minimize it's visual impact on the site. West- and south-facing shingle clad roof gables make the generously sized garage appear to be a natural extension of the main home. 
 
+The fully enclosed breezeway provides sheltered access to the main level.
+
 A hide away retractable metal ladder provides easy access to the large upper level storage attic. A great place to store infrequently used items.
 
 ## Floor Plan
+
+Oversize 48' wide x 30' deep 3-car+ garage with 3 separate garage doors.
 
 {{< image src="img/plans/plans-garage.png" wrapper="col mx-auto" class="rounded" >}}
 
@@ -15,7 +19,6 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 
 | | |
 |-|-|
-|**Footprint**|Oversize 48' wide x 30' deep 3-car+ garage with 3 separate garage doors|
 |**Ceiling height**|11' 6" ceiling|
 |**Walls and ceiling**|Fully finished walls and ceiling|
 |**Attic storage**|48' long x 12' wide x 6' tall attic storage area is accessible via hide away retractable metal ladder|

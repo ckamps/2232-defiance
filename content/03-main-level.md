@@ -3,6 +3,8 @@ title: Main Level
 type: minimal
 ---
 
+The majority of your day-to-day living space is on the main level. Spaces include the laundry/mud room, kitchen, dining room, deck, sun room, living room and three bedrooms including the primary bedroom.
+
 ## Floor Plan
 
 {{< image src="img/plans/plans-house-main-level.png" wrapper="col mx-auto" class="rounded" >}}
