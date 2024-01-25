@@ -3,6 +3,10 @@ title: Main Level
 type: minimal
 ---
 
+## Floor Plan
+
+{{< image src="img/plans/plans-house-main-level.png" wrapper="col mx-auto" class="rounded" >}}
+
 ## Kitchen and Pantry
 
 | | |
@@ -102,7 +106,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into dining room and kitchen|
 |**Fireplace**|Fireplace Xtrordinair 36" direct vent LP gas fireplace with Artisan hammered nickel face and automatic fan. Integrated with home automation to enable, for example, "Alexa, turn on the fireplace".| 
 |**Fireplace mantel**|Solid maple fireplace mantel|
-|**Cabinets**|Custom built-in cabinets|
+|**Bookcase**|Custom built-in bookcase and cabinets|
 |**TV**|Samsung 60" SUHD 4K Flat Smart TV JS7000|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A2169)|
 |**Speakers**|... center channel, ... front channels, ... powered subwoofer, Polk Audio RC60i ceiling speakers x 2 (rear channels) |
@@ -115,7 +119,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 | | |
 |-|-|
 |**Refrigerator**|2-drawer beverage refrigerator|
-|**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Glass doors. Quiet close doors and drawers.|
+|**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Quiet close drawers with dovetail joints.|
 |**Under cabinet lighting**|Undercabinet LED lighting integrated with home automation|
 {.table .table-striped}
 

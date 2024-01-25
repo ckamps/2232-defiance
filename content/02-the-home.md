@@ -3,7 +3,7 @@ title: The Home
 type: minimal
 ---
 
-{{< image src="img/exterior/home-from-bridge-zoom.jpeg" wrapper="col mx-auto" >}}
+{{< image src="img/exterior/home-from-bridge-zoom.jpeg" wrapper="col mx-auto" class="rounded" >}}
 
 ## Layout
 

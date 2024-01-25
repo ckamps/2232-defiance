@@ -7,6 +7,10 @@ type: minimal
 
 Enjoy the spacious feeling of the walk out lower level with expansive views.
 
+## Floor Plan
+
+{{< image src="img/plans/plans-house-lower-level.png" wrapper="col mx-auto" class="rounded" >}}
+
 ## Main Room
 
 | | |
@@ -20,14 +24,14 @@ Enjoy the spacious feeling of the walk out lower level with expansive views.
 |**A/V receiver**|Dedicated Yamaha RX-V481 A/V receiver amplifier in lower level unfinished room|
 {.table .table-striped}
 
-## Kitchenette
+## Kitchenette and Game Bar
 
 Part of the main room.
 
 | | |
 |-|-|
-|**Cabinets**|Medallion Maple cabinets|
-|**Counter and bar tops**|Granite|
+|**Cabinets**|Medallion Gold Maple cabinets. Quiet close drawers with dovetail joints.|
+|**Counter and bar tops**|Labrador Green Suede Granite|
 |**Sink**|Stainless steel|
 |**Lighting**|Ceiling and under cabinet lighting|
 |**Refrigerator**|...|
@@ -74,8 +78,8 @@ Part of the main room.
 
 | | |
 |-|-|
-|**Cabinets**|...|
-|**Counter**|...|
+|**Cabinets**|Medallion Gold Maple cabinets. Quiet close drawers with dovetail joints.|
+|**Counter**|Breccia Oniciata Rem marble with two vanity bowls|
 |**Shower**|...|
 |**Water closet / toilet**|Dedicated room with solid wood Cherry pocket door|
 |**Closet**|...|

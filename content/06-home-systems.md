@@ -92,7 +92,7 @@ Cameras cover the following outside areas:
 
 The main entry has a Ring Video Doorbell Pro 2.
 
-{{< image src="img/cameras/ring-doorbell-night.png" wrapper="col mx-auto" caption="Ring Doorbell Pro" >}}
+{{< image src="img/cameras/ring-doorbell-night.png" wrapper="col mx-auto" caption="Ring Doorbell Pro" class="rounded" >}}
 
 ## Weather Station
 

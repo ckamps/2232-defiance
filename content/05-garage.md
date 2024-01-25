@@ -7,6 +7,10 @@ The fully finished, south-facing, oversized 3-car+ garage is tucked into the blu
 
 A hide away retractable metal ladder provides easy access to the large upper level storage attic. A great place to store infrequently used items.
 
+## Floor Plan
+
+{{< image src="img/plans/plans-garage.png" wrapper="col mx-auto" class="rounded" >}}
+
 ## Overview
 
 | | |
