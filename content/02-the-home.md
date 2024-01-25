@@ -3,7 +3,7 @@ title: The Home
 type: minimal
 ---
 
-{{< image src="img/exterior/home-from-bridge-zoom.jpeg" wrapper="col mx-auto" class="rounded" >}}
+{{< image src="img/exterior/home-from-bridge-zoom.jpeg" ratio="21x9" wrapper="col mx-auto" class="rounded" >}}
 
 ## Layout
 
@@ -17,7 +17,7 @@ type: minimal
 
 ## Optional Accessory Structure
 
-Take advantage of an already approved county variance to build your own detached accessory structure on the property. For example, if you'd like to build a dettached garage or pole barn to augment the existing garage.
+Take advantage of an already approved county variance to build your own detached accessory structure on the property. For example, if you'd like to build a detached garage or pole barn to augment the existing garage.
 
 ## Construction
 
