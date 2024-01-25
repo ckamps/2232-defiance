@@ -3,15 +3,11 @@ title: Garage
 type: minimal
 ---
 
-The fully finished, south-facing, oversized 3-car+ garage is tucked into the bluff to minimize it's visual impact on the site. West- and south-facing shingle clad roof gables make the generously sized garage appear to be a natural extension of the main home. 
+At 48' wide x 30' deep, the fully finished garage provides space for at least three vehicles. Three separate garage doors help provide character. The garage is tucked into the bluff to minimize it's visual impact on the site. West- and south-facing shingle clad roof gables make the generously sized garage appear to be a natural extension of the main home. 
 
 The fully enclosed breezeway provides sheltered access to the main level.
 
 A hide away retractable metal ladder provides easy access to the large upper level storage attic. A great place to store infrequently used items.
-
-## Floor Plan
-
-Oversize 48' wide x 30' deep 3-car+ garage with 3 separate garage doors.
 
 {{< image src="img/plans/plans-garage.png" wrapper="col mx-auto" class="rounded" >}}
 
