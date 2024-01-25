@@ -40,12 +40,18 @@ A series of specimen trees provide year-round character to the main portion of t
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/exterior/spring-front.jpeg" caption="Flowering Crabapple Prairifires along entry driveway">}}
   {{< img src="img/bridge/bridge-spring.jpeg" caption="Flowering Crabapple Prairifires on hill to lower land">}}
+  {{< img src="img/trees/cedar-deck-winter.jpg" caption="Cedar of Lebanon in winter" >}}
+  {{< img src="img/trees/magnolia-night-from-patio.jpeg" caption="Japanese Magnolia \"Ann\"" >}} 
+{{< /carousel >}}
+
+{{< carousel ratio="16x9" portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/trees/japanese-maple-night.jpeg" caption="Japanese Maple">}}
   {{< img src="img/trees/japanese-maple-front.jpg" caption="Japanese Maple">}}
+  {{< img src="img/trees/magnolia.jpeg" caption="Magnolia" >}}
+  {{< img src="img/trees/holly.jpeg" caption="Holly" >}}
   {{< img src="img/trees/cedar-of-lebanon.jpeg" caption="Cedar of Lebanon next to deck" >}}
-  {{< img src="img/trees/cedar-deck-winter.jpg" caption="Cedar of Lebanon in winter" >}}
   {{< img src="img/trees/magnolia-night-art.jpeg" caption="Japanese Magnolia \"Ann\"" >}}
-  {{< img src="img/trees/magnolia-night-from-patio.jpeg" caption="Japanese Magnolia \"Ann\"" >}} 
+  {{< img src="img/trees/magnolia-night-art.jpeg" caption="Japanese Magnolia \"Ann\"" >}}
   {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
 {{< /carousel >}}
 
@@ -112,9 +118,9 @@ Common wildlife in the area include:
 * Bobcats
 * Foxes
 
-## Property History
+## History
 
-In the early 1900s, the lower land of the property was the site of the Femme Osage Hunting and Fishing Club. Also known as the Finney Club.
+In the early 1900s, the lower land of the property was the site of the Femme Osage Hunting and Fishing Club. Also known as the Finney Club. The club was one of many situated along the creeks and rivers of the St Louis region.
 
 {{< image src="img/finney/finney-map.png" wrapper="col mx-auto" caption="Finney Club House on survey map from early 1900s" class="rounded" >}}
 {{< image src="img/finney/finney-panorama.jpeg" ratio="21x9" wrapper="col mx-auto" caption="The Finney Club in the lower land - 1917" class="rounded" >}}
