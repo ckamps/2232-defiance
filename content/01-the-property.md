@@ -3,7 +3,7 @@ title: The Property
 type: minimal
 ---
 
-The property is nestled between the high-end Ridge Creek and Markham Hills developments. It has a front row seat to the Katy Trail State Park and Femme Osage Creek.
+The property is nestled between the Ridge Creek and Markham Hills developments with minimum lots sizes of 3 and 5 acres respectively. The property's location provides you with a front row seat to the Katy Trail State Park and Femme Osage Creek.
 
 {{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/parcel/parcel-in-context.png" >}}
@@ -14,7 +14,9 @@ The property is nestled between the high-end Ridge Creek and Markham Hills devel
 
 ## Entry Drive and Driveway
 
-The paved entry drive is part of the parcel and provides private access to the main portion of the property from Highway 94. The entry drive passes along horse fences and horse paddocks of the neighboring properties.
+Part of the property, the paved entry drive provides private access from Highway 94 to the main portion of the property . The entry drive is bordered by horse fences, mature woods, and the rear of neighboring properties. It also passes along horse paddocks of a neighboring property.
+
+Further back near the main portion of the property, the asphalt entry drive transitions to an exposed aggregate concrete turnaround circle and driveway leading to the main home.
 
 | | |
 |-|-|
