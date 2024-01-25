@@ -148,6 +148,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Closet**|Walk in closet|
 |**Desk**|Built in desk with shelving|
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
+{.table .table-striped}
 
 ## Third Bedroom / Office
 
@@ -156,6 +157,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into dining room and kitchen|
 |**Doors**|Solid wood 10-light glass doors in cherry|
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
+{.table .table-striped}
 
 ## Jack-n-Jill Bathroom
 

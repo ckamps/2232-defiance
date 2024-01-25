@@ -125,13 +125,10 @@ Examples of remote control and automation already in place include:
 
 ## Cable Conduits
 
-PVC conduit has been installed to make it easy to route network, audio, and TV cables throughout the garage and home. Conduit runs are installed between the following areas of the home and garage:
+PVC conduit has been installed to make it easy to route network, audio, and TV cables throughout the garage and home. Conduit runs are installed between the lower level and the following spaces:
 
-| |
-|-|
-|Lower level unfinished to attic|
-|Lower level unfinished to living room|
-|Lower level unfinished to bedrooms|
-|Lower level unfinished to lower level main room|
-|Lower level unfinished to garage attic |
-{.table .table-striped}
+* Home attic
+* Living room TV area
+* Main and lower level bedrooms
+* Lower level main room TV area
+* Garage attic
