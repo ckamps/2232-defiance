@@ -26,7 +26,7 @@ Further back near the main portion of the property, the asphalt entry drive tran
 
 ## Specimen Trees
 
-A mix of evergreen, flowering, and deciduous specimen trees provide year round character to the property.
+A mix of evergreen, flowering, and deciduous specimen trees add year-round character to the property.
 
 | | |
 |-|-|
