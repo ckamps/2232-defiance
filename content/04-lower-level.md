@@ -3,7 +3,7 @@ title: Lower Level
 type: minimal
 ---
 
-The walkout finished lower level is great for working from home, guests, movies, and games. Spaces include an office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Additionally, there's an abundance of partially finished, storage, and mechanical space.
+The 1,500+ sq ft of fully finished walkout lower level space is great for working from home, guests, movies, and games. Spaces include an office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Additionally, there's an abundance of partially finished, storage, and mechanical space.
 
 {{< image src="img/plans/plans-house-lower-level.png" wrapper="col mx-auto" class="rounded" >}}
 
