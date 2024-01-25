@@ -24,7 +24,7 @@ The paved entry drive is part of the parcel and provides private access to the m
 
 ## Specimen Trees
 
-A series of specimen trees provide year-round character to the main portion of the property.
+A mix of evergreen, flowering, and deciduous specimen trees provide year round character to the property.
 
 | | |
 |-|-|
@@ -51,8 +51,27 @@ A series of specimen trees provide year-round character to the main portion of t
   {{< img src="img/trees/holly.jpeg" caption="Holly" >}}
   {{< img src="img/trees/cedar-of-lebanon.jpeg" caption="Cedar of Lebanon next to deck" >}}
   {{< img src="img/trees/magnolia-night-art.jpeg" caption="Japanese Magnolia \"Ann\"" >}}
-  {{< img src="img/trees/magnolia-night-art.jpeg" caption="Japanese Magnolia \"Ann\"" >}}
   {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
+{{< /carousel >}}
+
+## Bluffs
+
+Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
+
+{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/bluffs-east.jpeg" caption="East bluffs from lower land" >}}
+  {{< img src="img/lower-land/west-bluff.jpeg" caption="West bluffs from lower land" >}}
+  {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East bluffs at night" >}}
+{{< /carousel >}}
+
+## Lower Land
+
+The multi-acre lower land portion of the property offers access to the Katy Trail and Femme Osage Creek. It's a great place for bonfires, volleyball games, and other activities.
+
+{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/lower-land-looking-east.jpeg" caption="Lower land looking east" >}}
+  {{< img src="img/lower-land/lower-land-looking-west.jpeg" caption="Lower land looking west" >}}
+  {{< img src="img/lower-land/lower-land-view-top-west-bluff.jpeg" caption="Lower land from top of west bluff" >}}
 {{< /carousel >}}
 
 ## Stone Steps to Lower Land
@@ -62,17 +81,6 @@ A series of specimen trees provide year-round character to the main portion of t
 {{< carousel ratio="16x9" portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/steps-bottom.jpeg" caption="Flagstone steps from lower land" >}}
   {{< img src="img/lower-land/steps-top.jpeg" >}}
-{{< /carousel >}}
-
-## Bluffs
-
-Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
-
-{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/bluffs-east.jpeg" caption="East bluffs from lower land" >}}
-  {{< img src="img/lower-land/bluffs-west.jpeg" caption="West bluffs from lower land" >}}
-  {{< img src="img/lower-land/west-bluff.jpeg" caption="West bluffs from lower land" >}}
-  {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East bluffs at night" >}}
 {{< /carousel >}}
 
 ## Double Track Trail to Lower Land
