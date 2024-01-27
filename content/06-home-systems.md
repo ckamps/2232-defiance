@@ -5,7 +5,7 @@ type: minimal
 
 ## Networking and Internet
 
-The property has two gigabit fiber internet services available. Brightspeed's Gigabit service - up to (900Mbps up and down - is currently integrated with the home. Spectrum's fiber service is also available on the property.
+The property has two gigabit fiber internet services available. Brightspeed's Gigabit service - up to 900Mbps up and down - is currently integrated with the home. Spectrum's fiber service is also available on the property.
 
 A 12U size network rack in the lower unfinished area houses the following components:
 
