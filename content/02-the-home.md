@@ -126,6 +126,7 @@ Take advantage of an already approved county variance to build your own detached
 
 | | |
 |-|-|
+|**Door width**|All main exterior doors are 36" wide|
 |**Front entry door**|Therma Tru Fiber-Classic Craft|
 |**Patio doors**|[Loewen Douglas Fir extruded aluminum clad glass terrace doors](https://www.loewen.com/terrace-door/) leading to deck amd patio|
 |**Secondary exterior doors**|Therma Tru fiberglass|

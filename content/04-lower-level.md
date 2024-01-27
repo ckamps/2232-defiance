@@ -47,6 +47,8 @@ Part of the main room.
 
 ## Home Theater
 
+Enjoy the dedicated home theater room with stadium seating and a 7.1 surround sound speaker and subwoofer arrangement. The room is positioned in the rear of the lower level to minimize natural light intrusion.
+
 | | |
 |-|-|
 |**Dimensions**|15' wide x 19' deep|
@@ -76,9 +78,9 @@ Part of the main room.
 |-|-|
 |**Cabinets**|Medallion Gold Maple cabinets. Quiet close drawers with dovetail joints.|
 |**Counter**|Breccia Oniciata Rem marble with two vanity bowls|
-|**Shower**|...|
+|**Shower**|Extra large shower area with privacy glass door|
 |**Water closet / toilet**|Dedicated room with solid wood Cherry pocket door|
-|**Closet**|...|
+|**Closet**|Dedicated closet for towels and other items|
 |**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
 {.table .table-striped}
 

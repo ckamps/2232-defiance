@@ -7,6 +7,15 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 {{< image src="img/plans/plans-house-main-level.png" wrapper="col mx-auto" class="rounded" >}}
 
+## Entry and Main Hall
+
+| | |
+|-|-|
+|**Front entry door**|Therma Tru Fiber-Classic Craft|
+|**Flooring**|Tile| 
+|**Lighting**|Mix of LED pendant lights (5) and dedicated ceiling mounted art lights (6) on smart dimmers|
+|**Bookcases**|10' long x 33" tall x 14" deep Built-in bookcase lines the main hall along the living room|
+
 ## Kitchen and Pantry
 
 | | |
@@ -40,7 +49,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 | | |
 |-|-|
 |**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into kitchen and living room| 
-|**Bay Window Seat**|Spacious bay window seat with hidden storage| 
+|**Bay Windows and Seating**|Spacious bay window seat with hidden storage. 2 casement windows and one fixed window provide views of the deck and lower land. Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish.|
 |**Lighting**|Ceiling accent lighting for dining room table and window seat|
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 {.table .table-striped}
@@ -50,9 +59,9 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 | | |
 |-|-|
 |**Flooring**|Tile floor| 
-|**Windows**|Windows on three sides of the room. 8 double hung windows and 2 casement windows. Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish.| 
+|**Windows**|10 windows on three sides of the room. 4 double hung windows on south and west walls and 2 casement windows on north wall. Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish.| 
 |**Doors**|Solid wood 10-light glass doors in cherry|
-|**Ceiling fan**|Casablanca Panama fan with smart switch|
+|**Ceiling fan**|Casablanca Panama fan with lights and smart switch|
 |**Lighting**|Wall art lighting controlled by smart switch|
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 {.table .table-striped}
@@ -94,7 +103,20 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Whole house vacuum**|1 powered wall receptacle|
 {.table .table-striped}
 
-## Mud Room Bath
+## Mud Room 1/2 Bath
+
+| | |
+|-|-|
+|**Sink**|Kohler wall mount sink|
+|**Wainscotting**|Tile wainscotting on walls|
+|**Window**|Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish with divided lites and privacy glass. |
+|**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
+|**Exhaust fan**|Panasonic WhisperCeiling fan|
+{.table .table-striped}
+
+## Breezeway
+
+Full enclosed breezeway access between the garage and the main home.
 
 | | |
 |-|-|
@@ -103,10 +125,6 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Window**|Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish with divided lites and privacy glass. |
 |**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
 {.table .table-striped}
-
-## Breezeway
-
-Full enclosed breezeway access between the garage and the main home.
 
 ## Living Room
 
@@ -120,7 +138,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Bookcase**|Custom built-in bookcase and cabinets|
 |**TV**|Samsung 60" SUHD 4K Flat Smart TV JS7000|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A2169)|
-|**Speakers**|... center channel, ... front channels, ... powered subwoofer, Polk Audio RC60i ceiling speakers x 2 (rear channels) |
+|**Speakers**|5.1 surround configuration. Klipsch center channel speaker, front speakers, and powered subwoofer. Polk Audio RC60i ceiling speakers (2) act as rear channels|
 |**A/V receiver**|Dedicated [Yamaha RX-V4A](https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-v4a/index.html) 5.2 channel A/V receiver amplifier|
 |**Uninterruptable Power Supply (UPS)**|A ... provides back up power and helps protect the equipment in case of power outages and power spikes|
 {.table .table-striped}
@@ -134,9 +152,15 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Under cabinet lighting**|Undercabinet LED lighting integrated with home automation|
 {.table .table-striped}
 
-## Hallway Bath
+## Main Hall 1/2 Bath
 
-## Primary Bedroom
+| | |
+|-|-|
+|**Sink**|Kohler pedastal sink|
+|**Wainscotting**|Cherry wainscotting on walls|
+|**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
+|**Exhaust fan**|Panasonic WhisperCeiling fan|
+{.table .table-striped}
 
 ## Second Bedroom
 
@@ -150,6 +174,8 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 ## Third Bedroom / Office
 
+Choose whether you want to use this room as an office, bedroom, or both.
+
 | | |
 |-|-|
 |**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into dining room and kitchen|
@@ -157,6 +183,14 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
 {.table .table-striped}
 
-## Jack-n-Jill Bathroom
+## Primary Bedroom
 
-## Lower / Fourth Bedroom
+Spacious n x n primary bedroom has an adjoining n x n sitting area with expansive windows overlooking the lower land, iron bridge, and creek and river valleys.
+
+| | |
+|-|-|
+|**Bay Window Seat**|Spacious bay window seat with hidden storage|
+|**Closet**|Walk in closet|
+|**Desk**|Built in desk with shelving|
+|**Ceiling fan**|Casablanca Panama fan with smart switch|
+{.table .table-striped}
