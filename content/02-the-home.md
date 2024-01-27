@@ -102,6 +102,7 @@ Take advantage of an already approved county variance to build your own detached
 
 | | |
 |-|-|
+|**Electric service**|Fully underground electric service. No unsightly poles and overhead lines.|
 |**Garage panel**|Garage subpanel for garage and outdoor electrical loads|
 |**Lower level panel**|Separate 200 AMP subpanel in lower level unfinished area for main home|
 |**Panel surge protectors**|Each electrical panel includes a surge protector|
