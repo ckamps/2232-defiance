@@ -3,20 +3,7 @@ title: Main Level
 type: minimal
 ---
 
-Offering over 3,200 sq ft of living space, the majority of your day-to-day living will occur on the main level. Spaces include:
-
-* Entry hall 
-* Kitchen and pantry
-* Laundry/ Mud room / 1/2 bathroom
-* Dining room
-* Sun room
-* Deck
-* Living room
-* Office / bedroom
-* Hallway 1/2 bathroom
-* Second bedroom
-* Jack-n-Jill bathroom
-* Primary bedroom and bath
+Offering over 3,200 sq ft of living space, the majority of your day-to-day living will occur on the main level.
 
 {{< image src="img/plans/plans-house-main-level.png" wrapper="col mx-auto" class="rounded" >}}
 
