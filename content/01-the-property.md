@@ -5,7 +5,7 @@ type: minimal
 
 The property is nestled between the Ridge Creek and Markham Hills developments with minimum lots sizes of 3 and 5 acres respectively. The property's location provides you with a front row seat to the Katy Trail State Park and Femme Osage Creek.
 
-{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/parcel/parcel-in-context.png" >}}
   {{< img src="img/drone/house-bridge.jpeg" >}}
   {{< img src="img/parcel/google-maps-screenshot.png" >}}
