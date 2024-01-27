@@ -21,7 +21,7 @@ Further back near the main portion of the property, the asphalt entry drive tran
 | | |
 |-|-|
 |**Entry drive**|Private asphalt paved entry drive (compacted 3" depth) from the highway to the main home site. Two turnouts accommodate the rare event when you meet an oncoming vehicle.|
-|**Driveway**|Exposed aggregate concrete turnaround area, driveway, and auto court. Extra thick 5" pour.|
+|**Driveway**|Exposed aggregate concrete turnaround area, driveway, and auto court. Extra thick 6" pour.|
 {.table .table-striped}
 
 ## Specimen Trees

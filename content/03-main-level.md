@@ -12,6 +12,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 | | |
 |-|-|
 |**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into dining room and living room| 
+|**Windows**|2 casement windows looking out to the auto court and flanking the cooktop area. Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish.| 
 |**Pantry**|Positioned next to refrigerator. Built-in shelving.|
 |**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Quiet close drawers with dovetail joints.|
 |**Cabinet hardware**|Restoration Hardware drawer pulls in oil rubbed bronze|
@@ -30,8 +31,8 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**TV**|23" LED in dedicated TV cabinet|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
-|**Speaker selector**|Speaker selector and volume control for independent adjustment of kitchen, dining room, and sun room ceiling speakers|
-|**A/V receiver**|Dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via the speaker switch in the kitchen|
+|**Speaker selector**|Speaker selector and volume control for independent volume adjustment of kitchen, dining room, and sun room ceiling speakers|
+|**A/V receiver**|Speakers are powered by a dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via the speaker switch in the kitchen|
 {.table .table-striped}
 
 ## Dining Room
@@ -49,10 +50,10 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 | | |
 |-|-|
 |**Flooring**|Tile floor| 
-|**Windows**|Windows on three sides of the room| 
+|**Windows**|Windows on three sides of the room. 8 double hung windows and 2 casement windows. Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish.| 
 |**Doors**|Solid wood 10-light glass doors in cherry|
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
-|**Lighting**|Wall art lighting on smart switch|
+|**Lighting**|Wall art lighting controlled by smart switch|
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 {.table .table-striped}
 
@@ -61,13 +62,13 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 | | |
 |-|-|
 |**Decking**|Durable Brazilian IPE hardwood decking with hidden fasteners|
-|**Posts**|IPE wrapped n" x n" deck posts with aluminum caps|
+|**Posts**|IPE wrapped 5 1/4" x 5 1/4" deck posts with aluminum caps|
 |**Lighting**|LED deck post lights integrated with home automation|
 |**Deck support columns**|Tapered columns under the deck align with the rest of the home's craftsmen style|
-|**Bird feeders**|Deck post mounted bird feeder extension poles help keep shells and debris away from the deck|
+|**Bird feeders**|3 post-mounted bird feeder extension poles help keep shells and debris away from the deck|
 |**LP gas**|LP gas pipe is roughed in under the deck for future dedicated pipe to gas grill and/or patio heater|
 |**Speakers**|Under eave mounted Polk Audio Atrium 5 outdoor speakers|
-|**Amplifier**|Dedicated Yamaha RX-V485 A/V AirPlay 2 compatible receiver amplifier in lower level systems rack|
+|**Amplifier**|Speakers are powered by a dedicated Yamaha RX-V485 amplifier with Apple AirPlay 2 located in lower level systems rack|
 {.table .table-striped}
 
 {{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
@@ -80,18 +81,28 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 | | |
 |-|-|
-|**Flooring**|nn" square tile flooring flows into main entry hall|
-|**Room dimensions**|...|
-|**Cabinets**|...|
-|**Door**|Sliding solid wood Cherry pocket door to optionally close room from hallway and kitchen view|
-|**Locker**|...|
-|**Dog shower**|...|
-|**Washer / dryer**|...|
-|**Storage cabinet**|Main level whole house vacuum hose and attachments|
+|**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Quiet close drawers with dovetail joints.|
+|**Under cabinet lighting**|Undercabinet LED lighting integrated with home automation|
+|**Countertop**|9' countertop|
+|**Sink**|25" wide and 13" deep Kohler white enameled cast iron utility sink|
+|**Windows**|3 awning windows. Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish.|
+|**Privacy Door**|Sliding solid wood Cherry pocket door to optionally close room from hallway and kitchen view|
+|**Locker**|Custom coat and shoe locker|
+|**Dog shower**|Dedicated dog shower area 3' wide x 3' deep x 3' 6" tall|
+|**Washer / dryer**|Under counter clothes washer and dryer area with short direct dryer exhaust path to exterior|
+|**Storage cabinet**|4'+ wide enclosed cabinet houses the main level whole house vacuum hose and attachments|
 |**Whole house vacuum**|1 powered wall receptacle|
 {.table .table-striped}
 
 ## Mud Room Bath
+
+| | |
+|-|-|
+|**Sink**|Kohler wall mount sink|
+|**Wainscotting**|Tile wainscotting on walls|
+|**Window**|Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish with divided lites and privacy glass. |
+|**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
+{.table .table-striped}
 
 ## Breezeway
 
