@@ -96,7 +96,5 @@ From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to 
   {{< img src="img/lower-land/view-from-katy-winter.jpeg" caption="From the Katy Trail looking west toward Femme Osage Creek bridge" >}}
 {{< /carousel >}}
 
-{{< button-group >}}
-  {{< button color="primary" href="/01-the-property/" >}}The Property{{< /button >}}
-  {{< button color="primary" href="/02-the-home/#!" >}}The Home{{< /button >}}
-{{< /button-group >}}
+{{< button color="primary" href="/01-the-property/" >}}The Property{{< /button >}}
+{{< button color="primary" href="/02-the-home/#!" >}}The Home{{< /button >}}
