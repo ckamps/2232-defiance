@@ -60,6 +60,16 @@ A mix of evergreen, flowering, and deciduous specimen trees add year-round chara
   {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
 {{< /carousel >}}
 
+## Fire Pit
+
+On the east side of the home on the upper portion of the property is a pea gravel fire pit and horseshoe area.
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/fire-pit/fire-pit.jpeg"}}
+  {{< img src="img/fire-pit/fire-pit-view-bridge.jpeg"}}
+  {{< img src="img/fire-pit/fire-pit-view-of-home.jpeg" >}}
+{{< /carousel >}}
+
 ## Bluffs
 
 Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
