@@ -25,6 +25,8 @@ Further back near the main portion of the property, the asphalt entry drive tran
 |**Driveway**|Exposed aggregate concrete turnaround area, driveway, and auto court. Extra thick 6" pour.|
 {.table .table-striped}
 
+{{< image src="img/drone/entry-driveway.jpeg" wrapper="col mx-auto" caption="Entry driveway and turnaround area" class="rounded" >}}
+
 ## Specimen Trees
 
 A mix of evergreen, flowering, and deciduous specimen trees add year-round character to the property.
