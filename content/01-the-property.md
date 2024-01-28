@@ -79,6 +79,9 @@ The multi-acre lower land portion of the property offers access to the Katy Trai
   {{< img src="img/lower-land/lower-land-view-top-west-bluff.jpeg" caption="Lower land from top of west bluff" >}}
 {{< /carousel >}}
 
+
+{{< image src="img/lower-land/lower-land-pano.jpeg" wrapper="col mx-auto" caption="Lower land in winter" class="rounded" >}}
+
 ## Stone Steps
 
 56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
