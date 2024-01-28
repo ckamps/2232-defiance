@@ -132,12 +132,19 @@ Common wildlife in the area include:
 * Great Blue Herons nest upstream from the home
 * Deer
 * Coyote
-* Bobcats
+* Bobcat
 * Foxes
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/wildlife/fox-winter.jpeg" caption="Red Fox" >}}
+  {{< img src="img/wildlife/bobcat-kittens.jpeg" caption="Bobcat Kittens" >}}
+  {{< img src="img/wildlife/bobcat-parent.jpeg" caption="Bobcat Parent" >}}
+  {{< img src="img/wildlife/gray-fox.jpeg" caption="Gray Fox" >}}
+  {{< img src="img/wildlife/red-fox-winter.jpeg" caption="Red Fox" >}}
+{{< /carousel >}}
+
+{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/wildlife/bald-eagle.jpeg" caption="Bald Eagle" >}}
+  {{< img src="img/wildlife/bobcat-summer.jpeg" caption="Bobcat" >}}
 {{< /carousel >}}
 
 ## History
