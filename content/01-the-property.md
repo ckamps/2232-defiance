@@ -55,6 +55,7 @@ A mix of evergreen, flowering, and deciduous specimen trees add year-round chara
   {{< img src="img/trees/magnolia.jpeg" caption="Magnolia" >}}
   {{< img src="img/trees/holly.jpeg" caption="Holly" >}}
   {{< img src="img/trees/cedar-of-lebanon.jpeg" caption="Cedar of Lebanon next to deck" >}}
+  {{< img src="img/trees/magnolia-flowering.jpeg" caption="Japanese Magnolia \"Ann\"" >}}
   {{< img src="img/trees/magnolia-night-art.jpeg" caption="Japanese Magnolia \"Ann\"" >}}
   {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
 {{< /carousel >}}
