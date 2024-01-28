@@ -65,8 +65,8 @@ A mix of evergreen, flowering, and deciduous specimen trees add year-round chara
 On the east side of the home on the upper portion of the property is a pea gravel fire pit and horseshoe area.
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/fire-pit/fire-pit.jpeg"}}
-  {{< img src="img/fire-pit/fire-pit-view-bridge.jpeg"}}
+  {{< img src="img/fire-pit/fire-pit.jpeg" >}}
+  {{< img src="img/fire-pit/fire-pit-view-bridge.jpeg" >}}
   {{< img src="img/fire-pit/fire-pit-view-of-home.jpeg" >}}
 {{< /carousel >}}
 
