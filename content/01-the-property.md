@@ -81,8 +81,7 @@ The multi-acre lower land portion of the property offers access to the Katy Trai
   {{< img src="img/lower-land/lower-land-view-top-west-bluff.jpeg" caption="Lower land from top of west bluff" >}}
 {{< /carousel >}}
 
-
-{{< image src="img/lower-land/lower-land-pano.jpeg" wrapper="col mx-auto" caption="Lower land in winter" class="rounded" >}}
+{{< image src="img/lower-land/lower-land-pano-winter.jpeg" wrapper="col mx-auto" caption="Lower land in winter" class="rounded" >}}
 
 ## Stone Steps
 
