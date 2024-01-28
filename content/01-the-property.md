@@ -65,8 +65,9 @@ Two exposed limestone bluffs bracket the main home site. The bluffs are illumina
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/bluffs-east.jpeg" caption="East bluffs from lower land" >}}
-  {{< img src="img/lower-land/west-bluff.jpeg" caption="West bluffs from lower land" >}}
   {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East bluffs at night" >}}
+  {{< img src="img/lower-land/west-bluff.jpeg" caption="West bluffs from lower land" >}}
+  {{< img src="img/lower-land/bluff-west-night.jpeg" caption="West bluffs at night" >}}
 {{< /carousel >}}
 
 ## Lower Land
