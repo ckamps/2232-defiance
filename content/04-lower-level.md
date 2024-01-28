@@ -40,7 +40,7 @@ Part of the main room.
 | | |
 |-|-|
 |**Dimensions**|11' wide x 9' deep with a 9' 4" ceiling height|
-|**Windows**|Large windows and view of Femme Osage Creek bridge, bottom area, and beyond|
+|**Windows**|Large windows and view of Femme Osage Creek bridge, lower land, and beyond|
 |**Flooring**|Durable laminate plank flooring with foam backing. Columbia Flooring Traditional Clicette Maryland Cherry Burgundy.|
 |**Networking**|Multiple wall mount ethernet ports for access to home network and gigabit Internet|
 {.table .table-striped}
