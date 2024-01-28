@@ -52,7 +52,7 @@ Situated well above the adjacent Femme Osage Creek and Missouri River bottoms on
 
 In winter, enjoy expansive south-facing panoramic views for miles across undeveloped bottom lands toward the south side of the Missouri River. You won't see structures of the adjacent properties from the home's numerous windows. The closest homes in view are those situated in St Albans, 2+ miles away in Franklin County atop the south bluffs of the Missouri River. In other seasons, you'll enjoy filtered forms of the same views.
 
-{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/views/your-view.png" caption="South-facing views ~2 miles across Missouri River valley" >}}
   {{< img src="img/views/view-from-patio.jpeg" caption="View from patio" >}}
   {{< img src="img/views/winter-lower-bridge.jpeg" caption="View from primary bedroom" >}}
@@ -62,7 +62,7 @@ In winter, enjoy expansive south-facing panoramic views for miles across undevel
 
 From many areas of the yard and home, enjoy a commanding and intimate view of the 120-year-old iron railroad bridge spanning the Femme Osage Creek. The bridge is just ~250 feet away and ~60 feet below the main level of the home. You'll feel like you're on vacation whenever you see the bridge!
 
-{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/bridge/bridge-spring-2.jpeg" caption="Bluff top view of 120-year-old iron railroad bridge on Katy trail" >}}
   {{< img src="img/bridge/bridge-lower-land.jpeg" caption="View from lower land" >}}
   {{< img src="img/bridge/bridge-night-2.jpeg" caption="Accent lighting of the bridge">}}
@@ -80,7 +80,7 @@ With over 400 feet of frontage on the [Katy Trail State Park](https://mostatepar
 
 From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to [Defiance Ridge Vineyards](https://www.defianceridgevineyards.com/) and [Good News Brewery](https://www.goodnewsbrewing.com/) in Defiance. The jewel of [Klondike Park](https://www.sccmo.org/690/Klondike-Park) is just a 20-minute bike ride away while the wineries and restaurants of [Augusta](https://www.townofaugustamo.org/) are only 40 minutes by trail. 
 
-{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/private-access-from-katy.jpeg" caption="Private access to the Katy Trail State Park" >}}
   {{< img src="img/lower-land/view-from-katy-winter.jpeg" caption="From the Katy Trail looking west toward Femme Osage Creek bridge" >}}
 {{< /carousel >}}
@@ -89,7 +89,7 @@ From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to 
 
 Use your [private dock]({{<ref "01-the-property#private-dock" >}}) on over 260 feet of [Femme Osage Creek](https://www.anyplaceamerica.com/directory/mo/st-charles-county-29183/streams/femme-osage-creek-756042/) shoreline to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling from your home all the way to its confluence with the Missouri River.
 
-{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/creek/femme-osage-paddle-boarding-evening.jpeg" caption="Paddling on Femme Osage Creek">}}
   {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek">}}
   {{< img src="img/creek/creek-view-from-top-west-bluff.jpeg" caption="Looking west upstream from top of west bluff">}}

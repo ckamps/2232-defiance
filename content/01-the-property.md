@@ -42,7 +42,7 @@ A mix of evergreen, flowering, and deciduous specimen trees add year-round chara
 |**Silver Maples**|2 are located on the east side of the main home|
 {.table .table-striped}
 
-{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/exterior/spring-front.jpeg" caption="Flowering Crabapple Prairifires along entry driveway">}}
   {{< img src="img/bridge/bridge-spring.jpeg" caption="Flowering Crabapple Prairifires on hill to lower land">}}
   {{< img src="img/trees/cedar-deck-winter.jpg" caption="Cedar of Lebanon in winter" >}}
@@ -63,7 +63,7 @@ A mix of evergreen, flowering, and deciduous specimen trees add year-round chara
 
 Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
 
-{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/bluffs-east.jpeg" caption="East bluffs from lower land" >}}
   {{< img src="img/lower-land/west-bluff.jpeg" caption="West bluffs from lower land" >}}
   {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East bluffs at night" >}}
@@ -92,7 +92,7 @@ The multi-acre lower land portion of the property offers access to the Katy Trai
 
 In addition to the stone steps, a double track trail provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
 
-{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/trail-to-lower-land.jpeg" caption="Trail from lower land to top of the property" >}}
   {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}
 {{< /carousel >}}
@@ -112,7 +112,7 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 |**Electricity**|The shore mounted light pole contains an electrical outlet|
 {.table .table-striped}
 
-{{< carousel ratio="3x2" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/dock/dock-bridge-dusk.jpeg" >}}
   {{< img src="img/dock/dock-straight-on-sunset.jpeg" >}}
   {{< img src="img/dock/dock-pier-winter.jpeg" >}}
