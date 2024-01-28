@@ -81,18 +81,6 @@ Two exposed limestone bluffs bracket the main home site. The bluffs are illumina
   {{< img src="img/lower-land/bluff-west-night.jpeg" caption="West bluffs at night" >}}
 {{< /carousel >}}
 
-## Lower Land
-
-The multi-acre lower land portion of the property offers access to the Katy Trail and Femme Osage Creek. It's a great place for bonfires, volleyball games, and other activities.
-
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/lower-land-looking-east.jpeg" caption="Lower land looking east" >}}
-  {{< img src="img/lower-land/lower-land-looking-west.jpeg" caption="Lower land looking west" >}}
-  {{< img src="img/lower-land/lower-land-view-top-west-bluff.jpeg" caption="Lower land from top of west bluff" >}}
-{{< /carousel >}}
-
-{{< image src="img/lower-land/lower-land-pano-winter.jpeg" wrapper="col mx-auto" caption="Lower land in winter" class="rounded" >}}
-
 ## Stone Steps
 
 56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
@@ -110,6 +98,18 @@ In addition to the stone steps, a double track trail provides easy access from t
   {{< img src="img/lower-land/trail-to-lower-land.jpeg" caption="Trail from lower land to top of the property" >}}
   {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}
 {{< /carousel >}}
+
+## Lower Land
+
+The multi-acre lower land portion of the property offers access to the Katy Trail and Femme Osage Creek. It's a great place for bonfires, volleyball games, and other activities.
+
+{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/lower-land-looking-east.jpeg" caption="Lower land looking east" >}}
+  {{< img src="img/lower-land/lower-land-looking-west.jpeg" caption="Lower land looking west" >}}
+  {{< img src="img/lower-land/lower-land-view-top-west-bluff.jpeg" caption="Lower land from top of west bluff" >}}
+{{< /carousel >}}
+
+{{< image src="img/lower-land/lower-land-pano-winter.jpeg" wrapper="col mx-auto" caption="Lower land in winter" class="rounded" >}}
 
 ## Private Dock
 
