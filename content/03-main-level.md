@@ -5,7 +5,7 @@ type: minimal
 
 Offering over 3,200 sq ft of living space, the majority of your day-to-day living will occur on the main level.
 
-{{< image src="img/plans/plans-house-main-level.png" wrapper="col mx-auto" class="rounded" >}}
+{{< image src="img/plans/plans-home-main-level.png" wrapper="col mx-auto" class="rounded" >}}
 
 ## Entry and Main Hall
 
@@ -99,8 +99,8 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Locker**|Custom coat and shoe locker|
 |**Dog shower**|Dedicated dog shower area 3' wide x 3' deep x 3' 6" tall|
 |**Washer / dryer**|Under counter clothes washer and dryer area with short direct dryer exhaust path to exterior|
-|**Storage cabinet**|4'+ wide enclosed cabinet houses the main level whole house vacuum hose and attachments|
-|**Whole house vacuum**|1 powered wall receptacle|
+|**Storage cabinet**|4'+ wide enclosed cabinet houses the main level whole home vacuum hose and attachments|
+|**Whole home vacuum**|1 powered wall receptacle|
 {.table .table-striped}
 
 ## Mud Room 1/2 Bath

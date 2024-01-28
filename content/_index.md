@@ -4,7 +4,7 @@ type: minimal
 ---
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/drone/house-bridge.jpeg" >}}
+  {{< img src="img/drone/home-bridge.jpeg" >}}
   {{< img src="img/exterior/spring-front.jpeg" >}}
   {{< img src="img/exterior/home-from-lower-trail.jpeg">}}
   {{< img src="img/exterior/from-bottom-night.jpeg" >}}

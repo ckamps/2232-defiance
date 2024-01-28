@@ -5,7 +5,7 @@ type: minimal
 
 The 1,500+ sq ft of fully finished walkout lower level space is great for working from home, guests, movies, and games. Spaces include an office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Additionally, there's an abundance of partially finished, storage, and mechanical space.
 
-{{< image src="img/plans/plans-house-lower-level.png" wrapper="col mx-auto" class="rounded" >}}
+{{< image src="img/plans/plans-home-lower-level.png" wrapper="col mx-auto" class="rounded" >}}
 
 ## Main Room
 
@@ -65,7 +65,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |**A/V rack**|Built-in flush wall mount A/V rack with easy rear access from unfinished area|
 |**A/V receiver**|Dedicated Sony STR-AN1000 7.2CH Surround Sound Home Theater 8K A/V Receiver: Dolby Atmos, DTS|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A2169)|
-|**Networking**|Hardwired ethernet cable between main house network switch and switch in the home theater A/V rack|
+|**Networking**|Hardwired ethernet cable between main home network switch and switch in the home theater A/V rack|
 |**Wall lighting**|4 craftsmen style dimmable sconce lights on smart switch|
 |**Step lighting**|Integrated LED step lighting|
 |**Doors**|Double solid wood Cherry doors|
@@ -96,7 +96,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |-|-|
 |**Patio**|Exposed aggregate concrete patio|
 |**Speakers**|Bose Free Space 51 Outdoor In-Ground Speakers with downward firing 4 1/4 full range driver|
-|**A/V receiver**|Dedicated Yamaha RX-V485 A/V receiver amplifier in lower level unifinished room. Supports Apple AirPlay 2 for whole house audio streaming.|
+|**A/V receiver**|Dedicated Yamaha RX-V485 A/V receiver amplifier in lower level unifinished room. Supports Apple AirPlay 2 for whole home audio streaming.|
 {.table .table-striped}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}

@@ -7,7 +7,7 @@ The property is nestled between the Ridge Creek and Markham Hills developments w
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/parcel/parcel-in-context.png" >}}
-  {{< img src="img/drone/house-bridge.jpeg" >}}
+  {{< img src="img/drone/home-bridge.jpeg" >}}
   {{< img src="img/parcel/google-maps-screenshot.png" >}}
   {{< img src="img/parcel/2232-aerial.png" >}}
   {{< img src="img/parcel/2232-topo.png" >}}

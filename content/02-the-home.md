@@ -70,9 +70,9 @@ Take advantage of an already approved county variance to build your own detached
 |**Thermostats**|Honeywell T6 Pro smart thermostats with Z-Wave Plus. 3 quantity, 1 per zone. Integrated with home automation.|
 |**Exterior walls**|Upgraded 2"x6" (typical is 2"x4"). Provides more room for thicker in-wall insulation.|
 |**Roof overhangs**|24" roof overhangs reduce sun impact in summer months|
-|**Whole-house ERV**|RenewAire EV300 300 CFM whole-house Energy Recovery Ventilator (ERV). Exchanges inside air with fresh outside air. Used throughout the year. Wall mounted control to adjust percentage run time.|
-|**Whole-house Dehumidifier**|AprilAire 1720 whole-house dehumidifier for summer months.|
-|**Whole-house Humidifier**|Whole-house steam humidifier for winter months. Integrated with home automation to automatically maintain desired humidity level.|
+|**Whole-home ERV**|RenewAire EV300 300 CFM whole-home Energy Recovery Ventilator (ERV). Exchanges inside air with fresh outside air. Used throughout the year. Wall mounted control to adjust percentage run time.|
+|**Whole-home Dehumidifier**|AprilAire 1720 whole-home dehumidifier for summer months.|
+|**Whole-home Humidifier**|Whole-home steam humidifier for winter months. Integrated with home automation to automatically maintain desired humidity level.|
 |**Ceiling fans**|Casablanca Panama fans with smart switches|
 |**Bathroom exhaust fans**|Quiet Panasonic WhisperCeiling fans throughout. Exhaust duct work is insulated in home attic to minimize condensation.|
 {.table .table-striped}
@@ -83,10 +83,10 @@ Take advantage of an already approved county variance to build your own detached
 |-|-|
 |**Water service**|Water District 2 municipal water supply service|
 |**Water pressure regulator**|Helps regulate the pressure of the main service line|
-|**Water softener**|Whole house water softener delivers conditioned water to select faucets and laundry|
+|**Water softener**|Whole home water softener delivers conditioned water to select faucets and laundry|
 |**Water heater**|Direct vent Bradford White Hydrojet LP gas 75 gallon water heater installed in December 2018|
 |**Water heater pre-heat tank**|Geothermal HVAC unit is connected to Rheem 50 gallon water heater to use excess HVAC heat to pre-heat domestic water upstream of LP gas water heater|
-|**Hose bibs**|Freeze proof hose bibs in 5 exterior locations: House front, deck, below deck, east and north sides. 3 additional hose bibs are located in the garage.|
+|**Hose bibs**|Freeze proof hose bibs in 5 exterior locations: Home front, deck, below deck, east and north sides. 3 additional hose bibs are located in the garage.|
 |**Yard hydrant**|Frost-proof yard hydrant located on west end of driveway|
 {.table .table-striped}
 
@@ -154,7 +154,7 @@ Take advantage of an already approved county variance to build your own detached
 |-|-|
 |**Lighting type**|LED throughout|
 |**Automation**|Commonly used lights are automated according to customizable schedules and events|
-|**Landscape lighting**|Three low voltage transformers control three zones of landscape lighting:<br><br>Zone 1: Entry drive<br><br>Zone 2: Front of house and hill overlooking creek and river valleys<br><br>Zone 3: Deck lighting.<br><br>All zones are integrated with home automation.|
+|**Landscape lighting**|Three low voltage transformers control three zones of landscape lighting:<br><br>Zone 1: Entry drive<br><br>Zone 2: Front of home and hill overlooking creek and river valleys<br><br>Zone 3: Deck lighting.<br><br>All zones are integrated with home automation.|
 |**Railroad bridge accent lighting**|Light pole mounted LED flood light in lower land area can be remotely controlled to provide on-deman accent lighting of the iron railroad bridge|
 |**Smart switches and dimmers**|Large number of smart dimmers and switches throughout the home for commonly used lights and fans|
 |**Occupancy sensor lighting**|Presence sensor dimmers automatically light closets, water closets/toilet rooms, and storage areas|
