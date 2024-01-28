@@ -40,6 +40,10 @@ Don't miss this opportunity to own a unique 5.25-acre property and custom home i
     View in Google Maps
 {{< /button >}}
 
+## Classic style with modern amenities
+
+Custom built in 2006 with a classic craftsman style exterior and seven gables, the home has been kept up-to-date with the latest technology. For example, gigabit fiber internet service was connected in 2022 along with the installation of new WiFi access points throughout the home, garage, and outdoor spaces. High-speed internet coupled with a dedicated home office space with a view and easy access to outdoor areas for breaks, makes the home ideal for remote working.
+
 ## Buffered from neighbors yet easy access to area services
 
 Nestled between two high-end communities with large 5-acre and 3-acre lots, bordered on three sides by dense woods and river bluff buffs and on two sides by the Katy Trail State Park and the Femme Osage Creek, the property provides highly sought after isolation. Yet you're only a 20-minute drive from a wide variety of services in Chesterfield Valley, O'Fallon, and Lake St Louis.
@@ -70,9 +74,21 @@ From many areas of the yard and home, enjoy a commanding and intimate view of th
   {{< img src="img/bridge/bridge-night.jpeg" caption="Accent lighting of the bridge">}}
 {{< /carousel >}}
 
-## Classic style with modern amenities
+## Femme Osage Creek frontage and access to the Missouri River
 
-Custom built in 2006 with a classic craftsman style exterior and seven gables, the home has been kept up-to-date with the latest technology. For example, gigabit fiber internet service was connected in 2022 along with the installation of new WiFi access points throughout the home, garage, and outdoor spaces. High-speed internet coupled with a dedicated home office space with a view and easy access to outdoor areas for breaks, makes the home ideal for remote working.
+Use your [private dock]({{<ref "01-the-property#private-dock" >}}) on over 260 feet of [Femme Osage Creek](https://www.anyplaceamerica.com/directory/mo/st-charles-county-29183/streams/femme-osage-creek-756042/) shoreline to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling from your home all the way to its confluence with the Missouri River.
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/creek/paddling.jpeg" caption="Paddleboarding on Femme Osage Creek">}}
+  {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek">}}
+  {{< img src="img/creek/creek-view-from-top-west-bluff.jpeg" caption="Looking west upstream from top of west bluff">}}
+  {{< img src="img/creek/confluence-femme-osage-mo-river.jpeg" caption="Confluence of Femme Osage Creek and the Missouri River">}}
+{{< /carousel >}}
+
+{{< button-group >}}
+  {{< button color="primary" href="/01-the-property/" >}}The Property{{< /button >}}
+  {{< button color="primary" href="/02-the-home/#!" >}}The Home{{< /button >}}
+{{< /button-group >}}
 
 ## Katy Trail State Park frontage and access
 
@@ -84,18 +100,3 @@ From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to 
   {{< img src="img/lower-land/private-access-from-katy.jpeg" caption="Private access to the Katy Trail State Park" >}}
   {{< img src="img/lower-land/view-from-katy-winter.jpeg" caption="From the Katy Trail looking west toward Femme Osage Creek bridge" >}}
 {{< /carousel >}}
-
-## Femme Osage Creek frontage and access to the Missouri River
-
-Use your [private dock]({{<ref "01-the-property#private-dock" >}}) on over 260 feet of [Femme Osage Creek](https://www.anyplaceamerica.com/directory/mo/st-charles-county-29183/streams/femme-osage-creek-756042/) shoreline to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling from your home all the way to its confluence with the Missouri River.
-
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/creek/femme-osage-paddle-boarding-evening.jpeg" caption="Paddling on Femme Osage Creek">}}
-  {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek">}}
-  {{< img src="img/creek/creek-view-from-top-west-bluff.jpeg" caption="Looking west upstream from top of west bluff">}}
-{{< /carousel >}}
-
-{{< button-group >}}
-  {{< button color="primary" href="/01-the-property/" >}}The Property{{< /button >}}
-  {{< button color="primary" href="/02-the-home/#!" >}}The Home{{< /button >}}
-{{< /button-group >}}
