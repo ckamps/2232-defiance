@@ -18,7 +18,7 @@ A 12U size network rack in the lower unfinished area houses the following compon
 |**Network Video Recorder (NVR)**|See [Outdoor Cameras]({{<ref "#outdoor-cameras" >}})|
 {.table .table-striped}
 
-A separate rack in the garage houses the internet fiber modem and other equipment. See [Garage Networking and A/V]({{<ref "05-garage#networking-and-av" >}}) for details.
+A separate rack in the garage houses the internet fiber modem and other equipment. See [Garage TV and Networking]({{<ref "05-garage#tv-and-networking" >}}) for details.
 
 ## Wireless Access Points
 
