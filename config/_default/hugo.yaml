@@ -32,3 +32,8 @@ privacy:
   googleanalytics:
     disabled: true
     respectDoNotTrack: true
+
+minify:
+  tdewolff:
+    html:
+      keepWhitespace: true
