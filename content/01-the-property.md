@@ -135,6 +135,11 @@ Common wildlife in the area include:
 * Bobcats
 * Foxes
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/wildlife/fox-winter.jpeg" caption="Red Fox" >}}
+  {{< img src="img/wildlife/bald-eagle.jpeg" caption="Bald Eagle" >}}
+{{< /carousel >}}
+
 ## History
 
 In the early 1900s, the lower land of the property was the site of the Femme Osage Hunting and Fishing Club. Also known as the Finney Club. The club was one of many situated along the creeks and rivers of the St Louis region.

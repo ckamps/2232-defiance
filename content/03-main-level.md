@@ -83,7 +83,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 {{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/deck/deck-winter-sunset.jpeg"caption="Winter sunsets" >}}
   {{< img src="img/deck/deck-winter-east.jpeg"  >}}
-  {{< img src="img/exterior/under-deck.jpeg"  >}}
+  {{< img src="img/deck/under-deck.jpeg"  >}}
 {{< /carousel >}}
 
 ## Mud Room / Laundry Room
