@@ -16,7 +16,7 @@ navigation:
   fixed: true
   horizontal: false
   offset: 3em
-  search: true
+  search: false
   searchModal: false
   breadcrumb: false
   toc: true
