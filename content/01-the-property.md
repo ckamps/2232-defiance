@@ -163,7 +163,7 @@ In the early 1900s, the lower land of the property was the site of the Femme Osa
 
 {{< image src="img/finney/finney-map.png" wrapper="col mx-auto" caption="Finney Club House on survey map from early 1900s" class="rounded" >}}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="16x9 class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/finney/stag-pano-left.jpeg" caption="The Finney Club in lower land area: Stag Outing May 13, 1917" >}}
   {{< img src="img/finney/stag-pano-middle.jpeg" caption="The Finney Club in lower land area: Stag Outing May 13, 1917" >}}
   {{< img src="img/finney/stag-pano-right.jpeg" caption="The Finney Club in lower land area: Stag Outing May 13, 1917" >}}
