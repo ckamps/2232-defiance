@@ -35,5 +35,9 @@ privacy:
 
 minify:
   tdewolff:
+    js:
+      keepVarNames: true
+      precision: 0
+      version: 2022
     html:
       keepWhitespace: true

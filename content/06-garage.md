@@ -79,3 +79,11 @@ Take advantage of the hidden large volume air compressor to easily and quickly i
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
 |**A/V receiver amplifier**|Yamaha RX-V481 A/V receiver powers speakers and connects to Apple TV and wall mounted TV|
 {.table .table-striped}
+
+{{< button-group aria-label="Basic example" >}}
+  {{< button color="primary" href="/02-the-property/" outline="true" >}}The Property{{< /button >}}
+  {{< button color="primary" href="/03-the-home/" outline="true" >}}The Home{{< /button >}}
+  {{< button color="primary" href="/04-main-level/"outline="true" >}}Main Level{{< /button >}}
+  {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
+  {{< button color="primary" href="/06-garage/"outline="true" >}}Garage{{< /button >}}
+{{< /button-group >}}

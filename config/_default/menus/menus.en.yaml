@@ -1,42 +1,37 @@
 main:
-  - identifier: home
-    name: Home
-    url: /
-    weight: 10
-
   - identifier: the-property
     name: The Property
-    url: /01-the-property/
+    url: /02-the-property/
     weight: 20
     
   - identifier: the-home
     name: The Home
-    url: /02-the-home/
+    url: /03-the-home/
     weight: 30
 
   - identifier: main-level
     name: Main Level
-    url: /03-main-level/
+    url: /04-main-level/
     weight: 40
 
   - identifier: lower-level
     name: Lower Level
-    url: /04-lower-level/
+    url: /05-lower-level/
     weight: 50
 
   - identifier: garage
     name: Garage
-    url: /05-garage/
+    url: /06-garage/
     weight: 60
 
   - identifier: home-systems
     name: Home Systems
-    url: /06-home-systems/
+    url: /07-home-systems/
     weight: 70
         
   - identifier: recreation
     name: Recreation
-    url: /07-recreation/
+    url: /08-recreation/
     weight: 80
 
   - identifier: contact

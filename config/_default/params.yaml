@@ -2,8 +2,13 @@ main:
   separator: '-'
   description: 2232 South Highway 94, Defiance, Missouri 63341, Home for Sale
   endorse: false
-  footerBelowFold: true
-  canonifyAssetsURLs: true
+  enableDarkMode: true
+  modes:
+    - light
+    - dark
+  canonifyAssetsURLs: false
+  footerBelowFold: false
+  loading: lazy
   externalLinks:
     cue: true
     tab: true
@@ -21,6 +26,53 @@ navigation:
   breadcrumb: false
   toc: true
   sidebar: false
+  size: lg
+
+home:
+  sections:
+    - overview
+  fullCover: true
+  centerHeadline: true
+  style: gradient-featured
+  feature:
+    orientation: stacked
+    color: ''
+    width: 7
+    align: start
+
+sections:
+  overview:
+    title: Overview
+    layout: nav
+    sort: weight
+    reverse: false
+    background: body-tertiary
+    #color: primary
+    style: justify-content-center
+    #pane: persona
+    type: tabs
+    #width: 50
+    vertical: false
 
 sharing:
   enabled: false
+
+modules:
+  core:
+    - bootstrap
+    - flexsearch
+    - fontawesome
+  optional:
+    - leaflet
+    - katex
+    - lottie
+  excludeSCSS:
+    - bootstrap
+  disableTemplate:
+    - katex
+  katex:
+    state: defer
+  fontawesome:
+    inline: true
+    debug: true
+    skipMissing: false

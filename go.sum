@@ -1,4 +1,6 @@
 github.com/gethinode/hinode v0.21.11 h1:QYfLb0aOM1zLyRacuZmMeKoW2YCgxBL4xGeO3Da34NQ=
 github.com/gethinode/hinode v0.21.11/go.mod h1:fhOLkYf44ngah7wtFP56lZkwRXiZDlYQomb+ojKrHSw=
+github.com/gethinode/hinode v0.22.2 h1:RMZI6QbNcJ4cD8S3CPnnod0r/FvqAARYvjGRmYhe78s=
+github.com/gethinode/hinode v0.22.2/go.mod h1:svZ+xbzxkX3DNkqTw7g/W0QJRCjl+kK8k2xo8Jh1qq4=
 github.com/willfaught/paige v0.71.4 h1:C4EjrWqxAVNP7iJi9LmsZGtt9BCMEpZoqPEm4wdEvlg=
 github.com/willfaught/paige v0.71.4/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=

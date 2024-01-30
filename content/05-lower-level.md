@@ -102,3 +102,11 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/patio/patio-winter.jpeg" caption="View from patio" >}}
 {{< /carousel >}}
+
+{{< button-group aria-label="Basic example" >}}
+  {{< button color="primary" href="/02-the-property/" outline="true" >}}The Property{{< /button >}}
+  {{< button color="primary" href="/03-the-home/" outline="true" >}}The Home{{< /button >}}
+  {{< button color="primary" href="/04-main-level/"outline="true" >}}Main Level{{< /button >}}
+  {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
+  {{< button color="primary" href="/06-garage/"outline="true" >}}Garage{{< /button >}}
+{{< /button-group >}}

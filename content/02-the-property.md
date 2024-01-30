@@ -3,7 +3,7 @@ title: The Property
 type: minimal
 ---
 
-The property is nestled between the Ridge Creek and Markham Hills developments with minimum lots sizes of 3 and 5 acres respectively. The property's location provides you with a front row seat to the Katy Trail State Park and Femme Osage Creek.
+The property is nestled between the Ridge Creek and Markham Hills developments with minimum lots sizes of 3 and 5 acres respectively. This location provides you with a front row seat to the Katy Trail State Park and the Femme Osage Creek and Missouri River valleys.
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/parcel/parcel-in-context.png" >}}
@@ -163,8 +163,18 @@ In the early 1900s, the lower land of the property was the site of the Femme Osa
 
 {{< image src="img/finney/finney-map.png" wrapper="col mx-auto" caption="Finney Club House on survey map from early 1900s" class="rounded" >}}
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel ratio="16x9"
+
+ class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/finney/stag-pano-left.jpeg" caption="The Finney Club in lower land area: Stag Outing May 13, 1917" >}}
   {{< img src="img/finney/stag-pano-middle.jpeg" caption="The Finney Club in lower land area: Stag Outing May 13, 1917" >}}
   {{< img src="img/finney/stag-pano-right.jpeg" caption="The Finney Club in lower land area: Stag Outing May 13, 1917" >}}
 {{< /carousel >}}
+
+{{< button-group aria-label="Basic example" >}}
+  {{< button color="primary" href="/02-the-property/" outline="true" >}}The Property{{< /button >}}
+  {{< button color="primary" href="/03-the-home/" outline="true" >}}The Home{{< /button >}}
+  {{< button color="primary" href="/04-main-level/"outline="true" >}}Main Level{{< /button >}}
+  {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
+  {{< button color="primary" href="/06-garage/"outline="true" >}}Garage{{< /button >}}
+{{< /button-group >}}

@@ -18,7 +18,7 @@ A 12U size network rack in the lower unfinished area houses the following compon
 |**Network Video Recorder (NVR)**|See [Outdoor Cameras]({{<ref "#outdoor-cameras" >}})|
 {.table .table-striped}
 
-A separate rack in the garage houses the internet fiber modem and other equipment. See [Garage TV and Networking]({{<ref "05-garage#tv-and-networking" >}}) for details.
+A separate rack in the garage houses the internet fiber modem and other equipment. See [Garage TV and Networking]({{<ref "06-garage#tv-and-networking" >}}) for details.
 
 ## Wireless Access Points
 
@@ -132,3 +132,11 @@ PVC conduit has been installed to make it easy to route network, audio, and TV c
 * Main and lower level bedrooms
 * Lower level main room TV area
 * Garage attic
+
+{{< button-group aria-label="Basic example" >}}
+  {{< button color="primary" href="/02-the-property/" outline="true" >}}The Property{{< /button >}}
+  {{< button color="primary" href="/03-the-home/" outline="true" >}}The Home{{< /button >}}
+  {{< button color="primary" href="/04-main-level/"outline="true" >}}Main Level{{< /button >}}
+  {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
+  {{< button color="primary" href="/06-garage/"outline="true" >}}Garage{{< /button >}}
+{{< /button-group >}}

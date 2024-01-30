@@ -10,14 +10,14 @@ type: minimal
 {{< table class="table-striped" >}}
 |                           |     |
 |:--------------------------|:----|
-|**Main level**|The majority of your day-to-day living space is on the main level. Spaces include the laundry/mud room, kitchen, dining room, deck, sun room, living room and three bedrooms including the primary bedroom. See [Main Level]({{<ref "03-main-level" >}}) for details.| 
-|**Walkout lower level**|The walkout finished lower level is great for working from home, guests, movies, and games. Spaces include an office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Additionally, there's an abundance of partially finished, storage, and mechanical space. See [Lower Level]({{<ref "04-lower-level" >}}) for details.|
-|**Garage**|The fully finished, over sized three-car+ garage has a fully enclosed breezeway that provides easy access to the home. A large storage attic with folding access stairs enables you to store infrequently used items out of the way. See [Garage]({{<ref "05-garage" >}}) for details.|
+|**Main level**|The majority of your day-to-day living space is on the main level. Spaces include the laundry/mud room, kitchen, dining room, deck, sun room, living room and three bedrooms including the primary bedroom. See [Main Level]({{<ref "04-main-level" >}}) for details.| 
+|**Walkout lower level**|The walkout finished lower level is great for working from home, guests, movies, and games. Spaces include an office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Additionally, there's an abundance of partially finished, storage, and mechanical space. See [Lower Level]({{<ref "05-lower-level" >}}) for details.|
+|**Garage**|The fully finished, over sized three-car+ garage has a fully enclosed breezeway that provides easy access to the home. A large storage attic with folding access stairs enables you to store infrequently used items out of the way. See [Garage]({{<ref "06-garage" >}}) for details.|
 {{< /table >}}
 
 ## Optional Accessory Structure
 
-Take advantage of an already approved county variance to build your own detached accessory structure on the property. For example, if you'd like to build a detached garage or pole barn to augment the existing garage.
+Take advantage of an already approved county variance to build your own detached accessory structure on the property. For example, you could build a detached garage or pole barn to augment the existing garage.
 
 ## Construction
 
@@ -168,3 +168,11 @@ Take advantage of an already approved county variance to build your own detached
 |**Vacuum outlets**|7 powered vacuum outlets in the main home|
 |**Vacuum hoses**|2 powered hoses for main and lower levels and 1 hose for garage|
 {.table .table-striped}
+
+{{< button-group aria-label="Basic example" >}}
+  {{< button color="primary" href="/02-the-property/" outline="true" >}}The Property{{< /button >}}
+  {{< button color="primary" href="/03-the-home/" outline="true" >}}The Home{{< /button >}}
+  {{< button color="primary" href="/04-main-level/"outline="true" >}}Main Level{{< /button >}}
+  {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
+  {{< button color="primary" href="/06-garage/"outline="true" >}}Garage{{< /button >}}
+{{< /button-group >}}
