@@ -30,7 +30,7 @@ Custom built in 2006 with a classic craftsman style exterior and seven gables, t
   {{< img src="img/creek/femme-osage-paddle-boarding-evening.jpeg" caption="Sunset paddles on the Femme Osage Creek from your private dock">}}
 {{< /carousel >}}
 
-## Desirable Defiance Area
+## Desirable Defiance area
 
 Don't miss this opportunity to own a unique 5.25-acre property and custom home in the desirable Defiance area of St Louis, Missouri. Whether you work from home or commute, the setting will make you feel like you're always at a weekend retreat.
 
@@ -43,7 +43,7 @@ Nestled between two high-end communities with large 5-acre and 3-acre lots, bord
     View in Google Maps
 {{< /button >}}
 
-## The Views
+## The views
 
 In winter, enjoy expansive south-facing panoramic views for miles across undeveloped bottom lands toward the south side of the Missouri River. You won't see structures of the adjacent properties from the home's numerous windows. The closest homes in view are those situated in St Albans, 2+ miles away in Franklin County atop the south bluffs of the Missouri River. In other seasons, you'll enjoy filtered forms of the same views.
 
@@ -53,7 +53,7 @@ In winter, enjoy expansive south-facing panoramic views for miles across undevel
   {{< img src="img/views/winter-lower-bridge.jpeg" caption="View from primary bedroom" >}}
 {{< /carousel >}}
 
-## 120+ Year Old Iron Railroad Bridge
+## 120-year-old iron railroad bridge
 
 From many areas of the yard and home, enjoy a commanding and intimate view of the 120-year-old iron railroad bridge spanning the Femme Osage Creek. The bridge is just ~250 feet away and ~60 feet below the main level of the home. You'll feel like you're on vacation whenever you see the bridge!
 
