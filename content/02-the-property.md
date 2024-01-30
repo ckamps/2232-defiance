@@ -13,7 +13,7 @@ The 5.25-acre property is nestled between the Ridge Creek and Markham Hills deve
   {{< img src="img/parcel/2232-topo.png" >}}
 {{< /carousel >}}
 
-## Entry Drive and Driveway
+## Entry drive and driveway
 
 Part of the property, the paved entry drive provides private access from Highway 94 to the main portion of the property . The entry drive is bordered by horse fences, mature woods, and the rear of neighboring properties. It also passes along horse paddocks of a neighboring property.
 
@@ -27,7 +27,7 @@ Further back near the main portion of the property, the asphalt entry drive tran
 
 {{< image src="img/drone/entry-driveway.jpeg" wrapper="col mx-auto" caption="Entry driveway and turnaround area" class="rounded" >}}
 
-## Specimen Trees
+## Specimen trees
 
 A mix of evergreen, flowering, and deciduous specimen trees add year-round character to the property.
 
@@ -60,7 +60,7 @@ A mix of evergreen, flowering, and deciduous specimen trees add year-round chara
   {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
 {{< /carousel >}}
 
-## Fire Pit
+## Fire pit
 
 On the east side of the home on the upper portion of the property is a pea gravel fire pit and horseshoe area.
 
@@ -81,7 +81,7 @@ Two exposed limestone bluffs bracket the main home site. The bluffs are illumina
   {{< img src="img/lower-land/bluff-west-night.jpeg" caption="West bluffs at night" >}}
 {{< /carousel >}}
 
-## Stone Steps
+## Stone steps
 
 56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
 
@@ -90,7 +90,7 @@ Two exposed limestone bluffs bracket the main home site. The bluffs are illumina
   {{< img src="img/lower-land/steps-top.jpeg" >}}
 {{< /carousel >}}
 
-## Double Track Trail
+## Double track trail
 
 In addition to the stone steps, a double track trail provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
 
@@ -99,7 +99,7 @@ In addition to the stone steps, a double track trail provides easy access from t
   {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}
 {{< /carousel >}}
 
-## Lower Land
+## Lower land
 
 The multi-acre lower land portion of the property offers access to the Katy Trail and Femme Osage Creek. It's a great place for bonfires, volleyball games, and other activities.
 
@@ -111,7 +111,7 @@ The multi-acre lower land portion of the property offers access to the Katy Trai
 
 {{< image src="img/lower-land/lower-land-pano-winter.jpeg" wrapper="col mx-auto" caption="Lower land in winter" class="rounded" >}}
 
-## Private Dock
+## Private dock
 
 Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 miles from the Missouri River, you'll have plenty of areas to explore while paddling and fishing.
 
