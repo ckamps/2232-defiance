@@ -7,7 +7,7 @@ The 1,500+ sq ft of fully finished walkout lower level space is great for workin
 
 {{< image src="img/plans/plans-home-lower-level.png" wrapper="col mx-auto" class="rounded" >}}
 
-## Main Room
+## Main room
 
 | | |
 |-|-|
@@ -20,7 +20,7 @@ The 1,500+ sq ft of fully finished walkout lower level space is great for workin
 |**A/V receiver**|Dedicated Yamaha RX-V481 A/V receiver amplifier in lower level unfinished room|
 {.table .table-striped}
 
-## Kitchenette and Game Bar
+## Kitchenette and game bar
 
 Part of the main room.
 
@@ -45,7 +45,7 @@ Part of the main room.
 |**Networking**|Multiple wall mount ethernet ports for access to home network and gigabit Internet|
 {.table .table-striped}
 
-## Home Theater
+## Home theater
 
 Enjoy the dedicated home theater room with stadium seating and a 7.1 surround sound speaker and subwoofer arrangement. The room is positioned in the rear of the lower level to minimize natural light intrusion.
 
@@ -72,7 +72,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |**Ventilation**|Flow through ventilation to aid in air circulation|
 {.table .table-striped}
 
-## Full Bath
+## Full bath
 
 | | |
 |-|-|
@@ -86,9 +86,9 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 
 ## Bedroom
 
-## Partially Finished Utility Rooms
+## Partially finished utility rooms
 
-## Storage and Mechanical Rooms
+## Storage and mechanical rooms
 
 ## Patio
 
