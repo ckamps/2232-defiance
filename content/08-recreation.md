@@ -39,7 +39,7 @@ Use your private dock on over 260 feet of the Femme Osage Creek to set off on pa
 
 ...
 
-## Mountain Biking
+## Mountain biking
 
 * 1-mile ride via the Katy and Hamburg trails to the Lost Valley trail head
 * 2-mile ride via the Katy trail and back roads to Matson Hill park
