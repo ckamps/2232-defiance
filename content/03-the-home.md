@@ -15,7 +15,7 @@ type: minimal
 |**Garage**|The fully finished, over sized three-car+ garage has a fully enclosed breezeway that provides easy access to the home. A large storage attic with folding access stairs enables you to store infrequently used items out of the way. See [Garage]({{<ref "06-garage" >}}) for details.|
 {{< /table >}}
 
-## Optional Accessory Structure
+## Optional accessory structure
 
 Take advantage of an already approved county variance to build your own detached accessory structure on the property. For example, you could build a detached garage or pole barn to augment the existing garage.
 
@@ -36,7 +36,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Roof eaves**|Wider than common, the 2'-wide roof eaves help reduce sun impact in Summer and enhance aesthetics|
 {{< /table >}}
 
-## Siding and Trim
+## Exterior siding and trim
 
 {{< table class="table-striped" >}}
 | | |
@@ -61,7 +61,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Solar**|Take advantage of the ideal south facing roofs of the home and garage for a future solar panel installation|
 {.table .table-striped}
 
-## HVAC and Efficiency
+## HVAC and efficiency
 
 | | |
 |-|-|
@@ -113,7 +113,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Light poles**|2 aluminum light poles in lower land area each with a camera, wireless access point, and raised electrical outlet|
 {.table .table-striped}
 
-## Interior Doors
+## Interior doors
 
 | | |
 |-|-|
@@ -122,7 +122,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Interior door handles and knobs**|[Emtek Luzern lever handsets](https://www.emtek.com/all-products/door-hardware/knobs-lever-and-rosettes/leversets/luzern-leverset/) in oil rubbed bronze on many of the cherry interior doors. Emtek knobs on remaining cherry interior doors.|
 {.table .table-striped}
 
-## Exterior Doors
+## Exterior doors
 
 | | |
 |-|-|
@@ -140,7 +140,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Interior window casings/trim**|Matching Douglas Fir in natural wood finish|
 {.table .table-striped}
 
-## Plumbing Fixtures
+## Plumbing fixtures
 
 | | |
 |-|-|
@@ -160,7 +160,7 @@ Take advantage of an already approved county variance to build your own detached
 |**Occupancy sensor lighting**|Presence sensor dimmers automatically light closets, water closets/toilet rooms, and storage areas|
 {.table .table-striped}
 
-## Central Vacuum
+## Central vacuum
 
 | | |
 |-|-|
