@@ -96,7 +96,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |-|-|
 |**Patio**|Exposed aggregate concrete patio|
 |**Speakers**|Bose Free Space 51 Outdoor In-Ground Speakers with downward firing 4 1/4 full range driver|
-|**A/V receiver**|Dedicated Yamaha RX-V485 A/V receiver amplifier in lower level unifinished room. Supports Apple AirPlay 2 for whole home audio streaming.|
+|**Amplifier**|Dedicated Yamaha RX-V485 A/V receiver amplifier in lower level unifinished room. Supports Apple AirPlay 2 for whole home audio streaming.|
 {.table .table-striped}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
