@@ -3,7 +3,7 @@ title: Home Systems
 type: minimal
 ---
 
-## Networking and Internet
+## Networking and internet
 
 The property has two gigabit fiber internet services available. Brightspeed's Gigabit service - up to 900Mbps up and down - is currently integrated with the home. Spectrum's fiber service is also available on the property.
 
@@ -20,7 +20,7 @@ A 12U size network rack in the lower unfinished area houses the following compon
 
 A separate rack in the garage houses the internet fiber modem and other equipment. See [Garage TV and Networking]({{<ref "06-garage#tv-and-networking" >}}) for details.
 
-## Wireless Access Points
+## Wireless access points
 
 All wireless access points were installed in 2022 at about the same time gigabit fiber internet service was established. Depending on your device, the WiFi 6 access points are capable of providing up to ~500Mbps speeds throughout the home and outside.
 
@@ -35,7 +35,7 @@ All wireless access points were installed in 2022 at about the same time gigabit
 |**Lower land light pole near dock**|UniFi U6-Mesh|
 {.table .table-striped}
 
-## TV and Video Streaming
+## TV and video streaming
 
 | | |
 |-|-|
@@ -45,7 +45,7 @@ All wireless access points were installed in 2022 at about the same time gigabit
 |**Satellite ready**|If you prefer satellite TV, a dish pole mount exists hidden behind the garage. Conduit is already in place to easily run coax from a dish to the garage and main home's lower level.|
 {.table .table-striped}
 
-## Security System
+## Security system
 
 | | |
 |-|-|
@@ -57,7 +57,7 @@ All wireless access points were installed in 2022 at about the same time gigabit
 |**Home automation integration**|An [EyezOn EnvisaLink 4](https://www.eyezon.com/evl4.php) module connects to the security system as a third keypad. This networked module enables the security systems to be integrated with the home automation system. For example, you can control and monitor the system using your phone and automate actions based on events such as exterior doors opening and closing.|
 {.table .table-striped}
 
-## Outdoor Cameras
+## Outdoor cameras
 
 A series of Power Over Ethernet (PoE) network cameras are positioned outside the home to enable you to view the surroundings when you're home and away.
 
@@ -88,13 +88,13 @@ Cameras cover the following outside areas:
   {{< img src="img/cameras/camera-entry-fence.png" >}}
 {{< /carousel >}}
 
-## Doorbell and Camera
+## Doorbell and camera
 
 The main entry has a Ring Video Doorbell Pro 2.
 
 {{< image src="img/cameras/ring-doorbell-night.png" wrapper="col mx-auto" caption="Ring Doorbell Pro" class="rounded" >}}
 
-## Weather Station
+## Weather station
 
 |||
 |-|-|
@@ -103,7 +103,7 @@ The main entry has a Ring Video Doorbell Pro 2.
 |**Weather Underground integration**|Weather station publishes as site [KMODEFIA18](https://www.wunderground.com/dashboard/pws/KMODEFIA18?cm_ven=localwx_pwsdash) on the Weather underground|
 {.table .table-striped}
 
-## Home Automation
+## Home automation
 
 [Hubitat](https://hubitat.com/) home automation hubs enable control and automation of a wide variety of devices within the home. Three Hubitat devices are meshed and located in the living room (C-8 version), lower level (C-7 version), and garage (C-8 version). The hubs support Z-Wave, Zigbee, Apple HomeKit, and Matter (C-8 only).
 
@@ -123,7 +123,7 @@ Examples of remote control and automation already in place include:
 |Automated monitoring of indoor and outdoor humidity levels and control of the whole house humidifier to align with target humidity level|
 {.table .table-striped}
 
-## Cable Conduits
+## Cable conduits
 
 PVC conduit has been installed to make it easy to route network, audio, and TV cables throughout the garage and home. Conduit runs are installed between the lower level and the following spaces:
 
