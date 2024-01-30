@@ -7,7 +7,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 {{< image src="img/plans/plans-home-main-level.png" wrapper="col mx-auto" class="rounded" >}}
 
-## Entry and Main Hall
+## Entry and main hall
 
 | | |
 |-|-|
@@ -16,7 +16,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Lighting**|Mix of LED pendant lights (5) and dedicated ceiling mounted art lights (6) on smart dimmers|
 |**Bookcases**|10' long x 33" tall x 14" deep Built-in bookcase lines the main hall along the living room|
 
-## Kitchen and Pantry
+## Kitchen and pantry
 
 | | |
 |-|-|
@@ -44,7 +44,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**A/V receiver**|Speakers are powered by a dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via the speaker switch in the kitchen|
 {.table .table-striped}
 
-## Dining Room
+## Dining room
 
 | | |
 |-|-|
@@ -54,7 +54,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 {.table .table-striped}
 
-## Sun Room
+## Sun room
 
 | | |
 |-|-|
@@ -86,7 +86,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
   {{< img src="img/deck/under-deck.jpeg"  >}}
 {{< /carousel >}}
 
-## Mud Room / Laundry Room
+## Mud room / Laundry room
 
 | | |
 |-|-|
@@ -103,7 +103,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Whole home vacuum**|1 powered wall receptacle|
 {.table .table-striped}
 
-## Mud Room 1/2 Bath
+## Mud room / Laundry room 1/2 bath
 
 | | |
 |-|-|
@@ -126,7 +126,7 @@ Full enclosed breezeway access between the garage and the main home.
 |**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
 {.table .table-striped}
 
-## Living Room
+## Living room
 
 Enjoy the expansive south-facing views of the Missouri River and Femme Osage Creek valleys through the wall of windows in your living room.
 
@@ -143,7 +143,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Uninterruptable Power Supply (UPS)**|A ... provides back up power and helps protect the equipment in case of power outages and power spikes|
 {.table .table-striped}
 
-## Living Room Dry Bar
+## Living room dry bar
 
 | | |
 |-|-|
@@ -152,7 +152,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Under cabinet lighting**|Undercabinet LED lighting integrated with home automation|
 {.table .table-striped}
 
-## Main Hall 1/2 Bath
+## Main hall 1/2 bath
 
 | | |
 |-|-|
@@ -162,7 +162,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Exhaust fan**|Panasonic WhisperCeiling fan|
 {.table .table-striped}
 
-## Second Bedroom
+## Second bedroom
 
 | | |
 |-|-|
@@ -172,7 +172,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
 {.table .table-striped}
 
-## Third Bedroom / Office
+## Third bedroom / Office
 
 Choose whether you want to use this room as an office, bedroom, or both.
 
@@ -183,9 +183,9 @@ Choose whether you want to use this room as an office, bedroom, or both.
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
 {.table .table-striped}
 
-## Primary Bedroom
+## Primary bedroom
 
-Spacious n x n primary bedroom has an adjoining n x n sitting area with expansive windows overlooking the lower land, iron bridge, and creek and river valleys.
+Spacious primary bedroom has an adjoining sitting area with expansive windows overlooking the lower land, iron bridge, and creek and river valleys.
 
 | | |
 |-|-|
