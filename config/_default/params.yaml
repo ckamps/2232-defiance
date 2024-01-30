@@ -29,8 +29,6 @@ navigation:
   size: lg
 
 home:
-  sections:
-    - overview
   fullCover: true
   centerHeadline: true
   style: gradient-featured
@@ -39,20 +37,6 @@ home:
     color: ''
     width: 7
     align: start
-
-sections:
-  overview:
-    title: Overview
-    layout: nav
-    sort: weight
-    reverse: false
-    background: body-tertiary
-    #color: primary
-    style: justify-content-center
-    #pane: persona
-    type: tabs
-    #width: 50
-    vertical: false
 
 sharing:
   enabled: false

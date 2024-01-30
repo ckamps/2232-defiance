@@ -169,10 +169,4 @@ Take advantage of an already approved county variance to build your own detached
 |**Vacuum hoses**|2 powered hoses for main and lower levels and 1 hose for garage|
 {.table .table-striped}
 
-{{< button-group aria-label="Basic example" >}}
-  {{< button color="primary" href="/02-the-property/" outline="true" >}}The Property{{< /button >}}
-  {{< button color="primary" href="/03-the-home/" outline="true" >}}The Home{{< /button >}}
-  {{< button color="primary" href="/04-main-level/"outline="true" >}}Main Level{{< /button >}}
-  {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
-  {{< button color="primary" href="/06-garage/"outline="true" >}}Garage{{< /button >}}
-{{< /button-group >}}
+{{< button color="primary" href="/04-main-level/"outline="true" >}}Main Level{{< /button >}}

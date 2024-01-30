@@ -133,10 +133,4 @@ PVC conduit has been installed to make it easy to route network, audio, and TV c
 * Lower level main room TV area
 * Garage attic
 
-{{< button-group aria-label="Basic example" >}}
-  {{< button color="primary" href="/02-the-property/" outline="true" >}}The Property{{< /button >}}
-  {{< button color="primary" href="/03-the-home/" outline="true" >}}The Home{{< /button >}}
-  {{< button color="primary" href="/04-main-level/"outline="true" >}}Main Level{{< /button >}}
-  {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
-  {{< button color="primary" href="/06-garage/"outline="true" >}}Garage{{< /button >}}
-{{< /button-group >}}
+{{< button color="primary" href="/08-recreation/"outline="true" >}}Recreation{{< /button >}}

@@ -1,4 +1,9 @@
 main:
+  - identifier: overview
+    name: Overview
+    url: /01-overview/
+    weight: 10
+
   - identifier: the-property
     name: The Property
     url: /02-the-property/
