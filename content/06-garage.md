@@ -23,7 +23,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 |**Future car lift**|Largest stall has extra depth concrete floor to help support future car lift|
 {.table .table-striped}
 
-## Garage Doors
+## Garage doors
 
 | | |
 |-|-|
@@ -34,7 +34,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 |**Automation**|Meross Smart Garage Door Opener Remote. In addition to wall-mounted door controls, the garage door openers are smart home connected for remote control and monitoring via Apple Home, Siri, Alexa, etc|
 {.table .table-striped}
 
-## Storage and Shelving
+## Storage and shelving
 
 | | |
 |-|-|
@@ -47,7 +47,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 |**Long ladder hoist**|Ceiling mounted hoist to store 20' extension ladder out of the way|
 {.table .table-striped}
 
-## Air Compressor and Electric
+## Air compressor and electric
 
 Take advantage of the hidden large volume air compressor to easily and quickly inflate tires and other inflatables.
 
@@ -58,7 +58,7 @@ Take advantage of the hidden large volume air compressor to easily and quickly i
 |**Electric extension cord**|Wall mounted 12AWG 65 foot retractable electric extension cord|
 {.table .table-striped}
 
-## Water and Sink
+## Water and utility sink
 
 | | |
 |-|-|
@@ -68,7 +68,7 @@ Take advantage of the hidden large volume air compressor to easily and quickly i
 |**Water shutoff valves**|Water shutoff valves and drains located in main home lower unfinished area for winterizing|
 {.table .table-striped}
 
-## TV and Networking
+## TV and networking
 
 | | |
 |-|-|
