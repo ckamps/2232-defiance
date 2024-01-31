@@ -15,7 +15,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Flooring**|Tile| 
 |**Lighting**|Mix of LED pendant lights (5) and dedicated ceiling mounted art lights (6) on smart dimmers|
 |**Bookcases**|10' long x 33" tall x 14" deep Built-in bookcase lines the main hall along the living room|
-{.table .table-striped}
+{.table}
 
 ## Kitchen and pantry
 
@@ -43,7 +43,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 |**Speaker selector**|Speaker selector and volume control for independent volume adjustment of kitchen, dining room, and sun room ceiling speakers|
 |**Amplifier**|Speakers are powered by a dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via the speaker switch in the kitchen|
-{.table .table-striped}
+{.table}
 
 ## Dining room
 
@@ -53,7 +53,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Bay Windows and Seating**|Spacious bay window seat with hidden storage. 2 casement windows and one fixed window provide views of the deck and lower land. Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish.|
 |**Lighting**|Ceiling accent lighting for dining room table and window seat|
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
-{.table .table-striped}
+{.table}
 
 ## Sun room
 
@@ -65,7 +65,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Ceiling fan**|Casablanca Panama fan with lights and smart switch|
 |**Lighting**|Wall art lighting controlled by smart switch|
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
-{.table .table-striped}
+{.table}
 
 ## Deck
 
@@ -79,7 +79,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**LP gas**|LP gas pipe is roughed in under the deck for future dedicated pipe to gas grill and/or patio heater|
 |**Speakers**|Under eave mounted Polk Audio Atrium 5 outdoor speakers|
 |**Amplifier**|Speakers are powered by a dedicated Yamaha RX-V485 amplifier with Apple AirPlay 2 located in lower level systems rack|
-{.table .table-striped}
+{.table}
 
 {{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/deck/deck-winter-sunset.jpeg"caption="Winter sunsets" >}}
@@ -102,7 +102,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Washer / dryer**|Under counter clothes washer and dryer area with short direct dryer exhaust path to exterior|
 |**Storage cabinet**|4'+ wide enclosed cabinet houses the main level whole home vacuum hose and attachments|
 |**Whole home vacuum**|1 powered wall receptacle|
-{.table .table-striped}
+{.table}
 
 ## Mud room / Laundry room 1/2 bath
 
@@ -113,7 +113,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Window**|Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish with divided lites and privacy glass. |
 |**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
 |**Exhaust fan**|Panasonic WhisperCeiling fan|
-{.table .table-striped}
+{.table}
 
 ## Breezeway
 
@@ -125,7 +125,7 @@ Full enclosed breezeway access between the garage and the main home.
 |**Wainscotting**|Tile wainscotting on walls|
 |**Window**|Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish with divided lites and privacy glass. |
 |**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
-{.table .table-striped}
+{.table}
 
 ## Living room
 
@@ -142,7 +142,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Speakers**|5.1 surround configuration. Klipsch center channel speaker, front speakers, and powered subwoofer. Polk Audio RC60i ceiling speakers (2) act as rear channels|
 |**A/V receiver**|Dedicated [Yamaha RX-V4A](https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-v4a/index.html) 5.2 channel A/V receiver amplifier|
 |**Uninterruptable Power Supply (UPS)**|A ... provides back up power and helps protect the equipment in case of power outages and power spikes|
-{.table .table-striped}
+{.table}
 
 ## Living room dry bar
 
@@ -151,7 +151,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Refrigerator**|2-drawer beverage refrigerator|
 |**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Quiet close drawers with dovetail joints.|
 |**Under cabinet lighting**|Undercabinet LED lighting integrated with home automation|
-{.table .table-striped}
+{.table}
 
 ## Main hall 1/2 bath
 
@@ -161,7 +161,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Wainscotting**|Cherry wainscotting on walls|
 |**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
 |**Exhaust fan**|Panasonic WhisperCeiling fan|
-{.table .table-striped}
+{.table}
 
 ## Second bedroom
 
@@ -171,7 +171,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Closet**|Walk in closet|
 |**Desk**|Built in desk with shelving|
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
-{.table .table-striped}
+{.table}
 
 ## Third bedroom / Office
 
@@ -182,7 +182,7 @@ Choose whether you want to use this room as an office, bedroom, or both.
 |**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into dining room and kitchen|
 |**Doors**|Solid wood 10-light glass doors in cherry|
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
-{.table .table-striped}
+{.table}
 
 ## Jack-n-jill bath
 
@@ -198,7 +198,7 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 |**Speakers**|4 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
 |**Speaker selector**|Speaker selector and volume control for independent volume adjustment of 2 pairs of speakers in bedroom and 1 pair of speakers in primayr bath.|
 |**Amplifier**|Speakers are powered by a dedicated [VSSL A.1X](https://www.vssl.com/products/vssl-a-1x-home) AirPlay 2 amplifier|
-{.table .table-striped}
+{.table}
 
 ## Primary bedroom walk-in closet
 
@@ -206,7 +206,7 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 |-|-|
 |**Built-in ironing board**|Fold-down built-in ironing board|
 |**Shelving and drawers**|...|
-{.table .table-striped}
+{.table}
 
 ## Primary bath
 
@@ -219,6 +219,6 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 |**Water closet / toilet**|Dedicated room with solid wood Cherry door|
 |**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
 |**Speakers**|2 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
-{.table .table-striped}
+{.table}
 
 {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
