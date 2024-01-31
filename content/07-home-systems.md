@@ -16,7 +16,7 @@ A 12U size network rack in the lower unfinished area houses the following compon
 |**Network patch panel**|Simplifies connections between network cables and devices mounted in the network rack|
 |**Uninterruptable Power Supply (UPS)**|CyberPower BRG1500AVRLCD Intelligent LCD UPS System 1500VA provides back up power and helps protect the equipment in case of power outages and power spikes|
 |**Network Video Recorder (NVR)**|See [Outdoor Cameras]({{<ref "#outdoor-cameras" >}})|
-{.table .table-striped}
+{.table}
 
 A separate rack in the garage houses the internet fiber modem and other equipment. See [Garage TV and Networking]({{<ref "06-garage#tv-and-networking" >}}) for details.
 
@@ -33,7 +33,7 @@ All wireless access points were installed in 2022 at about the same time gigabit
 |**Deck facing lower land**|[UniFi U6-Mesh](https://store.ui.com/us/en/products/u6-mesh)|
 |**Lower land light pole near railroad bridge**|UniFi U6-Mesh|
 |**Lower land light pole near dock**|UniFi U6-Mesh|
-{.table .table-striped}
+{.table}
 
 ## TV and video streaming
 
@@ -43,7 +43,7 @@ All wireless access points were installed in 2022 at about the same time gigabit
 |**OTA antenna**|Attic mounted over the air (OTA) HD television antennae enables free access to local TV programming|
 |**OTA receiver**|SiliconDust HDHomeRun Flex 4K OTA receiver connects to the OTA antenna and the home network. Via the Channels app, you can view local HD broadcast stations through the Apple TVs and your phones.|
 |**Satellite ready**|If you prefer satellite TV, a dish pole mount exists hidden behind the garage. Conduit is already in place to easily run coax from a dish to the garage and main home's lower level.|
-{.table .table-striped}
+{.table}
 
 ## Security system
 
@@ -55,7 +55,7 @@ All wireless access points were installed in 2022 at about the same time gigabit
 |**Glass break sensors**|All rooms with windows that are accessible to ground level have glass break sensors|
 |**Smoke sensor**|A smoke sensor is integrated with the security system (apart from multiple battery powered smoke and CO2 sensors)|
 |**Home automation integration**|An [EyezOn EnvisaLink 4](https://www.eyezon.com/evl4.php) module connects to the security system as a third keypad. This networked module enables the security systems to be integrated with the home automation system. For example, you can control and monitor the system using your phone and automate actions based on events such as exterior doors opening and closing.|
-{.table .table-striped}
+{.table}
 
 ## Outdoor cameras
 
@@ -76,7 +76,7 @@ Cameras cover the following outside areas:
 |Dock and creek (with audio)|
 |Highway (winter only)|
 |Entry road fence (winter only)|
-{.table .table-striped}
+{.table}
 
 {{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/cameras/camera-driveway.png" >}}
@@ -101,7 +101,7 @@ The main entry has a Ring Video Doorbell Pro 2.
 |**Weather station**|Garage roof mounted [WeatherFlow Tempest](https://tempest.earth/tempest-home-weather-system/) wireless and solar powered weather system. Measures wind speed and direction, temperature, humidity, pressure, light level, and rainfall via a solid state rain gauge|
 |**Home automation integration**|Outdoor weather data can be used to help automate home functions. For example, outside light levels help influence lighting decisions.|
 |**Weather Underground integration**|Weather station publishes as site [KMODEFIA18](https://www.wunderground.com/dashboard/pws/KMODEFIA18?cm_ven=localwx_pwsdash) on the Weather underground|
-{.table .table-striped}
+{.table}
 
 ## Home automation
 
@@ -121,7 +121,7 @@ Examples of remote control and automation already in place include:
 |Automatic arming the home security system in the late evening|
 |Automatic turning on/off ceiling fans based on inside temperature|
 |Automated monitoring of indoor and outdoor humidity levels and control of the whole house humidifier to align with target humidity level|
-{.table .table-striped}
+{.table}
 
 ## Cable conduits
 

@@ -18,7 +18,7 @@ The 1,500+ sq ft of fully finished walkout lower level space is great for workin
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
 |**Speakers**|4 Polk Audio RC60i ceiling speakers|
 |**A/V receiver**|Dedicated Yamaha RX-V481 A/V receiver amplifier in lower level unfinished room|
-{.table .table-striped}
+{.table}
 
 ## Kitchenette and game bar
 
@@ -33,7 +33,7 @@ Part of the main room.
 |**Refrigerator**|...|
 |**Dishwasher**|Samsung - 24" Top Control Smart Built-In Stainless Steel Tub Dishwasher with Storm Wash|
 |**Flooring**|17 1/2" square tile floor (part of main room)|
-{.table .table-striped}
+{.table}
 
 ## Office
 
@@ -43,7 +43,7 @@ Part of the main room.
 |**Windows**|Large windows and view of Femme Osage Creek bridge, lower land, and beyond|
 |**Flooring**|Durable laminate plank flooring with foam backing. Columbia Flooring Traditional Clicette Maryland Cherry Burgundy.|
 |**Networking**|Multiple wall mount ethernet ports for access to home network and gigabit Internet|
-{.table .table-striped}
+{.table}
 
 ## Home theater
 
@@ -70,7 +70,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |**Step lighting**|Integrated LED step lighting|
 |**Doors**|Double solid wood Cherry doors|
 |**Ventilation**|Flow through ventilation to aid in air circulation|
-{.table .table-striped}
+{.table}
 
 ## Full bath
 
@@ -82,7 +82,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |**Water closet / toilet**|Dedicated room with solid wood Cherry pocket door|
 |**Closet**|Dedicated closet for towels and other items|
 |**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
-{.table .table-striped}
+{.table}
 
 ## Bedroom
 
@@ -97,7 +97,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |**Patio**|Exposed aggregate concrete patio|
 |**Speakers**|Bose Free Space 51 Outdoor In-Ground Speakers with downward firing 4 1/4 full range driver|
 |**Amplifier**|Dedicated Yamaha RX-V485 A/V receiver amplifier in lower level unifinished room. Supports Apple AirPlay 2 for whole home audio streaming.|
-{.table .table-striped}
+{.table}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/patio/patio-winter.jpeg" caption="View from patio" >}}

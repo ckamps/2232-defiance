@@ -23,7 +23,7 @@ Further back near the main portion of the property, the asphalt entry drive tran
 |-|-|
 |**Entry drive**|Private asphalt paved entry drive (compacted 3" depth) from the highway to the main home site. Two turnouts accommodate the rare event when you meet an oncoming vehicle.|
 |**Driveway**|Exposed aggregate concrete turnaround area, driveway, and auto court. Extra thick 6" pour.|
-{.table .table-striped}
+{.table}
 
 {{< image src="img/drone/entry-driveway.jpeg" wrapper="col mx-auto" caption="Entry driveway and turnaround area" class="rounded" >}}
 
@@ -40,7 +40,7 @@ A mix of evergreen, flowering, and deciduous specimen trees add year-round chara
 |**Stenacoma "Cedar of Lebanon"**|1 is located adjacent to the deck|
 |**Flowering Crabapple Prairifires**|2 are located along the entry driveway; 2 are located on the hill to the lower land; 2 are located on the east side of the home|
 |**Silver Maples**|2 are located on the east side of the main home|
-{.table .table-striped}
+{.table}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/exterior/spring-front.jpeg" caption="Flowering Crabapple Prairifires along entry driveway">}}
@@ -124,7 +124,7 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 |**Dock lights**|4 solar powered dock lights illuminate the corners of the dock|
 |**Canoe and paddle board storage rack**|A rack near the dock provides storage for 2 canoes and 4+ paddle boards. The rack is raised for easy mowing.|
 |**Electricity**|The shore mounted light pole contains an electrical outlet|
-{.table .table-striped}
+{.table}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/dock/dock-bridge-dusk.jpeg" >}}

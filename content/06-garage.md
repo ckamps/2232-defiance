@@ -21,7 +21,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 |**Ceiling lights**|LED flat panel ceiling lights, dimmable with selectable light temperature settings. Smart switch controlled to enable automation and voice control.|
 |**Floor**|Epoxy coated|
 |**Future car lift**|Largest stall has extra depth concrete floor to help support future car lift|
-{.table .table-striped}
+{.table}
 
 ## Garage doors
 
@@ -32,7 +32,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 |**Style**|Color coordinated, multi-panel [Clopay Coachman](https://www.clopaydoor.com/coachman) steel insulated doors with exterior wood grain texture and top windows| 
 |**Garage door openers**|Chamberlain LiftMaster 3/4 HP garage door openers|
 |**Automation**|Meross Smart Garage Door Opener Remote. In addition to wall-mounted door controls, the garage door openers are smart home connected for remote control and monitoring via Apple Home, Siri, Alexa, etc|
-{.table .table-striped}
+{.table}
 
 ## Storage and shelving
 
@@ -45,7 +45,7 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 |**Paddle board rack**|Accommodates up to 4 paddle boards|
 |**Garden tool mounts and hangers**|20+ feet of garden tool hanging mounts and hangers|
 |**Long ladder hoist**|Ceiling mounted hoist to store 20' extension ladder out of the way|
-{.table .table-striped}
+{.table}
 
 ## Air compressor and electric
 
@@ -56,7 +56,7 @@ Take advantage of the hidden large volume air compressor to easily and quickly i
 |**Air compressor**|Large volume electric air compressor mounted out of the way in the attic storage area|
 |**Air hose**|Ceiling mounted retractable air supply hose|
 |**Electric extension cord**|Wall mounted 12AWG 65 foot retractable electric extension cord|
-{.table .table-striped}
+{.table}
 
 ## Water and utility sink
 
@@ -66,7 +66,7 @@ Take advantage of the hidden large volume air compressor to easily and quickly i
 |**Hose bibs**|3 inside wall mounted hose bibs for: cold unsoftened, cold softened, and hot water|
 |**Hose reel**|Internal wall mounted metal hose reel|
 |**Water shutoff valves**|Water shutoff valves and drains located in main home lower unfinished area for winterizing|
-{.table .table-striped}
+{.table}
 
 ## TV and networking
 
@@ -78,6 +78,6 @@ Take advantage of the hidden large volume air compressor to easily and quickly i
 |**Speakers**|Wall mounted Klipsch AW-650 Indoor/Outdoor 8 inch speakers|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
 |**A/V receiver amplifier**|Yamaha RX-V481 A/V receiver powers speakers and connects to Apple TV and wall mounted TV|
-{.table .table-striped}
+{.table}
 
 {{< button color="primary" href="/07-home-systems/"outline="true" >}}Home Systems{{< /button >}}
