@@ -196,7 +196,7 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
 |**Speakers**|4 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
 |**Speaker selector**|Speaker selector and volume control for independent volume adjustment of 2 pairs of speakers in bedroom and 1 pair of speakers in primayr bath.|
-|**Amplifier**|Speakers are powered by a dedicated VSSL A.1X AirPlay 2 amplifier|
+|**Amplifier**|Speakers are powered by a dedicated [VSSL A.1X](https://www.vssl.com/products/vssl-a-1x-home) AirPlay 2 amplifier|
 {.table .table-striped}
 
 ## Primary bedroom walk-in closet
