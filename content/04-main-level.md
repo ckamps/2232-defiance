@@ -41,7 +41,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 |**Speaker selector**|Speaker selector and volume control for independent volume adjustment of kitchen, dining room, and sun room ceiling speakers|
-|**A/V receiver**|Speakers are powered by a dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via the speaker switch in the kitchen|
+|**Amplifier**|Speakers are powered by a dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via the speaker switch in the kitchen|
 {.table .table-striped}
 
 ## Dining room
@@ -183,16 +183,41 @@ Choose whether you want to use this room as an office, bedroom, or both.
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
 {.table .table-striped}
 
+## Jack-n-jill bath
+
+...
+
 ## Primary bedroom
 
 Spacious primary bedroom has an adjoining sitting area with expansive windows overlooking the lower land, iron bridge, and creek and river valleys.
 
 | | |
 |-|-|
-|**Bay Window Seat**|Spacious bay window seat with hidden storage|
-|**Closet**|Walk in closet|
-|**Desk**|Built in desk with shelving|
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
+|**Speakers**|4 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
+|**Speaker selector**|Speaker selector and volume control for independent volume adjustment of 2 pairs of speakers in bedroom and 1 pair of speakers in primayr bath.|
+|**Amplifier**|Speakers are powered by a dedicated VSSL A.1X AirPlay 2 amplifier|
+{.table .table-striped}
+
+## Primary bedroom walk-in closet
+
+| | |
+|-|-|
+|**Built-in ironing board**|Fold-down built-in ironing board|
+|**Shelving and drawers**|...|
+{.table .table-striped}
+
+## Primary bath
+
+| | |
+|-|-|
+|**Cabinets**|Medallion Gold Cherry cabinets. Quiet close drawers with dovetail joints.|
+|**Counter**|Granite|
+|**Spa**|...|
+|**Shower**|Extra large shower area without door|
+|**Water closet / toilet**|Dedicated room with solid wood Cherry door|
+|**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
+|**Speakers**|2 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
 {.table .table-striped}
 
 {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
