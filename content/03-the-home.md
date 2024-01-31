@@ -7,7 +7,6 @@ type: minimal
 
 ## Layout
 
-{{< table class="table-striped" >}}
 |                           |     |
 |:--------------------------|:----|
 |**Main level**|The majority of your day-to-day living space is on the main level. Spaces include the laundry/mud room, kitchen, dining room, deck, sun room, living room and three bedrooms including the primary bedroom. See [Main Level]({{<ref "04-main-level" >}}) for details.| 
