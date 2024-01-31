@@ -15,6 +15,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Flooring**|Tile| 
 |**Lighting**|Mix of LED pendant lights (5) and dedicated ceiling mounted art lights (6) on smart dimmers|
 |**Bookcases**|10' long x 33" tall x 14" deep Built-in bookcase lines the main hall along the living room|
+{.table .table-striped}
 
 ## Kitchen and pantry
 
