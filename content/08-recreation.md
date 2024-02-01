@@ -15,9 +15,10 @@ Use the Katy Trail as a means to bike to local points of interest including:
 
 |Distance|Point of Interest|
 |-|-|
+|1 mile|Defiance wineries, [Good News Brewery](https://www.goodnewsbrewing.com/), and taverns| 
 |5 miles|I-64/Highway 40 Boone Bridge and bike access to Chesterfield Valley including the Levee bike trail|
 |6 miles|Klondike Park|
-|10 miles|Augusta, MO|
+|10 miles|Augusta, MO wineries and restaurants|
 |18 miles|Washington, MO|
 |19 miles|Old town St Charles, MO|
 {.table}
