@@ -16,7 +16,11 @@ Custom built in 2006 with a classic craftsman style exterior and seven gables, t
 | Gigabit internet service | 2 office rooms| Ideal orientation for rooftop solar |
 {.table}
 
-## Photos
+## Aerial tour
+
+{{< youtube tyGL2hy4p7U >}}
+
+## Overview photos
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/drone/home-bridge.jpeg" >}}
