@@ -36,7 +36,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Warming drawer**|Built-in warming drawer|
 |**Microwave**|Built-in Sharp SMC1585BS 1.5 cu. ft. microwave oven with convection cooking in stainless steel. New in 2021.|
 |**Main sink**|Two-bowl stainless steel Kohler K-3356 undermount sink|
-|**Computer nook**|Large enough to support a 27" display|
+|**Computer station**|Supports a 27" display. For exampole, a 27" iMac or similar.|
 |**Uninterruptable Power Supply (UPS)**|A 750VA/450W CyberPower EC750G Ecologic Battery Backup & Surge Protector UPS System provides back up power and helps protect the equipment in case of power outages and power spikes|
 |**TV**|23" LED in dedicated TV cabinet|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
@@ -72,7 +72,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 | | |
 |-|-|
 |**Decking**|Durable Brazilian IPE hardwood decking with hidden fasteners|
-|**Posts**|IPE wrapped 5 1/4" x 5 1/4" deck posts with aluminum caps|
+|**Posts**|IPE wrapped 5 1/4" deck posts with aluminum caps|
 |**Lighting**|LED deck post lights integrated with home automation|
 |**Deck support columns**|Tapered columns under the deck align with the rest of the home's craftsmen style|
 |**Bird feeders**|3 post-mounted bird feeder extension poles help keep shells and debris away from the deck|
