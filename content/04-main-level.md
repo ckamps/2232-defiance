@@ -3,7 +3,7 @@ title: Main Level
 type: minimal
 ---
 
-Offering over 3,200 sq ft of living space, the majority of your day-to-day living will occur on the main level.
+Offering over 3,200 sq ft of living space, the majority of your day-to-day living will be on the main level.
 
 {{< image src="img/plans/plans-home-main-level.png" wrapper="col mx-auto" class="rounded" >}}
 
