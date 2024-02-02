@@ -41,7 +41,7 @@ The Katy Trail oiffers easy access to the following popular mountain biking trai
 
 ## Running
 
-The crushed rock surface and scenery of the Katy Trail offer a great running experience. If you're into single track trail running, you can use the Katy Trail to access the nearby Lost Valley (1 mile via the Katy) and Lewis and Clark (4 miles via the Katy) trail systems,
+The crushed rock surface and scenery of the Katy Trail offer a great running experience. If you're into single track trail running, you can use the Katy Trail to access the nearby Lost Valley (1 mile via the Katy) and Lewis and Clark (4 miles via the Katy) trail systems.
 
 ## Femme Osage Creek
 
