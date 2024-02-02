@@ -23,7 +23,7 @@ Use the Katy Trail as a means to bike to local points of interest including:
 |19 miles|Old town St Charles, MO|
 {.table}
 
-### Raod cycling 
+### Road cycling 
 
 If you like road cycling, use the Katy trail to connect to local roads behind and above Defiance. One route includes a 23-mile road loop to Schluersburg and back. You can get in 2,300 feet of climbing on 30 MPH lightly trafficed roads without getting on any 55 MPH highways.
 
