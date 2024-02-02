@@ -5,7 +5,9 @@ modules: ["leaflet"]
 ---
 
 ## Highlights
-Custom built in 2006 with a classic craftsman style exterior and seven gables, the home has been kept up-to-date with the latest technology. For example, gigabit fiber internet service was connected in 2022 along with the installation of new WiFi access points throughout the home, garage, and outdoor spaces. High-speed internet coupled with a dedicated home office space with a view and easy access to outdoor areas for breaks, makes the home ideal for remote working. 
+Custom built in 2006 with a classic craftsman style exterior and seven gables, the home has been kept up-to-date with the latest technology. 
+
+For example, gigabit fiber internet service was connected in 2022 along with the installation of new WiFi access points throughout the home, garage, and outdoor spaces. High-speed internet coupled with a dedicated home office space with a view and easy access to outdoor areas for breaks, makes the home ideal for remote working. 
 
 |     |       |     |
 | --------- | -------- | ------ |
@@ -35,8 +37,6 @@ Custom built in 2006 with a classic craftsman style exterior and seven gables, t
 {{< /carousel >}}
 
 ## Desirable Defiance area
-
-Don't miss this opportunity to own a unique 5.25-acre property and custom home in the desirable Defiance area of St Louis, Missouri. Whether you work from home or commute, the setting will make you feel like you're always at a weekend retreat.
 
 Situated well above the adjacent Femme Osage Creek and Missouri River bottoms on its own private parcel in the sparsely-developed southwest portion of St Charles County, this property sits at the gateway to Missouri's wine country.
 
