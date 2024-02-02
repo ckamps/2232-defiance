@@ -24,7 +24,7 @@ A separate rack in the garage houses the internet fiber modem and other equipmen
 
 All wireless access points were installed in 2022 at about the same time gigabit fiber internet service was established. Depending on your device, the WiFi 6 access points are capable of providing up to ~500Mbps speeds throughout the home and outside.
 
-| ||
+| | |
 |-|-|
 |**Dining room ceiling**|[UniFi U6-Pro](https://store.ui.com/us/en/products/u6-pro)|
 |**Master suite ceiling**|UniFi U6-Pro|
@@ -122,6 +122,11 @@ Examples of remote control and automation already in place include:
 |Automatic turning on/off ceiling fans based on inside temperature|
 |Automated monitoring of indoor and outdoor humidity levels and control of the whole house humidifier to align with target humidity level|
 {.table}
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/systems/apple-home-1.png" caption="Apple Home integration" >}}
+  {{< img src="img/systems/apple-home-2.png" caption="Apple Home integration" >}}
+{{< /carousel >}}
 
 ## Cable conduits
 
