@@ -153,7 +153,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Exhaust fan**|Panasonic WhisperCeiling fan|
 {.table}
 
-{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/laundry-room/IMG_4437.jpg" >}}
 {{< /carousel >}}
 
