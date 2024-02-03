@@ -21,11 +21,11 @@ The 1,500+ sq ft of fully finished walkout lower level space is great for workin
 {.table}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4511.jpeg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4513.jpeg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4514.jpeg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4515.jpeg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4516.jpeg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4511.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4513.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4514.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4515.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4516.jpg" >}}
 {{< /carousel >}}
 
 ## Kitchenette and side bar
@@ -44,10 +44,10 @@ Part of the main room. Partial kitchen and dedicated side bar area.
 {.table}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4517.jpeg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4518.jpeg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4519.jpeg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4520.jpeg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4517.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4518.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4519.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4520.jpg" >}}
 {{< /carousel >}}
 
 ## Office
@@ -61,9 +61,9 @@ Part of the main room. Partial kitchen and dedicated side bar area.
 {.table}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-office/IMG_4588.jpeg" >}}
-  {{< img src="img/interior/lower-office/IMG_4587.jpeg" >}}
-  {{< img src="img/interior/lower-office/IMG_4589.jpeg" >}}
+  {{< img src="img/interior/lower-office/IMG_4588.jpg" >}}
+  {{< img src="img/interior/lower-office/IMG_4587.jpg" >}}
+  {{< img src="img/interior/lower-office/IMG_4589.jpg" >}}
 {{< /carousel >}}
 
 ## Home theater
@@ -94,10 +94,10 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 {.table}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/home-theater/IMG_4521.jpeg" >}}
-  {{< img src="img/interior/home-theater/IMG_4524.jpeg" >}}
-  {{< img src="img/interior/home-theater/IMG_4522.jpeg" >}}
-  {{< img src="img/interior/home-theater/IMG_4523.jpeg" >}}
+  {{< img src="img/interior/home-theater/IMG_4521.jpg" >}}
+  {{< img src="img/interior/home-theater/IMG_4524.jpg" >}}
+  {{< img src="img/interior/home-theater/IMG_4522.jpg" >}}
+  {{< img src="img/interior/home-theater/IMG_4523.jpg" >}}
 {{< /carousel >}}
 
 ## Full bath
@@ -113,26 +113,26 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 {.table}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-bath/IMG_4528.jpeg" >}}
-  {{< img src="img/interior/lower-bath/IMG_4529.jpeg" >}}
+  {{< img src="img/interior/lower-bath/IMG_4528.jpg" >}}
+  {{< img src="img/interior/lower-bath/IMG_4529.jpg" >}}
 {{< /carousel >}}
 
 ## Bedroom
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-bedroom/IMG_4531.jpeg" >}}
-  {{< img src="img/interior/lower-bedroom/IMG_4533.jpeg" >}}
-  {{< img src="img/interior/lower-bedroom/IMG_4532.jpeg" >}}
-  {{< img src="img/interior/lower-bedroom/IMG_4534.jpeg" >}}
+  {{< img src="img/interior/lower-bedroom/IMG_4531.jpg" >}}
+  {{< img src="img/interior/lower-bedroom/IMG_4533.jpg" >}}
+  {{< img src="img/interior/lower-bedroom/IMG_4532.jpg" >}}
+  {{< img src="img/interior/lower-bedroom/IMG_4534.jpg" >}}
 {{< /carousel >}}
 
 ## Partially finished utility rooms
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-partially-finished/IMG_4504.jpeg" >}}
-  {{< img src="img/interior/lower-partially-finished/IMG_4505.jpeg" >}}
-  {{< img src="img/interior/lower-partially-finished/IMG_4506.jpeg" >}}
-  {{< img src="img/interior/lower-partially-finished/IMG_4507.jpeg" >}}
+  {{< img src="img/interior/lower-partially-finished/IMG_4504.jpg" >}}
+  {{< img src="img/interior/lower-partially-finished/IMG_4505.jpg" >}}
+  {{< img src="img/interior/lower-partially-finished/IMG_4506.jpg" >}}
+  {{< img src="img/interior/lower-partially-finished/IMG_4507.jpg" >}}
 {{< /carousel >}}
 
 ## Storage and mechanical rooms
