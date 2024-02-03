@@ -103,8 +103,8 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 ## Full bath
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-bath/IMG_4528.jpg" >}}
-  {{< img src="img/interior/lower-bath/IMG_4529.jpg" >}}
+  {{< img src="img/interior/lower-bathroom/IMG_4528.jpg" >}}
+  {{< img src="img/interior/lower-bathroom/IMG_4529.jpg" >}}
 {{< /carousel >}}
 
 | | |
