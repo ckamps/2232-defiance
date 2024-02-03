@@ -56,12 +56,12 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 {.table}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/dining-room/IMG_4440.jpg" >}}
-  {{< img src="img/interior/dining-room/IMG_4441.jpg" >}}
-  {{< img src="img/interior/dining-room/IMG_4442.jpg" >}}
-  {{< img src="img/interior/dining-room/IMG_4443jpg" >}}
-  {{< img src="img/interior/dining-room/IMG_4444.jpg" >}}
-  {{< img src="img/interior/dining-room/IMG_4447.jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4440.jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4441.jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4442.jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4443jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4444.jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4447.jpg" >}}
 {{< /carousel >}}
 
 ## Dining room
