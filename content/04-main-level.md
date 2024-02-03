@@ -9,14 +9,6 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Entry and main hall
 
-| | |
-|-|-|
-|**Front entry door**|Therma Tru Fiber-Classic Craft|
-|**Flooring**|Tile| 
-|**Lighting**|Mix of LED pendant lights (5) and dedicated ceiling mounted art lights (6) on smart dimmers|
-|**Bookcases**|10' long x 33" tall x 14" deep Built-in bookcase lines the main hall along the living room|
-{.table}
-
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/entry/IMG_4438.jpg" >}}
   {{< img src="img/interior/entry/IMG_4465.jpg" >}}
@@ -27,7 +19,24 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
   {{< img src="img/interior/entry/IMG_4464.jpg" >}}
 {{< /carousel >}}
 
+| | |
+|-|-|
+|**Front entry door**|Therma Tru Fiber-Classic Craft|
+|**Flooring**|Tile| 
+|**Lighting**|Mix of LED pendant lights (5) and dedicated ceiling mounted art lights (6) on smart dimmers|
+|**Bookcases**|10' long x 33" tall x 14" deep Built-in bookcase lines the main hall along the living room|
+{.table}
+
 ## Kitchen and pantry
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/kitchen/IMG_4440.jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4441.jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4442.jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4443.jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4444.jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4447.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -55,16 +64,13 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Amplifier**|Speakers are powered by a dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via the speaker switch in the kitchen|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/kitchen/IMG_4440.jpg" >}}
-  {{< img src="img/interior/kitchen/IMG_4441.jpg" >}}
-  {{< img src="img/interior/kitchen/IMG_4442.jpg" >}}
-  {{< img src="img/interior/kitchen/IMG_4443.jpg" >}}
-  {{< img src="img/interior/kitchen/IMG_4444.jpg" >}}
-  {{< img src="img/interior/kitchen/IMG_4447.jpg" >}}
-{{< /carousel >}}
-
 ## Dining room
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/dining-room/IMG_4454.jpg" >}}
+  {{< img src="img/interior/dining-room/IMG_4455.jpg" >}}
+  {{< img src="img/interior/dining-room/IMG_4456.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -74,13 +80,14 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/dining-room/IMG_4454.jpg" >}}
-  {{< img src="img/interior/dining-room/IMG_4455.jpg" >}}
-  {{< img src="img/interior/dining-room/IMG_4456.jpg" >}}
-{{< /carousel >}}
-
 ## Sun room
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/sun-room/IMG_4450.jpg" >}}
+  {{< img src="img/interior/sun-room/IMG_4451.jpg" >}}
+  {{< img src="img/interior/sun-room/IMG_4452.jpg" >}}
+  {{< img src="img/interior/sun-room/IMG_4453.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -92,14 +99,13 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/sun-room/IMG_4450.jpg" >}}
-  {{< img src="img/interior/sun-room/IMG_4451.jpg" >}}
-  {{< img src="img/interior/sun-room/IMG_4452.jpg" >}}
-  {{< img src="img/interior/sun-room/IMG_4453.jpg" >}}
-{{< /carousel >}}
-
 ## Deck
+
+{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/deck/deck-winter-sunset.jpeg"caption="Winter sunsets" >}}
+  {{< img src="img/deck/deck-winter-east.jpeg"  >}}
+  {{< img src="img/deck/under-deck.jpeg"  >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -113,13 +119,13 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Amplifier**|Speakers are powered by a dedicated Yamaha RX-V485 amplifier with Apple AirPlay 2 located in lower level systems rack|
 {.table}
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/deck/deck-winter-sunset.jpeg"caption="Winter sunsets" >}}
-  {{< img src="img/deck/deck-winter-east.jpeg"  >}}
-  {{< img src="img/deck/under-deck.jpeg"  >}}
-{{< /carousel >}}
-
 ## Mud room / Laundry room
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/laundry-room/IMG_4432.jpg" >}}
+  {{< img src="img/interior/laundry-room/IMG_4434.jpg" >}}
+  {{< img src="img/interior/laundry-room/IMG_4435.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -136,13 +142,11 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Whole home vacuum**|1 powered wall receptacle|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/laundry-room/IMG_4432.jpg" >}}
-  {{< img src="img/interior/laundry-room/IMG_4434.jpg" >}}
-  {{< img src="img/interior/laundry-room/IMG_4435.jpg" >}}
-{{< /carousel >}}
-
 ## Mud room / Laundry room 1/2 bath
+
+{{< carousel class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/laundry-room/IMG_4437.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -153,10 +157,6 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Exhaust fan**|Panasonic WhisperCeiling fan|
 {.table}
 
-{{< carousel class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/laundry-room/IMG_4437.jpg" >}}
-{{< /carousel >}}
-
 ## Breezeway
 
 Full enclosed breezeway access between the garage and the main home.
@@ -164,6 +164,15 @@ Full enclosed breezeway access between the garage and the main home.
 ## Living room
 
 Enjoy the expansive south-facing views of the Missouri River and Femme Osage Creek valleys through the wall of windows in your living room.
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/living-room/IMG_4458.jpg" >}}
+  {{< img src="img/interior/living-room/IMG_4459.jpg" >}}
+  {{< img src="img/interior/living-room/IMG_4461.jpg" >}}
+  {{< img src="img/interior/living-room/IMG_4462.jpg" >}}
+  {{< img src="img/interior/living-room/IMG_4463.jpg" >}}
+  {{< img src="img/interior/living-room/IMG_4466.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -178,16 +187,11 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Uninterruptable Power Supply (UPS)**|A ... provides back up power and helps protect the equipment in case of power outages and power spikes|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/living-room/IMG_4458.jpg" >}}
-  {{< img src="img/interior/living-room/IMG_4459.jpg" >}}
-  {{< img src="img/interior/living-room/IMG_4461.jpg" >}}
-  {{< img src="img/interior/living-room/IMG_4462.jpg" >}}
-  {{< img src="img/interior/living-room/IMG_4463.jpg" >}}
-  {{< img src="img/interior/living-room/IMG_4466.jpg" >}}
-{{< /carousel >}}
-
 ## Living room dry bar
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/living-room/IMG_4460.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -195,10 +199,6 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Quiet close drawers with dovetail joints.|
 |**Under cabinet lighting**|Undercabinet LED lighting integrated with home automation|
 {.table}
-
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/living-room/IMG_4460.jpg" >}}
-{{< /carousel >}}
 
 ## Main hall 1/2 bath
 
@@ -212,6 +212,13 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 ## Second bedroom
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/second-bedroom/IMG_4472.jpg" >}}
+  {{< img src="img/interior/second-bedroom/IMG_4473.jpg" >}}
+  {{< img src="img/interior/second-bedroom/IMG_4475.jpg" >}}
+  {{< img src="img/interior/second-bedroom/IMG_4476.jpg" >}}
+{{< /carousel >}}
+
 | | |
 |-|-|
 |**Bay Window Seat**|Spacious bay window seat with hidden storage|
@@ -220,16 +227,15 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/second-bedroom/IMG_4472.jpg" >}}
-  {{< img src="img/interior/second-bedroom/IMG_4473.jpg" >}}
-  {{< img src="img/interior/second-bedroom/IMG_4475.jpg" >}}
-  {{< img src="img/interior/second-bedroom/IMG_4476.jpg" >}}
-{{< /carousel >}}
-
 ## Third bedroom / Office
 
 Choose whether you want to use this room as an office, bedroom, or both.
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/office/IMG_4467.jpg" >}}
+  {{< img src="img/interior/office/IMG_4468.jpg" >}}
+  {{< img src="img/interior/office/IMG_4469.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -237,12 +243,6 @@ Choose whether you want to use this room as an office, bedroom, or both.
 |**Doors**|Solid wood 10-light glass doors in cherry|
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
 {.table}
-
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/office/IMG_4467.jpg" >}}
-  {{< img src="img/interior/office/IMG_4468.jpg" >}}
-  {{< img src="img/interior/office/IMG_4469.jpg" >}}
-{{< /carousel >}}
 
 ## Jack-n-jill bath
 
@@ -255,14 +255,6 @@ Choose whether you want to use this room as an office, bedroom, or both.
 
 Spacious primary bedroom has an adjoining sitting area with expansive windows overlooking the lower land, iron bridge, and creek and river valleys.
 
-| | |
-|-|-|
-|**Ceiling fan**|Casablanca Panama fan with smart switch|
-|**Speakers**|4 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
-|**Speaker selector**|Speaker selector and volume control for independent volume adjustment of 2 pairs of speakers in bedroom and 1 pair of speakers in primayr bath.|
-|**Amplifier**|Speakers are powered by a dedicated [VSSL A.1X](https://www.vssl.com/products/vssl-a-1x-home) AirPlay 2 amplifier|
-{.table}
-
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/primary-bedroom/IMG_4478.jpg" >}}
   {{< img src="img/interior/primary-bedroom/IMG_4479.jpg" >}}
@@ -271,13 +263,15 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
   {{< img src="img/interior/primary-bedroom/IMG_4482.jpg" >}}
 {{< /carousel >}}
 
-## Primary bedroom walk-in closet
-
 | | |
 |-|-|
-|**Built-in ironing board**|Fold-down built-in ironing board|
-|**Shelving and drawers**|...|
+|**Ceiling fan**|Casablanca Panama fan with smart switch|
+|**Speakers**|4 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
+|**Speaker selector**|Speaker selector and volume control for independent volume adjustment of 2 pairs of speakers in bedroom and 1 pair of speakers in primayr bath.|
+|**Amplifier**|Speakers are powered by a dedicated [VSSL A.1X](https://www.vssl.com/products/vssl-a-1x-home) AirPlay 2 amplifier|
 {.table}
+
+## Primary bedroom walk-in closet
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/primary-bedroom/IMG_4483.jpg" >}}
@@ -285,18 +279,13 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
   {{< img src="img/interior/primary-bedroom/IMG_4485.jpg" >}}
 {{< /carousel >}}
 
-## Primary bath
-
 | | |
 |-|-|
-|**Cabinets**|Medallion Gold Cherry cabinets. Quiet close drawers with dovetail joints.|
-|**Counter**|Granite|
-|**Spa**|...|
-|**Shower**|Extra large shower area without door|
-|**Water closet / toilet**|Dedicated room with solid wood Cherry door|
-|**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
-|**Speakers**|2 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
+|**Built-in ironing board**|Fold-down built-in ironing board|
+|**Shelving and drawers**|...|
 {.table}
+
+## Primary bath
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/primary-bath/IMG_4486.jpg" >}}
@@ -310,5 +299,16 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
   {{< img src="img/interior/primary-bath/IMG_4490.jpg" >}}
   {{< img src="img/interior/primary-bath/IMG_4492.jpg" >}}
 {{< /carousel >}}
+
+| | |
+|-|-|
+|**Cabinets**|Medallion Gold Cherry cabinets. Quiet close drawers with dovetail joints.|
+|**Counter**|Granite|
+|**Spa**|...|
+|**Shower**|Extra large shower area without door|
+|**Water closet / toilet**|Dedicated room with solid wood Cherry door|
+|**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
+|**Speakers**|2 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
+{.table}
 
 {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
