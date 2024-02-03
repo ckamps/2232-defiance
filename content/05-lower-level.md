@@ -9,6 +9,14 @@ The 1,500+ sq ft of fully finished walkout lower level space is great for workin
 
 ## Main room
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4511.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4513.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4514.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4515.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4516.jpg" >}}
+{{< /carousel >}}
+
 | | |
 |-|-|
 |**Walls and ceiling**|Fully finished walls and drywall ceiling|
@@ -20,17 +28,16 @@ The 1,500+ sq ft of fully finished walkout lower level space is great for workin
 |**A/V receiver**|Dedicated Yamaha RX-V481 A/V receiver amplifier in lower level unfinished room|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4511.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4513.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4514.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4515.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4516.jpg" >}}
-{{< /carousel >}}
-
 ## Kitchenette and side bar
 
 Part of the main room. Partial kitchen and dedicated side bar area.
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4517.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4518.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4519.jpg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4520.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -43,14 +50,13 @@ Part of the main room. Partial kitchen and dedicated side bar area.
 |**Flooring**|17 1/2" square tile floor (part of main room)|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4517.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4518.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4519.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4520.jpg" >}}
-{{< /carousel >}}
-
 ## Office
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/lower-office/IMG_4588.jpeg" >}}
+  {{< img src="img/interior/lower-office/IMG_4587.jpeg" >}}
+  {{< img src="img/interior/lower-office/IMG_4589.jpeg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -60,15 +66,16 @@ Part of the main room. Partial kitchen and dedicated side bar area.
 |**Networking**|Multiple wall mount ethernet ports for access to home network and gigabit Internet|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-office/IMG_4588.jpeg" >}}
-  {{< img src="img/interior/lower-office/IMG_4587.jpeg" >}}
-  {{< img src="img/interior/lower-office/IMG_4589.jpeg" >}}
-{{< /carousel >}}
-
 ## Home theater
 
 Enjoy the dedicated home theater room with stadium seating and a 7.1 surround sound speaker and subwoofer arrangement. The room is positioned in the rear of the lower level to minimize natural light intrusion.
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/home-theater/IMG_4521.jpg" >}}
+  {{< img src="img/interior/home-theater/IMG_4524.jpg" >}}
+  {{< img src="img/interior/home-theater/IMG_4522.jpg" >}}
+  {{< img src="img/interior/home-theater/IMG_4523.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -93,14 +100,12 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |**Ventilation**|Flow through ventilation to aid in air circulation|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/home-theater/IMG_4521.jpg" >}}
-  {{< img src="img/interior/home-theater/IMG_4524.jpg" >}}
-  {{< img src="img/interior/home-theater/IMG_4522.jpg" >}}
-  {{< img src="img/interior/home-theater/IMG_4523.jpg" >}}
-{{< /carousel >}}
-
 ## Full bath
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/lower-bath/IMG_4528.jpg" >}}
+  {{< img src="img/interior/lower-bath/IMG_4529.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -111,11 +116,6 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |**Closet**|Dedicated closet for towels and other items|
 |**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
 {.table}
-
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-bath/IMG_4528.jpg" >}}
-  {{< img src="img/interior/lower-bath/IMG_4529.jpg" >}}
-{{< /carousel >}}
 
 ## Bedroom
 
@@ -147,15 +147,15 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 
 ## Patio
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/patio/patio-winter.jpeg" caption="View from patio" >}}
+{{< /carousel >}}
+
 | | |
 |-|-|
 |**Patio**|Exposed aggregate concrete patio|
 |**Speakers**|Bose Free Space 51 Outdoor In-Ground Speakers with downward firing 4 1/4 full range driver|
 |**Amplifier**|Dedicated Yamaha RX-V485 A/V receiver amplifier in lower level unifinished room. Supports Apple AirPlay 2 for whole home audio streaming.|
 {.table}
-
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/patio/patio-winter.jpeg" caption="View from patio" >}}
-{{< /carousel >}}
 
 {{< button color="primary" href="/06-garage/"outline="true" >}}Garage{{< /button >}}
