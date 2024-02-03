@@ -17,6 +17,16 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Bookcases**|10' long x 33" tall x 14" deep Built-in bookcase lines the main hall along the living room|
 {.table}
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/entry/IMG_4438.jpg" >}}
+  {{< img src="img/interior/entry/IMG_4465.jpg" >}}
+{{< /carousel >}}
+
+{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/entry/IMG_4439.jpg" >}}
+  {{< img src="img/interior/entry/IMG_4464.jpg" >}}
+{{< /carousel >}}
+
 ## Kitchen and pantry
 
 | | |
@@ -45,6 +55,15 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Amplifier**|Speakers are powered by a dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via the speaker switch in the kitchen|
 {.table}
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/dining-room/IMG_4440.jpg" >}}
+  {{< img src="img/interior/dining-room/IMG_4441.jpg" >}}
+  {{< img src="img/interior/dining-room/IMG_4442.jpg" >}}
+  {{< img src="img/interior/dining-room/IMG_4443jpg" >}}
+  {{< img src="img/interior/dining-room/IMG_4444.jpg" >}}
+  {{< img src="img/interior/dining-room/IMG_4447.jpg" >}}
+{{< /carousel >}}
+
 ## Dining room
 
 | | |
@@ -54,6 +73,12 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Lighting**|Ceiling accent lighting for dining room table and window seat|
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 {.table}
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/dining-room/IMG_4454.jpg" >}}
+  {{< img src="img/interior/dining-room/IMG_4455.jpg" >}}
+  {{< img src="img/interior/dining-room/IMG_4456.jpg" >}}
+{{< /carousel >}}
 
 ## Sun room
 
@@ -66,6 +91,13 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Lighting**|Wall art lighting controlled by smart switch|
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 {.table}
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/sun-room/IMG_4450.jpg" >}}
+  {{< img src="img/interior/sun-room/IMG_4451.jpg" >}}
+  {{< img src="img/interior/sun-room/IMG_4452.jpg" >}}
+  {{< img src="img/interior/sun-room/IMG_4453.jpg" >}}
+{{< /carousel >}}
 
 ## Deck
 
@@ -104,6 +136,12 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Whole home vacuum**|1 powered wall receptacle|
 {.table}
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/laundry-room/IMG_4432.jpg" >}}
+  {{< img src="img/interior/laundry-room/IMG_4434.jpg" >}}
+  {{< img src="img/interior/laundry-room/IMG_4445.jpg" >}}
+{{< /carousel >}}
+
 ## Mud room / Laundry room 1/2 bath
 
 | | |
@@ -115,17 +153,13 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Exhaust fan**|Panasonic WhisperCeiling fan|
 {.table}
 
+{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/laundry-room/IMG_4437.jpg" >}}
+{{< /carousel >}}
+
 ## Breezeway
 
 Full enclosed breezeway access between the garage and the main home.
-
-| | |
-|-|-|
-|**Sink**|Kohler wall mount sink|
-|**Wainscotting**|Tile wainscotting on walls|
-|**Window**|Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish with divided lites and privacy glass. |
-|**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
-{.table}
 
 ## Living room
 
@@ -144,6 +178,15 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Uninterruptable Power Supply (UPS)**|A ... provides back up power and helps protect the equipment in case of power outages and power spikes|
 {.table}
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/living-room/IMG_4458.jpg" >}}
+  {{< img src="img/interior/living-room/IMG_4459.jpg" >}}
+  {{< img src="img/interior/living-room/IMG_4461.jpg" >}}
+  {{< img src="img/interior/living-room/IMG_4462.jpg" >}}
+  {{< img src="img/interior/living-room/IMG_4463.jpg" >}}
+  {{< img src="img/interior/living-room/IMG_4466.jpg" >}}
+{{< /carousel >}}
+
 ## Living room dry bar
 
 | | |
@@ -152,6 +195,10 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Cabinets**|Medallion Gold Valencia style Cherry in natural finish. Quiet close drawers with dovetail joints.|
 |**Under cabinet lighting**|Undercabinet LED lighting integrated with home automation|
 {.table}
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/living-room/IMG_4460.jpg" >}}
+{{< /carousel >}}
 
 ## Main hall 1/2 bath
 
@@ -173,6 +220,13 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
 {.table}
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/second-bedroom/IMG_4472.jpg" >}}
+  {{< img src="img/interior/second-bedroom/IMG_4473.jpg" >}}
+  {{< img src="img/interior/second-bedroom/IMG_4475.jpg" >}}
+  {{< img src="img/interior/second-bedroom/IMG_4476.jpg" >}}
+{{< /carousel >}}
+
 ## Third bedroom / Office
 
 Choose whether you want to use this room as an office, bedroom, or both.
@@ -184,9 +238,18 @@ Choose whether you want to use this room as an office, bedroom, or both.
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
 {.table}
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/office/IMG_4467.jpg" >}}
+  {{< img src="img/interior/office/IMG_4468.jpg" >}}
+  {{< img src="img/interior/office/IMG_4469.jpg" >}}
+{{< /carousel >}}
+
 ## Jack-n-jill bath
 
-...
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/jack-n-jill-bath/IMG_4470.jpg" >}}
+  {{< img src="img/interior/jack-n-jill-bath/IMG_4471.jpg" >}}
+{{< /carousel >}}
 
 ## Primary bedroom
 
@@ -200,6 +263,14 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 |**Amplifier**|Speakers are powered by a dedicated [VSSL A.1X](https://www.vssl.com/products/vssl-a-1x-home) AirPlay 2 amplifier|
 {.table}
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/primary-bedroom/IMG_4478.jpg" >}}
+  {{< img src="img/interior/primary-bedroom/IMG_4479.jpg" >}}
+  {{< img src="img/interior/primary-bedroom/IMG_4480.jpg" >}}
+  {{< img src="img/interior/primary-bedroom/IMG_4481.jpg" >}}
+  {{< img src="img/interior/primary-bedroom/IMG_4482.jpg" >}}
+{{< /carousel >}}
+
 ## Primary bedroom walk-in closet
 
 | | |
@@ -207,6 +278,12 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 |**Built-in ironing board**|Fold-down built-in ironing board|
 |**Shelving and drawers**|...|
 {.table}
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/primary-bedroom/IMG_4483.jpg" >}}
+  {{< img src="img/interior/primary-bedroom/IMG_4484.jpg" >}}
+  {{< img src="img/interior/primary-bedroom/IMG_4485.jpg" >}}
+{{< /carousel >}}
 
 ## Primary bath
 
@@ -220,5 +297,18 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 |**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
 |**Speakers**|2 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
 {.table}
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/primary-bath/IMG_4486.jpg" >}}
+  {{< img src="img/interior/primary-bath/IMG_4487.jpg" >}}
+  {{< img src="img/interior/primary-bath/IMG_4488.jpg" >}}
+  {{< img src="img/interior/primary-bath/IMG_4489.jpg" >}}
+  {{< img src="img/interior/primary-bath/IMG_4493.jpg" >}}
+{{< /carousel >}}
+
+{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/primary-bath/IMG_4490.jpg" >}}
+  {{< img src="img/interior/primary-bath/IMG_4492.jpg" >}}
+{{< /carousel >}}
 
 {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
