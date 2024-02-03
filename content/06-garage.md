@@ -3,7 +3,7 @@ title: Garage
 type: minimal
 ---
 
-At 46' wide x 28' deep, the fully finished garage provides space for at least three vehicles. Three separate garage doors help provide character. The garage is tucked into the bluff to minimize it's visual impact on the site. West- and south-facing shingle clad roof gables make the generously sized garage appear to be a natural extension of the main home. 
+A garge with a view! At 46' wide x 28' deep, the fully finished garage provides space for at least three vehicles. Three separate garage doors help provide character. The garage is tucked into the bluff to minimize it's visual impact on the site. West- and south-facing shingle clad roof gables make the generously sized garage appear to be a natural extension of the main home. 
 
 The fully enclosed breezeway provides sheltered access to the main level.
 
@@ -12,6 +12,14 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 {{< image src="img/plans/plans-garage.png" wrapper="col mx-auto" class="rounded" >}}
 
 ## Overview
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/garage/IMG_4593.jpeg" >}}
+  {{< img src="img/interior/garage/IMG_4594.jpeg" >}}
+  {{< img src="img/interior/garage/IMG_4595.jpeg" >}}
+  {{< img src="img/interior/garage/IMG_4596.jpeg" >}}
+  {{< img src="img/interior/garage/IMG_4602.jpeg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -79,5 +87,17 @@ Take advantage of the hidden large volume air compressor to easily and quickly i
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
 |**A/V receiver amplifier**|Yamaha RX-V481 A/V receiver powers speakers and connects to Apple TV and wall mounted TV|
 {.table}
+
+## Attic storage
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/garage/IMG_4598.jpeg" >}}
+  {{< img src="img/interior/garage/IMG_4599.jpeg" >}}
+  {{< img src="img/interior/garage/IMG_4601.jpeg" >}}
+{{< /carousel >}}
+
+{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/garage/IMG_4600.jpeg" >}}
+{{< /carousel >}}
 
 {{< button color="primary" href="/07-home-systems/"outline="true" >}}Home Systems{{< /button >}}
