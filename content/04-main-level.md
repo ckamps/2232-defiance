@@ -139,7 +139,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/laundry-room/IMG_4432.jpg" >}}
   {{< img src="img/interior/laundry-room/IMG_4434.jpg" >}}
-  {{< img src="img/interior/laundry-room/IMG_4445.jpg" >}}
+  {{< img src="img/interior/laundry-room/IMG_4435.jpg" >}}
 {{< /carousel >}}
 
 ## Mud room / Laundry room 1/2 bath
