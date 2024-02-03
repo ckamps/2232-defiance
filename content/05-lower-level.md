@@ -129,10 +129,10 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 ## Partially finished utility rooms
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-partially-finished/IMG_4504.jpg" >}}
-  {{< img src="img/interior/lower-partially-finished/IMG_4505.jpg" >}}
-  {{< img src="img/interior/lower-partially-finished/IMG_4506.jpg" >}}
-  {{< img src="img/interior/lower-partially-finished/IMG_4507.jpg" >}}
+  {{< img src="img/interior/lower-partially-unfinished/IMG_4504.jpg" >}}
+  {{< img src="img/interior/lower-partially-unfinished/IMG_4505.jpg" >}}
+  {{< img src="img/interior/lower-partially-unfinished/IMG_4506.jpg" >}}
+  {{< img src="img/interior/lower-partially-unfinished/IMG_4507.jpg" >}}
 {{< /carousel >}}
 
 ## Storage and mechanical rooms
