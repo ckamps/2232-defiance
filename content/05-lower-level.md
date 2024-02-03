@@ -137,6 +137,14 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 
 ## Storage and mechanical rooms
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/lower-unfinished/IMG_4508.jpg" >}}
+  {{< img src="img/interior/lower-unfinished/IMG_4510.jpg" >}}
+  {{< img src="img/interior/lower-unfinished/IMG_4525.jpg" >}}
+  {{< img src="img/interior/lower-unfinished/IMG_4526.jpg" >}}
+  {{< img src="img/interior/lower-unfinished/IMG_4527.jpg" >}}
+{{< /carousel >}}
+
 ## Patio
 
 | | |
