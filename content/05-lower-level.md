@@ -61,9 +61,9 @@ Part of the main room. Partial kitchen and dedicated side bar area.
 {.table}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-office/IMG_4588.jpg" >}}
-  {{< img src="img/interior/lower-office/IMG_4587.jpg" >}}
-  {{< img src="img/interior/lower-office/IMG_4589.jpg" >}}
+  {{< img src="img/interior/lower-office/IMG_4588.jpeg" >}}
+  {{< img src="img/interior/lower-office/IMG_4587.jpeg" >}}
+  {{< img src="img/interior/lower-office/IMG_4589.jpeg" >}}
 {{< /carousel >}}
 
 ## Home theater
