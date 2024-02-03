@@ -30,8 +30,8 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 ## Kitchen and pantry
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/kitchen/IMG_4440.jpg" >}}
   {{< img src="img/interior/kitchen/IMG_4441.jpg" >}}
+  {{< img src="img/interior/kitchen/IMG_4440.jpg" >}}
   {{< img src="img/interior/kitchen/IMG_4442.jpg" >}}
   {{< img src="img/interior/kitchen/IMG_4443.jpg" >}}
   {{< img src="img/interior/kitchen/IMG_4444.jpg" >}}
@@ -64,7 +64,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Amplifier**|Speakers are powered by a dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via the speaker switch in the kitchen|
 {.table}
 
-## Dining room
+## Dining area
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/dining-room/IMG_4454.jpg" >}}
@@ -102,8 +102,15 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 ## Deck
 
 {{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/deck/deck-winter-sunset.jpeg"caption="Winter sunsets" >}}
+  {{< img src="img/deck/deck-winter-sunset.jpeg" caption="Winter sunsets" >}}
   {{< img src="img/deck/deck-winter-east.jpeg"  >}}
+  {{< img src="img/deck/IMG_4496.jpeg" >}}
+  {{< img src="img/deck/IMG_4498.jpeg" >}}
+  {{< img src="img/deck/IMG_4499.jpeg" >}}
+  {{< img src="img/deck/IMG_4500.jpeg" caption="Looking south toward Missouri River bluffs and Franklin county" >}}
+  {{< img src="img/deck/IMG_4502.jpeg" caption="View from deck" >}}
+  {{< img src="img/deck/IMG_4503.jpeg" caption="View from deck looking southeast toward Katy Trail" >}}
+  {{< img src="img/deck/IMG_4497.jpeg" caption="View from deck to Katy Trail" >}}
   {{< img src="img/deck/under-deck.jpeg"  >}}
 {{< /carousel >}}
 
@@ -119,11 +126,11 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Amplifier**|Speakers are powered by a dedicated Yamaha RX-V485 amplifier with Apple AirPlay 2 located in lower level systems rack|
 {.table}
 
-## Mud room / Laundry room
+## Mud / Laundry room
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/laundry-room/IMG_4432.jpg" >}}
   {{< img src="img/interior/laundry-room/IMG_4434.jpg" >}}
+  {{< img src="img/interior/laundry-room/IMG_4432.jpg" >}}
   {{< img src="img/interior/laundry-room/IMG_4435.jpg" >}}
 {{< /carousel >}}
 
@@ -142,7 +149,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Whole home vacuum**|1 powered wall receptacle|
 {.table}
 
-## Mud room / Laundry room 1/2 bath
+## Mud / Laundry room 1/2 bath
 
 {{< carousel class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/laundry-room/IMG_4437.jpg" >}}
@@ -166,9 +173,9 @@ Full enclosed breezeway access between the garage and the main home.
 Enjoy the expansive south-facing views of the Missouri River and Femme Osage Creek valleys through the wall of windows in your living room.
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/living-room/IMG_4461.jpg" >}}
   {{< img src="img/interior/living-room/IMG_4458.jpg" >}}
   {{< img src="img/interior/living-room/IMG_4459.jpg" >}}
-  {{< img src="img/interior/living-room/IMG_4461.jpg" >}}
   {{< img src="img/interior/living-room/IMG_4462.jpg" >}}
   {{< img src="img/interior/living-room/IMG_4463.jpg" >}}
   {{< img src="img/interior/living-room/IMG_4466.jpg" >}}
@@ -201,6 +208,10 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 {.table}
 
 ## Main hall 1/2 bath
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/living-room/IMG_4494.jpg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -282,16 +293,14 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 | | |
 |-|-|
 |**Built-in ironing board**|Fold-down built-in ironing board|
-|**Shelving and drawers**|...|
 {.table}
 
 ## Primary bath
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/primary-bath/IMG_4486.jpg" >}}
   {{< img src="img/interior/primary-bath/IMG_4487.jpg" >}}
+  {{< img src="img/interior/primary-bath/IMG_4486.jpg" >}}
   {{< img src="img/interior/primary-bath/IMG_4488.jpg" >}}
-  {{< img src="img/interior/primary-bath/IMG_4489.jpg" >}}
   {{< img src="img/interior/primary-bath/IMG_4493.jpg" >}}
 {{< /carousel >}}
 
