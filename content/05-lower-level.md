@@ -20,9 +20,17 @@ The 1,500+ sq ft of fully finished walkout lower level space is great for workin
 |**A/V receiver**|Dedicated Yamaha RX-V481 A/V receiver amplifier in lower level unfinished room|
 {.table}
 
-## Kitchenette and game bar
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4511.jpeg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4513.jpeg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4514.jpeg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4515.jpeg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4516.jpeg" >}}
+{{< /carousel >}}
 
-Part of the main room.
+## Kitchenette and side bar
+
+Part of the main room. Partial kitchen and dedicated side bar area.
 
 | | |
 |-|-|
@@ -35,6 +43,13 @@ Part of the main room.
 |**Flooring**|17 1/2" square tile floor (part of main room)|
 {.table}
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4517.jpeg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4518.jpeg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4519.jpeg" >}}
+  {{< img src="img/interior/lower-main-room/IMG_4520.jpeg" >}}
+{{< /carousel >}}
+
 ## Office
 
 | | |
@@ -44,6 +59,12 @@ Part of the main room.
 |**Flooring**|Durable laminate plank flooring with foam backing. Columbia Flooring Traditional Clicette Maryland Cherry Burgundy.|
 |**Networking**|Multiple wall mount ethernet ports for access to home network and gigabit Internet|
 {.table}
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/lower-office/IMG_4588.jpeg" >}}
+  {{< img src="img/interior/lower-office/IMG_4587.jpeg" >}}
+  {{< img src="img/interior/lower-office/IMG_4589.jpeg" >}}
+{{< /carousel >}}
 
 ## Home theater
 
@@ -72,6 +93,13 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |**Ventilation**|Flow through ventilation to aid in air circulation|
 {.table}
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/home-theater/IMG_4521.jpeg" >}}
+  {{< img src="img/interior/home-theater/IMG_4524.jpeg" >}}
+  {{< img src="img/interior/home-theater/IMG_4522.jpeg" >}}
+  {{< img src="img/interior/home-theater/IMG_4523.jpeg" >}}
+{{< /carousel >}}
+
 ## Full bath
 
 | | |
@@ -84,9 +112,28 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
 {.table}
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/lower-bath/IMG_4528.jpeg" >}}
+  {{< img src="img/interior/lower-bath/IMG_4529.jpeg" >}}
+{{< /carousel >}}
+
 ## Bedroom
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/lower-bedroom/IMG_4531.jpeg" >}}
+  {{< img src="img/interior/lower-bedroom/IMG_4533.jpeg" >}}
+  {{< img src="img/interior/lower-bedroom/IMG_4532.jpeg" >}}
+  {{< img src="img/interior/lower-bedroom/IMG_4534.jpeg" >}}
+{{< /carousel >}}
+
 ## Partially finished utility rooms
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/lower-partially-finished/IMG_4504.jpeg" >}}
+  {{< img src="img/interior/lower-partially-finished/IMG_4505.jpeg" >}}
+  {{< img src="img/interior/lower-partially-finished/IMG_4506.jpeg" >}}
+  {{< img src="img/interior/lower-partially-finished/IMG_4507.jpeg" >}}
+{{< /carousel >}}
 
 ## Storage and mechanical rooms
 
