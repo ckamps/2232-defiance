@@ -18,14 +18,14 @@ actions:
         title: "Home"
         outline: true
         weight: 3
-    main-level:
+    interior:
         url: "/04-main-level"
-        title: "Main"
+        title: "Interior"
         outline: true
         weight: 4
-    lower-level:
-        url: "/05-lower-level"
-        title: "Lower"
+    garage:
+        url: "/06-garage"
+        title: "Garage"
         outline: true
         weight: 5
 ---
