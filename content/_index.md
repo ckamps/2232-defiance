@@ -28,14 +28,4 @@ actions:
         title: "Lower"
         outline: true
         weight: 5
-    garage:
-        url: "/06-garage"
-        title: "Garage"
-        outline: true
-        weight: 6
-    systems:
-        url: "/07-home-systems"
-        title: "Systems"
-        outline: true
-        weight: 7
 ---
