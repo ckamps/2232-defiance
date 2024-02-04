@@ -210,7 +210,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 ## Main hall 1/2 bath
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/living-room/IMG_4494.jpg" >}}
+  {{< img src="img/interior/entry/IMG_4494.jpg" >}}
 {{< /carousel >}}
 
 | | |
