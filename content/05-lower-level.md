@@ -53,8 +53,8 @@ Part of the main room. Partial kitchen and dedicated side bar area.
 ## Office
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-office/IMG_4588.jpeg" >}}
   {{< img src="img/interior/lower-office/IMG_4587.jpeg" >}}
+  {{< img src="img/interior/lower-office/IMG_4588.jpeg" >}}
   {{< img src="img/interior/lower-office/IMG_4589.jpeg" >}}
 {{< /carousel >}}
 
