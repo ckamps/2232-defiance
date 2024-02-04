@@ -10,12 +10,12 @@ actions:
         weight: 1
     the-property:
         url: "/02-the-property"
-        title: "Property"
+        title: "Lot"
         outline: true
         weight: 2
     the-home:
         url: "/03-the-home"
-        title: "Home"
+        title: "House"
         outline: true
         weight: 3
     interior:
