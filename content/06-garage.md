@@ -3,7 +3,7 @@ title: Garage
 type: minimal
 ---
 
-A garge with a view! At 46' wide x 28' deep, the fully finished garage provides space for at least three vehicles. Three separate garage doors help provide character. The garage is tucked into the bluff to minimize it's visual impact on the site. West- and south-facing shingle clad roof gables make the generously sized garage appear to be a natural extension of the main home. 
+A garage with a view! At 46' wide x 28' deep, the fully finished garage provides space for at least three vehicles. Three separate garage doors help provide character. The garage is tucked into the bluff to minimize it's visual impact on the site. West- and south-facing shingle clad roof gables make the generously sized garage appear to be a natural extension of the main home. 
 
 The fully enclosed breezeway provides sheltered access to the main level.
 
