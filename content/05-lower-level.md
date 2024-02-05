@@ -119,6 +119,8 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 
 ## Bedroom
 
+12' x 16' bedbroom with expansive windows to take in the view.
+
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/lower-bedroom/IMG_4531.jpg" >}}
   {{< img src="img/interior/lower-bedroom/IMG_4533.jpg" >}}
@@ -126,7 +128,15 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
   {{< img src="img/interior/lower-bedroom/IMG_4534.jpg" >}}
 {{< /carousel >}}
 
+| | |
+|-|-|
+|**Closet**|Walk in closet|
+|**Ceiling fan**|Casablanca Panama fan with smart switch|
+{.table}
+
 ## Partially finished utility rooms
+
+Make use of two partially finished utility rooms for hobbies and off season storage of outside furniture.
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/lower-partially-unfinished/IMG_4506.jpg" >}}
@@ -136,6 +146,8 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 {{< /carousel >}}
 
 ## Storage and mechanical rooms
+
+Take advantage of two separate storage and mechanical rooms to store seasonal and other items.
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/lower-unfinished/IMG_4508.jpg" caption="West HVAC and storage" >}}
