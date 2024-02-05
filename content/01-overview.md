@@ -69,6 +69,10 @@ From many areas of the yard and home, enjoy a commanding and intimate view of th
   {{< img src="img/bridge/bridge-night.jpeg" caption="Accent lighting of the bridge">}}
 {{< /carousel >}}
 
+{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-end//IMG_4569.jpg" >}}
+{{< /carousel >}}
+
 ## Femme Osage Creek and Missouri River
 
 Use your [private dock]({{<ref "02-the-property#private-dock" >}}) on over 260 feet of [Femme Osage Creek](https://www.anyplaceamerica.com/directory/mo/st-charles-county-29183/streams/femme-osage-creek-756042/) shoreline to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling from your home all the way to its confluence with the Missouri River.
