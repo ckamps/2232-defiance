@@ -60,14 +60,28 @@ A mix of evergreen, flowering, and deciduous specimen trees add year-round chara
   {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
 {{< /carousel >}}
 
-## Fire pit
+## East side of home
 
 On the east side of the home on the upper portion of the property is a pea gravel fire pit and horseshoe area.
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/east-side/IMG_4549.jpg" >}}  
+  {{< img src="img/east-side/IMG_4541.jpg" >}}
+  {{< img src="img/east-side/IMG_4536.jpg" >}}
+  {{< img src="img/east-side/IMG_4541.jpg" >}}
   {{< img src="img/east-side/fire-pit.jpeg" >}}
   {{< img src="img/east-side/fire-pit-view-bridge.jpeg" >}}
   {{< img src="img/east-side/fire-pit-view-of-home.jpeg" >}}
+{{< /carousel >}}
+
+## North side of home
+
+On the north side of the home is terraced landscaping with a screen of evergreens. All roof and exterior wall air vents are confined to the north side of the home.
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/north-side/IMG_4537.jpg" >}}  
+  {{< img src="img/north-side/IMG_4538.jpg" >}}  
+  {{< img src="img/north-side/IMG_4539.jpg" >}}  
 {{< /carousel >}}
 
 ## Bluffs
