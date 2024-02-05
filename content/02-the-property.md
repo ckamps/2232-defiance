@@ -79,9 +79,9 @@ On the east side of the home on the upper portion of the property is a pea grave
 On the north side of the home is terraced landscaping with a screen of evergreens. All roof and exterior wall air vents are confined to the north side of the home.
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/north-side/IMG_4537.jpg" >}}  
+  {{< img src="img/north-side/IMG_4539.jpg" >}} 
   {{< img src="img/north-side/IMG_4538.jpg" >}}  
-  {{< img src="img/north-side/IMG_4539.jpg" >}}  
+  {{< img src="img/north-side/IMG_4537.jpg" >}}  
 {{< /carousel >}}
 
 ## Bluffs
