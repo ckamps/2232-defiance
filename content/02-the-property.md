@@ -101,7 +101,14 @@ Two exposed limestone bluffs bracket the main home site. The bluffs are illumina
 
 {{< carousel ratio="16x9" portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/steps-bottom.jpeg" caption="Flagstone steps from lower land" >}}
+  {{< img src="img/lower-land/IMG_4558.jpg" >}}
   {{< img src="img/lower-land/steps-top.jpeg" >}}
+{{< /carousel >}}
+
+{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/IMG_4557.jpg" >}}
+  {{< img src="img/lower-land/IMG_4560.jpg" >}}
+  {{< img src="img/lower-land/IMG_4561.jpg" >}}
 {{< /carousel >}}
 
 ## Double track trail
@@ -110,6 +117,7 @@ In addition to the stone steps, a double track trail provides easy access from t
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/trail-to-lower-land.jpeg" caption="Trail from lower land to top of the property" >}}
+  {{< img src="img/lower-land/IMG_4567.jpg" >}}
   {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}
 {{< /carousel >}}
 
@@ -120,6 +128,7 @@ The multi-acre lower land portion of the property offers access to the Katy Trai
 {{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/lower-land-looking-east.jpeg" caption="Lower land looking east" >}}
   {{< img src="img/lower-land/lower-land-looking-west.jpeg" caption="Lower land looking west" >}}
+  {{< img src="img/lower-land/IMG_4566.jpg" >}}
   {{< img src="img/lower-land/lower-land-view-top-west-bluff.jpeg" caption="Lower land from top of west bluff" >}}
 {{< /carousel >}}
 
