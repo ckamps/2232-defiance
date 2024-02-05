@@ -36,6 +36,13 @@ For example, gigabit fiber internet service was connected in 2022 along with the
   {{< img src="img/creek/femme-osage-paddle-boarding-evening.jpeg" caption="Sunset paddles on the Femme Osage Creek from your private dock">}}
 {{< /carousel >}}
 
+{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/exterior/IMG_4429.jpg" >}}
+  {{< img src="img/exterior/IMG_4431.jpg" >}}
+  {{< img src="img/exterior/IMG_4555.jpg" >}}
+  {{< img src="img/exterior/IMG_4592.jpg" >}}
+{{< /carousel >}}
+
 ## Desirable Defiance area
 
 Situated well above the adjacent Femme Osage Creek and Missouri River bottoms on its own private parcel in the sparsely-developed southwest portion of St Charles County, this property sits at the gateway to Missouri's wine country.
