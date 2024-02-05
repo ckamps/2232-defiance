@@ -310,7 +310,7 @@ Spacious walk-in closet with Container Store shelving and drawers and a built-in
 |-|-|
 |**Cabinets**|Medallion Gold Cherry cabinets. Quiet close drawers with dovetail joints.|
 |**Counter**|Granite|
-|**Whirlpool tub**|Air jet powered, lighted tub|
+|**Whirlpool tub**|Air jet powered, LED lighted chroma therapy tub|
 |**Shower**|Extra large shower area without door|
 |**Water closet / toilet**|Dedicated room with solid wood Cherry door|
 |**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
