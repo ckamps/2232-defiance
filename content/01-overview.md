@@ -40,8 +40,11 @@ For example, gigabit fiber internet service was connected in 2022 along with the
 {{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/exterior/IMG_4429.jpg" >}}
   {{< img src="img/exterior/IMG_4431.jpg" >}}
-  {{< img src="img/exterior/IMG_4555.jpg" >}}
   {{< img src="img/exterior/IMG_4592.jpg" >}}
+{{< /carousel >}}
+
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/exterior/IMG_4555.jpg" >}}
 {{< /carousel >}}
 
 ## Desirable Defiance area
