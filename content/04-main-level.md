@@ -166,7 +166,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Breezeway
 
-Full enclosed breezeway access between the garage and the main home.
+Fully enclosed breezeway access between the garage and the main home.
 
 ## Living room
 
@@ -284,16 +284,13 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 
 ## Primary bedroom walk-in closet
 
+Spacious walk-in closet with Container Store shelving and drawers and a built-in fold-down ironing board.
+
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/primary-bedroom/IMG_4483.jpg" >}}
   {{< img src="img/interior/primary-bedroom/IMG_4484.jpg" >}}
   {{< img src="img/interior/primary-bedroom/IMG_4485.jpg" >}}
 {{< /carousel >}}
-
-| | |
-|-|-|
-|**Built-in ironing board**|Fold-down built-in ironing board|
-{.table}
 
 ## Primary bath
 
@@ -313,7 +310,7 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 |-|-|
 |**Cabinets**|Medallion Gold Cherry cabinets. Quiet close drawers with dovetail joints.|
 |**Counter**|Granite|
-|**Spa**|...|
+|**Whirlpool tub**|Air jet powered, lighted tub|
 |**Shower**|Extra large shower area without door|
 |**Water closet / toilet**|Dedicated room with solid wood Cherry door|
 |**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
