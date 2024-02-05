@@ -5,9 +5,7 @@ type: minimal
 
 A garage with a view! At 46' wide x 28' deep, the fully finished garage provides space for at least three vehicles. Three separate garage doors help provide character. The garage is tucked into the bluff to minimize it's visual impact on the site. West- and south-facing shingle clad roof gables make the generously sized garage appear to be a natural extension of the main home. 
 
-The fully enclosed breezeway provides sheltered access to the main level.
-
-A hide away retractable metal ladder provides easy access to the large upper level storage attic. A great place to store infrequently used items.
+The fully enclosed breezeway provides sheltered access to the main level of the home.
 
 {{< image src="img/plans/plans-garage.png" wrapper="col mx-auto" class="rounded" >}}
 
@@ -93,6 +91,8 @@ Take advantage of the large volume air compressor in the attic and a ceiling mou
 {.table}
 
 ## Attic storage
+
+A hide away retractable metal ladder provides easy access to the large upper level storage attic. A great place to store infrequently used items.
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/garage/IMG_4598.jpeg" >}}
