@@ -95,6 +95,10 @@ Two exposed limestone bluffs bracket the main home site. The bluffs are illumina
   {{< img src="img/lower-land/bluff-west-night.jpeg" caption="West bluffs at night" >}}
 {{< /carousel >}}
 
+{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/lower-land/IMG_4585.jpg" >}}
+{{< /carousel >}}
+
 ## Stone steps
 
 56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
