@@ -57,7 +57,11 @@ A hide away retractable metal ladder provides easy access to the large upper lev
 
 ## Air compressor and electric
 
-Take advantage of the hidden large volume air compressor to easily and quickly inflate tires and other inflatables.
+Take advantage of the large volume air compressor in the attic and a ceiling mounted retractable air supply hose to easily and quickly inflate automobile tires and other inflatables.
+
+{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/interior/garage/IMG_4600.jpeg" >}}
+{{< /carousel >}}
 
 | | |
 |-|-|
@@ -94,10 +98,6 @@ Take advantage of the hidden large volume air compressor to easily and quickly i
   {{< img src="img/interior/garage/IMG_4598.jpeg" >}}
   {{< img src="img/interior/garage/IMG_4599.jpeg" >}}
   {{< img src="img/interior/garage/IMG_4601.jpeg" >}}
-{{< /carousel >}}
-
-{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/garage/IMG_4600.jpeg" >}}
 {{< /carousel >}}
 
 {{< button color="primary" href="/07-home-systems/"outline="true" >}}Home Systems{{< /button >}}
