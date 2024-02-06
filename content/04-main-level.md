@@ -158,7 +158,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 | | |
 |-|-|
 |**Sink**|Kohler wall mount sink|
-|**Wainscotting**|Tile wainscotting on walls|
+|**Wainscotting**|Tile wainscotting|
 |**Window**|Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish with divided lites and privacy glass. |
 |**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
 |**Exhaust fan**|Panasonic WhisperCeiling fan|
@@ -216,7 +216,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 | | |
 |-|-|
 |**Sink**|Kohler pedastal sink|
-|**Wainscotting**|Cherry wainscotting on walls|
+|**Wainscotting**|Cherry wainscotting|
 |**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
 |**Exhaust fan**|Panasonic WhisperCeiling fan|
 {.table}
@@ -313,7 +313,7 @@ Spacious walk-in closet with Container Store shelving and drawers and a built-in
 |**Whirlpool tub**|Air jet powered, LED lighted chroma therapy tub|
 |**Shower**|Extra large shower area without door|
 |**Water closet / toilet**|Dedicated room with solid wood Cherry door|
-|**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
+|**Exhaust fans**|Panasonic WhisperCeiling exhaust fans: 1 for shower area and 1 for water closet/toilet room|
 |**Speakers**|2 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
 {.table}
 
