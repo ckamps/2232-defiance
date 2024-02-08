@@ -14,6 +14,10 @@ type: minimal
 |**Garage**|The fully finished, over sized three-car+ garage has a fully enclosed breezeway that provides easy access to the home. A large storage attic with folding access stairs enables you to store infrequently used items out of the way. See [Garage]({{<ref "06-garage" >}}) for details.|
 {.table}
 
+{{< image src="img/plans/main-level-simple.png" wrapper="col mx-auto" class="rounded" >}}
+
+{{< image src="img/plans/lower-level-simple.png" wrapper="col mx-auto" class="rounded" >}}
+
 ## Optional accessory structure
 
 Take advantage of an already approved county variance to build your own detached accessory structure on the property. For example, you could build a detached garage or pole barn to augment the existing garage.
