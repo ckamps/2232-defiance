@@ -11,7 +11,6 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 {{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/entry/IMG_4439.jpg" >}}
-  {{< img src="img/interior/entry/IMG_4464.jpg" >}}
 {{< /carousel >}}
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
