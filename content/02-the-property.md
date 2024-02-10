@@ -142,6 +142,14 @@ The multi-acre lower land portion of the property offers access to the Katy Trai
 
 Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 miles from the Missouri River, you'll have plenty of areas to explore while paddling and fishing.
 
+{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/dock/dock-bridge-dusk.jpeg" >}}
+  {{< img src="img/dock/dock-straight-on-sunset.jpeg" >}}
+  {{< img src="img/dock/dock-pier-winter.jpeg" >}}
+  {{< img src="img/dock/paddle-rack-bridge.jpeg" >}}
+  {{< img src="img/dock/paddle-rack.jpeg" >}}
+{{< /carousel >}}
+
 | | |
 |-|-|
 |**Floating dock design**|A floating dock with a hinged gangway is anchored to the shore via two 2" x 20' galvanized steel schedule 40 stabilizer pipes. At low water, the dock rest on the creek bank. When the water rises, the floating dock and gangway rise with the water.|
@@ -152,14 +160,6 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 |**Canoe and paddle board storage rack**|A rack near the dock provides storage for 2 canoes and 4+ paddle boards. The rack is raised for easy mowing.|
 |**Electricity**|The shore mounted light pole contains an electrical outlet|
 {.table}
-
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/dock/dock-bridge-dusk.jpeg" >}}
-  {{< img src="img/dock/dock-straight-on-sunset.jpeg" >}}
-  {{< img src="img/dock/dock-pier-winter.jpeg" >}}
-  {{< img src="img/dock/paddle-rack-bridge.jpeg" >}}
-  {{< img src="img/dock/paddle-rack.jpeg" >}}
-{{< /carousel >}}
 
 ## Wildlife
 
