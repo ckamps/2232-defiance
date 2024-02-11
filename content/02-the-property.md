@@ -132,7 +132,6 @@ The multi-acre lower land portion of the property offers access to the Katy Trai
 {{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/lower-land/lower-land-looking-east.jpeg" caption="Lower land looking east" >}}
   {{< img src="img/lower-land/lower-land-looking-west.jpeg" caption="Lower land looking west" >}}
-  {{< img src="img/lower-land/IMG_4566.jpg" >}}
   {{< img src="img/lower-land/lower-land-view-top-west-bluff.jpeg" caption="Lower land from top of west bluff" >}}
 {{< /carousel >}}
 
