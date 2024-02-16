@@ -5,9 +5,7 @@ type: minimal
 
 Offering over 3,200 sq ft of living space, the majority of your day-to-day living will be on the main level.
 
-{{< image src="img/plans/main-level-simple.png" wrapper="col mx-auto" class="rounded" >}}
-
-{{< image src="img/plans/plans-home-main-level.png" wrapper="col mx-auto" class="rounded" >}}
+{{< image src="img/plans/plans-main-landscape.jpeg" wrapper="col mx-auto" class="rounded" >}}
 
 ## Entry and main hall
 
@@ -18,7 +16,6 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/interior/entry/IMG_4465.jpg" >}}
 {{< /carousel >}}
-
 
 | | |
 |-|-|
