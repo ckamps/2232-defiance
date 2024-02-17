@@ -5,7 +5,7 @@ type: minimal
 
 The 5.25-acre property is nestled between the Ridge Creek and Markham Hills developments with minimum lots sizes of 3 and 5 acres respectively. This location provides you with a front row seat to the Katy Trail State Park and the Femme Osage Creek and Missouri River valleys. With this standalone parcel, no Home Owners Association (HOA) applies.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
+{{< carousel >}}
   {{< img src="img/parcel/parcel-in-context.png" >}}
   {{< img src="img/drone/home-bridge.jpeg" >}}
   {{< img src="img/parcel/google-maps-screenshot.png" >}}
