@@ -76,6 +76,8 @@ The National Weather Service (NWS) has a river water level and flow [monitoring 
 
 To give you an idea of how the creek water levels change over a typical year and across years, the following graph shows river water levels at Washington for the past 13 years along with key river water levels that enable certain activies and distances along the creek.
 
+{{< image src="img/creek/river-levels.png" wrapper="col mx-auto" caption="Missouri River levels and creek paddling" class="rounded" >}}
+
 ## Hiking
 
 Offering 5- and 8-mile options, the [Lewis and Clark hiking trail](https://www.alltrails.com/trail/us/missouri/lewis-and-clark-trail-and-lewis-trail-loop) with is just an 5-minute drive or 20-minute bike ride on the Katy Trail.
