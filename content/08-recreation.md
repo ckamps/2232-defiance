@@ -61,7 +61,7 @@ During spring, summer, and early fall, you can typically paddle board for more t
 {{< carousel >}}
   {{< img src="img/creek/paddling.jpeg" caption="Paddleboarding on Femme Osage Creek">}}
   {{< img src="img/creek/femme-osage-paddle-boarding-evening.jpeg" caption="Dusk paddle">}}
-  {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek bridge">}}
+  {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek bridge with private dock on the right">}}
   {{< img src="img/creek/confluence-femme-osage-mo-river.jpeg" caption="Confluence of Femme Osage Creek and the Missouri River">}}
 {{< /carousel >}}
 
