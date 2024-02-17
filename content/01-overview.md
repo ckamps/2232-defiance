@@ -90,7 +90,7 @@ Use your [private dock]({{<ref "02-the-property#private-dock" >}}) on over 260 f
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/creek/paddling.jpeg" caption="Paddleboarding on Femme Osage Creek">}}
-  {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek">}}
+  {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek bridge with private dock on the right">}}
   {{< img src="img/creek/creek-view-from-top-west-bluff.jpeg" caption="Looking west upstream from top of west bluff">}}
   {{< img src="img/creek/confluence-femme-osage-mo-river.jpeg" caption="Confluence of Femme Osage Creek and the Missouri River">}}
 {{< /carousel >}}
