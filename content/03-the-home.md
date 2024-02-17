@@ -15,8 +15,8 @@ type: minimal
 {.table}
 
 {{< carousel class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/images/plans/floor-plan-main-garage.jpg" >}}
-  {{< img src="img/images/plans/floor-plan-lower.jpg" >}}
+  {{< img src="img/plans/floor-plan-main-garage.jpg" >}}
+  {{< img src="img/plans/floor-plan-lower.jpg" >}}
 {{< /carousel >}}
 
 ## Optional accessory structure
