@@ -7,14 +7,18 @@ type: minimal
 
 ## Layout
 
-|                           |     |
-|:--------------------------|:----|
-|**Main level**|The majority of your day-to-day living space is on the main level. Spaces include the laundry/mud room, kitchen, dining room, deck, sun room, living room and three bedrooms including the primary bedroom. See [Main Level]({{<ref "04-main-level" >}}) for details.| 
-|**Walkout lower level**|The walkout finished lower level is great for working from home, guests, movies, and games. Spaces include an office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Additionally, there's an abundance of partially finished, storage, and mechanical space. See [Lower Level]({{<ref "05-lower-level" >}}) for details.|
-|**Garage**|The fully finished, over sized three-car+ garage has a fully enclosed breezeway that provides easy access to the home. A large storage attic with folding access stairs enables you to store infrequently used items out of the way. See [Garage]({{<ref "06-garage" >}}) for details.|
-{.table}
+### Main level and garage
+
+The majority of your day-to-day living space is on the main level. Spaces include the laundry/mud room, kitchen, dining room, deck, sun room, living room and three bedrooms including the primary bedroom. See [Main Level]({{<ref "04-main-level" >}}) for details.
+
+The fully finished, over sized three-car+ garage has a fully enclosed breezeway that provides easy access to the home. A large storage attic with folding access stairs enables you to store infrequently used items out of the way. See [Garage]({{<ref "06-garage" >}}) for details.
 
 {{< image src="img/plans/floor-plan-main-garage.jpg" >}}
+
+### Lower level
+
+The walkout finished lower level is great for working from home, guests, movies, and games. Spaces include an office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Additionally, there's an abundance of partially finished, storage, and mechanical space. See [Lower Level]({{<ref "05-lower-level" >}}) for details.
+
 {{< image src="img/plans/floor-plan-lower.jpg" >}}
 
 ## Optional accessory structure
