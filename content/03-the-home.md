@@ -14,9 +14,10 @@ type: minimal
 |**Garage**|The fully finished, over sized three-car+ garage has a fully enclosed breezeway that provides easy access to the home. A large storage attic with folding access stairs enables you to store infrequently used items out of the way. See [Garage]({{<ref "06-garage" >}}) for details.|
 {.table}
 
-{{< image src="img/plans/plans-main-and-garage-landscape.jpeg" wrapper="col mx-auto" class="rounded" >}}
-
-{{< image src="img/plans/plans-lower-landscape.png" wrapper="col mx-auto" class="rounded" >}}
+{{< carousel class="col-sm-20 col-lg-20 mx-auto" >}}
+  {{< img src="img/images/plans/floor-plan-main-garage.jpg" >}}
+  {{< img src="img/images/plans/floor-plan-lower.jpg" >}}
+{{< /carousel >}}
 
 ## Optional accessory structure
 
