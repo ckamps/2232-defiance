@@ -50,21 +50,11 @@ The crushed rock surface and scenery of the Katy Trail offer a great running exp
 
 ## Femme Osage Creek and Missouri River Access
 
-### Canoeing and paddle boarding
+Use your [private dock]({{<ref "02-the-property#private-dock" >}}) on over 260 feet of the Femme Osage Creek to set off on paddle boarding, kayaking, canoeing, and fishing adventures. You'll have 1.75 miles of secluded floating down the Femme Osage prior to the confluence with the Missouri River. There are no other homes and structures in use on the creek between this home and the Missouri River.
 
-Use your private dock on over 260 feet of the Femme Osage Creek to set off on paddle boarding, kayaking, canoeing, and fishing adventures. You'll have 1.75 miles of secluded floating down the Femme Osage prior to the confluence with the Missouri River.
+### Fishing and boating
 
-* Floating all weather 12’ x 12’ dock with a hinged aluminum gangway
-* 1.75 miles of open paddling and boating on the Femme Osage Creek between home and the Missouri River
-* No other structures in use on the creek between the home and the Missouri River
-
-### Fishing
-
-The home's Femme Osage Creek shoreline and private dock offers access to a wide variety of fish species and at least ~2 miles of length for fishing. Via the creek, you also have access to the Missouri River.
-
-### Boating
-
-If you're into boating on the river, you could conceivably establish a basic boat ramp on the property to enable access to the creek and the river.
+The home's Femme Osage Creek shoreline and private dock offer access to a wide variety of fish species and at least ~2 miles of length for fishing. Via the creek, you also have access to the Missouri River. If you're into boating on the river, you could conceivably establish a basic boat ramp on the property to enable access to the creek and the river.
 
 ### River and creek water levels
 
