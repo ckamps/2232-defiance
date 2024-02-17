@@ -7,7 +7,7 @@ A garage with a view! At 46' wide x 28' deep, the fully finished garage provides
 
 The fully enclosed breezeway provides sheltered access to the main level of the home.
 
-{{< image src="img/plans/loor-plan-garage.jpg" wrapper="col mx-auto" class="rounded" >}}
+{{< image src="img/plans/floor-plan-garage.jpg" wrapper="col mx-auto" class="rounded" >}}
 
 ## Overview
 
