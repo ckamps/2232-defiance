@@ -48,9 +48,9 @@ The Katy Trail oiffers easy access to the following popular mountain biking trai
 
 The crushed rock surface and scenery of the Katy Trail offer a great running experience. If you're into single track trail running, you can use the Katy Trail to access the nearby Lost Valley (1 mile via the Katy) and Lewis and Clark (4 miles via the Katy) trail systems.
 
-## Femme Osage Creek
+## Femme Osage Creek and Missouri River
 
-### Paddling
+### Canoeing and paddle boarding
 
 Use your private dock on over 260 feet of the Femme Osage Creek to set off on paddle boarding, kayaking, canoeing, and fishing adventures. You'll have 1.75 miles of secluded floating down the Femme Osage prior to the confluence with the Missouri River.
 
@@ -61,6 +61,20 @@ Use your private dock on over 260 feet of the Femme Osage Creek to set off on pa
 ### Fishing
 
 The home's Femme Osage Creek shoreline and private dock offers access to a wide variety of fish species and at least ~2 miles of length for fishing. Via the creek, you also have access to the Missouri River.
+
+### Boating
+
+If you're into boating on the river, you could conceivably establish a basic boat ramp on the property to enable access to the creek and the river.
+
+### River and creek water levels
+
+Winter is typically the low water season for the Femme Osage Creek. During winter, springs feed the creek and ensure that there's a minimum water level. At a minimum water level, the creek is usable for fishing and canoeing downstream toward the Missouri River.
+
+As spring arrives and snowmelt and rain occur in the upper Missouri River basin, the river level rises and typically begins to back up in the creek. We call the resulting rise of the creek the backwater state of the creek. A certain levels of backwater, you can paddle a canoe or paddleboard all the way from the home to the river 1.75 miles away. At higher backwater levels, fishing boats are able to navigate from the river all the way up and past the home.
+
+The National Weather Service (NWS) has a river water level and flow [monitoring station at Washington MO](https://water.weather.gov/ahps2/hydrograph.php?gage=whgm7&wfo=lsx). By monitoring the Washington gauge, you can get a good idea of the impact to the water level of the Femme Osage Creek.
+
+To give you an idea of how the creek water levels change over a typical year and across years, the following graph shows river water levels at Washington for the past 13 years along with key river water levels that enable certain activies and distances along the creek.
 
 ## Hiking
 
