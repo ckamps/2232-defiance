@@ -70,7 +70,7 @@ If you're into boating on the river, you could conceivably establish a basic boa
 
 Winter is typically the low water season for the Femme Osage Creek. During winter, springs feed the creek and ensure that there's a minimum water level. At a minimum water level, the creek is usable for fishing and canoeing downstream toward the Missouri River.
 
-As spring arrives and snowmelt and rain occur in the upper Missouri River basin, the river level rises and typically begins to back up in the creek. We call the resulting rise of the creek the backwater state of the creek. A certain levels of backwater, you can paddle a canoe or paddleboard all the way from the home to the river 1.75 miles away. At higher backwater levels, fishing boats are able to navigate from the river all the way up and past the home.
+As spring arrives and snowmelt and rain occur in the upper Missouri River basin, the river level rises and typically begins to back up into the creek. We call the resulting rise of the creek the backwater state of the creek. A certain levels of backwater, you can paddle a canoe or paddleboard all the way from the home to the river 1.75 miles away. At higher backwater levels, fishing boats are able to navigate from the river all the way up and past the home.
 
 The National Weather Service (NWS) has a river water level and flow [monitoring station at Washington MO](https://water.weather.gov/ahps2/hydrograph.php?gage=whgm7&wfo=lsx). By monitoring the Washington gauge, you can get a good idea of the impact to the water level of the Femme Osage Creek.
 
