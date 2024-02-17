@@ -86,7 +86,7 @@ From many areas of the yard and home, enjoy a commanding and intimate view of th
 
 ## Femme Osage Creek and Missouri River
 
-Use your [private dock]({{<ref "02-the-property#private-dock" >}}) on over 260 feet of [Femme Osage Creek](https://www.anyplaceamerica.com/directory/mo/st-charles-county-29183/streams/femme-osage-creek-756042/) shoreline to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling from your home all the way to its confluence with the Missouri River.
+Use your [private dock]({{<ref "02-the-property#private-dock" >}}) on over 260 feet of Femme Osage Creek shoreline to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling from your home all the way to its confluence with the Missouri River.
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/creek/paddling.jpeg" caption="Paddleboarding on Femme Osage Creek">}}
@@ -94,6 +94,8 @@ Use your [private dock]({{<ref "02-the-property#private-dock" >}}) on over 260 f
   {{< img src="img/creek/creek-view-from-top-west-bluff.jpeg" caption="Looking west upstream from top of west bluff">}}
   {{< img src="img/creek/confluence-femme-osage-mo-river.jpeg" caption="Confluence of Femme Osage Creek and the Missouri River">}}
 {{< /carousel >}}
+
+See [Femme Osage Creek and Missouri River Access]({{<ref "08-recreation#femme-osage-creek-and-missouri-river-access" >}}) for details.
 
 ## Katy Trail State Park
 
