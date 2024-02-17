@@ -139,7 +139,7 @@ The multi-acre lower land portion of the property offers access to the Katy Trai
 
 ## Private dock
 
-Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 miles from the Missouri River, you'll have plenty of areas to explore while paddling and fishing.
+Enjoy the convenience of your private dock on the Femme Osage Creek. Army Corps of Engineers approved and just 1 3/4 miles from the Missouri River, you'll have plenty of areas to explore while paddling and fishing.
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/dock/dock-bridge-dusk.jpeg" >}}
@@ -159,6 +159,8 @@ Enjoy the convenience of your private dock on the Femme Osage Creek. Just 1 3/4 
 |**Canoe and paddle board storage rack**|A rack near the dock provides storage for 2 canoes and 4+ paddle boards. The rack is raised for easy mowing.|
 |**Electricity**|The shore mounted light pole contains an electrical outlet|
 {.table}
+
+See [Femme Osage Creek and Missouri River Access]({{<ref "08-recreation#femme-osage-creek-and-missouri-river-access" >}}) for details.
 
 ## Wildlife
 
