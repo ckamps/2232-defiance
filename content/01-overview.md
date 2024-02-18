@@ -17,7 +17,7 @@ For example, gigabit fiber internet service was connected in 2022 along with the
 | Geothermal HVAC | Municipal water | Underground electric service|
 | Gigabit internet service | 2 office rooms| Ideal orientation for rooftop solar |
 {.table}
-
+  
 ## Aerial tour
 
 {{< youtube tyGL2hy4p7U >}}
