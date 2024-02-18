@@ -13,7 +13,7 @@ main:
     cue: true
     tab: true
   build:
- #   transpiler: dartsass
+    transpiler: dartsass
 
 navigation:
   logo: 
