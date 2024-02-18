@@ -1,31 +1,4 @@
-defaultMarkdownHandler: goldmark
-
-highlight:
-  anchorLineNos: false
-  codeFences: true
-  guessSyntax: true
-  hl_Lines: ''
-  lineAnchors: ''
-  lineNoStart: 1
-  lineNos: false
-  lineNumbersInTable: false
-  noClasses: false
-  tabWidth: 2
-
 goldmark:
-  extensions:
-    definitionList: true
-    footnote: true
-    linkify: true
-    strikethrough: true
-    table: true
-    taskList: true
-    typographer: true
-  parser:
-    autoHeadingID: true
-    autoHeadingIDType: github
-    attribute:
-      block: true
   renderer:
     hardWraps: false
     unsafe: true
