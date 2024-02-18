@@ -7,8 +7,6 @@ copyright: Copyright © 2024 Kampfire Technologies
 
 enablerobotstxt: true
 languagecode: en-us
-canonifyurls: false
-enableinlineshortcodes: true
 timezone: America/Chicago
 timeout: 60000s
 
