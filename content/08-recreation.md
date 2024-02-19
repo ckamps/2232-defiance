@@ -30,7 +30,7 @@ Use the Katy Trail as a means to bike to local points of interest including:
 
 ### Road cycling 
 
-If you like road cycling, use the Katy trail to connect to local roads behind and above Defiance. One route includes a 34-mile road loop to Schluersburg and back. You can get in 3,600 feet of climbing on 30 MPH lightly trafficed roads without getting on any 55 MPH highways.
+If you like road cycling, use the Katy trail to connect to local roads behind and above Defiance. One route includes a 34-mile road out to the tiny hamlet of Schluersburg and back. You can get in 3,600 feet of climbing on 30 MPH lightly trafficed roads without getting on any 55 MPH highways.
 
 {{< image src="img/recreation/triple-bypass-defiance.jpeg" wrapper="col mx-auto" caption="30 MPH road route, 34 miles, 3,600 ft of climb from your back yard" class="rounded" >}}
 
