@@ -21,11 +21,12 @@ Use the Katy Trail as a means to bike to local points of interest including:
 |Distance|Point of Interest|
 |-|-|
 |1 mile|Defiance wineries, [Good News Brewery](https://www.goodnewsbrewing.com/), and taverns| 
-|5 miles|I-64/Highway 40 Boone Bridge and bike access to Chesterfield Valley including the Levee bike trail|
+|5 miles|I-64/Highway 40 Boone Bridge and bike access to Chesterfield Valley including the levee bike trail|
 |6 miles|Klondike Park|
+|10 miles|The District restaurants and outdoor venue in Chesterfield Valley via the I-64/Highway 40 Boone Bridge|
 |10 miles|Augusta, MO wineries and restaurants|
-|18 miles|Washington, MO|
-|19 miles|Old town St Charles, MO|
+|18 miles|Washington, MO restaurants and shops|
+|19 miles|Old town St Charles, MO restaurants and shops|
 {.table}
 
 ### Road cycling 
@@ -36,15 +37,15 @@ If you like road cycling, use the Katy trail to connect to local roads behind an
 
 ### Gravel biking
 
-If you're into gravel biking, you'll have easy access to the nearby 5-mile scenic gravel Callaway Fork road, the Hamburg trail, and miles of gravel in the Busch WIldlife area. You can use the Katy Trail to access these popuklar gravel rides.
+If you're into gravel biking, you'll have easy access to the nearby 5-mile scenic gravel Callaway Fork road, the Hamburg trail, and miles of gravel in the Busch Wildlife area. You can use the Katy Trail to access these popuklar gravel rides.
 
 ### Mountain biking
 
 The Katy Trail oiffers easy access to the following popular mountain biking trails:
 
-* 1 mile to the Lost Valley trail head
+* 1 mile to the Lost Valley trailhead
 * 2 miles to Matson Hill Park
-* 6 miles ride to Klondike Park
+* 6 miles to Klondike Park
 
 ## Running
 
