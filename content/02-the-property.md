@@ -186,7 +186,7 @@ Common wildlife in the area include:
 
 ## History
 
-### The "Finney" Club
+### The "Finney" club
 
 In the early 1900s, the lower land of the property was the site of the Femme Osage Hunting and Fishing Club. Also known as the Finney Club. The club was one of many situated along the creeks and rivers of the St Louis region.
 
@@ -194,7 +194,7 @@ The following image shows the two original Finney club structures as black squar
 
 {{< image src="img/finney/finney-map.png" wrapper="col mx-auto" caption="Finney Club House on survey map from early 1900s" class="rounded" >}}
 
-### April 1917 Stag Outing
+### April 1917 stag outing
 
 In May of 1917 a spring open house or "stag" outing was held at the Finney Club in the lower land of the property. Men from St Louis traveled by train to the property to be encouraged to join the hunting and fishing club.
 
