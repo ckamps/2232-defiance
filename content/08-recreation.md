@@ -50,7 +50,7 @@ The Katy Trail oiffers easy access to the following popular mountain biking trai
 
 The crushed rock surface and scenery of the Katy Trail offer a great running experience. If you're into single track trail running, you can use the Katy Trail to access the nearby Lost Valley (1 mile via the Katy) and Lewis and Clark (4 miles via the Katy) trail systems.
 
-## Femme Osage Creek and Missouri River Access
+## Femme Osage Creek and Missouri River access
 
 Use your [private dock]({{<ref "02-the-property#private-dock" >}}) on over 260 feet of the Femme Osage Creek to set off on paddle boarding, kayaking, canoeing, and fishing adventures. You'll have 1.75 miles of secluded floating down the Femme Osage prior to the confluence with the Missouri River. There are no other homes and structures in use on the creek between this home and the Missouri River.
 
