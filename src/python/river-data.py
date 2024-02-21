@@ -23,7 +23,7 @@ fig.add_trace(go.Scatter(y=[29,29],
                          x=[dmin,dmax],
                          mode='lines', 
                          line=dict(color='red', width=3, dash='dash'),
-                         name='creek water touches bottom of bridge'))
+                         name='Creek water touches bottom of bridge'))
 
 fig.add_trace(go.Scatter(y=[24,24], 
                          x=[dmin,dmax],
