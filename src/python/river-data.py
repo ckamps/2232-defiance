@@ -19,10 +19,16 @@ fig.add_trace(go.Scatter(y=[35.4,35.4],
                          line=dict(color='black', width=3, dash='dash'),
                          name='Flood of 1993'))
 
-fig.add_trace(go.Scatter(y=[24,24], 
+fig.add_trace(go.Scatter(y=[29,29], 
                          x=[dmin,dmax],
                          mode='lines', 
                          line=dict(color='red', width=3, dash='dash'),
+                         name='creek water touches bottom of bridge'))
+
+fig.add_trace(go.Scatter(y=[24,24], 
+                         x=[dmin,dmax],
+                         mode='lines', 
+                         line=dict(color='orange', width=3, dash='dash'),
                          name='Lay down to pass under bridge'))
 
 fig.add_trace(go.Scatter(y=[22.6,22.6], 
@@ -35,13 +41,13 @@ fig.add_trace(go.Scatter(y=[7,7],
                          x=[dmin,dmax],
                          mode='lines', 
                          line=dict(color='orange', width=3, dash='dash'),
-                         name='Paddle to river'))
+                         name='Can paddle all the way to river'))
 
 fig.add_trace(go.Scatter(y=[5,5], 
                          x=[dmin,dmax],
                          mode='lines', 
                          line=dict(color='green', width=3, dash='dash'),
-                         name='Ready to paddle'))
+                         name='Ready to paddle for 1 mile+ on creek'))
 
 #fig.show()
 
