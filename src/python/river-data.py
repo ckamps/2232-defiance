@@ -1,7 +1,7 @@
 import pandas as pd
 import plotly.express as px
 
-df = pd.read_csv(r'..\..\data\mo-river-data-2010-2024.csv')
+df = pd.read_csv(r'..\..\graph-data\mo-river-data-2010-2024.csv')
 
 fig = px.line(df, x = 'date', y = 'river-level', title='Missouri River Water Levels 2010-2024')
 #fig.show()
