@@ -49,6 +49,10 @@ fig.add_trace(go.Scatter(y=[5,5],
                          line=dict(color='green', width=3, dash='dash'),
                          name='Ready to paddle for 1 mile+ on creek'))
 
+fig.update_layout(
+        font=dict(size=20),
+        legend=dict(font=dict(size=20)))
+
 #fig.show()
 
 fig.write_image(r'..\..\assets\img\river\river-levels.png', width=1800, height=800, scale=1)
