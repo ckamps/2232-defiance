@@ -77,7 +77,7 @@ fig.add_trace(go.Scatter(y=[35.4,35.4],
                          line=dict(color='red', width=1),
                          name='Flood 1993'))
 
-fig.add_trace(go.Scatter(y=[29,29], 
+fig.add_trace(go.Scatter(y=[31,31], 
                          x=[dmin,dmax],
                          mode='lines',
                          line=dict(color='black', width=1),
