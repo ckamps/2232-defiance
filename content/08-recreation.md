@@ -1,6 +1,7 @@
 ---
 title: Recreation
 type: minimal
+plotly: true
 ---
 
 ## Katy Trail State Park 
@@ -82,7 +83,7 @@ The National Weather Service (NWS) has a river water level and flow [monitoring 
 
 To give you an idea of how the creek water levels change over a typical year and across years, the following graph shows river water levels at Washington for the past 13 years along with key river water levels that enable certain activies and distances along the creek.
 
-{{< image src="img/river/river-levels.png" caption="Missouri River levels and creek paddling" class="rounded" >}}
+{{< plotly json="/json/river-levels.json" width="1800px" height="600px" >}}
 
 ## Hiking
 
