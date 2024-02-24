@@ -11,6 +11,9 @@ df['date'] = pd.to_datetime(df['date']).dt.strftime('%Y-%m-%d')
 dmax = df[['date']].values.max()
 dmin = df[['date']].values.min()
 
+print(dmin)
+print(dmax)
+
 fig = px.line(df, 
               x = 'date', 
               y = 'river-level', 
@@ -23,8 +26,6 @@ fig.update_layout(title_text='Missouri River Water Levels 2010-2024', title_x=0.
 #fig.update_xaxes(tickformat = '%Y-%B', dtick='M1')
 
 fig.update_xaxes(
-    dtick="M12",
-    tickformat="%Y",
     ticklabelmode="period"
 )
 
