@@ -5,7 +5,7 @@ modules: ["leaflet"]
 ---
 
 ## Highlights
-Custom built in 2006 with a classic craftsman style exterior and seven gables, the home has been kept up-to-date with the latest technology. 
+Custom built in 2006 with a classic craftsman style exterior and eight gables, the home has been kept up-to-date with the latest technology. 
 
 For example, gigabit fiber internet service was connected in 2022 along with the installation of new WiFi access points throughout the home, garage, and outdoor spaces. High-speed internet coupled with a dedicated home office space with a view and easy access to outdoor areas for breaks, makes the home ideal for remote working. 
 
