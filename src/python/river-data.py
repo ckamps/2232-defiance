@@ -75,31 +75,31 @@ fig.add_vrect(x0="2023-12-21", x1=dmax,
 fig.add_trace(go.Scatter(y=[35.4,35.4], 
                          x=[dmin,dmax],
                          mode='lines', 
-                         line=dict(color='red', width=1),
+                         line=dict(color='red', width=2),
                          name='Flood 1993'))
 
-fig.add_trace(go.Scatter(y=[31,31], 
+fig.add_trace(go.Scatter(y=[30,30],
                          x=[dmin,dmax],
                          mode='lines',
-                         line=dict(color='black', width=1),
+                         line=dict(color='black', width=2),
                          name='Water touches bridge'))
 
 fig.add_trace(go.Scatter(y=[22.6,22.6], 
                          x=[dmin,dmax],
                          mode='lines', 
-                         line=dict(color='yellow', width=1),
+                         line=dict(color='blue', width=2),
                          name='Lower land floods'))
 
 fig.add_trace(go.Scatter(y=[7,7], 
                          x=[dmin,dmax],
                          mode='lines', 
-                         line=dict(color='orange', width=1),
+                         line=dict(color='orange', width=2),
                          name='Paddle to river'))
 
 fig.add_trace(go.Scatter(y=[5,5], 
                          x=[dmin,dmax],
                          mode='lines', 
-                         line=dict(color='green', width=1),
+                         line=dict(color='green', width=2),
                          name='Paddle access'))
 
 fig.update_layout(
