@@ -1,0 +1,24 @@
+{{ $filter := default "images/*" (.Get 0) }}
+{{ $gallery := (.Page.Resources.Match $filter) }}
+{{ $size := default "200x120 q50" (.Get 2) }}
+
+<div id="gallery-{{ $.Get 1 }}" class="gallery-frame">
+{{ range $gallery }}
+    {{ $resized := .Fit $size }}
+    <div class="gallery-item" data-src="{{ .Permalink }}">
+        <a class="thumbnail" href="{{ .Permalink }}" data-lightbox="{{ $.Get 1 }}">
+            <img src="{{ $resized.Permalink }}" alt="{{ default "no alt text provided" .Title }}" />
+        </a>
+    </div>
+{{ end }}
+</div>
+
+<script type="text/javascript">
+    lightGallery(document.getElementById('gallery-{{ $.Get 1 }}'), {
+        mode: 'lg-fade',
+        plugins: [lgPager, lgZoom, lgFullscreen],
+        licenseKey: '0000-0000-000-0000',
+        selector: '.gallery-item',
+        speed: 250,
+    });
+</script>
