@@ -2,6 +2,7 @@
 title: Overview
 type: minimal
 modules: ["leaflet"]
+lightgallery: true
 ---
 
 ## Highlights
@@ -23,6 +24,9 @@ For example, gigabit fiber internet service was connected in 2022 along with the
 {{< youtube tyGL2hy4p7U >}}
 
 ## Overview photos
+
+{{< lightgallery "images/overview/*" "100x50 q75" >}}
+
 
 {{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
   {{< img src="img/drone/home-bridge.jpeg" >}}
