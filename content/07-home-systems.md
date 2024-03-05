@@ -72,6 +72,7 @@ Cameras cover the following outside areas:
 |Entry road hill|
 |Driveway|
 |Autocourt and front of home|
+|Garage interior|
 |Porch|
 |Patio|
 |Railroad bridge and creek (with audio)|
