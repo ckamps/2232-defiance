@@ -67,10 +67,33 @@
         <script src="https://d3js.org/d3.v7.min.js"></script>
         <script src="https://cdn.plot.ly/plotly-2.11.1.min.js"></script>
         {{ end }}
+        {{ if .Params.lightgallery }}
+        <!-- See: https://cdnjs.com/libraries/lightgallery -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/css/lightgallery-bundle.min.css" integrity="sha512-nUqPe0+ak577sKSMThGcKJauRI7ENhKC2FQAOOmdyCYSrUh0GnwLsZNYqwilpMmplN+3nO3zso8CWUgu33BDag==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <style>
+            .gallery-frame {
+              display: flex;
+              flex-direction: row;
+              flex-wrap: wrap;
+            
+              padding: 0.25rem;
+            }
+            .gallery-item {
+              margin: 0.25rem;
+            }
+        </style>
+        {{ end }}
     </head>
 
     <body>
         {{- partial "footer/scripts.html" (dict "filename" "js/critical.bundle.js" "match" "js/critical/**.js" "header" true "page" .) -}}
+        {{ if .Params.lightgallery }}
+        <!-- See: https://cdnjs.com/libraries/lightgallery -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/lightgallery.umd.min.js" integrity="sha512-VOQBxCIgNssJrB8+irZF7L8MvfpAshegc36C3H5QD7vmibXM4uCNaqJIaSNatD2z2ZQQJSx0k+q+m+xsSPp4Xw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/plugins/pager/lg-pager.umd.min.js" integrity="sha512-ZZ4nNtKuI4D5yMkBjOjFrIFka7RyoKOam4UpdzMFi3zp6Z9vCjolKx3rhjkGQ3aL7B0q4tSRM2HOFRwpYCNUPg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>       
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/plugins/zoom/lg-zoom.umd.min.js" integrity="sha512-OUF2jbRheQR5yXPCvXN71udWa5cvwPf+shcXM+5GrW1vtNurTn7az8LCP3hS50gm17ULXdh3cdkhiPa0Qqyczw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> 
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/plugins/fullscreen/lg-fullscreen.umd.min.js" integrity="sha512-xmNLmAH+RvR1Bbdq1hML9/Hqp3Uvf6++oZbc6h+KVw2CpJE0oOPIc0zV5nbuTLlOU+1pLOIPlBvcrVqUUXZh7w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        {{ end }}
         <div class="d-flex flex-column min-vh-100">
             <div class="d-flex flex-column {{ if $fullCover }} fullscreen{{ end }}{{ if .IsHome }} {{ .Site.Params.home.style }}{{ end }}">
                 {{- partial "assets/navbar.html" (dict
