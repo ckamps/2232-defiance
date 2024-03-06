@@ -19,9 +19,9 @@ For example, gigabit fiber internet service was connected in 2022 along with the
 | Gigabit internet service | 2 office rooms| Ideal orientation for rooftop solar |
 {.table}
 
-{{< youtube tyGL2hy4p7U >}}
-
 {{< lightgallery id="overview" filter="images/overview/*" size="200x120 q75" >}}
+
+{{< youtube tyGL2hy4p7U >}}
 
 ## Desirable Defiance area
 
