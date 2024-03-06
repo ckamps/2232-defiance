@@ -20,7 +20,7 @@ Further back near the main portion of the property, the asphalt entry drive tran
 |**Driveway**|Exposed aggregate concrete turnaround area, driveway, and auto court. Extra thick 6" pour.|
 {.table}
 
-{{< image src="img/drone/entry-driveway.jpeg" wrapper="col mx-auto" caption="Entry driveway and turnaround area" class="rounded" >}}
+{{< lightgallery id="driveway" filter="images/driveway/*" size="600x600 q75" >}}
 
 ## Specimen trees
 
@@ -37,47 +37,19 @@ A mix of evergreen, flowering, and deciduous specimen trees add year-round chara
 |**Silver Maples**|2 are located on the east side of the main home|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/exterior/spring-front.jpeg" caption="Flowering Crabapple Prairifires along entry driveway">}}
-  {{< img src="img/bridge/bridge-spring.jpeg" caption="Flowering Crabapple Prairifires on hill to lower land">}}
-  {{< img src="img/trees/cedar-deck-winter.jpg" caption="Cedar of Lebanon in winter" >}}
-  {{< img src="img/trees/magnolia-night-from-patio.jpeg" caption="Japanese Magnolia \"Ann\"" >}} 
-{{< /carousel >}}
-
-{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/trees/japanese-maple-night.jpeg" caption="Japanese Maple">}}
-  {{< img src="img/trees/japanese-maple-front.jpg" caption="Japanese Maple">}}
-  {{< img src="img/trees/magnolia.jpeg" caption="Magnolia" >}}
-  {{< img src="img/trees/holly.jpeg" caption="Holly" >}}
-  {{< img src="img/trees/cedar-of-lebanon.jpeg" caption="Cedar of Lebanon next to deck" >}}
-  {{< img src="img/trees/magnolia-flowering.jpeg" caption="Japanese Magnolia \"Ann\"" >}}
-  {{< img src="img/trees/magnolia-night-art.jpeg" caption="Japanese Magnolia \"Ann\"" >}}
-  {{< img src="img/trees/maple-fall.jpeg" caption="Silver Maple in fall">}}
-{{< /carousel >}}
+{{< lightgallery id="trees" filter="images/trees/*" size="200x120 q75" >}}
 
 ## East side of home
 
 On the east side of the home on the upper portion of the property is a pea gravel fire pit and horseshoe area.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/east-side/IMG_4549.jpg" >}}  
-  {{< img src="img/east-side/IMG_4541.jpg" >}}
-  {{< img src="img/east-side/IMG_4536.jpg" >}}
-  {{< img src="img/east-side/IMG_4541.jpg" >}}
-  {{< img src="img/east-side/fire-pit.jpeg" >}}
-  {{< img src="img/east-side/fire-pit-view-bridge.jpeg" >}}
-  {{< img src="img/east-side/fire-pit-view-of-home.jpeg" >}}
-{{< /carousel >}}
+{{< lightgallery id="east-side" filter="images/east-side/*" size="200x120 q75" >}}
 
 ## North side of home
 
 On the north side of the home is terraced landscaping with a screen of evergreens. All roof and exterior wall air vents are confined to the north side of the home.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/north-side/IMG_4539.jpg" >}} 
-  {{< img src="img/north-side/IMG_4538.jpg" >}}  
-  {{< img src="img/north-side/IMG_4537.jpg" >}}  
-{{< /carousel >}}
+{{< lightgallery id="north-side" filter="images/north-side/*" size="200x120 q75" >}}
 
 ## Bluffs
 
