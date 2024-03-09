@@ -1,6 +1,7 @@
 ---
 title: Home Systems
 type: minimal
+lightgallery: true
 ---
 
 ## Networking and internet
@@ -24,7 +25,7 @@ A separate rack in the garage houses the internet fiber modem and other equipmen
 
 All wireless access points were installed in 2022 at about the same time gigabit fiber internet service was established. Depending on your device, the WiFi 6 access points are capable of providing up to ~500Mbps wireless speeds throughout the home and outside. (Wired ethernet speeds are higher).
 
-{{< image src="img/systems/unifi-devices.jpeg" wrapper="col mx-auto" caption="Home router and WiFi access points" class="rounded" >}}
+{{< lightgallery id="wifi" filter="images/unifi-devices.jpeg" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -81,21 +82,13 @@ Cameras cover the following outside areas:
 |Entry road fence (winter only)|
 {.table}
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/cameras/camera-driveway.png" >}}
-  {{< img src="img/cameras/camera-house-front.png" >}}
-  {{< img src="img/cameras/camera-porch.png" >}}
-  {{< img src="img/cameras/camera-lower-land.png" >}}
-  {{< img src="img/cameras/camera-bridge.png" >}}
-  {{< img src="img/cameras/camera-entry-road.png" >}}
-  {{< img src="img/cameras/camera-entry-fence.png" >}}
-{{< /carousel >}}
+{{< lightgallery id="cameras" filter="images/cameras/*" size="200x120 q75" >}}
 
 ## Doorbell and camera
 
 The main entry has a Ring Video Doorbell Pro 2.
 
-{{< image src="img/cameras/ring-doorbell-night.png" wrapper="col mx-auto" caption="Ring Doorbell Pro" class="rounded" >}}
+{{< lightgallery id="doorbell" filter="images/doorbell/*" size="200x120 q75" >}}
 
 ## Weather station
 
@@ -126,10 +119,7 @@ Examples of remote control and automation already in place include:
 |Automated monitoring of indoor and outdoor humidity levels and control of the whole house humidifier to align with target humidity level|
 {.table}
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/systems/apple-home-1.png" caption="Apple Home integration" >}}
-  {{< img src="img/systems/apple-home-2.png" caption="Apple Home integration" >}}
-{{< /carousel >}}
+{{< lightgallery id="apple-home" filter="images/apple-home*.png" size="200x120 q75" >}}
 
 ## Cable conduits
 

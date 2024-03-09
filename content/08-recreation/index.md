@@ -2,6 +2,7 @@
 title: Recreation
 type: minimal
 plotly: true
+lightgallery: true
 ---
 
 ## Katy Trail State Park 
@@ -10,10 +11,7 @@ With over 400 feet of frontage on the [Katy Trail State Park](https://mostatepar
 
 From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to [Defiance Ridge Vineyards](https://www.defianceridgevineyards.com/) and [Good News Brewery](https://www.goodnewsbrewing.com/) in Defiance. The jewel of [Klondike Park](https://www.sccmo.org/690/Klondike-Park) is just a 20-minute bike ride away while the wineries and restaurants of [Augusta](https://www.townofaugustamo.org/) are only 40 minutes by trail. 
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/private-access-from-katy.jpeg" caption="Private access to the Katy Trail State Park" >}}
-  {{< img src="img/lower-land/view-from-katy-winter.jpeg" caption="From the Katy Trail looking west toward Femme Osage Creek bridge" >}}
-{{< /carousel >}}
+{{< lightgallery id="katy" filter="images/katy/*" size="200x120 q75" >}}
 
 ## Bicycling
 
@@ -34,7 +32,7 @@ Use the Katy Trail as a means to bike to local points of interest including:
 
 If you like road cycling, use the Katy trail to connect to local roads behind and above Defiance. One route includes a 34-mile ride out to the tiny hamlet of Schluersburg and back. You can get in 3,600 feet of climbing on 30 MPH lightly trafficed roads without getting on any 55 MPH highways.
 
-{{< image src="img/recreation/triple-bypass-defiance.jpeg" wrapper="col mx-auto" caption="30 MPH road route, 34 miles, 3,600 ft of climb from your back yard" class="rounded" >}}
+{{< lightgallery id="cycling" filter="images/cycling/*" size="200x120 q75" >}}
 
 ### Gravel biking
 
@@ -56,18 +54,11 @@ The crushed rock surface and scenery of the Katy Trail offer a great running exp
 
 Use your [private dock]({{<ref "02-the-property#private-dock" >}}) on over 260 feet of the Femme Osage Creek to set off on paddle boarding, kayaking, canoeing, and fishing adventures. You'll have 1.75 miles of secluded floating down the Femme Osage prior to the confluence with the Missouri River. There are no other homes and structures in use on the creek between this home and the Missouri River.
 
+{{< lightgallery id="creek" filter="images/creek/*" size="200x120 q75" >}}
+
 ### Paddle boarding and canoeing
 
 During spring, summer, and early fall, you can typically paddle board for more than a mile from the home downstream toward the Missouri River. Canoeing is typically available year round.
-
-{{< image src="img/creek/paddle-logger.jpeg" wrapper="col mx-auto" caption="Typical paddle board/canoe trip from the home to the Missouri River" class="rounded" >}}
-
-{{< carousel >}}
-  {{< img src="img/creek/paddling.jpeg" caption="Paddleboarding on Femme Osage Creek">}}
-  {{< img src="img/creek/femme-osage-paddle-boarding-evening.jpeg" caption="Dusk paddle">}}
-  {{< img src="img/bridge/bridge-from-water.jpeg" caption="Femme Osage Creek bridge with private dock on the right">}}
-  {{< img src="img/creek/confluence-femme-osage-mo-river.jpeg" caption="Confluence of Femme Osage Creek and the Missouri River">}}
-{{< /carousel >}}
 
 ### Fishing and boating
 
