@@ -234,4 +234,4 @@ Spacious walk-in closet with Container Store shelving and drawers and a built-in
 
 {{< lightgallery id="primary-closet" filter="images/primary-closet/*" size="200x120 q75" >}}
 
-{{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
+{{< button color="primary" href="/05-lower-level/"outline="true" >}}Next: Lower Level{{< /button >}}

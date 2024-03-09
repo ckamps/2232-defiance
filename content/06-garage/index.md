@@ -1,23 +1,18 @@
 ---
 title: Garage
 type: minimal
+lightgallery: true
 ---
 
 A garage with a view! At 46' wide x 28' deep, the fully finished garage provides space for at least three vehicles. Three separate garage doors help provide character. The garage is tucked into the bluff to minimize it's visual impact on the site. West- and south-facing shingle clad roof gables make the generously sized garage appear to be a natural extension of the main home. 
 
 The fully enclosed breezeway provides sheltered access to the main level of the home.
 
-{{< image src="img/plans/floor-plan-garage.jpg" wrapper="col mx-auto" class="rounded" >}}
+{{< lightgallery id="plans" filter="images/plans/floor-plan-garage.jpg" size="800x600 q75" >}}
 
 ## Overview
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/garage/IMG_4593.jpeg" >}}
-  {{< img src="img/interior/garage/IMG_4594.jpeg" >}}
-  {{< img src="img/interior/garage/IMG_4595.jpeg" >}}
-  {{< img src="img/interior/garage/IMG_4596.jpeg" >}}
-  {{< img src="img/interior/garage/IMG_4602.jpeg" >}}
-{{< /carousel >}}
+{{< lightgallery id="main" filter="images/main/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -57,9 +52,7 @@ The fully enclosed breezeway provides sheltered access to the main level of the 
 
 Take advantage of the large volume air compressor in the attic and a ceiling mounted retractable air supply hose to easily and quickly inflate automobile tires and other inflatables.
 
-{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/garage/IMG_4600.jpeg" >}}
-{{< /carousel >}}
+{{< lightgallery id="compressor" filter="images/compressor/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -94,10 +87,6 @@ Take advantage of the large volume air compressor in the attic and a ceiling mou
 
 A hide away retractable metal ladder provides easy access to the large upper level storage attic. A great place to store infrequently used items.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/garage/IMG_4598.jpeg" >}}
-  {{< img src="img/interior/garage/IMG_4599.jpeg" >}}
-  {{< img src="img/interior/garage/IMG_4601.jpeg" >}}
-{{< /carousel >}}
+{{< lightgallery id="attic" filter="images/attic/*" size="200x120 q75" >}}
 
-{{< button color="primary" href="/07-home-systems/"outline="true" >}}Home Systems{{< /button >}}
+{{< button color="primary" href="/07-home-systems/"outline="true" >}}Next: Home Systems{{< /button >}}

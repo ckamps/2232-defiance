@@ -130,4 +130,4 @@ Take advantage of two separate storage and mechanical rooms to store seasonal an
 |**Amplifier**|Dedicated Yamaha RX-V485 A/V receiver amplifier in lower level unifinished room. Supports Apple AirPlay 2 for whole home audio streaming.|
 {.table}
 
-{{< button color="primary" href="/06-garage/"outline="true" >}}Garage{{< /button >}}
+{{< button color="primary" href="/06-garage/"outline="true" >}}Next: Garage{{< /button >}}

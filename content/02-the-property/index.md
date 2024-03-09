@@ -121,4 +121,4 @@ In May of 1917 a spring open house or "stag" outing was held at the Finney Club 
 
 {{< lightgallery id="finney" filter="images/finney/*" size="200x120 q75" >}}
 
-{{< button color="primary" href="/03-the-home/" outline="true" >}}The Home{{< /button >}}
+{{< button color="primary" href="/03-the-home/" outline="true" >}}Next: The Home{{< /button >}}
