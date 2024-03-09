@@ -20,7 +20,7 @@ Further back near the main portion of the property, the asphalt entry drive tran
 |**Driveway**|Exposed aggregate concrete turnaround area, driveway, and auto court. Extra thick 6" pour.|
 {.table}
 
-{{< lightgallery id="driveway" filter="images/driveway/*" size="600x600 q75" >}}
+{{< lightgallery id="driveway" filter="images/driveway/*" size="400x400 q75" >}}
 
 ## Specimen trees
 
@@ -55,65 +55,31 @@ On the north side of the home is terraced landscaping with a screen of evergreen
 
 Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/bluffs-east.jpeg" caption="East bluffs from lower land" >}}
-  {{< img src="img/lower-land/bluff-at-night.jpeg" caption="East bluffs at night" >}}
-  {{< img src="img/lower-land/west-bluff.jpeg" caption="West bluffs from lower land" >}}
-  {{< img src="img/lower-land/bluff-west-night.jpeg" caption="West bluffs at night" >}}
-{{< /carousel >}}
-
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/IMG_4585.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="bluffs" filter="images/bluffs/*" size="200x120 q75" >}}
 
 ## Stone steps
 
 56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
 
-{{< carousel ratio="16x9" portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/steps-bottom.jpeg" caption="Flagstone steps from lower land" >}}
-  {{< img src="img/lower-land/IMG_4558.jpg" >}}
-  {{< img src="img/lower-land/steps-top.jpeg" >}}
-{{< /carousel >}}
-
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/IMG_4557.jpg" >}}
-  {{< img src="img/lower-land/IMG_4560.jpg" >}}
-  {{< img src="img/lower-land/IMG_4561.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="steps" filter="images/steps/*" size="200x120 q75" >}}
 
 ## Double track trail
 
 In addition to the stone steps, a double track trail provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/trail-to-lower-land.jpeg" caption="Trail from lower land to top of the property" >}}
-  {{< img src="img/lower-land/top-trail-to-lower-land.jpeg" caption="View down the trail from driveway turnaround area" >}}
-{{< /carousel >}}
+{{< lightgallery id="trail" filter="images/trail/*" size="200x120 q75" >}}
 
 ## Lower land
 
 The multi-acre lower land portion of the property offers access to the Katy Trail and Femme Osage Creek. It's a great place for bonfires, volleyball games, and other activities.
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/lower-land/lower-land-looking-east.jpeg" caption="Lower land looking east" >}}
-  {{< img src="img/lower-land/lower-land-looking-west.jpeg" caption="Lower land looking west" >}}
-  {{< img src="img/lower-land/lower-land-view-top-west-bluff.jpeg" caption="Lower land from top of west bluff" >}}
-{{< /carousel >}}
-
-{{< image src="img/lower-land/lower-land-pano-winter.jpeg" wrapper="col mx-auto" caption="Lower land in winter" class="rounded" >}}
+{{< lightgallery id="lower" filter="images/lower/*" size="200x120 q75" >}}
 
 ## Private dock
 
 Enjoy the convenience of your private dock on the Femme Osage Creek. Army Corps of Engineers approved and just 1 3/4 miles from the Missouri River, you'll have plenty of areas to explore while paddling and fishing.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/dock/dock-bridge-dusk.jpeg" >}}
-  {{< img src="img/dock/dock-straight-on-sunset.jpeg" >}}
-  {{< img src="img/dock/dock-pier-winter.jpeg" >}}
-  {{< img src="img/dock/paddle-rack-bridge.jpeg" >}}
-  {{< img src="img/dock/paddle-rack.jpeg" >}}
-{{< /carousel >}}
+{{< lightgallery id="dock" filter="images/dock/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -139,17 +105,7 @@ Common wildlife in the area include:
 * Bobcat
 * Foxes
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/wildlife/bobcat-kittens.jpeg" caption="Bobcat Kittens" >}}
-  {{< img src="img/wildlife/bobcat-parent.jpeg" caption="Bobcat Parent" >}}
-  {{< img src="img/wildlife/gray-fox.jpeg" caption="Gray Fox" >}}
-  {{< img src="img/wildlife/red-fox-winter.jpeg" caption="Red Fox" >}}
-{{< /carousel >}}
-
-{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/wildlife/bald-eagle.jpeg" caption="Bald Eagle" >}}
-  {{< img src="img/wildlife/bobcat-summer.jpeg" caption="Bobcat" >}}
-{{< /carousel >}}
+{{< lightgallery id="wildlife" filter="images/wildlife/*" size="200x120 q75" >}}
 
 ## History
 
@@ -157,16 +113,12 @@ Common wildlife in the area include:
 
 In the early 1900s, the lower land of the property was the site of the Femme Osage Hunting and Fishing Club. Also known as the Finney Club. The club was one of many situated along the creeks and rivers of the St Louis region.
 
-The following image shows the two original Finney club structures as black squares in the lower land near the creek and railroad bridge.
-
-{{< image src="img/finney/finney-map.png" wrapper="col mx-auto" caption="Finney Club House on survey map from early 1900s" class="rounded" >}}
+{{< lightgallery id="finney-location" filter="images/finney-location/*" size="400x400 q75" >}}
 
 ### April 1917 stag outing
 
 In May of 1917 a spring open house or "stag" outing was held at the Finney Club in the lower land of the property. Men from St Louis traveled by train to the property to be encouraged to join the hunting and fishing club.
 
-{{< image src="img/finney/stag-pano-left.jpeg" >}}
-{{< image src="img/finney/stag-pano-middle.jpeg" >}}
-{{< image src="img/finney/stag-pano-right.jpeg" >}}
+{{< lightgallery id="finney" filter="images/finney/*" size="200x120 q75" >}}
 
 {{< button color="primary" href="/03-the-home/" outline="true" >}}The Home{{< /button >}}
