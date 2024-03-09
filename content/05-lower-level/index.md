@@ -10,7 +10,7 @@ The 1,500+ sq ft of fully finished walkout lower level space is great for workin
 
 ## Main room
 
-{{< lightgallery id="main-room" filter="images/main-room/*" size="200x120 q75" >}}
+{{< lightgallery id="main-room" filter="images/main-room/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -27,7 +27,7 @@ The 1,500+ sq ft of fully finished walkout lower level space is great for workin
 
 Part of the main room. Partial kitchen and dedicated side bar area.
 
-{{< lightgallery id="kitchenette" filter="images/kitchenette/*" size="200x120 q75" >}}
+{{< lightgallery id="kitchenette" filter="images/kitchenette/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -42,7 +42,7 @@ Part of the main room. Partial kitchen and dedicated side bar area.
 
 ## Office
 
-{{< lightgallery id="office" filter="images/office/*" size="200x120 q75" >}}
+{{< lightgallery id="office" filter="images/office/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -56,7 +56,7 @@ Part of the main room. Partial kitchen and dedicated side bar area.
 
 Enjoy the dedicated home theater room with stadium seating and a 7.1 surround sound speaker and subwoofer arrangement. The room is positioned in the rear of the lower level to minimize natural light intrusion.
 
-{{< lightgallery id="home-theater" filter="images/home-theater/*" size="200x120 q75" >}}
+{{< lightgallery id="home-theater" filter="images/home-theater/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -83,7 +83,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 
 ## Full bath
 
-{{< lightgallery id="bath" filter="images/bath/*" size="200x120 q75" >}}
+{{< lightgallery id="bath" filter="images/bath/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -99,7 +99,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 
 12' x 16' bedbroom with expansive windows to take in the view.
 
-{{< lightgallery id="bedroom" filter="images/bedroom/*" size="200x120 q75" >}}
+{{< lightgallery id="bedroom" filter="images/bedroom/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -111,17 +111,17 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 
 Make use of two partially finished utility rooms for hobbies and off season storage of outside furniture.
 
-{{< lightgallery id="partially-unfinished" filter="images/partially-unfinished/*" size="200x120 q75" >}}
+{{< lightgallery id="partially-unfinished" filter="images/partially-unfinished/*" size="100x100 q75" >}}
 
 ## Storage and mechanical rooms
 
 Take advantage of two separate storage and mechanical rooms to store seasonal and other items.
 
-{{< lightgallery id="unfinished" filter="images/unfinished/*" size="200x120 q75" >}}
+{{< lightgallery id="unfinished" filter="images/unfinished/*" size="100x100 q75" >}}
 
 ## Patio
 
-{{< lightgallery id="patio" filter="images/patio/*" size="200x120 q75" >}}
+{{< lightgallery id="patio" filter="images/patio/*" size="100x100 q75" >}}
 
 | | |
 |-|-|

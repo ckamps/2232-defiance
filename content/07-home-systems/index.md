@@ -25,7 +25,7 @@ A separate rack in the garage houses the internet fiber modem and other equipmen
 
 All wireless access points were installed in 2022 at about the same time gigabit fiber internet service was established. Depending on your device, the WiFi 6 access points are capable of providing up to ~500Mbps wireless speeds throughout the home and outside. (Wired ethernet speeds are higher).
 
-{{< lightgallery id="wifi" filter="images/unifi-devices.jpeg" size="200x120 q75" >}}
+{{< lightgallery id="wifi" filter="images/unifi-devices.jpeg" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -82,13 +82,13 @@ Cameras cover the following outside areas:
 |Entry road fence (winter only)|
 {.table}
 
-{{< lightgallery id="cameras" filter="images/cameras/*" size="200x120 q75" >}}
+{{< lightgallery id="cameras" filter="images/cameras/*" size="100x100 q75" >}}
 
 ## Doorbell and camera
 
 The main entry has a Ring Video Doorbell Pro 2.
 
-{{< lightgallery id="doorbell" filter="images/doorbell/*" size="200x120 q75" >}}
+{{< lightgallery id="doorbell" filter="images/doorbell/*" size="100x100 q75" >}}
 
 ## Weather station
 
@@ -119,7 +119,7 @@ Examples of remote control and automation already in place include:
 |Automated monitoring of indoor and outdoor humidity levels and control of the whole house humidifier to align with target humidity level|
 {.table}
 
-{{< lightgallery id="apple-home" filter="images/apple-home*.png" size="200x120 q75" >}}
+{{< lightgallery id="apple-home" filter="images/apple-home*.png" size="100x100 q75" >}}
 
 ## Cable conduits
 

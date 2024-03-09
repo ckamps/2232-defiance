@@ -11,7 +11,7 @@ With over 400 feet of frontage on the [Katy Trail State Park](https://mostatepar
 
 From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to [Defiance Ridge Vineyards](https://www.defianceridgevineyards.com/) and [Good News Brewery](https://www.goodnewsbrewing.com/) in Defiance. The jewel of [Klondike Park](https://www.sccmo.org/690/Klondike-Park) is just a 20-minute bike ride away while the wineries and restaurants of [Augusta](https://www.townofaugustamo.org/) are only 40 minutes by trail. 
 
-{{< lightgallery id="katy" filter="images/katy/*" size="200x120 q75" >}}
+{{< lightgallery id="katy" filter="images/katy/*" size="100x100 q75" >}}
 
 ## Bicycling
 
@@ -32,7 +32,7 @@ Use the Katy Trail as a means to bike to local points of interest including:
 
 If you like road cycling, use the Katy trail to connect to local roads behind and above Defiance. One route includes a 34-mile ride out to the tiny hamlet of Schluersburg and back. You can get in 3,600 feet of climbing on 30 MPH lightly trafficed roads without getting on any 55 MPH highways.
 
-{{< lightgallery id="cycling" filter="images/cycling/*" size="200x120 q75" >}}
+{{< lightgallery id="cycling" filter="images/cycling/*" size="100x100 q75" >}}
 
 ### Gravel biking
 
@@ -54,7 +54,7 @@ The crushed rock surface and scenery of the Katy Trail offer a great running exp
 
 Use your [private dock]({{<ref "02-the-property#private-dock" >}}) on over 260 feet of the Femme Osage Creek to set off on paddle boarding, kayaking, canoeing, and fishing adventures. You'll have 1.75 miles of secluded floating down the Femme Osage prior to the confluence with the Missouri River. There are no other homes and structures in use on the creek between this home and the Missouri River.
 
-{{< lightgallery id="creek" filter="images/creek/*" size="200x120 q75" >}}
+{{< lightgallery id="creek" filter="images/creek/*" size="100x100 q75" >}}
 
 ### Paddle boarding and canoeing
 

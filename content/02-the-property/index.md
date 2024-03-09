@@ -6,7 +6,7 @@ lightgallery: true
 
 The 5.25-acre property is nestled between the Ridge Creek and Markham Hills developments with minimum lots sizes of 3 and 5 acres respectively. This location provides you with a front row seat to the Katy Trail State Park and the Femme Osage Creek and Missouri River valleys. With this standalone parcel, no Home Owners Association (HOA) applies.
 
-{{< lightgallery id="parcel" filter="images/parcel/*" size="200x120 q75" >}}
+{{< lightgallery id="parcel" filter="images/parcel/*" size="100x100 q75" >}}
 
 ## Entry drive and driveway
 
@@ -37,49 +37,49 @@ A mix of evergreen, flowering, and deciduous specimen trees add year-round chara
 |**Silver Maples**|2 are located on the east side of the main home|
 {.table}
 
-{{< lightgallery id="trees" filter="images/trees/*" size="200x120 q75" >}}
+{{< lightgallery id="trees" filter="images/trees/*" size="100x100 q75" >}}
 
 ## East side of home
 
 On the east side of the home on the upper portion of the property is a pea gravel fire pit and horseshoe area.
 
-{{< lightgallery id="east-side" filter="images/east-side/*" size="200x120 q75" >}}
+{{< lightgallery id="east-side" filter="images/east-side/*" size="100x100 q75" >}}
 
 ## North side of home
 
 On the north side of the home is terraced landscaping with a screen of evergreens. All roof and exterior wall air vents are confined to the north side of the home.
 
-{{< lightgallery id="north-side" filter="images/north-side/*" size="200x120 q75" >}}
+{{< lightgallery id="north-side" filter="images/north-side/*" size="100x100 q75" >}}
 
 ## Bluffs
 
 Two exposed limestone bluffs bracket the main home site. The bluffs are illuminated at night with solar floodlights.
 
-{{< lightgallery id="bluffs" filter="images/bluffs/*" size="200x120 q75" >}}
+{{< lightgallery id="bluffs" filter="images/bluffs/*" size="100x100 q75" >}}
 
 ## Stone steps
 
 56 flagstone steps each 6" thick and 3' wide provide access to the lower land from the main home site. Solar powered step lights illuminate the steps at night. The steps are lined on either side with landscaping.
 
-{{< lightgallery id="steps" filter="images/steps/*" size="200x120 q75" >}}
+{{< lightgallery id="steps" filter="images/steps/*" size="100x100 q75" >}}
 
 ## Double track trail
 
 In addition to the stone steps, a double track trail provides easy access from the driveway turnaround to the lower land. This is a great option for bicycles, lawn mowers, side-by-sides, and even the occasional truck. 
 
-{{< lightgallery id="trail" filter="images/trail/*" size="200x120 q75" >}}
+{{< lightgallery id="trail" filter="images/trail/*" size="100x100 q75" >}}
 
 ## Lower land
 
 The multi-acre lower land portion of the property offers access to the Katy Trail and Femme Osage Creek. It's a great place for bonfires, volleyball games, and other activities.
 
-{{< lightgallery id="lower" filter="images/lower/*" size="200x120 q75" >}}
+{{< lightgallery id="lower" filter="images/lower/*" size="100x100 q75" >}}
 
 ## Private dock
 
 Enjoy the convenience of your private dock on the Femme Osage Creek. Army Corps of Engineers approved and just 1 3/4 miles from the Missouri River, you'll have plenty of areas to explore while paddling and fishing.
 
-{{< lightgallery id="dock" filter="images/dock/*" size="200x120 q75" >}}
+{{< lightgallery id="dock" filter="images/dock/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -105,7 +105,7 @@ Common wildlife in the area include:
 * Bobcat
 * Foxes
 
-{{< lightgallery id="wildlife" filter="images/wildlife/*" size="200x120 q75" >}}
+{{< lightgallery id="wildlife" filter="images/wildlife/*" size="100x100 q75" >}}
 
 ## History
 
@@ -119,6 +119,6 @@ In the early 1900s, the lower land of the property was the site of the Femme Osa
 
 In May of 1917 a spring open house or "stag" outing was held at the Finney Club in the lower land of the property. Men from St Louis traveled by train to the property to be encouraged to join the hunting and fishing club.
 
-{{< lightgallery id="finney" filter="images/finney/*" size="200x120 q75" >}}
+{{< lightgallery id="finney" filter="images/finney/*" size="100x100 q75" >}}
 
 {{< button color="primary" href="/03-the-home/" outline="true" >}}Next: The Home{{< /button >}}

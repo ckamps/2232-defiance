@@ -10,7 +10,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Entry and main hall
 
-{{< lightgallery id="entry" filter="images/entry/*" size="200x120 q75" >}}
+{{< lightgallery id="entry" filter="images/entry/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -22,7 +22,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Kitchen and pantry
 
-{{< lightgallery id="kitchen" filter="images/kitchen/*" size="200x120 q75" >}}
+{{< lightgallery id="kitchen" filter="images/kitchen/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -52,7 +52,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Dining area
 
-{{< lightgallery id="dining-room" filter="images/dining-room/*" size="200x120 q75" >}}
+{{< lightgallery id="dining-room" filter="images/dining-room/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -64,7 +64,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Sun room
 
-{{< lightgallery id="sun-room" filter="images/sun-room/*" size="200x120 q75" >}}
+{{< lightgallery id="sun-room" filter="images/sun-room/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -78,7 +78,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Deck
 
-{{< lightgallery id="deck" filter="images/deck/*" size="200x120 q75" >}}
+{{< lightgallery id="deck" filter="images/deck/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -94,7 +94,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Mud / Laundry room
 
-{{< lightgallery id="laundry-room" filter="images/laundry-room/*" size="200x120 q75" >}}
+{{< lightgallery id="laundry-room" filter="images/laundry-room/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -113,7 +113,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Mud / Laundry room 1/2 bath
 
-{{< lightgallery id="laundry-bath" filter="images/laundry-bath/*" size="200x120 q75" >}}
+{{< lightgallery id="laundry-bath" filter="images/laundry-bath/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -132,7 +132,7 @@ Fully enclosed breezeway access between the garage and the main home.
 
 Enjoy the expansive south-facing views of the Missouri River and Femme Osage Creek valleys through the wall of windows in your living room.
 
-{{< lightgallery id="living-room" filter="images/living-room/*" size="200x120 q75" >}}
+{{< lightgallery id="living-room" filter="images/living-room/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -149,7 +149,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 ## Living room dry bar
 
-{{< lightgallery id="living-room-bar" filter="images/living-room-bar/*" size="200x120 q75" >}}
+{{< lightgallery id="living-room-bar" filter="images/living-room-bar/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -160,7 +160,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 ## Main hall 1/2 bath
 
-{{< lightgallery id="hall-bath" filter="images/hall-bath/*" size="200x120 q75" >}}
+{{< lightgallery id="hall-bath" filter="images/hall-bath/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -172,7 +172,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 ## Second bedroom
 
-{{< lightgallery id="second-bedroom" filter="images/second-bedroom/*" size="200x120 q75" >}}
+{{< lightgallery id="second-bedroom" filter="images/second-bedroom/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -186,7 +186,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 Choose whether you want to use this room as an office, bedroom, or both.
 
-{{< lightgallery id="office" filter="images/office/*" size="200x120 q75" >}}
+{{< lightgallery id="office" filter="images/office/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -197,13 +197,13 @@ Choose whether you want to use this room as an office, bedroom, or both.
 
 ## Jack-n-jill bath
 
-{{< lightgallery id="jack-n-jill-bath" filter="images/jack-n-jill-bath/*" size="200x120 q75" >}}
+{{< lightgallery id="jack-n-jill-bath" filter="images/jack-n-jill-bath/*" size="100x100 q75" >}}
 
 ## Primary bedroom
 
 Spacious primary bedroom has an adjoining sitting area with expansive windows overlooking the lower land, iron bridge, and creek and river valleys.
 
-{{< lightgallery id="primary-bedroom" filter="images/primary-bedroom/*" size="200x120 q75" >}}
+{{< lightgallery id="primary-bedroom" filter="images/primary-bedroom/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -215,7 +215,7 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 
 ## Primary bath
 
-{{< lightgallery id="primary-bath" filter="images/primary-bath/*" size="200x120 q75" >}}
+{{< lightgallery id="primary-bath" filter="images/primary-bath/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -232,6 +232,6 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 
 Spacious walk-in closet with Container Store shelving and drawers and a built-in fold-down ironing board.
 
-{{< lightgallery id="primary-closet" filter="images/primary-closet/*" size="200x120 q75" >}}
+{{< lightgallery id="primary-closet" filter="images/primary-closet/*" size="100x100 q75" >}}
 
 {{< button color="primary" href="/05-lower-level/"outline="true" >}}Next: Lower Level{{< /button >}}

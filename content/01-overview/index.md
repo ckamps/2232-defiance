@@ -19,7 +19,7 @@ For example, gigabit fiber internet service was connected in 2022 along with the
 | Gigabit internet service | 2 office rooms| Ideal orientation for rooftop solar |
 {.table}
 
-{{< lightgallery id="overview" filter="images/overview/*" size="200x120 q75" >}}
+{{< lightgallery id="overview" filter="images/overview/*" size="100x100 q75" >}}
 
 {{< youtube tyGL2hy4p7U >}}
 
@@ -38,19 +38,19 @@ Nestled between two high-end communities with large 5-acre and 3-acre lots, bord
 
 In winter, enjoy expansive south-facing panoramic views for miles across undeveloped bottom lands toward the south side of the Missouri River. You won't see structures of the adjacent properties from the home's numerous windows. The closest homes in view are those situated in St Albans, 2+ miles away in Franklin County atop the south bluffs of the Missouri River. In other seasons, you'll enjoy filtered forms of the same views.
 
-{{< lightgallery id="views" filter="images/views/*" size="200x120 q75" >}}
+{{< lightgallery id="views" filter="images/views/*" size="100x100 q75" >}}
 
 ## 120-year-old iron railroad bridge
 
 From many areas of the yard and home, enjoy a commanding and intimate view of the 120-year-old iron railroad bridge spanning the Femme Osage Creek. The bridge is just ~250 feet away and ~60 feet below the main level of the home. You'll feel like you're on vacation whenever you see the bridge!
 
-{{< lightgallery id="bridge" filter="images/bridge/*" size="200x120 q75" >}}
+{{< lightgallery id="bridge" filter="images/bridge/*" size="100x100 q75" >}}
 
 ## Femme Osage Creek and Missouri River
 
 Use your [private dock]({{<ref "02-the-property#private-dock" >}}) on over 260 feet of Femme Osage Creek shoreline to set off on paddle boarding, kayaking, canoeing, and fishing adventures. When the water's high enough, you'll have 1.75 miles of secluded paddling from your home all the way to its confluence with the Missouri River.
 
-{{< lightgallery id="creek" filter="images/creek/*" size="200x120 q75" >}}
+{{< lightgallery id="creek" filter="images/creek/*" size="100x100 q75" >}}
 
 See [Femme Osage Creek and Missouri River Access]({{<ref "08-recreation#femme-osage-creek-and-missouri-river-access" >}}) for details.
 
@@ -60,7 +60,7 @@ With over 400 feet of frontage on the [Katy Trail State Park](https://mostatepar
 
 From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to [Defiance Ridge Vineyards](https://www.defianceridgevineyards.com/) and [Good News Brewery](https://www.goodnewsbrewing.com/) in Defiance. The jewel of [Klondike Park](https://www.sccmo.org/690/Klondike-Park) is just a 20-minute bike ride away while the wineries and restaurants of [Augusta](https://www.townofaugustamo.org/) are only 40 minutes by trail. 
 
-{{< lightgallery id="katy" filter="images/katy/*" size="200x120 q75" >}}
+{{< lightgallery id="katy" filter="images/katy/*" size="100x100 q75" >}}
 
 {{< button-group aria-label="Basic example" >}}
   {{< button color="primary" href="/02-the-property/" outline="true" >}}The Property{{< /button >}}

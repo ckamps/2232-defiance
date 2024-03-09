@@ -12,7 +12,7 @@ The fully enclosed breezeway provides sheltered access to the main level of the 
 
 ## Overview
 
-{{< lightgallery id="main" filter="images/main/*" size="200x120 q75" >}}
+{{< lightgallery id="main" filter="images/main/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -52,7 +52,7 @@ The fully enclosed breezeway provides sheltered access to the main level of the 
 
 Take advantage of the large volume air compressor in the attic and a ceiling mounted retractable air supply hose to easily and quickly inflate automobile tires and other inflatables.
 
-{{< lightgallery id="compressor" filter="images/compressor/*" size="200x120 q75" >}}
+{{< lightgallery id="compressor" filter="images/compressor/*" size="100x100 q75" >}}
 
 | | |
 |-|-|
@@ -87,6 +87,6 @@ Take advantage of the large volume air compressor in the attic and a ceiling mou
 
 A hide away retractable metal ladder provides easy access to the large upper level storage attic. A great place to store infrequently used items.
 
-{{< lightgallery id="attic" filter="images/attic/*" size="200x120 q75" >}}
+{{< lightgallery id="attic" filter="images/attic/*" size="100x100 q75" >}}
 
 {{< button color="primary" href="/07-home-systems/"outline="true" >}}Next: Home Systems{{< /button >}}
