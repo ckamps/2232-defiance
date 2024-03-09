@@ -1,6 +1,7 @@
 ---
 title: The Home 
 type: minimal
+lightgallery: true
 ---
 
 {{< image src="img/exterior/home-from-bridge-zoom.jpeg" wrapper="col mx-auto" class="rounded" >}}
@@ -11,13 +12,13 @@ The majority of your day-to-day living space is on the main level. Spaces includ
 
 The fully finished, over sized three-car+ garage has a fully enclosed breezeway that provides easy access to the home. A large storage attic with folding access stairs enables you to store infrequently used items out of the way. See [Garage]({{<ref "06-garage" >}}) for details.
 
-{{< image src="img/plans/floor-plan-main-garage.jpg" >}}
+{{< lightgallery id="plans-main-garage" filter="images/plans/floor-plan-main-garage.jpg" size="700x500 q75" >}}
 
 ## Lower level
 
 The walkout finished lower level is great for working from home, guests, movies, and games. Spaces include an office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Additionally, there's an abundance of partially finished, storage, and mechanical space. See [Lower Level]({{<ref "05-lower-level" >}}) for details.
 
-{{< image src="img/plans/floor-plan-lower.jpg" >}}
+{{< lightgallery id="plans-lower" filter="images/plans/floor-plan-lower.jpg" size="700x500 q75" >}}
 
 ## Optional accessory structure
 
