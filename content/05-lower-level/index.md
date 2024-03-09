@@ -1,21 +1,16 @@
 ---
 title: Lower Level
 type: minimal
+lightgallery: true
 ---
 
 The 1,500+ sq ft of fully finished walkout lower level space is great for working from home, guests, movies, and games. Spaces include an office, kitchenette, TV/recreation room, home theater, full bath, and fourth bedroom. Additionally, there's an abundance of partially finished, storage, and mechanical space.
 
-{{< image src="img/plans/floor-plan-lower.jpg" wrapper="col mx-auto" class="rounded" >}}
+{{< lightgallery id="plans" filter="images/plans/floor-plan-lower.jpg" size="800x600 q75" >}}
 
 ## Main room
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4511.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4513.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4514.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4515.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4516.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="main-room" filter="images/main-room/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -32,12 +27,7 @@ The 1,500+ sq ft of fully finished walkout lower level space is great for workin
 
 Part of the main room. Partial kitchen and dedicated side bar area.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4517.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4518.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4519.jpg" >}}
-  {{< img src="img/interior/lower-main-room/IMG_4520.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="kitchenette" filter="images/kitchenette/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -52,11 +42,7 @@ Part of the main room. Partial kitchen and dedicated side bar area.
 
 ## Office
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-office/IMG_4587.jpeg" >}}
-  {{< img src="img/interior/lower-office/IMG_4588.jpeg" >}}
-  {{< img src="img/interior/lower-office/IMG_4589.jpeg" >}}
-{{< /carousel >}}
+{{< lightgallery id="office" filter="images/office/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -70,12 +56,7 @@ Part of the main room. Partial kitchen and dedicated side bar area.
 
 Enjoy the dedicated home theater room with stadium seating and a 7.1 surround sound speaker and subwoofer arrangement. The room is positioned in the rear of the lower level to minimize natural light intrusion.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/home-theater/IMG_4521.jpg" >}}
-  {{< img src="img/interior/home-theater/IMG_4524.jpg" >}}
-  {{< img src="img/interior/home-theater/IMG_4522.jpg" >}}
-  {{< img src="img/interior/home-theater/IMG_4523.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="home-theater" filter="images/home-theater/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -102,10 +83,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 
 ## Full bath
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-bathroom/IMG_4528.jpg" >}}
-  {{< img src="img/interior/lower-bathroom/IMG_4529.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="bath" filter="images/bath/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -121,12 +99,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 
 12' x 16' bedbroom with expansive windows to take in the view.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-bedroom/IMG_4531.jpg" >}}
-  {{< img src="img/interior/lower-bedroom/IMG_4533.jpg" >}}
-  {{< img src="img/interior/lower-bedroom/IMG_4532.jpg" >}}
-  {{< img src="img/interior/lower-bedroom/IMG_4534.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="bedroom" filter="images/bedroom/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -138,30 +111,17 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 
 Make use of two partially finished utility rooms for hobbies and off season storage of outside furniture.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-partially-unfinished/IMG_4506.jpg" >}}
-  {{< img src="img/interior/lower-partially-unfinished/IMG_4504.jpg" >}}
-  {{< img src="img/interior/lower-partially-unfinished/IMG_4505.jpg" >}}
-  {{< img src="img/interior/lower-partially-unfinished/IMG_4507.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="partially-unfinished" filter="images/partially-unfinished/*" size="200x120 q75" >}}
 
 ## Storage and mechanical rooms
 
 Take advantage of two separate storage and mechanical rooms to store seasonal and other items.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/lower-unfinished/IMG_4508.jpg" caption="West HVAC and storage" >}}
-  {{< img src="img/interior/lower-unfinished/IMG_4510.jpg" caption="West HVAC and storage" >}}
-  {{< img src="img/interior/lower-unfinished/IMG_4525.jpg" caption="East HVAC and storage" >}}
-  {{< img src="img/interior/lower-unfinished/IMG_4526.jpg" caption="East HVAC and storage" >}}
-  {{< img src="img/interior/lower-unfinished/IMG_4527.jpg" caption="East HVAC and storage" >}}
-{{< /carousel >}}
+{{< lightgallery id="unfinished" filter="images/unfinished/*" size="200x120 q75" >}}
 
 ## Patio
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/patio/patio-winter.jpeg" caption="View from patio" >}}
-{{< /carousel >}}
+{{< lightgallery id="patio" filter="images/patio/*" size="200x120 q75" >}}
 
 | | |
 |-|-|

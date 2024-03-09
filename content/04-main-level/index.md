@@ -1,21 +1,16 @@
 ---
 title: Main Level
 type: minimal
+lightgallery: true
 ---
 
 Offering over 3,200 sq ft of living space, the majority of your day-to-day living will be on the main level.
 
-{{< image src="img/plans/floor-plan-main.jpg" wrapper="col mx-auto" class="rounded" >}}
+{{< lightgallery id="plans" filter="images/plans/floor-plan-main.jpg" size="800x600 q75" >}}
 
 ## Entry and main hall
 
-{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/entry/IMG_4439.jpg" >}}
-{{< /carousel >}}
-
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/entry/IMG_4465.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="entry" filter="images/entry/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -27,14 +22,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Kitchen and pantry
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/kitchen/IMG_4441.jpg" >}}
-  {{< img src="img/interior/kitchen/IMG_4440.jpg" >}}
-  {{< img src="img/interior/kitchen/IMG_4442.jpg" >}}
-  {{< img src="img/interior/kitchen/IMG_4443.jpg" >}}
-  {{< img src="img/interior/kitchen/IMG_4444.jpg" >}}
-  {{< img src="img/interior/kitchen/IMG_4447.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="kitchen" filter="images/kitchen/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -64,11 +52,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Dining area
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/dining-room/IMG_4454.jpg" >}}
-  {{< img src="img/interior/dining-room/IMG_4455.jpg" >}}
-  {{< img src="img/interior/dining-room/IMG_4456.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="dining-room" filter="images/dining-room/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -80,12 +64,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Sun room
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/sun-room/IMG_4450.jpg" >}}
-  {{< img src="img/interior/sun-room/IMG_4451.jpg" >}}
-  {{< img src="img/interior/sun-room/IMG_4452.jpg" >}}
-  {{< img src="img/interior/sun-room/IMG_4453.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="sun-room" filter="images/sun-room/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -99,18 +78,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Deck
 
-{{< carousel ratio="16x9" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/deck/deck-winter-sunset.jpeg" caption="Winter sunsets" >}}
-  {{< img src="img/deck/deck-winter-east.jpeg"  >}}
-  {{< img src="img/deck/IMG_4496.jpeg" >}}
-  {{< img src="img/deck/IMG_4498.jpeg" >}}
-  {{< img src="img/deck/IMG_4499.jpeg" >}}
-  {{< img src="img/deck/IMG_4500.jpeg" caption="Looking south toward Missouri River bluffs and Franklin county" >}}
-  {{< img src="img/deck/IMG_4502.jpeg" caption="View from deck" >}}
-  {{< img src="img/deck/IMG_4503.jpeg" caption="View from deck looking southeast toward Katy Trail" >}}
-  {{< img src="img/deck/IMG_4497.jpeg" caption="View from deck to Katy Trail" >}}
-  {{< img src="img/deck/under-deck.jpeg"  >}}
-{{< /carousel >}}
+{{< lightgallery id="deck" filter="images/deck/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -126,11 +94,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Mud / Laundry room
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/laundry-room/IMG_4434.jpg" >}}
-  {{< img src="img/interior/laundry-room/IMG_4432.jpg" >}}
-  {{< img src="img/interior/laundry-room/IMG_4435.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="laundry-room" filter="images/laundry-room/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -149,9 +113,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 
 ## Mud / Laundry room 1/2 bath
 
-{{< carousel class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/laundry-room/IMG_4437.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="laundry-bath" filter="images/laundry-bath/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -170,14 +132,7 @@ Fully enclosed breezeway access between the garage and the main home.
 
 Enjoy the expansive south-facing views of the Missouri River and Femme Osage Creek valleys through the wall of windows in your living room.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/living-room/IMG_4461.jpg" >}}
-  {{< img src="img/interior/living-room/IMG_4458.jpg" >}}
-  {{< img src="img/interior/living-room/IMG_4459.jpg" >}}
-  {{< img src="img/interior/living-room/IMG_4462.jpg" >}}
-  {{< img src="img/interior/living-room/IMG_4463.jpg" >}}
-  {{< img src="img/interior/living-room/IMG_4466.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="living-room" filter="images/living-room/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -194,9 +149,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 ## Living room dry bar
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/living-room/IMG_4460.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="living-room-bar" filter="images/living-room-bar/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -207,9 +160,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 ## Main hall 1/2 bath
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/entry/IMG_4494.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="hall-bath" filter="images/hall-bath/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -221,12 +172,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 ## Second bedroom
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/second-bedroom/IMG_4472.jpg" >}}
-  {{< img src="img/interior/second-bedroom/IMG_4473.jpg" >}}
-  {{< img src="img/interior/second-bedroom/IMG_4475.jpg" >}}
-  {{< img src="img/interior/second-bedroom/IMG_4476.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="second-bedroom" filter="images/second-bedroom/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -240,11 +186,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 
 Choose whether you want to use this room as an office, bedroom, or both.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/office/IMG_4467.jpg" >}}
-  {{< img src="img/interior/office/IMG_4468.jpg" >}}
-  {{< img src="img/interior/office/IMG_4469.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="office" filter="images/office/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -255,22 +197,13 @@ Choose whether you want to use this room as an office, bedroom, or both.
 
 ## Jack-n-jill bath
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/jack-n-jill-bath/IMG_4470.jpg" >}}
-  {{< img src="img/interior/jack-n-jill-bath/IMG_4471.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="jack-n-jill-bath" filter="images/jack-n-jill-bath/*" size="200x120 q75" >}}
 
 ## Primary bedroom
 
 Spacious primary bedroom has an adjoining sitting area with expansive windows overlooking the lower land, iron bridge, and creek and river valleys.
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/primary-bedroom/IMG_4478.jpg" >}}
-  {{< img src="img/interior/primary-bedroom/IMG_4479.jpg" >}}
-  {{< img src="img/interior/primary-bedroom/IMG_4480.jpg" >}}
-  {{< img src="img/interior/primary-bedroom/IMG_4481.jpg" >}}
-  {{< img src="img/interior/primary-bedroom/IMG_4482.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="primary-bedroom" filter="images/primary-bedroom/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -280,29 +213,9 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 |**Amplifier**|Speakers are powered by a dedicated [VSSL A.1X](https://www.vssl.com/products/vssl-a-1x-home) AirPlay 2 amplifier|
 {.table}
 
-## Primary bedroom walk-in closet
-
-Spacious walk-in closet with Container Store shelving and drawers and a built-in fold-down ironing board.
-
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/primary-bedroom/IMG_4483.jpg" >}}
-  {{< img src="img/interior/primary-bedroom/IMG_4484.jpg" >}}
-  {{< img src="img/interior/primary-bedroom/IMG_4485.jpg" >}}
-{{< /carousel >}}
-
 ## Primary bath
 
-{{< carousel ratio="4x3" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/primary-bath/IMG_4487.jpg" >}}
-  {{< img src="img/interior/primary-bath/IMG_4486.jpg" >}}
-  {{< img src="img/interior/primary-bath/IMG_4488.jpg" >}}
-  {{< img src="img/interior/primary-bath/IMG_4493.jpg" >}}
-{{< /carousel >}}
-
-{{< carousel portrait="true" class="col-sm-20 col-lg-20 mx-auto" >}}
-  {{< img src="img/interior/primary-bath/IMG_4490.jpg" >}}
-  {{< img src="img/interior/primary-bath/IMG_4492.jpg" >}}
-{{< /carousel >}}
+{{< lightgallery id="primary-bath" filter="images/primary-bath/*" size="200x120 q75" >}}
 
 | | |
 |-|-|
@@ -314,5 +227,11 @@ Spacious walk-in closet with Container Store shelving and drawers and a built-in
 |**Exhaust fans**|Panasonic WhisperCeiling exhaust fans: 1 for shower area and 1 for water closet/toilet room|
 |**Speakers**|2 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
 {.table}
+
+## Primary bedroom walk-in closet
+
+Spacious walk-in closet with Container Store shelving and drawers and a built-in fold-down ironing board.
+
+{{< lightgallery id="primary-closet" filter="images/primary-closet/*" size="200x120 q75" >}}
 
 {{< button color="primary" href="/05-lower-level/"outline="true" >}}Lower Level{{< /button >}}
