@@ -22,7 +22,11 @@ The walkout finished lower level is great for working from home, guests, movies,
 
 ## Optional accessory structure
 
-Take advantage of an already approved county variance to build your own detached accessory structure on the property. For example, you could build a detached garage or pole barn to augment the existing garage.
+Take advantage of an already approved county variance to build an accessory structure on the property. For example, you could build a detached garage or pole barn to augment the existing garage. Per the county development ordinance, the maximum size is of an accessory structure for the 5.25-acre parcel in the agricultural district of the county is 4,800 sq ft.
+
+See the [St Charles County Unified Development Ordinance](https://ecode360.com/27756317) for details on accessory structure requirements.
+
+{{< lightgallery id="accessory" filter="images/accessory/*" size="600x400 q75" >}}
 
 ## Construction
 

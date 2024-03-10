@@ -6,9 +6,10 @@ lightgallery: true
 ---
 
 ## Highlights
-Custom built in 2006 with a classic craftsman style exterior and eight gables, the home has been kept up-to-date with the latest technology. 
 
-For example, gigabit fiber internet service was connected in 2022 along with the installation of new WiFi access points throughout the home, garage, and outdoor spaces. High-speed internet coupled with a dedicated home office space with a view and easy access to outdoor areas for breaks, makes the home ideal for remote working. 
+The 5.25-acre property is located in the southwestern portion of St Charles County in an area zoned as an [agricultural district](https://ecode360.com/27756246). All new residential development in this district is required to have home sites with at least 5 acres. 
+
+Custom built in 2006 with a classic craftsman style exterior and eight gables, the home has been kept up-to-date with the latest technology. For example, gigabit fiber internet service was installed in 2022 along with new WiFi access points throughout the home, garage, and outdoor spaces. High-speed internet coupled with a dedicated home office space with a view and easy access to outdoor areas for breaks, makes the home ideal for remote working. 
 
 |     |       |     |
 | --------- | -------- | ------ |
@@ -63,5 +64,5 @@ From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to 
 {{< lightgallery id="katy" filter="images/katy/*" size="100x100 q75" >}}
 
 {{< button-group aria-label="Basic example" >}}
-  {{< button color="primary" href="/02-the-property/" outline="true" >}}The Property{{< /button >}}
+  {{< button color="primary" href="/02-the-property/" outline="true" >}}Next: The Property{{< /button >}}
 {{< /button-group >}}

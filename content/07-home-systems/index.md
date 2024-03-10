@@ -25,7 +25,7 @@ A separate rack in the garage houses the internet fiber modem and other equipmen
 
 All wireless access points were installed in 2022 at about the same time gigabit fiber internet service was established. Depending on your device, the WiFi 6 access points are capable of providing up to ~500Mbps wireless speeds throughout the home and outside. (Wired ethernet speeds are higher).
 
-{{< lightgallery id="wifi" filter="images/unifi-devices.jpeg" size="100x100 q75" >}}
+{{< lightgallery id="wifi" filter="images/unifi-devices.jpeg" size="600x400 q75" >}}
 
 | | |
 |-|-|
