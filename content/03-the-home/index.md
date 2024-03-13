@@ -48,7 +48,7 @@ See the {{< link udc >}}St Charles County Unified Development Ordinance{{</link 
 
 | | |
 |:--------------------------------------------|:----|
-|**Siding**|Fiber cement siding and trim throughout. [James Hardie Plank Lap Siding Cedar Mill](https://www.jameshardie.com/products/hardieplank-lap-siding), [Hardie Shingle Siding](https://www.jameshardie.com/products/hardieshingle-siding) on gables, and [Hardie Trim boards](https://www.jameshardie.com/products/hardietrim-boards)|
+|**Siding**|Fiber cement siding and trim throughout. {{< link hardie-lap >}}James Hardie Plank Lap Siding{{</link >}}, {{< link hardie-shingle >}}Hardie Shingle Siding{{</link >}} on gables, and {{< link hardie-trim >}}Hardie Trim boards{{</link >}}|
 |**Tapered columns**|Low maintenance craftsmen style tapered columns line the front porch and underpin the rear deck|
 |**Exterior paint**|Complete exterior painted in September 2022|
 {.table}
@@ -59,9 +59,9 @@ See the {{< link udc >}}St Charles County Unified Development Ordinance{{</link 
 |-|-|
 |**Roof material**|GAF Timberline HD shingles and Rhino Synthetic underlayment installed in 2021. 50-year System Plus limited warranty.|
 |**Roof ventilation**|Low visual impact ridge vents with soffit ventilation on garage and main structure|
-|**Roof animal protection**|[Ridge-Guard](https://www.animaltrapsandsupplies.com/products/ridgeguard-ridge-vent-animal-exclusion.html) metal mesh protection from animals along all ridge vents|
+|**Roof animal protection**|{{< link ridge-guard >}}Ridge-Guard{{</link >}} metal mesh protection from animals along all ridge vents|
 |**Exhaust vents**|Exhaust fan and water vents positioned on rear of the main roof are hidden from the front approach and Katy trail views of the home|
-|**Soffits**|Fiber cement [Hardie Soffit Panels Vented Cedarmill](https://www.jameshardie.com/products/hardiesoffit-panels)|
+|**Soffits**|Fiber cement {{< link hardie-soffit >}}Hardie Soffit Panels Vented Cedarmill{{</link >}}|
 |**Gutters**|Oversized 6" aluminum|
 |**Gutter guards**|Stainless steel mesh gutter guards installed throughout|
 |**Gutter drainage**|Underground gutter drains used to transfer water down slope and away from the home and garage footprint|
@@ -101,7 +101,7 @@ See the {{< link udc >}}St Charles County Unified Development Ordinance{{</link 
 
 | | |
 |-|-|
-|**Sprinkler controller**|[Rachio 16ZULW-C](https://rachio.com/products/rachio-3/) 16 zone, 3rd generation smart sprinkler controller|
+|**Sprinkler controller**|{{< link rachio >}}Rachio 16ZULW-C{{</link >}} 16 zone, 3rd generation smart sprinkler controller|
 |**Zones**|16-zone system including zoned master valve. One of the zones is dedicated for drip watering plants on the deck.|
 {.table}
 
@@ -124,9 +124,9 @@ See the {{< link udc >}}St Charles County Unified Development Ordinance{{</link 
 
 | | |
 |-|-|
-|**Interior doors**|[Allegheny Wood Works (Pennsylvania)](https://solidhardwooddoors.com) solid wood 4-panel doors in cherry (25 quantity) throughout in natural finish|
+|**Interior doors**|{{< link allegheny >}}Allegheny Wood Works (Pennsylvania){{</link >}} solid wood 4-panel doors in cherry (25 quantity) throughout in natural finish|
 |**Interior door casings/trim**|Custom, white finish|
-|**Interior door handles and knobs**|[Emtek Luzern lever handsets](https://www.emtek.com/all-products/door-hardware/knobs-lever-and-rosettes/leversets/luzern-leverset/) in oil rubbed bronze on many of the cherry interior doors. Emtek knobs on remaining cherry interior doors.|
+|**Interior door handles and knobs**|{{< link emtek >}}Emtek Luzern lever handsets{{</link >}} in oil rubbed bronze on many of the cherry interior doors. Emtek knobs on remaining cherry interior doors.|
 {.table}
 
 ## Exterior doors
@@ -135,7 +135,7 @@ See the {{< link udc >}}St Charles County Unified Development Ordinance{{</link 
 |-|-|
 |**Door width**|All main exterior doors are 36" wide|
 |**Front entry door**|Therma Tru Fiber-Classic Craft|
-|**Patio doors**|[Loewen Douglas Fir extruded aluminum clad glass terrace doors](https://www.loewen.com/terrace-door/) leading to deck amd patio|
+|**Patio doors**|{{< link terrace >}}Loewen Douglas Fir extruded aluminum clad glass terrace doors{{</link >}} leading to deck amd patio|
 |**Secondary exterior doors**|Therma Tru fiberglass|
 {.table}
 
@@ -143,7 +143,7 @@ See the {{< link udc >}}St Charles County Unified Development Ordinance{{</link 
 
 | | |
 |-|-|
-|**Windows**|Premium Loewen [Douglas Fir](https://www.loewen.com/product-features/wood-species/) [extruded aluminum clad](https://www.loewen.com/product-features/aluminum-cladding/) in natural wood finish. Mixture of casement, awning, and double hung (sun room).|
+|**Windows**|{{< link doug-fir >}}Loewen Coastal Douglas Fir{{</link >}} and {{< link clad >}}extruded aluminum clad{{</link >}} in natural wood finish. Mixture of casement, awning, and double hung (sun room).|
 |**Interior window casings/trim**|Matching Douglas Fir in natural wood finish|
 {.table}
 
@@ -152,7 +152,7 @@ See the {{< link udc >}}St Charles County Unified Development Ordinance{{</link 
 | | |
 |-|-|
 |**Faucets, shower heads, and sinks**|Grohe and Kohler faucets, shower heads, and sinks throughout|
-|**Toilets**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
+|**Toilets**|{{< link toto >}}Toto Drake{{</link >}} ADA height with elongated bowl|
 {.table}
 
 ## Lighting
