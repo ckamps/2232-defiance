@@ -120,7 +120,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |**Sink**|Kohler wall mount sink|
 |**Wainscotting**|Tile wainscotting|
 |**Window**|Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish with divided lites and privacy glass. |
-|**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
+|**Toilet**|{{< link toto >}}Toto Drake{{</link >}} ADA height with elongated bowl|
 |**Exhaust fan**|Panasonic WhisperCeiling fan|
 {.table}
 
@@ -143,8 +143,8 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |**TV**|Samsung 60" SUHD 4K Flat Smart TV JS7000|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A2169)|
 |**Speakers**|5.1 surround configuration. Klipsch center channel speaker, front speakers, and powered subwoofer. Polk Audio RC60i ceiling speakers (2) act as rear channels|
-|**A/V receiver**|Dedicated [Yamaha RX-V4A](https://usa.yamaha.com/products/audio_visual/av_receivers_amps/rx-v4a/index.html) 5.2 channel A/V receiver amplifier|
-|**Uninterruptable Power Supply (UPS)**|A ... provides back up power and helps protect the equipment in case of power outages and power spikes|
+|**A/V receiver**|Dedicated Yamaha RX-V4A 5.2 channel A/V receiver amplifier|
+|**Uninterruptable Power Supply (UPS)**|A dedicated UPS provides back up power and helps protect the equipment in case of power outages and power spikes|
 {.table}
 
 ## Living room dry bar
@@ -166,7 +166,7 @@ Enjoy the expansive south-facing views of the Missouri River and Femme Osage Cre
 |-|-|
 |**Sink**|Kohler pedastal sink|
 |**Wainscotting**|Cherry wainscotting|
-|**Toilet**|[Toto Drake ADA height with elongated bowl](https://www.totousa.com/drake-two-piece-toilet-16-gpf-elongated-bowl)|
+|**Toilet**|{{< link toto >}}Toto Drake{{</link >}} ADA height with elongated bowl|
 |**Exhaust fan**|Panasonic WhisperCeiling fan|
 {.table}
 
@@ -199,6 +199,16 @@ Choose whether you want to use this room as an office, bedroom, or both.
 
 {{< lightgallery id="jack-n-jill-bath" filter="images/jack-n-jill-bath/*" size="100x100 q75" >}}
 
+| | |
+|-|-|
+|**Cabinets**|Medallion Gold Cherry cabinets. Quiet close drawers with dovetail joints.|
+|**Counter**|Integrated bowl|
+|**Tub/Shower**|Extra tall Onyx shower walls with extra height shower fixture|
+|**Water closet / toilet**|Dedicated room with solid wood Cherry door|
+|**Toilet**|{{< link toto >}}Toto Drake{{</link >}} ADA height with elongated bowl|
+|**Exhaust fans**|Panasonic WhisperCeiling exhaust fan: 1 for shower area and 1 for water closet/toilet room|
+{.table}
+
 ## Primary bedroom
 
 Spacious primary bedroom has an adjoining sitting area with expansive windows overlooking the lower land, iron bridge, and creek and river valleys.
@@ -210,7 +220,7 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 |**Ceiling fan**|Casablanca Panama fan with smart switch|
 |**Speakers**|4 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
 |**Speaker selector**|Speaker selector and volume control for independent volume adjustment of 2 pairs of speakers in bedroom and 1 pair of speakers in primayr bath.|
-|**Amplifier**|Speakers are powered by a dedicated [VSSL A.1X](https://www.vssl.com/products/vssl-a-1x-home) AirPlay 2 amplifier|
+|**Amplifier**|Speakers are powered by a dedicated {{< link vssl >}}VSSL A.1X{{</link >}} AirPlay 2 amplifier|
 {.table}
 
 ## Primary bath
@@ -220,10 +230,11 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 | | |
 |-|-|
 |**Cabinets**|Medallion Gold Cherry cabinets. Quiet close drawers with dovetail joints.|
-|**Counter**|Granite|
+|**Counters**|Granite|
 |**Whirlpool tub**|Air jet powered, LED lighted chroma therapy tub|
 |**Shower**|Extra large shower area without door|
 |**Water closet / toilet**|Dedicated room with solid wood Cherry door|
+|**Toilet**|{{< link toto >}}Toto Drake{{</link >}} ADA height with elongated bowl|
 |**Exhaust fans**|Panasonic WhisperCeiling exhaust fans: 1 for shower area and 1 for water closet/toilet room|
 |**Speakers**|2 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
 {.table}

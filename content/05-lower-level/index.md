@@ -16,8 +16,8 @@ The 1,500+ sq ft of fully finished walkout lower level space is great for workin
 |-|-|
 |**Walls and ceiling**|Fully finished walls and drywall ceiling|
 |**Flooring**|17 1/2" square tile floor|
-|**Wireless network**|PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point integrated with home wireless router for centralized control|
-|**TV**|[Samsung 65" Class RU8000 Premium Smart 4K UHD TV](https://www.samsung.com/us/televisions-home-theater/tvs/premium-uhd-tvs/65--class-ru8000-premium-smart-4k-uhd-tv--2019--un65ru8000fxza/) integrated with dedicated Yamaha A/V receiver, Apple TV, and ceiling speakers|
+|**Wireless network**|PoE powered ceiling mounted {{< link unifi-u6-lr >}}Unifi U6-LR WiFi 6{{</link >}} wireless access point integrated with home wireless router for centralized control|
+|**TV**|{{< link samsung-ru8000 >}}Samsung 65" Class RU8000 Premium Smart 4K UHD TV{{</link >}} integrated with dedicated Yamaha A/V receiver, Apple TV, and ceiling speakers|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
 |**Speakers**|4 Polk Audio RC60i ceiling speakers|
 |**A/V receiver**|Dedicated Yamaha RX-V481 A/V receiver amplifier in lower level unfinished room|
@@ -62,7 +62,7 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |-|-|
 |**Dimensions**|15' wide x 19' deep|
 |**Screen**|120" diagonal screen|
-|**Stadium seating**|[Valencia Tuscany](https://us.valenciatheaterseating.com/products/valencia-tuscany) leather, power reclining, power lumbar support, power headrest. Six chairs: two rows of three seats each in a stadium seating configuration.|
+|**Stadium seating**|{{< link theater-seats >}}Valencia Tuscany{{</link >}} leather, power reclining, power lumbar support, power headrest. Six chairs: two rows of three seats each in a stadium seating configuration.|
 |**Carpeting**|Aids in sound absorption|
 |**Acoustic wall panels**|Color matched sound absorbing acoustic wall panels|
 |**Ceiling**|Black grid drop ceiling for easy access to mechanicals and wiring|
@@ -89,8 +89,9 @@ Enjoy the dedicated home theater room with stadium seating and a 7.1 surround so
 |-|-|
 |**Cabinets**|Medallion Gold Maple cabinets. Quiet close drawers with dovetail joints.|
 |**Counter**|Breccia Oniciata Rem marble with two vanity bowls|
-|**Shower**|Extra large shower area with privacy glass door|
+|**Shower**|Extra large shower area with frameless privacy glass door|
 |**Water closet / toilet**|Dedicated room with solid wood Cherry pocket door|
+|**Toilet**|{{< link toto >}}Toto Drake{{</link >}} ADA height with elongated bowl|
 |**Closet**|Dedicated closet for towels and other items|
 |**Exhaust fans**|Panasonic WhisperCeiling fans: 1 for shower area and 1 for water closet/toilet room|
 {.table}
