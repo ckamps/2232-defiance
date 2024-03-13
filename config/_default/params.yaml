@@ -2,16 +2,9 @@ main:
   separator: '-'
   description: 2232 South Highway 94, Defiance, Missouri 63341, Home for Sale
   endorse: false
- # enableDarkMode: true
- # modes:
- #   - light
- #   - dark
- # canonifyAssetsURLs: false
- # footerBelowFold: false
- # loading: lazy
-#  externalLinks:
-#    cue: true
-#    tab: true
+  externalLinks:
+    cue: true
+    tab: true
 #  build:
 #    transpiler: dartsass
 
@@ -39,3 +32,15 @@ home:
 
 sharing:
   enabled: false
+
+links:
+    google-maps: https://www.google.com/maps/search/?api=1&query=38.651210994217436%2C-90.76545807927727
+    ag-district: https://ecode360.com/27756246
+    katy: https://mostateparks.com/park/katy-trail-state-park
+    defiance-ridge: https://www.defianceridgevineyards.com
+    good-news: https://www.goodnewsbrewing.com
+    klondike-park: https://www.sccmo.org/690/Klondike-Park
+    augusta: https://www.townofaugustamo.org
+    udc: https://ecode360.com/27756317
+    huber: https://www.huberwood.com/advantech/subflooring
+    

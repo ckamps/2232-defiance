@@ -24,7 +24,7 @@ The walkout finished lower level is great for working from home, guests, movies,
 
 Take advantage of an already approved county variance to build an accessory structure on the property. For example, you could build a detached garage or pole barn to augment the existing garage. Per the county development ordinance, the maximum size is of an accessory structure for the 5.25-acre parcel in the agricultural district of the county is 4,800 sq ft.
 
-See the [St Charles County Unified Development Ordinance](https://ecode360.com/27756317) for details on accessory structure requirements.
+See the {{< link udc >}}St Charles County Unified Development Ordinance{{</link >}} for details on accessory structure requirements.
 
 {{< lightgallery id="accessory" filter="images/accessory/*" size="600x400 q75" >}}
 
@@ -34,7 +34,7 @@ See the [St Charles County Unified Development Ordinance](https://ecode360.com/2
 |:--------------------------|:----|
 |**Build year**|2006|
 |**Exterior walls**|Upgraded 2"x6" exterior wall framing (typical is 2"x4")|
-|**Subfloors**|[Huber AdvanTech](https://www.huberwood.com/advantech/subflooring) engineered tongue and groove subflooring|
+|**Subfloors**|{{< link huber >}}Huber AdvanTech{{</link >}} engineered tongue and groove subflooring|
 |**Floor joists**|Structurally engineered silent floor joists|
 |**Ceilings**|9'+ ceilings on main floor. 11'6" ceiling in garage.|
 |**Foundation**|Main structure's generous 10' foundation wall height provides additional lower level ceiling heights|

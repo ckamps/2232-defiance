@@ -7,7 +7,7 @@ lightgallery: true
 
 ## Highlights
 
-The 5.25-acre property is located in the southwestern portion of St Charles County in an area zoned as an [agricultural district](https://ecode360.com/27756246). All new residential development in this district is required to have home sites with at least 5 acres. 
+The 5.25-acre property is located in the southwestern portion of St Charles County in an area zoned as an {{< link ag-district >}}agricultural district{{</link >}} . All new residential development in this district is required to have home sites with at least 5 acres. 
 
 Custom built in 2006 with a classic craftsman style exterior and eight gables, the home has been kept up-to-date with the latest technology. For example, gigabit fiber internet service was installed in 2022 along with new WiFi access points throughout the home, garage, and outdoor spaces. High-speed internet coupled with a dedicated home office space with a view and easy access to outdoor areas for breaks, makes the home ideal for remote working. 
 
@@ -31,9 +31,8 @@ Situated well above the adjacent Femme Osage Creek and Missouri River bottoms on
 Nestled between two high-end communities with large 5-acre and 3-acre lots, bordered on three sides by dense woods and river bluff buffs and on two sides by the Katy Trail State Park and the Femme Osage Creek, the property provides a highly sought after country feeling. Yet you're only a 20-minute drive from a wide variety of services in Chesterfield Valley, O'Fallon, and Lake St Louis.
 
 {{< map lat=38.651210994217436 long=-90.76545807927727 zoom=11 popup="2232 S Hwy 94 Defiance 63341" popup-lat=38.651210994217436 popup-long=-90.76545807927727 >}}
-{{< button tooltip="View in Google Maps" href="https://www.google.com/maps/search/?api=1&query=38.651210994217436%2C-90.76545807927727" >}}
-    View in Google Maps
-{{< /button >}}
+
+{{< link google-maps >}}View in Google Maps{{</link >}}
 
 ## The views
 
@@ -57,9 +56,9 @@ See [Femme Osage Creek and Missouri River Access]({{<ref "08-recreation#femme-os
 
 ## Katy Trail State Park
 
-With over 400 feet of frontage on the [Katy Trail State Park](https://mostateparks.com/park/katy-trail-state-park), the longest developed rail-trail in the country, you'll have private access to over 240 miles of trail. Great for walking, running, and biking, the trail provides ready access to nearby wineries, restaurants, and other parks in the Defiance and Augusta. Venture further afield, and you can use the Katy trail to ride to old town St Charles, Chesterfield Valley, Washington, Missouri, and beyond.
+With over 400 feet of frontage on the {{< link katy >}}[Katy Trail State Park{{</link >}}, the longest developed rail-trail in the country, you'll have private access to over 240 miles of trail. Great for walking, running, and biking, the trail provides ready access to nearby wineries, restaurants, and other parks in the Defiance and Augusta. Venture further afield, and you can use the Katy trail to ride to old town St Charles, Chesterfield Valley, Washington, Missouri, and beyond.
 
-From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to [Defiance Ridge Vineyards](https://www.defianceridgevineyards.com/) and [Good News Brewery](https://www.goodnewsbrewing.com/) in Defiance. The jewel of [Klondike Park](https://www.sccmo.org/690/Klondike-Park) is just a 20-minute bike ride away while the wineries and restaurants of [Augusta](https://www.townofaugustamo.org/) are only 40 minutes by trail. 
+From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to {{< link defiance-ridge >}}Defiance Ridge Vineyards{{</link >}} and {{< link good-news >}}Good News Brewery{{</link >}} in Defiance. The jewel of {{< link klondike-park >}}Klondike Park{{</link >}} is just a 20-minute bike ride away while the wineries and restaurants of {{< link augusta >}}Augusta{{</link >}} are only 40 minutes by trail. 
 
 {{< lightgallery id="katy" filter="images/katy/*" size="100x100 q75" >}}
 
