@@ -58,6 +58,7 @@ Offering over 3,200 sq ft of living space, the majority of your day-to-day livin
 |-|-|
 |**Flooring**|Savannah Hardwoods 3/4" thick solid beech hardwood floors flow into kitchen and living room| 
 |**Bay Windows and Seating**|Spacious bay window seat with hidden storage. 2 casement windows and one fixed window provide views of the deck and lower land. Premium Loewen Douglas Fir extruded aluminum clad oval window in natural wood finish.|
+|**Wireless network**|A PoE powered ceiling mounted {{< link unifi-u6-pro >}}Unifi U6-PRO WiFi 6{{</link >}} wireless access point is integrated with home wireless router for centralized control|
 |**Lighting**|Ceiling accent lighting for dining room table and window seat|
 |**Speakers**|Two Polk Audio RC60i ceiling speakers (part of kitchen, dining room, and sun room zone)|
 {.table}
@@ -221,6 +222,7 @@ Spacious primary bedroom has an adjoining sitting area with expansive windows ov
 |**Speakers**|4 Polk Audio RC60i ceiling speakers (part of primary bedroom and primary bath zone)|
 |**Speaker selector**|Speaker selector and volume control for independent volume adjustment of 2 pairs of speakers in bedroom and 1 pair of speakers in primayr bath.|
 |**Amplifier**|Speakers are powered by a dedicated {{< link vssl >}}VSSL A.1X{{</link >}} AirPlay 2 amplifier|
+|**Wireless network**|A PoE powered ceiling mounted {{< link unifi-u6-pro >}}Unifi U6-PRO WiFi 6{{</link >}} wireless access point is integrated with home wireless router for centralized control|
 {.table}
 
 ## Primary bath

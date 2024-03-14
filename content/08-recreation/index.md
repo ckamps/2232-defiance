@@ -7,9 +7,7 @@ lightgallery: true
 
 ## Katy Trail State Park 
 
-With over 400 feet of frontage on the [Katy Trail State Park](https://mostateparks.com/park/katy-trail-state-park), the longest developed rail-trail in the country, you'll have private access to over 240 miles of trail. Great for walking, running, and biking, the trail provides ready access to nearby wineries, restaurants, and other parks in the Defiance and Augusta. Venture further afield, and you can use the Katy trail to ride to old town St Charles, Chesterfield Valley, Washington, Missouri, and beyond.
-
-From your backyard, it's an easy ~1-mile walk or bike ride on the Katy trail to [Defiance Ridge Vineyards](https://www.defianceridgevineyards.com/) and [Good News Brewery](https://www.goodnewsbrewing.com/) in Defiance. The jewel of [Klondike Park](https://www.sccmo.org/690/Klondike-Park) is just a 20-minute bike ride away while the wineries and restaurants of [Augusta](https://www.townofaugustamo.org/) are only 40 minutes by trail. 
+With over 400 feet of frontage on the {{< link katy >}}Katy Trail State Park{{</link >}}, the longest developed rail-trail in the country, you'll have private access to over 240 miles of trail. Great for walking, running, and biking, the trail provides ready access to nearby wineries, restaurants, and other parks in the Defiance and Augusta. Venture further afield, and you can use the Katy trail to ride to old town St Charles, Chesterfield Valley, Washington, Missouri, and beyond. 
 
 {{< lightgallery id="katy" filter="images/katy/*" size="100x100 q75" >}}
 
@@ -19,11 +17,11 @@ Use the Katy Trail as a means to bike to local points of interest including:
 
 |Distance|Point of Interest|
 |-|-|
-|1 mile|Defiance wineries, [Good News Brewery](https://www.goodnewsbrewing.com/), and taverns| 
+|1 mile|{{< link defiance-ridge >}}Defiance Ridge Vineyards{{</link >}}, {{< link good-news >}}Good News Brewery{{</link >}}, and taverns| 
 |5 miles|I-64/Highway 40 Boone Bridge and bike access to Chesterfield Valley including the levee bike trail|
-|6 miles|Klondike Park|
-|10 miles|The District restaurants and outdoor venue in Chesterfield Valley via the I-64/Highway 40 Boone Bridge|
-|10 miles|Augusta, MO wineries and restaurants|
+|6 miles|{{< link klondike-park >}}Klondike Park{{</link >}}|
+|10 miles|{{< link the-district >}}The District{{</link >}} restaurants and outdoor venue in Chesterfield Valley via the I-64/Highway 40 Boone Bridge|
+|10 miles|{{< link augusta >}}Augusta{{</link >}} wineries and restaurants|
 |18 miles|Washington, MO restaurants and shops|
 |19 miles|Old town St Charles, MO restaurants and shops|
 {.table}
@@ -42,13 +40,19 @@ If you're into gravel biking, you'll have easy access to the nearby 5-mile sceni
 
 The Katy Trail oiffers easy access to the following popular mountain biking trails:
 
-* 1 mile to the Lost Valley trailhead
-* 2 miles to Matson Hill Park
-* 6 miles to Klondike Park
+* 1 mile to {{< link lost-valley-trail >}}Lost Valley Trail{{</link >}}
+* 2 miles to {{< link matson >}}Matson Hill Park{{</link >}} ({{< link matson-map >}}map{{</link >}})
+* 6 miles to {{< link klondike-park >}}Klondike Park{{</link >}} ({{< link klondike-park-map >}}map{{</link >}})
 
 ## Running
 
 The crushed rock surface and scenery of the Katy Trail offer a great running experience. If you're into single track trail running, you can use the Katy Trail to access the nearby Lost Valley (1 mile via the Katy) and Lewis and Clark (4 miles via the Katy) trail systems.
+
+## Hiking
+
+Offering 5- and 8-mile options, the {{< link lewis-and-clark >}}Lewis and Clark hiking trail{{</link >}} with is just either a 5-minute drive or a 20-minute bike ride on the Katy Trail.
+
+The 11-mile {{< link lost-valley-trail >}}Lost Valley Trail{{</link >}} is just 1 mile away via the Katy Trail.
 
 ## Femme Osage Creek and Missouri River access
 
@@ -70,14 +74,11 @@ Winter is typically the low water season for the Femme Osage Creek. During winte
 
 As spring arrives and snowmelt and rain occur in the upper Missouri River basin, the river level rises and typically begins to back up into the creek. We call the resulting rise of the creek the backwater state of the creek. A certain levels of backwater, you can paddle a canoe or paddleboard all the way from the home to the river 1.75 miles away. At higher backwater levels, john boats are able to navigate from the river all the way up the creek and even past the home.
 
-The National Weather Service (NWS) has a river water level and flow [monitoring station at Washington MO](https://water.weather.gov/ahps2/hydrograph.php?gage=whgm7&wfo=lsx). By monitoring the Washington gauge, you can get a good idea of the impact to the water level of the Femme Osage Creek.
+The National Weather Service (NWS) has a river water level and flow {{< link nws-washington >}}monitoring station at Washington MO{{</link >}}. By monitoring the Washington gauge, you can get a good idea of the impact to the water level of the Femme Osage Creek.
 
 To give you an idea of how the creek water levels change over a typical year and across years, the following graph shows river water levels at Washington for the past 13 years along with key river water levels that enable certain activies and distances along the creek.
 
 {{< plotly json="/json/river-levels.json" width="1800px" height="600px" >}}
 
-## Hiking
 
-Offering 5- and 8-mile options, the [Lewis and Clark hiking trail](https://www.alltrails.com/trail/us/missouri/lewis-and-clark-trail-and-lewis-trail-loop) with is just either a 5-minute drive or a 20-minute bike ride on the Katy Trail.
-
-The 11-mile [Lost Valley trail](https://www.alltrails.com/trail/us/missouri/lost-valley-trail-loop) is just 1 mile away via the Katy Trail.
+{{< button color="primary" href="/contact/"outline="true" >}}Next: Learn More{{< /button >}}

@@ -30,7 +30,7 @@ The fully enclosed breezeway provides sheltered access to the main level of the 
 |-|-|
 |**Garage doors 1 and 2**|Oversize 10' wide x 9' tall|
 |**Garage door 3**|Oversize 12' wide x 9' tall. Sufficient outer wall framing and ceiling height exists to enable future height extension. For example, to accommodate a lifted Sprinter or similar RV.|
-|**Style**|Color coordinated, multi-panel [Clopay Coachman](https://www.clopaydoor.com/coachman) steel insulated doors with exterior wood grain texture and top windows| 
+|**Style**|Color coordinated, multi-panel {{< link clopay >}}Clopay Coachman{{</link >}} steel insulated doors with exterior wood grain texture and top windows| 
 |**Garage door openers**|Chamberlain LiftMaster 3/4 HP garage door openers|
 |**Automation**|Meross Smart Garage Door Opener Remote. In addition to wall-mounted door controls, the garage door openers are smart home connected for remote control and monitoring via Apple Home, Siri, Alexa, etc|
 {.table}
@@ -76,7 +76,7 @@ Take advantage of the large volume air compressor in the attic and a ceiling mou
 | | |
 |-|-|
 |**Network rack**|A wall mounted enclosed networking rack houses internet fiber connection, internet modem, network switch for PoE cameras, and garage A/V components|
-|**Wireless network**|A PoE powered ceiling mounted [Unifi L6-LR WiFi 6](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-lr) wireless access point is integrated with home wireless router for centralized control|
+|**Wireless network**|A PoE powered ceiling mounted {{< link unifi-u6-lr >}}Unifi U6-LR WiFi 6{{</link >}} wireless access point is integrated with home wireless router for centralized control|
 |**Wall mount TV**|Samsung 55" TU690T Crystal UHD 4K Smart Tizen TV|
 |**Speakers**|Wall mounted Klipsch AW-650 Indoor/Outdoor 8 inch speakers|
 |**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
