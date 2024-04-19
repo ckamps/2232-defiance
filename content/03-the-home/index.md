@@ -25,7 +25,7 @@ The walkout finished lower level is great for working from home, guests, movies,
 Take advantage of an already approved county variance to build an accessory structure on the property. The approved variance calls for an accessory structure of 34' x 24' deep (816 sq feet) with an interior ceiling height of ~10'. The structure would be positioned at least 10' from the north side property line, at least 50' from the west property line, and roughly in line with the existing attached garage. The front of the structure would be either parallel to or slightly behind the front line of the existing attached garage and would not be overlapping with the main living structure of the existing home. This variance does not expire.
 
 If you'd like to construct a larger accessory structure, you could vie for another variance that goes beyond the dimensions referenced in the existing variance. Per county development ordinance, the maximum size of an accessory structure for a 5.25-acre parcel in the agricultural district of the county is 4,800 sq ft. See the {{< link udc >}}St Charles County Unified Development Ordinance{{</link >}} for details on accessory structure requirements.
-
+ 
 {{< lightgallery id="accessory" filter="images/accessory/*" size="600x400 q75" >}}
 
 ## Construction
