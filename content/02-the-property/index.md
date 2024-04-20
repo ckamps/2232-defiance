@@ -104,6 +104,7 @@ Common wildlife in the area include:
 * Coyote
 * Bobcat
 * Foxes
+* Wild Turkey
 
 {{< lightgallery id="wildlife" filter="images/wildlife/*" size="100x100 q75" >}}
 
