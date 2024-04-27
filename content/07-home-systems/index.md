@@ -83,7 +83,7 @@ Multiple zones of home audio and video are included with the home.
 |**Uninterruptable Power Supply (UPS)**|A dedicated UPS provides back up power and helps protect the equipment in case of power outages and power spikes|
 {.table}
 
-### Primary Becdroom, Sitting Area, Bathroom
+### Primary Bedroom, Sitting Area, Bathroom
 
 | | |
 |-|-|
