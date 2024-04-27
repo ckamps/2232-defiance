@@ -48,6 +48,69 @@ All wireless access points were installed in 2022 at about the same time gigabit
 |**Satellite ready**|If you prefer satellite TV, a dish pole mount exists hidden behind the garage. Conduit is already in place to easily run coax from a dish to the garage and main home's lower level.|
 {.table}
 
+## Home audio zones and amplifiers
+
+Multiple zones of home audio and video are included with the home.
+
+### Kitchen, Dining, and Sun Room
+
+| | |
+|-|-|
+|**TV**|23" LED in dedicated TV cabinet|
+|**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
+|**Speakers**|Six Polk Audio RC60i ceiling speakers. 2 speakers in each room: kitchen, dining room, and sun room.|
+|**Speaker selector**|Speaker selector and volume control for independent volume adjustment of kitchen, dining room, and sun room ceiling speakers|
+|**Amplifier**|Speakers are powered by a dedicated Yamaha RX-V483 A/V receiver amplifier in lower level systems rack. Powers kitchen, dining room, and sun room ceiling speakers via the speaker switch in the kitchen|
+|**Uninterruptable Power Supply (UPS)**|A 750VA/450W CyberPower EC750G Ecologic Battery Backup & Surge Protector UPS System provides back up power and helps protect the equipment in case of power outages and power spikes|
+{.table}
+
+### Deck
+
+| | |
+|-|-|
+|**Speakers**|Under eave mounted Polk Audio Atrium 5 outdoor speakers|
+|**Amplifier**|Speakers are powered by a dedicated Yamaha RX-V485 amplifier with Apple AirPlay 2 located in lower level systems rack|
+{.table}
+
+### Living Room
+
+| | |
+|-|-|
+|**TV**|Samsung 60" SUHD 4K Flat Smart TV JS7000|
+|**Apple TV**|Dedicated Apple TV 4K 32GB (A2169)|
+|**Speakers**|5.1 surround configuration. Klipsch center channel speaker, front speakers, and powered subwoofer. Polk Audio RC60i ceiling speakers (2) act as rear channels|
+|**A/V receiver**|Dedicated Yamaha RX-V4A 5.2 channel A/V receiver amplifier|
+|**Uninterruptable Power Supply (UPS)**|A dedicated UPS provides back up power and helps protect the equipment in case of power outages and power spikes|
+{.table}
+
+### Primary Becdroom, Sitting Area, Bathroom
+
+| | |
+|-|-|
+|**Speakers**|6 Polk Audio RC60i ceiling speakers. 2 each in primary bedroom, sitting room, and bath|
+|**Speaker selector**|Speaker selector and volume control for independent volume adjustment of 2 pairs of speakers in bedroom and 1 pair of speakers in primary bath.|
+|**Amplifier**|Speakers are powered by a dedicated {{< link vssl >}}VSSL A.1X{{</link >}} AirPlay 2 amplifier|
+|**Wireless network**|A PoE powered ceiling mounted {{< link unifi-u6-pro >}}Unifi U6-PRO WiFi 6{{</link >}} wireless access point is integrated with home wireless router for centralized control|
+{.table}
+
+### Lower Level Main Room
+
+| | |
+|-|-|
+|**TV**|{{< link samsung-ru8000 >}}Samsung 65" Class RU8000 Premium Smart 4K UHD TV{{</link >}} integrated with dedicated Yamaha A/V receiver, Apple TV, and ceiling speakers|
+|**Apple TV**|Dedicated Apple TV 4K 32GB (A1842)|
+|**Speakers**|4 Polk Audio RC60i ceiling speakers|
+|**A/V receiver**|Dedicated Yamaha RX-V481 A/V receiver amplifier in lower level unfinished room|
+{.table}
+
+### Patio
+
+| | |
+|-|-|
+|**Speakers**|Bose Free Space 51 Outdoor In-Ground Speakers with downward firing 4 1/4 full range driver|
+|**Amplifier**|Dedicated Yamaha RX-V485 A/V receiver amplifier in lower level unifinished room. Supports Apple AirPlay 2 for whole home audio streaming.|
+{.table}
+
 ## Security system
 
 | | |
@@ -70,7 +133,8 @@ Cameras cover the following outside areas:
 
 | |
 |-|
-|Entry road hill|
+|Entry road hill - north facing|
+|Entry road hill - south facing|
 |Driveway|
 |Autocourt and front of home|
 |Garage interior|
@@ -78,8 +142,6 @@ Cameras cover the following outside areas:
 |Patio|
 |Railroad bridge and creek (with audio)|
 |Dock and creek (with audio)|
-|Highway (winter only)|
-|Entry road fence (winter only)|
 {.table}
 
 {{< lightgallery id="cameras" filter="images/cameras/*" size="100x100 q75" >}}
