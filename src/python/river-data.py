@@ -1,23 +1,66 @@
+import requests
+from io import StringIO
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import datetime
 from datetime import date
 from dateutil.rrule import rrule, MONTHLY
 
-df = pd.read_csv(r'..\..\graph-data\river-data-2010-2024.csv')
+current_date = datetime.date.today()
+previous_date = current_date - datetime.timedelta(days=1)
+previous_date_formatted = previous_date.strftime("%Y-%m-%d")
 
-df['date'] = pd.to_datetime(df['date']).dt.strftime('%Y-%m-%d')
+url = f"https://waterdata.usgs.gov/nwis/dv?cb_00065=on&format=rdb&site_no=06935450&legacy=&referred_module=sw&period=&begin_date=2008-09-04&end_date={previous_date_formatted}"
 
-dmax = df[['date']].values.max()
-dmin = df[['date']].values.min()
+response = requests.get(url)
+
+response = requests.get(url)
+if response.status_code == 200:
+  # Convert the content to a StringIO object
+  content = response.content.decode('utf-8')
+  content_lines = content.split('\n')
+    
+  # Extract header comments
+  header_comments = []
+  for line in content_lines:
+    if line.startswith("#"):
+      header_comments.append(line)
+    else:
+      break
+    
+  # Find the row containing column names and column definitions
+  column_row_index = None
+  for i, line in enumerate(content_lines):
+    if line.startswith("agency_cd"):
+      column_row_index = i
+      break
+    
+  # Use header comments and column names to create header for DataFrame
+  header = [line.strip() for line in content_lines[column_row_index].split('\t')]
+
+  # Skip header comments and column name row, and read the content using pandas
+  content_io = StringIO('\n'.join(content_lines[column_row_index+2:]))
+  df = pd.read_csv(content_io, sep='\t', names=header)
+    
+  # Now you can work with the DataFrame (df) as needed
+  print(df.head())  # Example: print the first few rows
+else:
+  print("Failed to download the file")
+
+#df['date'] = pd.to_datetime(df['date']).dt.strftime('%Y-%m-%d')
+
+dmax = df[['datetime']].values.max()
+dmin = df[['datetime']].values.min()
 
 print(dmin)
 print(dmax)
 
+river_level_col = '75931_00065_30800'
 fig = px.line(df, 
-              x = 'date', 
-              y = 'river-level', 
-              labels={"river-level": "MO river level (ft)"})
+              x = 'datetime', 
+              y = river_level_col, 
+              labels={river_level_col: "MO river level (ft)"})
 
 fig.update_layout(xaxis_title="")
 
@@ -116,5 +159,5 @@ fig.update_layout(
 
 #fig.show()
 
-fig.write_image(r'..\..\assets\img\river\river-levels.png', width=1800, height=800, scale=1)
-fig.write_json(r'..\..\static\json\river-levels.json')
+fig.write_image(r'../../assets/img/river/river-levels.png', width=1800, height=800, scale=1)
+fig.write_json(r'../../static/json/river-levels.json')
