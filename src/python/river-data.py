@@ -5,23 +5,19 @@ import plotly.express as px
 import plotly.graph_objects as go
 import datetime
 from datetime import date
-from dateutil.rrule import rrule, MONTHLY
 
 current_date = datetime.date.today()
 previous_date = current_date - datetime.timedelta(days=1)
 previous_date_formatted = previous_date.strftime("%Y-%m-%d")
 
 url = f"https://waterdata.usgs.gov/nwis/dv?cb_00065=on&format=rdb&site_no=06935450&legacy=&referred_module=sw&period=&begin_date=2008-09-04&end_date={previous_date_formatted}"
-
 response = requests.get(url)
 
-response = requests.get(url)
 if response.status_code == 200:
   # Convert the content to a StringIO object
   content = response.content.decode('utf-8')
   content_lines = content.split('\n')
     
-  # Extract header comments
   header_comments = []
   for line in content_lines:
     if line.startswith("#"):
@@ -29,32 +25,23 @@ if response.status_code == 200:
     else:
       break
     
-  # Find the row containing column names and column definitions
   column_row_index = None
   for i, line in enumerate(content_lines):
     if line.startswith("agency_cd"):
       column_row_index = i
       break
     
-  # Use header comments and column names to create header for DataFrame
   header = [line.strip() for line in content_lines[column_row_index].split('\t')]
 
-  # Skip header comments and column name row, and read the content using pandas
   content_io = StringIO('\n'.join(content_lines[column_row_index+2:]))
   df = pd.read_csv(content_io, sep='\t', names=header)
     
-  # Now you can work with the DataFrame (df) as needed
-  print(df.head())  # Example: print the first few rows
+  # print(df.head())  # Example: print the first few rows
 else:
   print("Failed to download the file")
 
-#df['date'] = pd.to_datetime(df['date']).dt.strftime('%Y-%m-%d')
-
 dmax = df[['datetime']].values.max()
 dmin = df[['datetime']].values.min()
-
-print(dmin)
-print(dmax)
 
 river_level_col = '75931_00065_30800'
 fig = px.line(df, 
@@ -111,7 +98,7 @@ fig.add_vrect(x0="2021-12-21", x1="2022-03-19",
 fig.add_vrect(x0="2022-12-21", x1="2023-03-19", 
               annotation_text="winter", annotation_position="bottom right",
               fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2023-12-21", x1=dmax, 
+fig.add_vrect(x0="2023-12-21", x1="2024-03-19", 
               annotation_text="winter", annotation_position="bottom right",
               fillcolor="blue", opacity=0.10, line_width=0)
 
