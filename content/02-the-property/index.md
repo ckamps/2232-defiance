@@ -116,7 +116,7 @@ In the early 1900s, the lower land of the property was the site of the Femme Osa
 
 {{< lightgallery id="finney-location" filter="images/finney-location/*" size="400x400 q75" >}}
 
-### April 1917 stag outing
+### May 1917 stag outing
 
 In May of 1917 a spring open house or "stag" outing was held at the Finney Club in the lower land of the property. Men from St Louis traveled by train to the property to be encouraged to join the hunting and fishing club.
 
