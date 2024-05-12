@@ -78,7 +78,7 @@ else:
 
 fig.update_layout(xaxis_title="")
 
-fig.update_layout(title_text='Missouri River Water Levels 2010-2024', title_x=0.5)
+fig.update_layout(title_text='Missouri River Water Levels 2008-2024', title_x=0.5)
 
 fig.update_xaxes(
     ticklabelmode="period"
