@@ -72,6 +72,7 @@ if response.status_code == 200:
     
     print(df_forecast) 
     fig.add_trace(go.Scatter(x=df_forecast['date'], y=df_forecast['level'], mode='lines',line=dict(color='red', dash='dash'), name='Forecast'))
+    dmax_forecast = df_forecast['date'].max()
 else:
     print("Failed to fetch data")
 
@@ -102,31 +103,31 @@ for winter_start, winter_end in winter_seasons:
   )
 
 fig.add_trace(go.Scatter(y=[35.4,35.4], 
-                         x=[dmin,dmax],
+                         x=[dmin,dmax_forecast],
                          mode='lines', 
                          line=dict(color='red', width=2),
                          name='Flood 1993'))
 
 fig.add_trace(go.Scatter(y=[30,30],
-                         x=[dmin,dmax],
+                         x=[dmin,dmax_forecast],
                          mode='lines',
                          line=dict(color='black', width=2),
                          name='Water touches bridge'))
 
 fig.add_trace(go.Scatter(y=[22.6,22.6], 
-                         x=[dmin,dmax],
+                         x=[dmin,dmax_forecast],
                          mode='lines', 
                          line=dict(color='blue', width=2),
                          name='Lower land floods'))
 
 fig.add_trace(go.Scatter(y=[7,7], 
-                         x=[dmin,dmax],
+                         x=[dmin,dmax_forecast],
                          mode='lines', 
                          line=dict(color='orange', width=2),
                          name='Paddle to river'))
 
 fig.add_trace(go.Scatter(y=[5,5], 
-                         x=[dmin,dmax],
+                         x=[dmin,dmax_forecast],
                          mode='lines', 
                          line=dict(color='green', width=2),
                          name='Paddle access'))
