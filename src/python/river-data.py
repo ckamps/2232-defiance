@@ -71,7 +71,7 @@ if response.status_code == 200:
     df_forecast = pd.DataFrame(forecasted_levels)
     
     print(df_forecast) 
-    fig.add_trace(go.Scatter(x=df_forecast['date'], y=df_forecast['level'], mode='lines',line=dict(color='red', dash='dash')))
+    fig.add_trace(go.Scatter(x=df_forecast['date'], y=df_forecast['level'], mode='lines',line=dict(color='red', dash='dash'), name='Forecast'))
 else:
     print("Failed to fetch data")
 
