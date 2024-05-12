@@ -66,7 +66,7 @@ for winter_start, winter_end in winter_seasons:
     x1=winter_end,
     annotation_text="winter",
     annotation_position="bottom right",
-    fillcolor="LightSkyBlue", 
+    fillcolor="blue", 
     opacity=0.1,
     layer="below", 
     line_width=0
