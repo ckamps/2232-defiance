@@ -4,6 +4,8 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime, date, timedelta
+import xml.etree.ElementTree as ET
+import xml.dom.minidom
 
 current_date = date.today()
 previous_date = current_date - timedelta(days=1)
@@ -45,6 +47,33 @@ fig = px.line(df,
         x = 'date', 
         y = river_level_col, 
         labels={river_level_col: "MO river level (ft)"})
+
+# Get MO river forecast water level at Washington MO
+
+url = "https://water.weather.gov/ahps2/hydrograph_to_xml.php"
+params = {
+    "gage": "whgm7",  # Gage code for the Missouri River at Washington, Missouri
+    "output": "xml",
+    "time_zone": "cdt"
+}
+response = requests.get(url, params=params)
+
+if response.status_code == 200:
+    root = ET.fromstring(response.content)
+    forecast_data = root.find(".//forecast")
+
+    forecasted_levels = []
+    for forecast in forecast_data.findall("datum"):
+        level = float(forecast.find("primary").text)
+        time = forecast.find("valid").text
+        forecasted_levels.append({"date": pd.to_datetime(time), "level": level})
+    
+    df_forecast = pd.DataFrame(forecasted_levels)
+    
+    print(df_forecast) 
+    fig.add_trace(go.Scatter(x=df_forecast['date'], y=df_forecast['level'], mode='lines',line=dict(color='red', dash='dash')))
+else:
+    print("Failed to fetch data")
 
 fig.update_layout(xaxis_title="")
 

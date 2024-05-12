@@ -16,7 +16,6 @@ $ terraform apply
 
 https://myrthos.net/blog/modifications/
 
-
 ## Publishing Hugo-based content
 
 ### Automate via GitHub Actions
@@ -42,10 +41,3 @@ Or:
 % aws cloudfront create-invalidation --distribution-id E27WOJ1ENY5GKJ --paths "/*" --profile kampmeier-infra
 
 ```
-## River data
-
-https://waterdata.usgs.gov/nwis/dv?cb_00065=on&format=rdb&site_no=06935450&legacy=&referred_module=sw&period=&begin_date=2008-09-04&end_date=2024-05-04
-
-
-curl "https://waterdata.usgs.gov/nwis/dv?cb_00065=on&format=rdb&site_no=06935450&legacy=&referred_module=sw&period=&begin_date=2008-09-04&end_date=2024-05-04" -o out.rdb
-
