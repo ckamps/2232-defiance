@@ -3,11 +3,10 @@ from io import StringIO
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import datetime
-from datetime import date
+from datetime import datetime, date, timedelta
 
-current_date = datetime.date.today()
-previous_date = current_date - datetime.timedelta(days=1)
+current_date = date.today()
+previous_date = current_date - timedelta(days=1)
 previous_date_formatted = previous_date.strftime("%Y-%m-%d")
 
 url = f"https://waterdata.usgs.gov/nwis/dv?cb_00065=on&format=rdb&site_no=06935450&legacy=&referred_module=sw&period=&begin_date=2008-09-04&end_date={previous_date_formatted}"
@@ -40,67 +39,46 @@ if response.status_code == 200:
 else:
   print("Failed to download the file")
 
-dmax = df[['datetime']].values.max()
-dmin = df[['datetime']].values.min()
+df['date'] = pd.to_datetime(df['datetime'])
+
+dmax = df['date'].max()
+dmin = df['date'].min()
 
 river_level_col = '75931_00065_30800'
 fig = px.line(df, 
-              x = 'datetime', 
-              y = river_level_col, 
-              labels={river_level_col: "MO river level (ft)"})
+        x = 'date', 
+        y = river_level_col, 
+        labels={river_level_col: "MO river level (ft)"})
 
 fig.update_layout(xaxis_title="")
 
 fig.update_layout(title_text='Missouri River Water Levels 2010-2024', title_x=0.5)
 
-#fig.update_xaxes(tickformat = '%Y-%B', dtick='M1')
-
 fig.update_xaxes(
     ticklabelmode="period"
 )
 
-fig.add_vrect(x0="2010-12-21", x1="2011-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2011-12-21", x1="2012-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2012-12-21", x1="2013-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2013-12-21", x1="2014-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2014-12-21", x1="2015-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2015-12-21", x1="2016-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2016-12-21", x1="2017-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2017-12-21", x1="2018-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2018-12-21", x1="2019-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2019-12-21", x1="2020-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2020-12-21", x1="2021-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2021-12-21", x1="2022-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2022-12-21", x1="2023-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
-fig.add_vrect(x0="2023-12-21", x1="2024-03-19", 
-              annotation_text="winter", annotation_position="bottom right",
-              fillcolor="blue", opacity=0.10, line_width=0)
+winter_seasons = []
+for year in range(dmin.year, dmax.year):
+  start_date = pd.to_datetime(f"{year}-12-21")
+  end_date = pd.to_datetime(f"{year + 1}-03-19")
+  winter_seasons.append((start_date, end_date))
+
+for winter_start, winter_end in winter_seasons:
+  fig.add_vrect(
+    x0=winter_start, 
+    x1=winter_end,
+    annotation_text="winter",
+    annotation_position="bottom right",
+    fillcolor="LightSkyBlue", 
+    opacity=0.5,
+    layer="below", 
+    line_width=0
+  )
+
+#fig.add_vrect(x0="2010-12-21", x1="2011-03-19", 
+#              annotation_text="winter", annotation_position="bottom right",
+#              fillcolor="blue", opacity=0.10, line_width=0)
 
 fig.add_trace(go.Scatter(y=[35.4,35.4], 
                          x=[dmin,dmax],
