@@ -13,7 +13,6 @@ url = f"https://waterdata.usgs.gov/nwis/dv?cb_00065=on&format=rdb&site_no=069354
 response = requests.get(url)
 
 if response.status_code == 200:
-  # Convert the content to a StringIO object
   content = response.content.decode('utf-8')
   content_lines = content.split('\n')
     
@@ -34,13 +33,10 @@ if response.status_code == 200:
 
   content_io = StringIO('\n'.join(content_lines[column_row_index+2:]))
   df = pd.read_csv(content_io, sep='\t', names=header)
-    
-  # print(df.head())  # Example: print the first few rows
 else:
   print("Failed to download the file")
 
 df['date'] = pd.to_datetime(df['datetime'])
-
 dmax = df['date'].max()
 dmin = df['date'].min()
 
@@ -71,14 +67,10 @@ for winter_start, winter_end in winter_seasons:
     annotation_text="winter",
     annotation_position="bottom right",
     fillcolor="LightSkyBlue", 
-    opacity=0.5,
+    opacity=0.1,
     layer="below", 
     line_width=0
   )
-
-#fig.add_vrect(x0="2010-12-21", x1="2011-03-19", 
-#              annotation_text="winter", annotation_position="bottom right",
-#              fillcolor="blue", opacity=0.10, line_width=0)
 
 fig.add_trace(go.Scatter(y=[35.4,35.4], 
                          x=[dmin,dmax],
@@ -119,10 +111,6 @@ fig.update_layout(
           yanchor="top",
           y=-0.05,
           x=0.5))
-
-#layout(legend = list(orientation = 'h', xanchor = "center", x = 0.5, y= 1)) 
-
-#fig.show()
 
 fig.write_image(r'../../assets/img/river/river-levels.png', width=1800, height=800, scale=1)
 fig.write_json(r'../../static/json/river-levels.json')
