@@ -57,7 +57,7 @@ params = {
     "time_zone": "cdt"
 }
 response = requests.get(url, params=params)
-
+ 
 if response.status_code == 200:
     root = ET.fromstring(response.content)
     forecast_data = root.find(".//forecast")
