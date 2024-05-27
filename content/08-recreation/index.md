@@ -76,7 +76,7 @@ As spring arrives and snowmelt and rain occur in the upper Missouri River basin,
 
 The National Weather Service (NWS) has a river water level and flow {{< link nws-washington >}}monitoring station at Washington MO{{</link >}}. By monitoring the Washington gauge, you can get a good idea of the impact to the water level of the Femme Osage Creek.
 
-To give you an idea of how the creek water levels change over a typical year and across years, the following graph shows river water levels at Washington for the past 13 years along with key river water levels that enable certain activies and distances along the creek.
+To give you an idea of how the creek water levels change over a typical year and across years, the following graph shows river water levels at Washington for the past 16 years along with key river water levels that enable certain activies and distances along the creek.
 
 {{< plotly json="/json/river-levels.json" width="1800px" height="600px" >}}
 
