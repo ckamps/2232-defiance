@@ -50,29 +50,16 @@ fig = px.line(df,
 
 # Get MO river forecast water level at Washington MO
 
-url = "https://water.weather.gov/ahps2/hydrograph_to_xml.php"
-params = {
-    "gage": "whgm7",  # Gage code for the Missouri River at Washington, Missouri
-    "output": "xml",
-    "time_zone": "cdt"
-}
-response = requests.get(url, params=params)
+url = "https://api.water.noaa.gov/nwps/v1/gauges/whgm7/stageflow"
+response = requests.get(url)
  
 if response.status_code == 200:
-    root = ET.fromstring(response.content)
-    forecast_data = root.find(".//forecast")
-
-    forecasted_levels = []
-    for forecast in forecast_data.findall("datum"):
-        level = float(forecast.find("primary").text)
-        time = forecast.find("valid").text
-        forecasted_levels.append({"date": pd.to_datetime(time), "level": level})
-    
-    df_forecast = pd.DataFrame(forecasted_levels)
-    
+    data = response.json()
+    forecast_data = data['forecast']['data']
+    df_forecast = pd.DataFrame(forecast_data, columns=['validTime', 'primary'])
     print(df_forecast) 
-    fig.add_trace(go.Scatter(x=df_forecast['date'], y=df_forecast['level'], mode='lines',line=dict(color='red', dash='dash'), name='Forecast'))
-    dmax_forecast = df_forecast['date'].max()
+    fig.add_trace(go.Scatter(x=df_forecast['validTime'], y=df_forecast['primary'], mode='lines',line=dict(color='red', dash='dash'), name='Forecast'))
+    dmax_forecast = df_forecast['validTime'].max()
 else:
     print("Failed to fetch data")
 

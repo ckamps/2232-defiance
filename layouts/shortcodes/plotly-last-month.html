@@ -1,0 +1,13 @@
+{{ $json := .Get "json" }}
+{{ $height := .Get "height" | default "200px" }}
+<div id="{{$json}}-1" class="plotly" style="height:{{$height}};"></div>
+<script>
+  d3.json({{ $json }}).then(function (fig) {
+      Plotly.newPlot('{{$json}}-1', fig.data, fig.layout, { responsive: true});
+
+      var updatedLayout = {
+          title: 'New Title'
+      }
+      Plotly.update('{{$json}}-1', fig.data, updatedLayout);
+  });
+</script>

@@ -3,6 +3,6 @@
 <div id="{{$json}}" class="plotly" style="height:{{$height}};"></div>
 <script>
   d3.json({{ $json }}).then(function (fig) {
-      Plotly.newPlot('{{$json}}', fig.data, fig.layout, { responsive: true });
+      Plotly.newPlot('{{$json}}', fig.data, fig.layout, { responsive: true});
   });
 </script>
