@@ -4,8 +4,6 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime, date, timedelta
-import xml.etree.ElementTree as ET
-import xml.dom.minidom
 
 current_date = date.today()
 previous_date = current_date - timedelta(days=1)
@@ -57,7 +55,6 @@ if response.status_code == 200:
     data = response.json()
     forecast_data = data['forecast']['data']
     df_forecast = pd.DataFrame(forecast_data, columns=['validTime', 'primary'])
-    print(df_forecast) 
     fig.add_trace(go.Scatter(x=df_forecast['validTime'], y=df_forecast['primary'], mode='lines',line=dict(color='red', dash='dash'), name='Forecast'))
     dmax_forecast = df_forecast['validTime'].max()
 else:
