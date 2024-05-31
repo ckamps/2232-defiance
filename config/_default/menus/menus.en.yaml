@@ -40,6 +40,6 @@ main:
     weight: 80
 
   - identifier: contact
-    name: Contact
+    name: More Info
     url: /contact/
     weight: 90
