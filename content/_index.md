@@ -1,7 +1,7 @@
 ---
-title: 2232 South Highway 94 Defiance, MO 63341
+title: 2232 South Highway 94 Defiance, MO 63341 $1,975,000
 description: Don't miss this opportunity to own a unique 5.25-acre property and custom home on the Katy Trail and Femme Osage Creek at the gateway to Missouri's wine country in Defiance Missouri.
-thumbnail: img/drone/home-bridge.jpeg
+thumbnail: img/drone/home-bridge-zoom.jpeg
 actions:
     overview:
         url: "/01-overview"
