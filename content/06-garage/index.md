@@ -1,5 +1,5 @@
 ---
-title: Garage
+title: Garage with a view!
 type: minimal
 lightgallery: true
 ---
