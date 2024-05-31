@@ -7,9 +7,9 @@ lightgallery: true
 
 ## Highlights
 
-The 5.25-acre property is located in the southwestern portion of St Charles County in an area zoned as an {{< link ag-district >}}agricultural district{{</link >}} . All new residential development in this district is required to have home sites with at least 5 acres. 
+The 5.25-acre property is located in the southwestern portion of St Charles County in an area zoned as an {{< link ag-district >}}agricultural district{{</link >}}. All new residential development in this district is required to have home sites with at least 5 acres. 
 
-Custom built in 2006 with a classic craftsman style exterior and eight gables, the home has been kept up-to-date with the latest technology. For example, gigabit fiber internet service was installed in 2022 along with new WiFi access points throughout the home, garage, and outdoor spaces. High-speed internet coupled with a dedicated home office space with a view and easy access to outdoor areas for breaks, makes the home ideal for remote working. 
+Custom built in 2006 with a classic craftsman style exterior and eight gables, the home has been kept up-to-date with the latest technology. Gigabit fiber internet service was installed in 2022 along with new WiFi access points throughout the home, garage, and outdoor spaces. High-speed internet coupled with a dedicated home office space with a view and easy access to outdoor areas for breaks, makes the home ideal for remote working. 
 
 |     |       |     |
 | --------- | -------- | ------ |
@@ -18,6 +18,7 @@ Custom built in 2006 with a classic craftsman style exterior and eight gables, t
 | Katy Trail: 400+ ft Katy Trail frontage | Waterfront: 260+ ft Femme Osage Creek frontage | Expansive south-facing views |
 | Geothermal HVAC | Municipal water | Underground electric service|
 | Gigabit internet service | 2 office rooms| Ideal orientation for rooftop solar |
+| Blufftop views | Private dock | Walk/bike to wineries |
 {.table}
 
 {{< lightgallery id="overview" filter="images/overview/*" size="100x100 q75" >}}
