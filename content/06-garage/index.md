@@ -50,7 +50,7 @@ The fully enclosed breezeway provides sheltered access to the main level of the 
 
 ## Air compressor and electric
 
-Take advantage of the large volume air compressor in the attic and a ceiling mounted retractable air supply hose to easily and quickly inflate automobile tires and other inflatables.
+Take advantage of the large volume air compressor in the attic and a ceiling mounted retractable air supply hose to easily and quickly inflate automobile tires, bike tires, and other inflatables.
 
 {{< lightgallery id="compressor" filter="images/compressor/*" size="100x100 q75" >}}
 
