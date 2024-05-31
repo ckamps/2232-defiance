@@ -42,6 +42,8 @@ Part of the main room. Partial kitchen and dedicated side bar area.
 
 ## Office
 
+Currently configured as an office with a view, you could push out two walls of the room inot partially finished space to create another bedroom.
+
 {{< lightgallery id="office" filter="images/office/*" size="100x100 q75" >}}
 
 | | |
