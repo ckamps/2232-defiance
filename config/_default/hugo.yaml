@@ -10,6 +10,10 @@ languagecode: en-us
 timezone: America/Chicago
 timeout: 60000s
 
+services:
+  googleAnalytics:
+    ID: G-3850Q5MTTT
+    
 module:
   imports:
     - path: github.com/gethinode/hinode
