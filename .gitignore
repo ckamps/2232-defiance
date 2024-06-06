@@ -8,6 +8,7 @@ assets/jsconfig.json
 .hugo_build.lock
 hugo_stats.json
 .netlify
+/_vendor
 
 # Node.js
 **/package-lock.json
