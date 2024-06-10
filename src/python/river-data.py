@@ -90,19 +90,19 @@ fig.add_trace(go.Scatter(y=[35.4,35.4],
                          x=[dmin,dmax_forecast],
                          mode='lines', 
                          line=dict(color='red', width=2),
-                         name='Flood 1993'))
+                         name='Flood of 1993'))
 
 fig.add_trace(go.Scatter(y=[30,30],
                          x=[dmin,dmax_forecast],
                          mode='lines',
                          line=dict(color='black', width=2),
-                         name='Water touches bridge'))
+                         name='Water touches underside of bridge'))
 
 fig.add_trace(go.Scatter(y=[22.6,22.6], 
                          x=[dmin,dmax_forecast],
                          mode='lines', 
                          line=dict(color='blue', width=2),
-                         name='Lower land floods'))
+                         name='Edge of lower land starts to flood'))
 
 fig.add_trace(go.Scatter(y=[7,7], 
                          x=[dmin,dmax_forecast],
