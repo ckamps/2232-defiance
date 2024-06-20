@@ -1,5 +1,5 @@
 ---
-title: Blufftop Waterfront Property For Sale $1,875,000
+title: Blufftop Waterfront Property For Sale - Open House June 22 11 AM - 1 PM - 2232 South Highway 94 Defiance MO 63341
 description: Don't miss this opportunity to own a unique 5.25-acre waterfront property and custom home on the Katy Trail and Femme Osage Creek at the gateway to Missouri's wine country in Defiance Missouri.
 thumbnail: img/drone/home-bridge-zoom.jpeg
 actions:
@@ -29,6 +29,5 @@ actions:
         outline: true
         weight: 5
 ---
-# Open House June 22 11 AM - 1 PM
 
-2232 South Highway 94 Defiance MO 63341
+
