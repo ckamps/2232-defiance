@@ -1,6 +1,6 @@
 ---
 title: Blufftop Waterfront Property For Sale
-description: Don't miss this opportunity to own a unique 5.25-acre waterfront property and custom home on the Katy Trail and Femme Osage Creek at the gateway to Missouri's wine country in Defiance Missouri. $1,875,000
+description: Don't miss this opportunity to own a unique 5.25-acre waterfront property and custom home on the Katy Trail and Femme Osage Creek at the gateway to Missouri's wine country in Defiance Missouri.<br>Open House June 22 11 AM - 1 PM<br>$1,875,000
 thumbnail: img/drone/home-bridge-zoom.jpeg
 actions:
     overview:
