@@ -30,3 +30,5 @@ actions:
         weight: 5
 ---
 # Open House June 22 11 AM - 1 PM
+
+2232 South Highway 94 Defiance MO 63341
