@@ -37,17 +37,16 @@ if response.status_code == 200:
   #df = pd.read_csv(content_io, sep='\t', names=header)
 
   df = pd.read_csv(content_io, sep='\t', skiprows=2, header=0, comment='#',
-                 names=['agency_cd', 'site_no', 'datetime', '75931_00065_30800', '75931_00065_30800_cd'], 
-                 parse_dates=['datetime'])
+                 names=['agency_cd', 'site_no', 'datetime', '75931_00065_30800', '75931_00065_30800_cd'])
 else:
   print("Failed to download the file")
 
-df['datetime'] = df['datetime'].dt.date
+#df['datetime'] = df['datetime'].dt.date
 
 print(df['datetime'])
 #df['datetime'] = df['datetime'].dt.date
-#df['date'] = pd.to_datetime(df['datetime'], format='%Y-%m-%d')
-#print(df['date'])
+df['datetime'] = pd.to_datetime(df['datetime'], format='%Y-%m-%d')
+print(df['datetime'])
 dmax = df['datetime'].max()
 dmin = df['datetime'].min()
 print(dmin)
