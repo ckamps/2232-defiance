@@ -39,6 +39,8 @@ else:
 df['date'] = pd.to_datetime(df['datetime'])
 dmax = df['date'].max()
 dmin = df['date'].min()
+print(dmin)
+print(dmax)
 
 river_level_col = '75931_00065_30800'
 fig = px.line(df, 
