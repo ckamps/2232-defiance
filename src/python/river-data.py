@@ -14,41 +14,47 @@ response = requests.get(url)
 
 if response.status_code == 200:
   content = response.content.decode('utf-8')
-  content_lines = content.split('\n')
+  #content_lines = content.split('\n')
     
-  header_comments = []
-  for line in content_lines:
-    if line.startswith("#"):
-      header_comments.append(line)
-    else:
-      break
+  #header_comments = []
+  #for line in content_lines:
+  #  if line.startswith("#"):
+  #    header_comments.append(line)
+  #  else:
+  #    break
     
-  column_row_index = None
-  for i, line in enumerate(content_lines):
-    if line.startswith("agency_cd"):
-      column_row_index = i
-      break
+  #column_row_index = None
+  #for i, line in enumerate(content_lines):
+  #  if line.startswith("agency_cd"):
+  #    column_row_index = i
+  #    break
     
-  header = [line.strip() for line in content_lines[column_row_index].split('\t')]
-  print(header)
+  #header = [line.strip() for line in content_lines[column_row_index].split('\t')]
+  #print(header)
 
-  content_io = StringIO('\n'.join(content_lines[column_row_index+2:]))
+  #content_io = StringIO('\n'.join(content_lines[column_row_index+2:]))
   #df = pd.read_csv(content_io, sep='\t', names=header)
-  df = pd.read_csv(content_io, sep='\t', parse_dates=['datetime'])
+
+  df = pd.read_csv(content, sep='\t', skiprows=2, header=0, comment='#',
+                 names=['agency_cd', 'site_no', 'datetime', '75931_00065_30800', '75931_00065_30800_cd'], 
+                 parse_dates=['datetime'])
 else:
   print("Failed to download the file")
-print(df['datetime'])
+
 df['datetime'] = df['datetime'].dt.date
+
+print(df['datetime'])
+#df['datetime'] = df['datetime'].dt.date
 #df['date'] = pd.to_datetime(df['datetime'], format='%Y-%m-%d')
-print(df['date'])
-dmax = df['date'].max()
-dmin = df['date'].min()
+#print(df['date'])
+dmax = df['datetime'].max()
+dmin = df['datetime'].min()
 print(dmin)
 print(dmax)
 
 river_level_col = '75931_00065_30800'
 fig = px.line(df, 
-        x = 'date', 
+        x = 'datetime', 
         y = river_level_col, 
         labels={river_level_col: "MO river level (ft)"})
 
