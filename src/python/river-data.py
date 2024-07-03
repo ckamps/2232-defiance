@@ -14,6 +14,7 @@ response = requests.get(url)
 
 if response.status_code == 200:
   content = response.content.decode('utf-8')
+  content = content.replace('\t\t', '\t')
   content_lines = content.split('\n')
     
   #header_comments = []
