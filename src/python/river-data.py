@@ -17,35 +17,31 @@ if response.status_code == 200:
   content = content.replace('\t\t', '\t')
   content_lines = content.split('\n')
     
-  #header_comments = []
-  #for line in content_lines:
-  #  if line.startswith("#"):
-  #    header_comments.append(line)
-  #  else:
-  #    break
+  header_comments = []
+  for line in content_lines:
+    if line.startswith("#"):
+      header_comments.append(line)
+    else:
+      break
     
-  #column_row_index = None
-  #for i, line in enumerate(content_lines):
-  #  if line.startswith("agency_cd"):
-  #    column_row_index = i
-  #    break
+  column_row_index = None
+  for i, line in enumerate(content_lines):
+    if line.startswith("agency_cd"):
+      column_row_index = i
+      break
     
-  #header = [line.strip() for line in content_lines[column_row_index].split('\t')]
-  #print(header)
+  header = [line.strip() for line in content_lines[column_row_index].split('\t')]
+  print(header)
 
-  content_io = StringIO('\n'.join(content_lines[0:]))
-  #df = pd.read_csv(content_io, sep='\t', names=header)
-
-  df = pd.read_csv(content_io, sep='\t', skiprows=2, header=0, comment='#',
-                 names=['agency_cd', 'site_no', 'datetime', '75931_00065_30800', '75931_00065_30800_cd'])
+  content_io = StringIO('\n'.join(content_lines[2:]))
+  df = pd.read_csv(content_io, sep='\t', names=header)
 else:
   print("Failed to download the file")
 
 #df['datetime'] = df['datetime'].dt.date
 
 print(df['datetime'])
-#df['datetime'] = df['datetime'].dt.date
-df['datetime'] = pd.to_datetime(df['datetime'], format='%Y-%m-%d')
+df['datetime'] = pd.to_datetime(df['datetime'])
 print(df['datetime'])
 dmax = df['datetime'].max()
 dmin = df['datetime'].min()
