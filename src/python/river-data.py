@@ -14,7 +14,7 @@ response = requests.get(url)
 
 if response.status_code == 200:
   content = response.content.decode('utf-8')
-  #content_lines = content.split('\n')
+  content_lines = content.split('\n')
     
   #header_comments = []
   #for line in content_lines:
@@ -32,10 +32,10 @@ if response.status_code == 200:
   #header = [line.strip() for line in content_lines[column_row_index].split('\t')]
   #print(header)
 
-  #content_io = StringIO('\n'.join(content_lines[column_row_index+2:]))
+  content_io = StringIO('\n'.join(content_lines[0:]))
   #df = pd.read_csv(content_io, sep='\t', names=header)
 
-  df = pd.read_csv(content, sep='\t', skiprows=2, header=0, comment='#',
+  df = pd.read_csv(content_io, sep='\t', skiprows=2, header=0, comment='#',
                  names=['agency_cd', 'site_no', 'datetime', '75931_00065_30800', '75931_00065_30800_cd'], 
                  parse_dates=['datetime'])
 else:
