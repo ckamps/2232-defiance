@@ -30,6 +30,10 @@ if response.status_code == 200:
       break
     
   header = [line.strip() for line in content_lines[column_row_index].split('\t')]
+  print(header)
+  print(content_lines[column_row_index])
+  print(content_lines[column_row_index+1])
+  print(content_lines[column_row_index+2)
 
   content_io = StringIO('\n'.join(content_lines[column_row_index+2:]))
   df = pd.read_csv(content_io, sep='\t', names=header)
