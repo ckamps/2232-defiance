@@ -40,7 +40,8 @@ if response.status_code == 200:
 else:
   print("Failed to download the file")
 
-df['date'] = pd.to_datetime(df['datetime'])
+df['date'] = pd.to_datetime(df['datetime'], format='%Y-%m-%d')
+print(df['date'])
 dmax = df['date'].max()
 dmin = df['date'].min()
 print(dmin)
