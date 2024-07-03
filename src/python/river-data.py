@@ -33,7 +33,7 @@ if response.status_code == 200:
   header = [line.strip() for line in content_lines[column_row_index].split('\t')]
   print(header)
 
-  content_io = StringIO('\n'.join(content_lines[2:]))
+  content_io = StringIO('\n'.join(content_lines[column_row_index+2:]))
   df = pd.read_csv(content_io, sep='\t', names=header)
 else:
   print("Failed to download the file")
