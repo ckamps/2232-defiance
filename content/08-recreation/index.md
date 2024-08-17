@@ -50,7 +50,7 @@ The crushed rock surface and scenery of the Katy Trail offer a great running exp
 
 ## Hiking
 
-Offering 5- and 8-mile options, the {{< link lewis-and-clark >}}Lewis and Clark hiking trail{{</link >}} with is just either a 5-minute drive or a 20-minute bike ride on the Katy Trail.
+Offering 5- and 8-mile options, the {{< link lewis-and-clark >}}Lewis and Clark hiking trail{{</link >}} is just either a 5-minute drive or a 20-minute bike ride on the Katy Trail.
 
 The 11-mile {{< link lost-valley-trail >}}Lost Valley Trail{{</link >}} is just 1 mile away via the Katy Trail.
 
