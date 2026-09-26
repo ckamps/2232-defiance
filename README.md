@@ -20,6 +20,8 @@ https://myrthos.net/blog/modifications/
 
 ### Automate via GitHub Actions
 
+Any time changes are made to the repository, an automated action will deploy the changes to the web site.
+
 See `.github/workflows/`
 
 https://aws.amazon.com/blogs/security/use-iam-roles-to-connect-github-actions-to-actions-in-aws/
