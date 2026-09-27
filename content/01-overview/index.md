@@ -13,7 +13,7 @@ Custom built in 2006 with a classic craftsman style exterior and eight gables, t
 
 |     |       |     |
 | --------- | -------- | ------ |
-| 4 bedrooms  | 5 baths:3 full, 2 half | 4,700+ sq ft: 3,200+ sq ft main level + 1,500+ sq ft finished walk out |
+| 4 bedrooms  | 5 baths:3 full, 2 half | 4,700+ square foot: 3,200+ square foot main level + 1,500+ square foot finished walk out |
 | Custom built in 2006  | 5.25 acres | No HOA |
 | Katy Trail: 400+ ft Katy Trail frontage | Waterfront: 260+ ft Femme Osage Creek frontage and Missouri River access| Expansive south-facing views |
 | Geothermal HVAC | Municipal water | Underground electric service|
