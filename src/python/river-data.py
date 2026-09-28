@@ -9,7 +9,9 @@ current_date = date.today()
 previous_date = current_date - timedelta(days=1)
 previous_date_formatted = previous_date.strftime("%Y-%m-%d")
 
-url = f"https://waterdata.usgs.gov/nwis/dv?cb_00065=on&format=rdb&site_no=06935450&legacy=&referred_module=sw&period=&begin_date=2008-09-04&end_date={previous_date_formatted}"
+# The legacy waterdata.usgs.gov/nwis/dv page now redirects to an HTML page,
+# so request the same RDB data from the USGS Water Services API instead.
+url = f"https://waterservices.usgs.gov/nwis/dv/?format=rdb&sites=06935450&parameterCd=00065&startDT=2008-09-04&endDT={previous_date_formatted}"
 response = requests.get(url)
 
 if response.status_code == 200:
@@ -29,14 +31,17 @@ if response.status_code == 200:
     if line.startswith("agency_cd"):
       column_row_index = i
       break
-    
+
+  if column_row_index is None:
+    raise SystemExit(f"No 'agency_cd' header row in USGS response from {response.url}")
+
   header = [line.strip() for line in content_lines[column_row_index].split('\t')]
   print(header)
 
   content_io = StringIO('\n'.join(content_lines[column_row_index+2:]))
   df = pd.read_csv(content_io, sep='\t', names=header)
 else:
-  print("Failed to download the file")
+  raise SystemExit(f"Failed to download the file: HTTP {response.status_code} from {url}")
 
 #df['datetime'] = df['datetime'].dt.date
 
